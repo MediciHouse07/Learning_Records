@@ -5,4 +5,5 @@ Hope that I would note dive too deep into math learning things
 ### 2022/03/13 <br>
 Lecture 2 is finished, continuous stuff
 * f is differentiable, in other word, derivitave exists <br>
+
 Lecture 3 01:36 , (cu)'=cu'
