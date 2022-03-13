@@ -6,6 +6,8 @@ Hope that I would note dive too deep into math learning things
 Lecture 2 is finished, continuous stuff
 * f is differentiable, in other word, derivitave exists <br>
 
-Lecture 3 01:36 , (cu)'=cu'
-Lecture 3 0753/4954 (sinx)'
+Lecture 3 01:36 , (cu)'=cu' <br>
+Lecture 3 0753/4954 (sinx)' <br>
+Lecture 3 1125/4954 (cosx)' <br>
+
 Lecture 16 0638/4524, followed, but need further explaination
