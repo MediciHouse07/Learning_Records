@@ -7,5 +7,5 @@ Lecture 2 is finished, continuous stuff
 * f is differentiable, in other word, derivitave exists <br>
 
 Lecture 3 01:36 , (cu)'=cu'
-
+Lecture 3 0753/4954 (sinx)'
 Lecture 16 0638/4524, followed, but need further explaination
