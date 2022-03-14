@@ -14,6 +14,7 @@ Lecture 2 is finished, continuous stuff
 
 2022/03/14: Lecture 3 done, it is really interesting to know that proof can be done in geometric way <br>
 ### Lecture 4 <br>
+2022/03/14: 1808/4602 derevative of product, derevative of quotient
 ### Lecture 5 <br>
 ### Lecture 16 <br>
 2022/03/13: Lecture 16 0638/4524, followed, but need further explaination
