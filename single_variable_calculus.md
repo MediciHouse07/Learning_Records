@@ -11,6 +11,7 @@ Lecture 2 is finished, continuous stuff
 2022/03/13: Lecture 3 1125/4954 (cosx)' <br>
 2022/03/13: Lecture 3 2119/4954 sin 0 ' and cos 0 ' at x=0 gives value of all sinx' and cosx', why? <br>
 - 2022/03/14: No answer to this yet, sorry <br>
+
 2022/03/14: Lecture 3 done, it is really interesting to know that proof can be done in geometric way <br>
 ### Lecture 4 <br>
 ### Lecture 5 <br>
