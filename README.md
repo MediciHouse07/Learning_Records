@@ -5,6 +5,10 @@ Regarding download:<br>
 Learning_Records-main.zip is the zip file that will be downloaded<br>
 Learning_Records-main is the first folder within the zip<br>
 
+# Special sign used in the notes
+✍: Finished by reading documents <br>
+
+
 ### Emoji library
 ✍🤳⋆ ☆ ✣ ✤ ✥ ✺ ✻ ⭐ 🌠 ٭ ⭑ ✦ ✧ ✩ ✰ ✪ ❄ ❅ 🌟 💫 ۞ ⭒ ✬ ✭ ✮ ✯ ❂ ✫ ✡ 🌃 ✨ ≛ ꙳ ★ ✱ ✲ ✳ ✴ ❋ 🔯 ⛧ ⛥ ⛤ ⍟ ✵ ✶ ✷ ✸ ✹ ✼ ❆ ⚝ ＊ ⍣ ⁕ 🟑 🟌 ⁑ ᕯ ⁂ ࿏ ꙰
 
