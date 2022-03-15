@@ -1,5 +1,5 @@
 ### Lecture 1 <br>
-
+✨
 ### Lecture 2 <br>
 
 ### Lecture 3 <br>
