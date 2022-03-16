@@ -11,5 +11,5 @@
 ### Lecture 6 <br>
 
 ### Lecture 9 <br>
-2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/main/finance_math.md#lecture-2-) <br>
+2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-2-) <br>
 ### Lecture 10 <br>
