@@ -11,6 +11,15 @@
 ### Lecture 6 <br>
 
 ### Lecture 9 <br>
-2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-2-) <br>
+2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 10 <br>
-2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-2-) <br>
+2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+
+### Lecture 17 <br>
+2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+### Lecture 18 <br>
+2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+### Lecture 28 <br>
+2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+### Lecture 29 <br>
+2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
