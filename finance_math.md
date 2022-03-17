@@ -10,3 +10,6 @@
 2022/03/14:💫 Chef inequality, get an idea of inequality Lecture 28 and Lecture 29 [Lecture 28&29](https://github.com/MediciHouse07/Learning_Records/blob/main/statistics_110.md#lecture-28-) <br>
 2022/03/14:💫 I think it can be marked as done <br>
 ### Lecture 4
+
+### Lecture 5
+2022/03/15:💫 3136/011740 stuck at simple random walk exercise
