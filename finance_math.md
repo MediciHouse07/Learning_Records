@@ -13,3 +13,4 @@
 
 ### Lecture 5
 2022/03/15:💫 3136/011740 stuck at simple random walk exercise
+2022/03/15:💫 finished, understood the simple random walk exercise and done
