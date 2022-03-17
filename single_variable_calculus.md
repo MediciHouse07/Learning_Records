@@ -20,5 +20,7 @@ Lecture 2 is finished, continuous stuff
 2022/03/15: finished, inverse function, d/dx as an operator, implicilty calculate the derivative, all 3 combines make the life easier <br>
 ### Lecture 6 <br>
 2022/03/16: finished, a^x' loga(x)' really a fun process when seeing these formula are deprived 👍
+### Lecture 7 <br>
+2022/03/15: 0809/5052, review class, lecturer is trying to re-calculate the derivative in several different ways
 ### Lecture 16 <br>
 2022/03/13: Lecture 16 0638/4524, followed, but need further explaination
