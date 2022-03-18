@@ -14,3 +14,6 @@
 ### Lecture 5
 2022/03/15:💫 3136/011740 stuck at simple random walk exercise <br>
 2022/03/15:💫 finished, understood the simple random walk exercise and done
+
+### Lecture 6
+2022/03/16:💫 finished, 20% blur + 30% clear + 10% blur + 30% blur + 10% clear <br>
