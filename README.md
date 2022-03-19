@@ -14,7 +14,7 @@ YYYY/MM/DD: Means the date you learn it, if nothing emoji sign is next to it lik
 ✍: Finished by reading documents <br>
 YYYY/MM/DD:✍💫 Means at the date, you finish it by reading document, and the purpose is to get some concept quickly <br>
 ####/#####: Means the partial part that you have finished for the whole class, from 00:00 to ##:##, for other situation, it will not be marked in this way. <br>
-
+💲: Represents an research article or an project <br>
 
 # Emoji library
 
