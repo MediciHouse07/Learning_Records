@@ -5,7 +5,9 @@ Video: Finished video watching<br>
 Materials: Finished materials reading<br>
 +Sec: TBD<br>
 TB added<br>
-## Statistics 110
+FM only consists of sta110+Finacial Math + related math materials + money and banking<br>
+
+## FM_Statistics 110
 TTL 35 Video Lectures, No materials
 1. Video
 2. Video
