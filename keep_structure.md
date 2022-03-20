@@ -1,0 +1,21 @@
+# Catalogue: <br><br>
+TB added
+# Desc
+Video: Finished video watching<br>
+Materials: Finished materials reading<br>
+TB added<br>
+## Statistics 110
+TTL 35 Video Lectures, No materials
+1. Video
+2. Video
+3. Video
+9. Video
+10. Video
+16. Video
+17. Video
+27. Video
+29. Video
+30. Video
+
+
+
