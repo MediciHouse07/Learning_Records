@@ -16,6 +16,9 @@ YYYY/MM/DD:✍💫 Means at the date, you finish it by reading document, and the
 ####/#####: Means the partial part that you have finished for the whole class, from 00:00 to ##:##, for other situation, it will not be marked in this way. <br>
 💲: Represents an research article or an project <br>
 
+# Possible course that will be added
+- Financial Market https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185&index=1
+
 # Emoji library
 
 ✍🤳⋆ ☆ ✣ ✤ ✥ ✺ ✻ ⭐ 🌠 
