@@ -20,6 +20,7 @@ YYYY/MM/DD:✍💫 Means at the date, you finish it by reading document, and the
 # Possible course that will be added
 - Financial Market https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185&index=1
 - Financial Theory mirrow class of the above one https://www.youtube.com/watch?v=vTs2IQ8OefQ&list=PL6D3D85513B662773
+- Regression can be learned here https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=12
 
 # Emoji library
 
