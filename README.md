@@ -9,6 +9,7 @@ Learning_Records-main is the first folder within the zip<br>
 2rd rule should be noticed <br>
 
 # Special sign used in the notes
+FM_01_Coursename: Short category + number + course name is used to classify course in terms of my needs, A category mapping table will be defined here -> TBD <br>
 YYYY/MM/DD: Means the date you learn it, if nothing emoji sign is next to it like YYYY/MM/DD: instead of YYYY/MM/DD:✍, which means you finish it by watching video one by one, carefully  <br>
 💫: To get some concept quickly, roughly go through some part/ the whole content <br>
 ✍: Finished by reading documents <br>
