@@ -3,6 +3,7 @@ TB added
 # Desc
 Video: Finished video watching<br>
 Materials: Finished materials reading<br>
++Sec: TBD<br>
 TB added<br>
 ## Statistics 110
 TTL 35 Video Lectures, No materials
