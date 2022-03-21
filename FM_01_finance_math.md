@@ -1,3 +1,4 @@
+[Link](https://www.youtube.com/watch?v=92WaNz9mPeY&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=6)
 ### Lecture 1
 2022/03/13: mumbling mumbling, but OK, 1930/010029 <br>
 
