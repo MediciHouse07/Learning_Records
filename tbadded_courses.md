@@ -7,3 +7,6 @@
 
 ## Lectue 7
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
+
+# 2. Statistics Regression [Link](https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=13)
+2022/03/19: 💫
