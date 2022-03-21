@@ -19,3 +19,6 @@
 
 ### Lecture 6
 2022/03/16:💫 finished, 20% blur + 30% clear + 10% blur + 30% blur + 10% clear <br>
+
+### Lecture 7
+2022/03/19:💫 1842/012114 stationary, I don' have much sense about this word<br>
