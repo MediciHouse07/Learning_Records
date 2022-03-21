@@ -9,4 +9,5 @@
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
 
 # 2. Statistics Regression [Link](https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=13)
-2022/03/19: 💫
+## Lecture 13
+2022/03/19: 💫 2621/011601, I don't understand what x^~ mean it says x^~=?a^~+xgddc? <br>
