@@ -3,8 +3,11 @@
 ## Lectue 1
   2022/03/18: 2249/011412, just read it so.. <br>
   2022/03/19: ① finished
+## Lecture 2
+  2022/03/19: ① finished
 ## Lectue 3
-  2022/03/18: 💫 1406/11528, Normal distribution
+  2022/03/18: 💫 1406/11528, Normal distribution <br>
+  2022/03/19: ① 5227/11528
 
 ## Lectue 7
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
