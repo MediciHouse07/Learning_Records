@@ -17,6 +17,7 @@ AD: Some explainatory words <br><br>
 
 FM_01_Coursename: Short category + number + course name is used to classify course in terms of my needs, A category mapping table will be defined here -> TBD <br>
 YYYY/MM/DD: Means the date you learn it, if nothing emoji sign is next to it like YYYY/MM/DD: instead of YYYY/MM/DD:✍, which means you finish it by watching video one by one, carefully  <br>
+① ②: Represents roughly watched for 12 times
 💫: To get some concept quickly, roughly go through some part/ the whole content <br>
 ✍: Finished by reading documents <br>
 YYYY/MM/DD:✍💫 Means at the date, you finish it by reading document, and the purpose is to get some concept quickly <br>
