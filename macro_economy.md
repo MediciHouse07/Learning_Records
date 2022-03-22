@@ -5,4 +5,7 @@
 * Price level increase, price of everything increases, execpt wage, so there is a will from employeer to employ more people <br>
 
 2022/03/19: Finished, next course will be interesting<br>
+
+## Lecture 19
+2022/03/10: Finished, G doesn't has exact the same effect as I, G+subsidy more like give money to the poor, while I is like build a bridge, the poor will be benefited by working, the money is more or less like given to the rich
 ## Lecture 29
