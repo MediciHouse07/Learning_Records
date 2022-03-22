@@ -10,5 +10,8 @@
 2022/03/10: Finished, G doesn't has exact the same effect as I, G+subsidy more like give money to the poor, while I is like build a bridge, the poor will be benefited by working, the money is more or less like given to the rich
 
 ## Lecture 20
-2022/3/20: this course is a review course, language is in Turkish, so skip
+2022/03/20: this course is a review course, language is in Turkish, so skip
+
+## Lecture 21
+2022/03/20: 2321/4907, medium of exchange, unit of account
 ## Lecture 29
