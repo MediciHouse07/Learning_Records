@@ -11,3 +11,4 @@
 ### Lecture 6 <br>
 2022/03/18:💫 Finished this lecture
 ### Lecture 7 <br>
+2022/03/20:💫 Finished this lecture
