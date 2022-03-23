@@ -13,6 +13,6 @@
 2022/03/20: this course is a review course, language is in Turkish, so skip
 
 ## Lecture 21
-2022/03/20: 2321/4907, medium of exchange, unit of account
+2022/03/20: 2321/4907, medium of exchange, unit of account <br>
 2022/03/21: Finished, gold, and why the old emperor mint gold frequently
 ## Lecture 29
