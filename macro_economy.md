@@ -16,3 +16,10 @@
 2022/03/20: 2321/4907, medium of exchange, unit of account <br>
 2022/03/21: Finished, gold, and why the old emperor mint gold frequently
 ## Lecture 29
+
+## Lecture 32
+2022/03/21: 💫 finished 
+## Lecture 33
+2022/03/21: 💫 finished
+## Lecture 34
+2022/03/21: 💫 finished
