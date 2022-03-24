@@ -15,3 +15,8 @@
 # 2. Statistics Regression [Link](https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=13)
 ## Lecture 13
 2022/03/19: 💫 2621/011601, I don't understand what x^~ mean it says x^~=?a^~+xgddc? <br>
+
+# 3. Regression analysis
+## Book open intro
+
+## Book business statistics
