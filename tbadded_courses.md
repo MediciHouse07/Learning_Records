@@ -20,3 +20,11 @@
 ## Book open intro
 
 ## Book business statistics
+
+# 4. Statistics with R - Spec 3
+## WK1
+2022/03/22: Done <br>
+## WK2
+2022/03/22: Done <br>
+## WK3
+2022/03/22: Done <br>
