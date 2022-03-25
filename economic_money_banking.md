@@ -15,7 +15,7 @@
 2022/03/23:💫 finished
 
 ### 2-5
-2022/03/23:💫 finished
+2022/03/23:💫 finished for Lecture 2 in Week11
 
 ## Lec 4
 ### 4-1
