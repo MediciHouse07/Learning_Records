@@ -28,3 +28,8 @@
 2022/03/22: Done <br>
 ## WK3
 2022/03/22: Done <br>
+## WK4
+2022/03/23: Done <br>
+
+## Exercise
+left, material is incomplete as well
