@@ -25,3 +25,4 @@ Lecture 2 is finished, continuous stuff
 2022/03/15: 2423/5052, chain rule, intuitively sense it, it is the a speed-up effect on y with dx * dt
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination
+2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
