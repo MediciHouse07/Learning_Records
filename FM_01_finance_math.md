@@ -24,3 +24,4 @@
 ### Lecture 7
 2022/03/19:💫 1842/012114 stationary, I don' have much sense about this word<br>
 2022/03/23:💫 finished roughly, monte carlo, why did he want to generate syn matrix? even they have the same property <br>
+2022/03/23:💫 monte carlo video, randomness, sampling instead of all, simulation unbias https://www.youtube.com/watch?v=7ESK5SaP-bc
