@@ -29,7 +29,7 @@
 ## WK3
 2022/03/22: Done <br>
 ## WK4
-2022/03/23: Done <br>
+2022/03/23: Done, how to interpret scale-location plot https://www.statology.org/scale-location-plot/ <br>
 
 ## Exercise
 left, material is incomplete as well
