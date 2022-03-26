@@ -1,3 +1,4 @@
+35 lectures in TTL
 ### Lecture 1 <br>
 2022/02/20: finished
 ### Lecture 2 <br>
