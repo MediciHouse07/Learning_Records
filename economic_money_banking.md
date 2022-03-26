@@ -27,3 +27,9 @@
 2022/03/17:💫
 ### 4-4
 2022/03/17:💫 finished for WK11 <br>
+
+
+# Lecture Week12
+
+## Lec 2
+2022/03/24: 💫finished
