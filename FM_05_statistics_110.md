@@ -4,7 +4,8 @@
 ### Lecture 2 <br>
 2022/02/23: finished
 ### Lecture 3 <br>
-2022/02/24: 1219/4854 birthday problem
+2022/02/24: 1219/4854 birthday problem<br>
+2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
 ### Lecture 5 <br>
