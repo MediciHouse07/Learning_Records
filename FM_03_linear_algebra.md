@@ -23,3 +23,6 @@
 
 ### Lecture 11 <br>
 2022/03/23: 💫 finished
+
+### Lecture 14 <br>
+2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
