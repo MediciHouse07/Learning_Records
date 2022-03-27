@@ -7,6 +7,7 @@ Learning_Records-main is the first folder within the zip<br>
 
 # Notes
 2rd rule should be noticed <br>
+2022/03/25: Adjustment about the rule: If you always jump video from one to another you use this 💫, other wise you don't need, for example, you jump to the next ten, then you learn the lesson after that course, you don't need to put a 💫 on it <br>
 
 # Special sign used in the notes
 FM: Top level = fundamental<br>
