@@ -28,3 +28,6 @@ Lecture 2 is finished, continuous stuff
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
+
+### Lecture 37 <br>
+2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
