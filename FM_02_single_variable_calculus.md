@@ -31,3 +31,4 @@ Lecture 2 is finished, continuous stuff
 
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
+2022/03/27: finished, the rest part is not that hard<br>
