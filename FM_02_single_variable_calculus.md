@@ -31,4 +31,7 @@ Lecture 2 is finished, continuous stuff
 
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
-2022/03/27: finished, the rest part is not that hard<br>
+2022/03/26: finished, the rest part is not that hard<br>
+
+### Lecture 38 <br>
+2022/03/26:  finished, decimal expansion, what is that? they say it has something to do with rational numbers, maybe it is two Z, one devided by another so that a rational can be expressed <br>
