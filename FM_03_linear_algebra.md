@@ -30,3 +30,6 @@
 
 ### Lecture 15 <br>
 2022/03/25:  finished why when m>n, which means by which m equations and n unknown there is no solution? because: it might have a situation like 0=1, or x1=1 in the same time x1=2
+
+### Lecture 16 <br>
+2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
