@@ -1,3 +1,8 @@
+# Lecture Week6
+## Lec 1
+### 1-4
+2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
@@ -28,10 +33,7 @@
 ### 4-4
 2022/03/17:💫 finished for WK11 <br>
 
-# Lecture Week6
-## Lec 1
-### 1-4
-2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
+
 
 # Lecture Week12
 
