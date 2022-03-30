@@ -25,6 +25,9 @@ Lecture 2 is finished, continuous stuff
 2022/03/15: 0809/5052, review class, lecturer is trying to re-calculate the derivative in several different ways <br>
 2022/03/15: 2423/5052, chain rule, intuitively sense it, it is the a speed-up effect on y with dx * dt <br>
 2022/03/25: finished, there is no lecture 8 <br>
+
+### Lecture 15 <br>
+2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
