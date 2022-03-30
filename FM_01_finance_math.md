@@ -27,3 +27,4 @@
 2022/03/23:💫 monte carlo video, randomness, sampling instead of all, simulation unbias https://www.youtube.com/watch?v=7ESK5SaP-bc
 ### Lecture 8
 2022/03/24:💫 0514/11618, maximum likelihood estimation
+2022/03/28:💫 jump to 2700-2941, the first slides of time series lecture, p(x1,x2,x3...,xn) probabbility density function, hope it to be invary with translation of time
