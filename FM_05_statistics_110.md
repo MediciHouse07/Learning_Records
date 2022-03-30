@@ -1,4 +1,6 @@
 35 lectures in TTL
+### Questions: <br>
+PDF PMS CDF, always forgot the difference between them
 ### Lecture 1 <br>
 2022/02/20: finished
 ### Lecture 2 <br>
