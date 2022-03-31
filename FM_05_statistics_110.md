@@ -15,6 +15,8 @@ PDF PMS CDF, always forgot the difference between them
 
 ### Lecture 6 <br>
 
+### Lecture 7
+2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability
 ### Lecture 9 <br>
 2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 10 <br>
