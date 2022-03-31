@@ -35,3 +35,5 @@
 2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
 ### Lecture 17 <br>
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
+### Lecture 18 <br>
+2022/03/29: finished, property of determinant 9-10, |AB|=|A||B|, |AT|=|A|, they are at the end of the lecture, need to practice
