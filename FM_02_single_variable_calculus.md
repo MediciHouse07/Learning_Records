@@ -26,6 +26,8 @@ Lecture 2 is finished, continuous stuff
 2022/03/15: 2423/5052, chain rule, intuitively sense it, it is the a speed-up effect on y with dx * dt <br>
 2022/03/25: finished, there is no lecture 8 <br>
 
+### Lecture 14 <br>
+2022/03/29: 💫finished, the begining of the lecture has something to do with Newton's law, it is just like an iteration of linear approximation
 ### Lecture 15 <br>
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
