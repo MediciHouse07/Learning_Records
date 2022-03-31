@@ -38,4 +38,5 @@ left, material is incomplete as well
 # 5. Time series analysis [Link](https://www.coursera.org/learn/the-econometrics-of-time-series-data/lecture/q0aez/memory-and-the-autocorrelation-function)
 ## WK1
 2022/03/29:💫  Memory and the autocorrelation - finished, autocorrelation : E(r)=constant
-2022/03/29:💫 Detrending Time series data
+2022/03/29:💫 Detrending Time series data - finished,
+2022/03/29:💫 the first "welcome" video + time series observations, 2 vidoes finished
