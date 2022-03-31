@@ -8,7 +8,7 @@
 ## Lectue 3
   2022/03/18: 💫 1406/11528, Normal distribution <br>
   2022/03/19: ① 5227/11528<br>
-  2022/03/29: CDS, Chile peso history story, index bond
+  2022/03/29: finished, CDS, Chile peso history story, index bond
 
 ## Lectue 7
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
