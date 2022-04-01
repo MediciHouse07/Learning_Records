@@ -47,4 +47,5 @@ left, material is incomplete as well
 
 # 6. Howard university time series analysis
 ### Lecture 1
-2022/03/29: 4207/11507 have a rest
+2022/03/29: 4207/11507 have a rest <br>
+2022/03/29: finished, maybe need to watch again, but it is not so hard
