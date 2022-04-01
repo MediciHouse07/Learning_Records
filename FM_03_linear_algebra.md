@@ -43,3 +43,6 @@
 
 ### Lecture 20
 2020/03/30: finished, area of triangle, area of parallel 4 sides, cramer rules x=detB/detA, where B = b|Rest of A
+
+### Lecture 21
+2020/03/30: finished, shortage of eigen vector; asymatric matrix leads to complex eigen value
