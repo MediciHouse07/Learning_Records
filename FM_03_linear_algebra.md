@@ -40,3 +40,6 @@
 
 ### Lecture 19
 2022/03/30: finished, cofactor and determenent
+
+### Lecture 20
+2020/03/30: finished, area of triangle, area of parallel 4 sides, cramer rules x=detB/detA, where B = b|Rest of A
