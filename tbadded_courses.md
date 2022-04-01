@@ -44,3 +44,7 @@ left, material is incomplete as well
 # 6. TBG university time series analysis
 ### Lecture 1
 2022/03/29: 2953/5533 have a rest
+
+# 6. Howard university time series analysis
+### Lecture 1
+2022/03/29: 4207/11507 have a rest
