@@ -12,11 +12,12 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/26: finished, the begining of this lecture has a continue relation with the end of Lecture 3 <br>
 
 ### Lecture 5 <br>
-2022/03/29: 1907/5001 law of total probability, conditionging
+2022/03/30: 1907/5001 law of total probability, conditionging
 ### Lecture 6 <br>
 
 ### Lecture 7
 2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability
+2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding
 ### Lecture 9 <br>
 2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 10 <br>
