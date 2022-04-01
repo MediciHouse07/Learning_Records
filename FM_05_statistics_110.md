@@ -26,6 +26,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+### Lecture 25 <br>
+2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 29 <br>
