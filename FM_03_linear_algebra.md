@@ -48,3 +48,5 @@
 2022/03/30: finished, shortage of eigen vector; asymatric matrix leads to complex eigen value
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves
+### Lectuer 23
+2022/03/31: 1653/5103, why resolve a differential equation has something to do with e^lambda t?
