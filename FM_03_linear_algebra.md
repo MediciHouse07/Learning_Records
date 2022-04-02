@@ -42,7 +42,9 @@
 2022/03/30: finished, cofactor and determenent
 
 ### Lecture 20
-2020/03/30: finished, area of triangle, area of parallel 4 sides, cramer rules x=detB/detA, where B = b|Rest of A
+2022/03/30: finished, area of triangle, area of parallel 4 sides, cramer rules x=detB/detA, where B = b|Rest of A
 
 ### Lecture 21
-2020/03/30: finished, shortage of eigen vector; asymatric matrix leads to complex eigen value
+2022/03/30: finished, shortage of eigen vector; asymatric matrix leads to complex eigen value
+### Lecture 22
+2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves
