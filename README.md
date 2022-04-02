@@ -15,7 +15,7 @@ Find what are the topics people discuss most in the field of de-fi, finance, soc
 List them, and find is there any subject interest you, if there is, find relavant articles and read them, if meet question, study it, publish it when done.
 If there is no interesting subject, you have to come up with one yourself.
 Anyway, your own interdispline will be solidify by this activity.
-### Supply side(What is my interest)
+### Demand side(What is my interest)
 - Exchange rate, ex rate basket, relation of them
 - Crypto currency and macro economy
 - Technique and economy
