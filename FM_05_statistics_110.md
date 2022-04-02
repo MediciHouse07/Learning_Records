@@ -17,9 +17,9 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 6 <br>
 
 ### Lecture 7
-2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability
-2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding
-2022/03/31: finished, excellent course, random variable, is a function which maps result happened in sample space S to X(s), then you got a distribution, the distribution indicates the variness/randomness of the variable
+2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability <br>
+2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding <br>
+2022/03/31: finished, excellent course, random variable, is a function which maps result happened in sample space S to X(s), then you got a distribution, the distribution indicates the variness/randomness of the variable, PMF is just like, P(X=3) if you through a coin, probability of number of heads equals to 3 <br>
 ### Lecture 8
 
 ### Lecture 9 <br>
