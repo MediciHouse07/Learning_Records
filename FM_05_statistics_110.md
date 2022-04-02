@@ -21,7 +21,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding <br>
 2022/03/31: finished, excellent course, random variable, is a function which maps result happened in sample space S to X(s), then you got a distribution, the distribution indicates the variness/randomness of the variable, PMF is just like, P(X=3) if you through a coin, probability of number of heads equals to 3 <br>
 ### Lecture 8
-2022/03/31: 2111/5023 around 14 minutes CDF and PMF, both are a way of describing distribution, CDF P(X<=x), PMF P(X=aj) only applies for discrete problem
+2022/03/31: 2111/5023 around 14 minutes CDF and PMF, both are a way of describing distribution, CDF P(X<=x), PMF P(X=aj) only applies for discrete problem <br>
+2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 2022/03/14: 💫 full video, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 10 <br>
