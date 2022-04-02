@@ -9,6 +9,12 @@ Learning_Records-main is the first folder within the zip<br>
 2rd rule should be noticed <br>
 2022/03/25: Adjustment about the rule: If you always jump video from one to another you use this 💫, other wise you don't need, for example, you jump to the next ten, then you learn the lesson after that course, you don't need to put a 💫 on it <br>
 
+# Researches
+Find what are the topics people discuss most in the field of de-fi, finance, sociology, pltc-science,economy, econometrics. <br>
+List them, and find is there any subject interest you, if there is, find relavant articles and read them, if meet question, study it, publish it when done.
+If there is no interesting subject, you have to come up with one yourself.
+Anyway, your own interdispline will be solidify by this activity.
+
 # Special sign used in the notes
 FM: Top level = fundamental<br>
 ET: Hyper knowledge might be excess the learning possibility<br>
