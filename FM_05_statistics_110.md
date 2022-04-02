@@ -12,7 +12,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/26: finished, the begining of this lecture has a continue relation with the end of Lecture 3 <br>
 
 ### Lecture 5 <br>
-2022/03/30: 1907/5001 law of total probability, conditionging
+2022/03/30: 1907/5001 law of total probability, conditionging<br>
+2022/03/31: finished, conditioning independent doesn't imply unconditioning independent and vice versa
 ### Lecture 6 <br>
 
 ### Lecture 7
