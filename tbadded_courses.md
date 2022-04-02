@@ -50,5 +50,8 @@ left, material is incomplete as well
 2022/03/29: 4207/11507 have a rest <br>
 2022/03/29: finished, maybe need to watch again, but it is not so hard
 
+### Lecture 2
+2022/03/31: 0957/10952, what does positive(semi) definite matrix mean?
+
 # 8. Financial theory
 Lecturer: John Geanakoplos
