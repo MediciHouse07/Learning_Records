@@ -28,7 +28,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/31: finished, 2635 minutes Expectation and P has a bridge; 3248 minutes linearity, EX+Y=EX+EY no matter it is dependent or independent; bridge X={1 if A, 0 otherwise, this is indicator R.V. ; 4158 check PMF, geo distribution; 3827 by symatry and bridge
 ### Lecture 10 <br>
 2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
-2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution
+2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
+2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 18 <br>
