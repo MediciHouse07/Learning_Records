@@ -56,3 +56,7 @@ left, material is incomplete as well
 2022/04/01: finished, good lecture
 # 8. Financial theory
 Lecturer: John Geanakoplos
+
+# 9. Howard university time series analysis
+### Lecture 1
+2022/04/01:0922/5014, measure theory translate probability to area, provide a new way of measuring things.
