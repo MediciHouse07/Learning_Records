@@ -27,6 +27,8 @@ Lecture 2 is finished, continuous stuff
 2022/03/25: finished, there is no lecture 8 <br>
 ### Lecture 12 <br>
 2022/04/01: finished, this course is not about relative rate of change
+### Lecture 13 <br>
+2022/04/01: 1650/5322, relative rate of change
 ### Lecture 14 <br>
 2022/03/29: 💫finished, the begining of the lecture has something to do with Newton's law, it is just like an iteration of linear approximation
 ### Lecture 15 <br>
