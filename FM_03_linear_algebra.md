@@ -49,6 +49,9 @@
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
-### Lectuer 23
+### Lecture 23
 2022/03/31: 1653/5103, why resolve a differential equation has something to do with e^lambda t? <br>
 2022/04/01: finished
+
+### Lecture 24
+2022/04/01: 0454/5111, markov matrix, has lambda= 1, and its steady state: lamnbda = 1, what is steady state?
