@@ -15,6 +15,9 @@
 ## Lecture 21
 2022/03/20: 2321/4907, medium of exchange, unit of account <br>
 2022/03/21: Finished, gold, and why the old emperor mint gold frequently
+
+## Lecture 22
+2022/04/01: finished, banking system/intermediation, ?court system, insurance system, buraxxx system? Bank issue paper, or CB issue paper; bank regulator prevent bank run; bank has 2 types of equilibrium
 ## Lecture 29
 
 ## Lecture 32
