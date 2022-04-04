@@ -36,6 +36,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/04/02: finished, around 1616 minutes FTC from calculus; 3803 minutes, take a function of R.V. is a R.V. ; law of the unconsicious stastician, LOTUS E(g(x))=accumulate from -infinite to +infinite g(x)fX(x)dx; uniform can be everything, just like a indicator I, 4907 minutes, P(F-1(u)<=x)=P(u<=F(x)) because CDF is continously increasing 
 ### Lecture 13 <br>
 2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration
+### Lecture 14 <br>
+2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 18 <br>
