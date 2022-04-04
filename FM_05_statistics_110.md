@@ -39,6 +39,7 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 14 <br>
 2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
 
+### Lecture 16 <br>
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
