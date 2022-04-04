@@ -14,6 +14,10 @@
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
 
 # 2. Statistics Regression [Link](https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=13)
+
+## Lecture 4
+2022/04/02: 💫 33:30<->11758(end of lecture), 10700 KL divergence, ln style of total variance TV; 10933 jenson inequality; 10000 mins, doesn't get the idea
+
 ## Lecture 13
 2022/03/19: 💫 2621/011601, I don't understand what x^~ mean it says x^~=?a^~+xgddc? <br>
 
