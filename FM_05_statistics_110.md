@@ -43,6 +43,7 @@ PDF PMS CDF, always forgot the difference between them
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+2022/04/02: 3720/5044, 1:00 mins, conditional probability; 910 mins, prove the uniqueness of exp memoryless property; 2238 finite sum is applicable for linearity, infinite sum need to take course real analysis; 2430 mins, interpretation of MGF; 2630 mins, MGF determines distribution; 3018 mins, MGF of X+Y, make X+Y to be easier to be detected; 3500 mins, normal MGF; M^(n)(0)=E(X^n) 
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 25 <br>
