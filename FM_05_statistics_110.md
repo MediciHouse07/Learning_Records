@@ -38,6 +38,8 @@ PDF PMS CDF, always forgot the difference between them
 2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration
 ### Lecture 14 <br>
 2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
+
+2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 18 <br>
