@@ -12,3 +12,4 @@
 #### 10 push up, 20 both ends up, 10 deep squat, 10 jumping jack, warm up
 #### 10 push up, 20 both ends up, 10 deep squat, 10 jumping jack, warm up
 #### 10 push up, 20 both ends up, 7 deep squat, 10 jumping jack, warm up
+#### 40 both ends up, 7 deep squat, 40 jumping jack, warm up
