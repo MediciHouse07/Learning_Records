@@ -25,6 +25,9 @@
 2022/03/19:💫 1842/012114 stationary, I don' have much sense about this word<br>
 2022/03/23:💫 finished roughly, monte carlo, why did he want to generate syn matrix? even they have the same property <br>
 2022/03/23:💫 monte carlo video, randomness, sampling instead of all, simulation unbias https://www.youtube.com/watch?v=7ESK5SaP-bc
+2022/04/03: 11900<->12212 looks good
 ### Lecture 8
 2022/03/24:💫 0514/11618, maximum likelihood estimation <br>
 2022/03/28:💫 jump to 2700-2941, the first slides of time series lecture, p(x1,x2,x3...,xn) probabbility density function, hope it to be invary with translation of time
+2022/04/03: 3450/11619 1052 mins, Q(beta) like a lost function; 1025 mins, ? + degree of freedom, consider n observations n parameters; 1338 mins MAD, the maximum result is undifferentiable; 1708 mins, case study 1
+### Lecture 9
