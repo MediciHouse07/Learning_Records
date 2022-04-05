@@ -1,4 +1,6 @@
 [Link](https://www.youtube.com/watch?v=92WaNz9mPeY&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=6)
+# Trace:
+projection matrix, least square method matrix; MGF, maximum likelihood estimation, time series; taylor series, derivative, intergral
 ### Lecture 1
 2022/03/13: mumbling mumbling, but OK, 1930/010029 <br>
 
