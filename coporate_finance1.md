@@ -17,6 +17,7 @@
 1358 mins, price of bond = PVIFA + PVIF<br>
 
 ### Lecture 26 <br>
+Material: Risk-and-Return-I.pdf <br>
 2022/04/03: 💫 0134 mins, RoR need to check, rate of return , Expected return = r = (DIV1+P1-P0)/P0; <br>
 0717 mins, return risk = unsystematic + systematic; <br>
 1100 mins, a nice pic, about market risk and unsystematic risk; <br>
