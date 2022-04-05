@@ -18,6 +18,10 @@
 ## Lecture 4
 2022/04/02: 💫 33:30<->11758(end of lecture), 10700 KL divergence, ln style of total variance TV; 10933 jenson inequality; 10000 mins, doesn't get the idea
 
+## Lecture 5
+2022/04/03: finished, 642 mins, arg min theta = arg max theta; 2330 concave convex local max = global max; sum of log, log of product; 2807 mins, hessin matrix;
+101 mins, why KL>=, this can be explained by jensson inequality; 200 mins difiniteness; 524 mins, formula of KL estimator; 2829 mins hessian matrix; 3330 mins, linear combination of concave still is concave; 11000 mins maximum derivative interval <br>
+
 ## Lecture 13
 2022/03/19: 💫 2621/011601, I don't understand what x^~ mean it says x^~=?a^~+xgddc? <br>
 
