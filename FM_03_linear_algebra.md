@@ -54,7 +54,7 @@
 2022/04/01: finished
 
 ### Lecture 24
-2022/04/01: 0454/5111, markov matrix, has lambda= 1, and its steady state: lamnbda = 1, what is steady state?
+2022/04/01: 0454/5111, markov matrix, has lambda= 1, and its steady state: lamnbda = 1, what is steady state? <br>
 2022/04/04: finished, 300 mins, steady state;
 424 mins, Markov has a lambda eigen value;
 525 mins, other lambda < 1;
