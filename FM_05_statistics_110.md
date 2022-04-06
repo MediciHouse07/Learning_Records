@@ -47,6 +47,13 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/03: finished, 138 mins moment of inertia; 826 mins benefit of using MGF; 1104 E(Z^n)=0 odd by symetry, normal distribution; 1350 mins geo series converges t<1, taylor series converges everywhere; 2129 mins convolution E(X+Y), take MGF of X * MGF of Y, the result is sum of pois is a pois if they are independent; 2907 mins joint distribution, condition for PMF joint distribution; 4230 mins simple extrem case, analysis method <br>
+### Lecture 19 <br>
+2022/04/04: finished, 
+913 mins, conditional PDF;<br>
+347 mins, E g(x,y) by LOTUS;<br>
+4100 mins, checken egg problem;<br>
+4442 application of law of total probablity;<br>
+4600 mins, remove redundancy<br>
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
