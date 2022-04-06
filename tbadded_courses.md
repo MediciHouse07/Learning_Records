@@ -62,9 +62,26 @@ left, material is incomplete as well
 2022/03/31: 0957/10952, what does positive(semi) definite matrix mean? <br>
 2022/03/31: positive definite means a>0 ad-b^2>0, which means lambda is greater than 0, semi, means it can be 0, the matrix has to be symetry <br>
 2022/04/01: finished, good lecture
+
+### Lecture 3:
+2022/04/04: finished,
+2522 mins, positive definite, positive number;
+3700 mins, uncorrelated independent;
+4500 mins, backshift, forward shift;
+4700 mins difference operator;
+1552 mins, diagnostic plot;
+1215 mins, ACF auto correlation function;
+K^x(0) estimation of variance;
+1318 mins, cross covariance function 2 R.V.s
+cross correlation function;
+5410 mins, GaussMarkov therom;
+5612 mins, determistic piece + stationary process not white noise;
+10800 mins, adf test;
+11000 mins, H0 not ts, non stationary, HA time series
+
 # 8. Financial theory
 Lecturer: John Geanakoplos
 
-# 9. Howard university time series analysis
+# 9. Howard university measure theory
 ### Lecture 1
 2022/04/01:0922/5014, measure theory translate probability to area, provide a new way of measuring things.
