@@ -55,3 +55,12 @@
 
 ### Lecture 24
 2022/04/01: 0454/5111, markov matrix, has lambda= 1, and its steady state: lamnbda = 1, what is steady state?
+2022/04/04: finished, 300 mins, steady state;
+424 mins, Markov has a lambda eigen value;
+525 mins, other lambda < 1;
+700 mins, steady state again;
+1758 mins, eigen value of A = eigen value of A^T;
+2600 mins, steady state;
+4800 mins, Forier series;
+3655 mins, projection eigen vector matrix;
+3900 mins, Q-1=QT
