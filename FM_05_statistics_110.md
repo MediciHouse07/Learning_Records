@@ -70,6 +70,13 @@ independent joint PDF of normal;
 4407 mins, u substitution;
 4701 mins, LOTP;
 4756 mins, independent integration CDF;
+### Lecture 21 <br>
+2022/04/05: finished,
+2640 mins, dimensionless, unitless;
+2959 mins, WLOG, without lose of generality; corr(x,y)=rou;
+4200 mins, IA indicator R.V. of event A, IA^2=IA, IA^3=IA, IA*IB=I(A intersect B);
+4400 mins, uncorrelated doesn't imply independent;
+4800 mins, geometric distribution, use COV formula to prove VAR(X) for geometric distribution
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
