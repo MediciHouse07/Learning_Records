@@ -32,4 +32,5 @@ projection matrix, least square method matrix, symetry matrix, correlation matri
 2022/03/24:💫 0514/11618, maximum likelihood estimation <br>
 2022/03/28:💫 jump to 2700-2941, the first slides of time series lecture, p(x1,x2,x3...,xn) probabbility density function, hope it to be invary with translation of time
 2022/04/03: 3450/11619 1052 mins, Q(beta) like a lost function; 1025 mins, ? + degree of freedom, consider n observations n parameters; 1338 mins MAD, the maximum result is undifferentiable; 1708 mins, case study 1
+2022/04/05: 2730<->4721, 3100 mins, ACF, correlation coefficient is -1<=r<=1; 
 ### Lecture 9
