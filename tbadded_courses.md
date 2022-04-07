@@ -79,6 +79,10 @@ cross correlation function;
 10800 mins, adf test;
 11000 mins, H0 not ts, non stationary, HA time series
 
+### Lecture 4:
+2022/04/05: 2950/11423, 0440 mins, sigma j=-r to j=r, r is band width;
+2313 mins, lowess, locally weighted scatterplot, useful smoother in R
+
 # 8. Financial theory
 Lecturer: John Geanakoplos
 
