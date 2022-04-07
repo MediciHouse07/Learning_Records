@@ -64,3 +64,10 @@
 4800 mins, Forier series;
 3655 mins, projection eigen vector matrix;
 3900 mins, Q-1=QT
+
+### Lecture 25
+2022/04/05: finished, 0126 mins, symetric A=AT, has real lambda; eigenvector can be chosen to be perpendicular, A=QlambdaQ-1 = QlambdaQT;
+820 mins, spetrum;
+2300 mins, good matrices, independence x's, A=QT, A=A^-T;
+2820 mins, every symatric matrices is combination of perpendicular matrices;
+3551 mins; postive definite matrix, all lambda are +, all pivots are +, all subset determinants are positive
