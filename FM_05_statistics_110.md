@@ -54,6 +54,22 @@ PDF PMS CDF, always forgot the difference between them
 4100 mins, checken egg problem;<br>
 4442 application of law of total probablity;<br>
 4600 mins, remove redundancy<br>
+### Lecture 20 <br>
+2022/04/05: finished,
+0000 mins, Ex distance between 2 uniform;
+0055 mins, Ex distance between 2 iid standard normal;
+independent joint PDF of normal;
+0333 mins, MGF applicatioin;
+"Know more people", cyber way of interpretation, I got what they say, I store it, I have a map;
+0730 mins, easy function;
+1600 mins, multinomial;
+2150 mins, lumping property;
+2600 mins, conditional probability;
+3330 mins, cauchy distribution;
+3400 mins, symmetry;
+4407 mins, u substitution;
+4701 mins, LOTP;
+4756 mins, independent integration CDF;
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
