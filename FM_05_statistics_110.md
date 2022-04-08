@@ -77,6 +77,15 @@ independent joint PDF of normal;
 4200 mins, IA indicator R.V. of event A, IA^2=IA, IA^3=IA, IA*IB=I(A intersect B);
 4400 mins, uncorrelated doesn't imply independent;
 4800 mins, geometric distribution, use COV formula to prove VAR(X) for geometric distribution
+### Lecture 22 <br>
+2022/04/06: finished, 
+100 mins, hyper geom(w,b,n), withoug replacement binomial;
+540 mins, finite population correction;
+1101 mins, transformation;
+1705 mins, log normal;
+2355 mins, jacobian;
+2600 mins, convolution - fancy name of sum;
+4000 mins +, shenon information theory;
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
