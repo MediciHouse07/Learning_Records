@@ -71,3 +71,12 @@
 2300 mins, good matrices, independence x's, A=QT, A=A^-T;
 2820 mins, every symatric matrices is combination of perpendicular matrices;
 3551 mins; postive definite matrix, all lambda are +, all pivots are +, all subset determinants are positive
+
+### Lecture 26
+2022/04/07: finished, 150 mins, fast fourier transform;
+600 mins, inner product lead to distance square;
+720 mins, example make life easier;
+1341 mins, perpendicular in complex;
+2206 mins, fourier series, euler formula;
+3400 mins, why FFT need to review;
+4550 mins, example of applying FFT
