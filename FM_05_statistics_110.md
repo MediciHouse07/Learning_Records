@@ -86,6 +86,15 @@ independent joint PDF of normal;
 2355 mins, jacobian;
 2600 mins, convolution - fancy name of sum;
 4000 mins +, shenon information theory;
+### Lecture 23 <br>
+2022/04/07: finished, 0830 mins conjugate prior;
+1049 mins, bayesian statistics;
+1620 mins, laplace therom;
+2300 mins, doing calculus without calculus;
+2602 mins; finance STAT123 course, the same as the teacher in MIT finance math course;
+3320 mins, F(R.V.) is a R.V.;
+4400 mins, TARP;
+4200 mins, FX problem puzzle
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
