@@ -28,3 +28,6 @@
 
 ### 2022/04/06
 #### 10 push up plus, 10 both ends up, 10 deep squat, 30 jumping jack, warm up
+
+### 2022/04/07
+#### 10 push up plus, 20 both ends up, 10 deep squat, 30 jumping jack, warm up
