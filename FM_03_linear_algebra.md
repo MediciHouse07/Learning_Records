@@ -80,3 +80,14 @@
 2206 mins, fourier series, euler formula;
 3400 mins, why FFT need to review;
 4550 mins, example of applying FFT
+
+### Lecture 27
+2022/04/08: finished, ellipsoid=football, hyperbloic=double curve line, parabola=x^2;
+0356 mins, definition for positive, lambda test, det test, pivot test, XTAX>0 test;
+0555 mins, positive semidefinite;
+1030 mins, quadratic form;
+3348 mins, A=LU;
+2638 mins, 2nd derivative positive definite min point; this is a core class bring things together;
+3959 mins, special matrix;
+4811 mins, radius eigen value = Qlambda QT=A, Q eigen vector matrix is direction of radius of elliposoid, eigen value is the size of the vector;
+3612 mins, 2nd derivative matrix, has to be 0, which will determine min point
