@@ -95,6 +95,12 @@ independent joint PDF of normal;
 3320 mins, F(R.V.) is a R.V.;
 4400 mins, TARP;
 4200 mins, FX problem puzzle
+### Lecture 24 <br>
+2022/04/08: finished, 0530 mins, sterling formula;
+1133 mins, Gama function factorial formula;
+1733 mins, normalizing constant of normal;
+3600 mins, MGF proff gama distribution;
+2150 mins, transformatijon Y=X/lambda;
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 ### Lecture 28 <br>
