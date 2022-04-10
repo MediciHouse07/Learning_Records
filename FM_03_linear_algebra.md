@@ -90,4 +90,4 @@
 2638 mins, 2nd derivative positive definite min point; this is a core class bring things together;
 3959 mins, special matrix;
 4811 mins, radius eigen value = Qlambda QT=A, Q eigen vector matrix is direction of radius of elliposoid, eigen value is the size of the vector;
-3612 mins, 2nd derivative matrix, has to be 0, which will determine min point
+3612 mins, 2nd derivative matrix, has to be 0, which will determine min point.
