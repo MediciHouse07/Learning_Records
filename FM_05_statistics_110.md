@@ -103,6 +103,14 @@ independent joint PDF of normal;
 2150 mins, transformatijon Y=X/lambda;
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
+2022/04/09: finished, 332 mins, Beta Gamma, need to review previous 2 videos; transformation function;
+900 mins, jacobian, take determinant, take absolute value;
+1320 mins, independent definition;
+2252 mins, independent E(XY)=E(X)E(Y);
+2900 mins, order statistics dependent; Fx CDF fx PDF;
+4230 mins, relation of order statistics and beta;
+4523 mins, E(X) = E(X|A)P(A) + E(E|Ac)P(Ac) and its proof, using LOTP;
+4642 mins, envolop paradox, the same as the movie 21 points said;
 ### Lecture 28 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 ### Lecture 29 <br>
