@@ -28,6 +28,12 @@ projection matrix, least square method matrix, symetry matrix, correlation matri
 2022/03/23:💫 finished roughly, monte carlo, why did he want to generate syn matrix? even they have the same property <br>
 2022/03/23:💫 monte carlo video, randomness, sampling instead of all, simulation unbias https://www.youtube.com/watch?v=7ESK5SaP-bc
 2022/04/03: 11900<->12212 looks good
+2022/04/10: 0<->3321, till price yield curve;0000 mins, given what I experienced, this world can't offer a job I like;
+0909 mins, oder statistics, a reason for you to review it; VAR 1% worst;
+1300 mins, stationary;
+1553 mins, take position, probably lose money, you defend equity;
+1730 mins, frequency of changes;
+1900 mins, Ki square distribution, is E(X-Xbar)^2 's distribution, you estimate paramebter, that var/n-1 is estimated parameter
 ### Lecture 8
 2022/03/24:💫 0514/11618, maximum likelihood estimation <br>
 2022/03/28:💫 jump to 2700-2941, the first slides of time series lecture, p(x1,x2,x3...,xn) probabbility density function, hope it to be invary with translation of time
