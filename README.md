@@ -27,6 +27,9 @@ Anyway, your own interdispline will be solidify by this activity.
 ### Ideal condition
 It is better to find an intersection between demand and supply and other meaningful parts <br>
 
+### Study mind
+Regarding math, Keep the constant consuming constant, the same logic for business part. If condition or your energy doesn't allow, 1 course is enough for a day, if you feel good, 2 course cound be rated as good, if you feel excellent, 2+ courses can be considered
+
 # Special sign used in the notes
 FM: Top level = fundamental<br>
 ET: Hyper knowledge might be excess the learning possibility<br>
