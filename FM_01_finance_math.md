@@ -39,5 +39,14 @@ projection matrix, least square method matrix, symetry matrix, correlation matri
 2022/03/24:💫 0514/11618, maximum likelihood estimation <br>
 2022/03/28:💫 jump to 2700-2941, the first slides of time series lecture, p(x1,x2,x3...,xn) probabbility density function, hope it to be invary with translation of time
 2022/04/03: 3450/11619 1052 mins, Q(beta) like a lost function; 1025 mins, ? + degree of freedom, consider n observations n parameters; 1338 mins MAD, the maximum result is undifferentiable; 1708 mins, case study 1
-2022/04/05: 2730<->4721, 3100 mins, ACF, correlation coefficient is -1<=r<=1; 
+2022/04/05: 2730<->4721, 3100 mins, ACF, correlation coefficient is -1<=r<=1; <br>
+2022/04/10: 3600<->the end, 5800 mins, exponential weighting;
+3600 mins, yields compromised credit default + risk free;
+4600 mins, sum of the whole covariance matrix is the cov of a list of portfolio;
+5537 mins, missing data using brownian motion bridge, monte carlo simulation;
+4811 mins, XT SIGMA X = sigma hat square, X is position of portfolio, SIGMA is covariance, sigma hat is variance of portfolio;
+10000 mins, description of monte carlo, VaR simulation worst 10;
+11000 mins, fill in missing data, other wise you have negtive eigen;
+11330 mins, white light -> rainbow;
+11800 mins, synthetic simulation XXX
 ### Lecture 9
