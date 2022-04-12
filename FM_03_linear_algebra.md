@@ -102,3 +102,13 @@ XTAX>0 XTBX>0 XT(A+B)X>0;
 2711 mins, bad case lambda1=lambda2=4;
 3100 mins, non diagnolizble? has something to do with inverse, Jordan form;
 4100 mins, Jordan block; number of blocks = number of eigen vectors;
+
+### Lecture 29
+2022/04/10: finished,0036 mins SVD is a way of factorization, SLAMBDAS-1 -> QLAMBDAQT if A is symm;
+diagnoal matrices sigma, SVD orthognal times diagnal times orthognal;
+0400 mins, gran smith; ||ATA|| positive semi definite;
+1600 mins, ATA = V SIGMA^2 VT;
+3420 mins, a good example;
+Think for yourself, it can make you easy to make decision without regret and have your mood better;
+I am limiting myself a lot, totally accept failism idea; They will not save you out of charity,;
+3048 mins, singular example;
