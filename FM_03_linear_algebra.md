@@ -91,3 +91,14 @@
 3959 mins, special matrix;
 4811 mins, radius eigen value = Qlambda QT=A, Q eigen vector matrix is direction of radius of elliposoid, eigen value is the size of the vector;
 3612 mins, 2nd derivative matrix, has to be 0, which will determine min point
+
+### Lecture 28
+2022/04/09: finished, 240 mins, a symetry has inverse;
+XTAX>0 XTBX>0 XT(A+B)X>0;
+0859 mins, ATAX=||AX||^2>=0;
+1344 mins, similar matrix;B=M-1AM;
+2046 mins, similar matrix has same lambda's;
+2400 mins, proof of 2046 mins THM;
+2711 mins, bad case lambda1=lambda2=4;
+3100 mins, non diagnolizble? has something to do with inverse, Jordan form;
+4100 mins, Jordan block; number of blocks = number of eigen vectors;
