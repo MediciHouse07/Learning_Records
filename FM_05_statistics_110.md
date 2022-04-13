@@ -111,7 +111,17 @@ independent joint PDF of normal;
 4230 mins, relation of order statistics and beta;
 4523 mins, E(X) = E(X|A)P(A) + E(E|Ac)P(Ac) and its proof, using LOTP;
 4642 mins, envolop paradox, the same as the movie 21 points said;
+### Lecture 26 <br>
+2022/04/11: finished, 0300 mins LOTP;
+2100 mins, partial progress;
+2320 mins, iteration of Ew HH;
+2700 mins, ted peter donnelly;
+3400 mins, g(x)=E(Y|X=x), E(Y|X)=g(X);
+3600 mins, eg E(Y|X)is a r.v.
 ### Lecture 28 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+2022/04/11:  0000<->0830, 0500 mins, category error;
+0727 mins, LOTP;
+0830 mins, Adam's law;
 ### Lecture 29 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
