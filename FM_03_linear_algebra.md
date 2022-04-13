@@ -112,3 +112,11 @@ diagnoal matrices sigma, SVD orthognal times diagnal times orthognal;
 Think for yourself, it can make you easy to make decision without regret and have your mood better;
 I am limiting myself a lot, totally accept failism idea; They will not save you out of charity,;
 3048 mins, singular example;
+
+### Lecture 30
+2022/04/11: finished, 0700 mins, transformation Ex2;
+1700 mins, T(v)=AX;
+2600 mins, coordiate and basis;
+3730 mins, eigenvector basis, lambda coordiates are the best T;
+4300 mins, A and a12 a22, lower case a is the element of A;
+4600 mins, take derivative can be expressed as matrix multiplication, as well as linear transformation
