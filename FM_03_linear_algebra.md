@@ -128,3 +128,22 @@ I am limiting myself a lot, totally accept failism idea; They will not save you 
 2900 mins, good basis & FFT,FWT;
 3200 mins, vector orthonormal, AT=A-1;
 4900 mins, eigen vector, basis is compressed the most, but slow
+
+### Lecture 33
+2022/04/12: finished, 0000 mins, pseudo inverse;
+0353 mins, 2 sided inverse full rank, r=m=n;
+0421 mins, left inverse, A, r=n full column rank, null space={0}
+0 or 1 solution to Ax=b;
+ATA invertable;
+0930 mins, (ATA)-1AT left inverse;
+1349 mins, right inverse, too many solutions;
+r=m<n;
+n(AT)={0};
+AT(AAT)-1;
+1730 mins, classical picture;
+1900 mins, projection matrix;
+3100 mins, stastician;
+3429 mins, SVD can be rectangle matrix? psedo inverse
+SIGMA SIGMA+ = (1100);
+A=uSIGMAVT
+A+=VSIGMA+uT, book sec7.4
