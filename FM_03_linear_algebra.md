@@ -120,3 +120,11 @@ I am limiting myself a lot, totally accept failism idea; They will not save you 
 3730 mins, eigenvector basis, lambda coordiates are the best T;
 4300 mins, A and a12 a22, lower case a is the element of A;
 4600 mins, take derivative can be expressed as matrix multiplication, as well as linear transformation
+
+### Lecture 31
+2022/04/12: finished, 0500 mins, JPEG;
+1100 mins, Fourier basis;
+2206 mins, wavelets;
+2900 mins, good basis & FFT,FWT;
+3200 mins, vector orthonormal, AT=A-1;
+4900 mins, eigen vector, basis is compressed the most, but slow
