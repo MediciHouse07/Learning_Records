@@ -118,6 +118,17 @@ independent joint PDF of normal;
 2700 mins, ted peter donnelly;
 3400 mins, g(x)=E(Y|X=x), E(Y|X)=g(X);
 3600 mins, eg E(Y|X)is a r.v.
+### Lecture 27 <br>
+2022/04/13: finished,0120 mins, best minimize mean square error is the purpose of E(X|Y)
+0600 mins, E(Y|X=x) is function of x;
+0900 mins, E(h(x)Y|X)=h(x)E(Y|X) taking out what's known;
+E(Y|X)=E(Y) if X Y are independent
+E(E(Y|X)) = E(Y) adam's law;
+E((Y-E(Y|X))hx)=0, residual, uncorrelated;
+1900 mins, using plain to understand E(Y|X)
+2700 mins, re-arrange term and summation;
+3300 mins, VAR(X|Y), EVE's Law;
+3700 mins, add variance, just like Chi square
 ### Lecture 28 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/11:  0000<->0830, 0500 mins, category error;
