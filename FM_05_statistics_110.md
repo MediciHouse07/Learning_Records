@@ -133,6 +133,12 @@ E((Y-E(Y|X))hx)=0, residual, uncorrelated;
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/11:  0000<->0830, 0500 mins, category error;
 0727 mins, LOTP;
-0830 mins, Adam's law;
+0830 mins, Adam's law; <br>
+2022/04/13: finished, 1700 mins, how to argue in a court;
+1900 mins, cauchy-schwarz E(XY) analogy to dot product;
+2100 mins, 2D LOTUS; Jension inequality
+2816 mins, E(g(X))>=g(E(X)) <- EX^2 >= (EX)^2, because VAR can't be negative;
+3738 mins, fundamental bridge;
+4345 mins, chebyshev
 ### Lecture 29 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
