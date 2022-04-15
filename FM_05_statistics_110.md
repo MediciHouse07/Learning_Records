@@ -142,3 +142,10 @@ E((Y-E(Y|X))hx)=0, residual, uncorrelated;
 4345 mins, chebyshev
 ### Lecture 29 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
+2022/04/13: finished, 0312 mins, LOLN;
+1800 mins, degenerate distribution;
+3300 mins, by definition;
+3900 mins, factorial grows too fast;
+4100 mins, appromximation;
+4330 mins, fundamental theory CDF - CDF = PDF;
+4600 mins, n large & p, pois converge to normal
