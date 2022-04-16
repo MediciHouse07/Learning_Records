@@ -50,3 +50,7 @@ projection matrix, least square method matrix, symetry matrix, correlation matri
 11330 mins, white light -> rainbow;
 11800 mins, synthetic simulation XXX
 ### Lecture 9
+
+### Lecture 20
+2022/04/14: 0255<->2420, 0255 mins 20 years ago congress cut finance to super collided, lots of physicist lost funding;
+1310 mins, [Call option](https://cn.bing.com/search?q=finance+call+option&qs=n&form=QBRE&sp=-1&pq=finance+call+option&sc=1-19&sk=&cvid=91DEBB9FB6014ED197E541FCC9E6FB81), ZCB, [digitalized option](), [Strike](https://financial-dictionary.thefreedictionary.com/Strike+(finance)),[Payout](https://cn.bing.com/search?q=payout&cvid=afc2040553354007aa77553b1731b792&aqs=edge.0.0l9.2524j0j1&pglt=673&FORM=ANNTA1&PC=W069)
