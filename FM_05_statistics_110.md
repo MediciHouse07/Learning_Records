@@ -149,3 +149,18 @@ E((Y-E(Y|X))hx)=0, residual, uncorrelated;
 4100 mins, appromximation;
 4330 mins, fundamental theory CDF - CDF = PDF;
 4600 mins, n large & p, pois converge to normal
+
+### Lecture 30 <br>
+2022/04/14: finished, 0141 mins, chi square n, chisquare 1 -> take 1 N(0,1) is Gamma(1/2,1/2), chi square n is Gamma (n/2,1/2),
+0816 mins, Gosset 1908 student-t;
+1337 mins, Cauchy and student t;
+2500 mins, LOLN;
+2905 mins, MVN;
+3000 mins, Random vector;
+ind->uncorrelated, uncorrelated!=>ind for univariate, while it seems work for multi-variate
+COV(X+Y,X-Y)
+
+### Lecture 31 <br>
+2022/04/14: 0<->1928, 0430 mins, stochastics process;
+0730 mins, 171 class stochastic process;
+1928 mins, lost interest for today
