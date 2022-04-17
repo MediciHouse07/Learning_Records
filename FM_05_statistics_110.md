@@ -163,4 +163,12 @@ COV(X+Y,X-Y)
 ### Lecture 31 <br>
 2022/04/14: 0<->1928, 0430 mins, stochastics process;
 0730 mins, 171 class stochastic process;
-1928 mins, lost interest for today
+1928 mins, lost interest for today <br>
+2022/04/15: finished , 1920<->End
+2230 mins, Markov monte carlo;
+2600 mins, Markov story;
+4000 mins, stationary;
+
+### Lecture 34 <br>
+2022/04/15: finished, 0730 mins, probability model->data, inference data->parameter;
+1940 mins, mostly harmless econometric book
