@@ -177,7 +177,10 @@ COV(X+Y,X-Y)
 2700 mins, prob vector;
 2930 mins, reversible markov chain;
 4500 mins, proof of chain, qij=1/di
-
+### Lecture 33 <br>
+2022/04/16: finished, 1700 mins, Markov chain - google;
+2000 mins, google story;
+3600 mins, teleportation = fancy word of not follow the hyperlink's instruction, google set the threshold as 0.85
 ### Lecture 34 <br>
 2022/04/15: finished, 0730 mins, probability model->data, inference data->parameter;
 1940 mins, mostly harmless econometric book
