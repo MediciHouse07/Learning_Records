@@ -169,6 +169,15 @@ COV(X+Y,X-Y)
 2600 mins, Markov story;
 4000 mins, stationary;
 
+### Lecture 32 <br>
+2022/04/16: finished, 0640 mins, irr irreducible, you can go anywhere from anywhere;
+0812 mins, recurrent, start at a state return to a state; otherwise, transient;
+1330 mins, absorbing state;
+2230 mins, Markov chain, si=1/ri, ri start at i;
+2700 mins, prob vector;
+2930 mins, reversible markov chain;
+4500 mins, proof of chain, qij=1/di
+
 ### Lecture 34 <br>
 2022/04/15: finished, 0730 mins, probability model->data, inference data->parameter;
 1940 mins, mostly harmless econometric book
