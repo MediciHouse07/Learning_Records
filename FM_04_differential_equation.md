@@ -8,3 +8,13 @@
 3700 mins, 2 intergral can't have 2 slopes;
 4011 mins, 2 intergral curve can't be tangent;
 4000 mins, exist and uniqueness
+
+### Lecture 2:
+2022/04/23: finished, 0212 mins, numerical solutions, IVP initial value P;
+0600 mins, h, step size;
+0827 mins, Euler equations;
+1900 mins, Euler too high, too low, for approxmination;
+2456 mins, error;
+3000 mins, first order method, halve the step size, halve the error;
+4116 mins, improved Euler, RK2, 2nd order method;
+5000 mins, singularity
