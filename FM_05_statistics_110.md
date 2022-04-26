@@ -95,6 +95,19 @@ independent joint PDF of normal;
 3320 mins, F(R.V.) is a R.V.;
 4400 mins, TARP;
 4200 mins, FX problem puzzle
+2022/04/24: finished, 0225 mins, generalized uniform is beta, bounded by 0 and 1, not flat, beta(a,b), a>0,b>0;
+0728 mins, conjugate prior to binomial;
+1053 mins, X is observed data, X|P ~ Bin(n,p), P~B(a,b) - prior;
+laplace?uniform?;
+f=PDF;
+1604 mins, interesting explaination of beta;
+1741 mins, 1st moment beta, 2nd moment still beta;
+nomalizing constant;
+2023 mins, bayes billiards;
+2415 mins, PDF of uniform is 1;
+4420 mins, warrant = call option;
+4725 mins, strike price;
+4825 mins, LOTUS;
 ### Lecture 24 <br>
 2022/04/08: finished, 0530 mins, sterling formula;
 1133 mins, Gama function factorial formula;
