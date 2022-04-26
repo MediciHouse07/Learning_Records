@@ -9,9 +9,12 @@
   2022/03/18: 💫 1406/11528, Normal distribution <br>
   2022/03/19: ① 5227/11528<br>
   2022/03/29: finished, CDS, Chile peso history story, index bond
-
 ## Lectue 7
 2022/03/18: 💫 0935/10744, stopped, because lacking of knowledge of sharp ratio
+## Lecture 17
+2022/04/25: 0000<->2823, 0111 call option, put option, strike = exercise price;
+1600 mins, insurance like a put option;
+2333 mins, option market is derivative market, CBOE 1973 the first derivative exchange market, Chicago
 
 # 2. Statistics Regression [Link](https://www.youtube.com/watch?v=yP1S37BiEsQ&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=13)
 
