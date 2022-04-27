@@ -114,6 +114,16 @@ nomalizing constant;
 1733 mins, normalizing constant of normal;
 3600 mins, MGF proff gama distribution;
 2150 mins, transformatijon Y=X/lambda;
+
+2022/04/25: finished, 0600 mins, sterling formula;
+0818 mins, gamma function is important;
+1305 mins, intergral from 0 to infinity 1/e^x dx = 1;
+1420 mins, intergration by parts;
+2000 mins, Gamma(a,1), Gamma(a,lambda);
+2130 mins, transformation;
+2300 mins, Gamma related with many distribution;
+2800 mins, memoriless property, poisson & exponential;
+4256 mins, LOTUS
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 2022/04/09: finished, 332 mins, Beta Gamma, need to review previous 2 videos; transformation function;
