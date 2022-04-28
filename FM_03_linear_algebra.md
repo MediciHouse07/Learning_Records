@@ -20,7 +20,7 @@
 2022/03/22: 💫 basis, null space, rank, dimension of column space of A
 
 ### Lecture 10 <br>
-2022/03/22: 💫 finished
+2022/03/22: 💫 finished <br>
 2022/04/26: finished, 0330 mins, 2 equal row -> singular matrix, means dependent;
 0540 mins, rank, double check;
 1819 mins, special solutions;
