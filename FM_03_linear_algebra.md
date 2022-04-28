@@ -21,6 +21,12 @@
 
 ### Lecture 10 <br>
 2022/03/22: 💫 finished
+2022/04/26: finished, 0330 mins, 2 equal row -> singular matrix, means dependent;
+0540 mins, rank, double check;
+1819 mins, special solutions;
+2443 mins, C(R)<>C(A) different column spaces but same row space;
+2600 mins, basis for row space, first row of R;
+3400 mins, Gauss-Jordan;
 
 ### Lecture 11 <br>
 2022/03/23: 💫 finished
