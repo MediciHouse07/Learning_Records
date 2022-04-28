@@ -31,7 +31,13 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
-2022/04/01: finished, around 21 minutes, by linearity, binomial converge to poisson, e^x = 1 + e/1 + e^2/2 + ... e^n/n! ; need to check calculus, rate of change, law of lopital
+2022/04/01: finished, around 21 minutes, by linearity, binomial converge to poisson, e^x = 1 + e/1 + e^2/2 + ... e^n/n! ; need to check calculus, rate of change, law of lopital <br>
+2022/04/26: finished, 0500 mins, random variable - house, distribution - blue print;
+0750 mins, poisson, P(X=k), k=0,1,2 lambda>0;
+1300 mins, poisson like binomial, number of success;
+2200 mins, poisson can have different Pj, events can be dependent;
+2900 mins, e^x = (1+x/n)^n, compound annual ?interest?;
+3700 mins, Iijk indicator R.V.
 ### Lecture 12 <br>
 2022/04/02: finished, around 1616 minutes FTC from calculus; 3803 minutes, take a function of R.V. is a R.V. ; law of the unconsicious stastician, LOTUS E(g(x))=accumulate from -infinite to +infinite g(x)fX(x)dx; uniform can be everything, just like a indicator I, 4907 minutes, P(F-1(u)<=x)=P(u<=F(x)) because CDF is continously increasing 
 ### Lecture 13 <br>
