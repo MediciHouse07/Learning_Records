@@ -1,3 +1,12 @@
+# Lecture Week5
+## Lec 1 The world that Badgehot knew
+### 1-1 Video
+2022/04/27: finished
+### 1-2 Video
+2022/04/27: finished
+### 1-3 Reading
+2022/04/27: need to read
+
 # Lecture Week6
 ## Lec 1
 ### 1-4
