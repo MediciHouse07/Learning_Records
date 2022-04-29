@@ -39,7 +39,15 @@ PDF PMS CDF, always forgot the difference between them
 2900 mins, e^x = (1+x/n)^n, compound annual ?interest?;
 3700 mins, Iijk indicator R.V.
 ### Lecture 12 <br>
-2022/04/02: finished, around 1616 minutes FTC from calculus; 3803 minutes, take a function of R.V. is a R.V. ; law of the unconsicious stastician, LOTUS E(g(x))=accumulate from -infinite to +infinite g(x)fX(x)dx; uniform can be everything, just like a indicator I, 4907 minutes, P(F-1(u)<=x)=P(u<=F(x)) because CDF is continously increasing 
+2022/04/02: finished, around 1616 minutes FTC from calculus; 3803 minutes, take a function of R.V. is a R.V. ; law of the unconsicious stastician, LOTUS E(g(x))=accumulate from -infinite to +infinite g(x)fX(x)dx; uniform can be everything, just like a indicator I, 4907 minutes, P(F-1(u)<=x)=P(u<=F(x)) because CDF is continously increasing <br>
+2022/04/27: finished, 0300 mins, fX(x) specific for PDF, P(X=x) is PMF, f(x) is not probability but it is PDF, intergral is probability;
+1500 mins, FTC;
+1839 mins, assume derivative exist, for CDF;
+2039 mins, expectation is one number summary, variance is spread, absolute value is not differeantiable;
+3216 mins, uniform probility propotion to length, completely random;
+3924 mins, LOTUS first show;
+4423 mins, unif(0,1) can generate all distribution;
+4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
 2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration
 ### Lecture 14 <br>
