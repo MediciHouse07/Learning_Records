@@ -18,6 +18,11 @@
 
 ## Lecture 22
 2022/04/01: finished, banking system/intermediation, ?court system, insurance system, buraxxx system? Bank issue paper, or CB issue paper; bank regulator prevent bank run; bank has 2 types of equilibrium
+
+## Lecture 23
+2022/04/28: 0000<->3000, 1500 mins, CB distributed money through bond, CB law prohibit give the newly printed money to GOV;
+2700 mins, <1 year bill, <1<10 year is note, >10 year is bond in US
+
 ## Lecture 29
 
 ## Lecture 32
