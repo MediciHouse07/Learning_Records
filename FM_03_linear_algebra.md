@@ -17,7 +17,15 @@
 2022/03/21:💫 Finished this lecture, and some take away, in the last few minutes, rank tell you everything about number of solutions, if you forgot, watch it again
 
 ### Lecture 9 <br>
-2022/03/22: 💫 basis, null space, rank, dimension of column space of A
+2022/03/22: 💫 basis, null space, rank, dimension of column space of A <br>
+2022/04/28: finished, 0300 mins, m<n means there are free variables, means it has non-zero solutions;
+0900 mins, introduce the concept of dependent;
+1500 mins, independent AX=0, rank=0, N(A)=0; dependent N(A) non-zero rank<n;
+3000 mins, vectors give basis, the matrix is invertible;
+3400 mins, basis is square matrix;
+3900 mins, how special solution is produced;
+4200 mins, rank A = # of pivot columns = dim of C(A);
+4643 mins, dim N(A) = n - r = # of free variables;
 
 ### Lecture 10 <br>
 2022/03/22: 💫 finished <br>
