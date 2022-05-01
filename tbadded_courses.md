@@ -84,8 +84,8 @@ cross correlation function;
 
 ### Lecture 4:
 2022/04/05: 2950/11423, 0440 mins, sigma j=-r to j=r, r is band width;
-2313 mins, lowess, locally weighted scatterplot, useful smoother in R
-
+2313 mins, lowess, locally weighted scatterplot, useful smoother in R <br>
+2022/04/30: 0600<->2121
 # 8. Financial theory
 Lecturer: John Geanakoplos
 
