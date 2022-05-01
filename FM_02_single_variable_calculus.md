@@ -28,7 +28,20 @@ Lecture 2 is finished, continuous stuff
 ### Lecture 12 <br>
 2022/04/01: finished, this course is not about relative rate of change
 ### Lecture 13 <br>
-2022/04/01: 1650/5322, relative rate of change
+2022/04/01: 1650/5322, relative rate of change <br>
+2022/04/29: finished, 0850 mins: conical can be simplified as triangle
+1110 mins : setup for a problem, picture + formula + question
+BI can help, it can perform a better EDA
+1330 mins: h is a function of t, x is a function of t, that way dxdt is still on the board
+TBR convolution, TBR PCA
+
+A modern view of economy
+
+2237 mins: label things require experiene, experience see? watch this part.
+
+2424 mins: constraint curve
+4128 mins: Newton's method is to get a root, which is solution, it goes really fast, only 4 steps is needed it goes the the edge of a calculator
+4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 2022/03/29: 💫finished, the begining of the lecture has something to do with Newton's law, it is just like an iteration of linear approximation
 ### Lecture 15 <br>
