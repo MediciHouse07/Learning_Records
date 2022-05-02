@@ -43,7 +43,14 @@
 2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
 
 ### Lecture 15 <br>
-2022/03/25:  finished why when m>n, which means by which m equations and n unknown there is no solution? because: it might have a situation like 0=1, or x1=1 in the same time x1=2
+2022/03/25:  finished why when m>n, which means by which m equations and n unknown there is no solution? because: it might have a situation like 0=1, or x1=1 in the same time x1=2 <br>
+2022/04/30: finished, 0428 mins, projection matrix of OLS;
+0830 mins, uppercase of P projection matrix, lowercase p is projected vector, aTa is length square;
+1200 mins, C(P) line through A in the example, rank(P) = 1 in the example;
+P^2=P, P^T=P symmetric;
+1800 mins, m>n, Ax=b no solution, solve Axhat=P;
+3742 mins, A is not square matrix;A is square matrix, P = I, which means column space of A is the whole R^n, P is I, notice sigular cases;
+4621 mins, m>n case, unknown are paprameters vector
 
 ### Lecture 16 <br>
 2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
