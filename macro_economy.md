@@ -21,7 +21,12 @@
 
 ## Lecture 23
 2022/04/28: 0000<->3000, 1500 mins, CB distributed money through bond, CB law prohibit give the newly printed money to GOV;
-2700 mins, <1 year bill, <1<10 year is note, >10 year is bond in US
+2700 mins, <1 year bill, <1<10 year is note, >10 year is bond in US <br>
+2022/05/01: 3000<->10007 finished, 3526 mins, transfering purchasing power for a year IR is a fee for that = this is real interest rate;
+4309 mins, open market operation, the point is, this is an operation;
+4506 mins, bond fixed income security;
+5300 mins, money multiplier, base money + demand deposit = M1; M1 + time deposit = M2;
+5853 mins, leakage;
 
 ## Lecture 29
 
