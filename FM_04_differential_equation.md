@@ -18,3 +18,13 @@
 3000 mins, first order method, halve the step size, halve the error;
 4116 mins, improved Euler, RK2, 2nd order method;
 5000 mins, singularity
+
+### Lecture 3:
+2022/05/01: finished, 0112 mins, seperation of variable, first order linear DE;
+0330 mins, c=0 homogeneous;
+0505 mins, standard linear form;
+0911 mins, models;
+1258 mins, Newton's cooling law;
+concentration;
+3200 mins, example;
+4900 mins, steady state
