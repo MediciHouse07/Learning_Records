@@ -49,7 +49,18 @@ PDF PMS CDF, always forgot the difference between them
 4423 mins, unif(0,1) can generate all distribution;
 4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
-2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration
+2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration <br>
+2022/05/02: finished, 0300 mins, universality of universe, CDF, right continus, <- = 0, -> = 1, strictly increase;
+1-1/e^x, exponential distribution;
+1339 mins, 1-unif ~ unif, symmetry of unnif, a+bu is unif on some interval;
+1800 mins, definition of independent, TBR the first time independent is mentioned;
+participating;
+3500 mins, merge 2 intergral to a double intergral, because when you do it one by one, you will treat one as constant;
+3700 mins, Jacobian, TBR, in math handout;
+2100 mins, case of pairwise independent <> independent;
+3100 mins, taylor series and e^x, antiderivative, porlar coordinate;
+3900 mins, intergral e^-u du = 1;
+4800 mins, integral by part
 ### Lecture 14 <br>
 2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
 
