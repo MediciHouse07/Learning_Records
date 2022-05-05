@@ -215,7 +215,17 @@ COV(X+Y,X-Y)
 2022/04/15: finished , 1920<->End
 2230 mins, Markov monte carlo;
 2600 mins, Markov story;
-4000 mins, stationary;
+4000 mins, stationary;<br>
+2022/05/03: finished, 0346 mins, TBR ineuality;
+0519 mins, stochastic processes, X0 X1 X2 with some dependence, one step beyond iid;
+0732 mins, cont/discrete time, cont/discrete space
+1049 mins, Markov property;
+1159 mins, past future, conditionally independent, given the present;
+1358 mins, homogeneous, qij independent of t;
+2333 mins, Markov chain, converge to a distribution you are interested in, this is MCMC Markov chain monte carlo, build your own MC, TBR fourier;
+2641 mins, LOLN hold on iid, free will, LOLN hold in Markov;
+3300 mins, LOTP;
+4000 mins, stationary, steady state, converge, $\vec{s}$$Q$ = $\vec{s}$, also it is eigen value and eigen vector
 
 ### Lecture 32 <br>
 2022/04/16: finished, 0640 mins, irr irreducible, you can go anywhere from anywhere;
