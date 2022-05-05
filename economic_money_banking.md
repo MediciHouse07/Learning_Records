@@ -6,6 +6,19 @@
 2022/04/27: finished
 ### 1-3 Reading
 2022/04/27: need to read
+### 1-4 Video
+2022/05/03: finished, bank talke liquidity risk turn something from without interest to with interest
+### 1-5 Video
+2022/05/03: finished, bank can use deposit to achieve above target as well
+### 1-6 Video
+2022/05/03: finished, quoting rate increase, to refuse when you worry about your own balance sheet, when you sort of running out of notes
+## Lec 2
+### 2-1 Video
+2022/05/03: finished, look at their own bs, London MM is the world MM, market rate of interest;
+### 2-2 Video
+2022/05/03: finished, rediscount is interbank rate, bank rate is central bank rate;
+1844 peel's act, seperate it to issuing department, and banking department;
+Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is doing business like a bank, discount business and something related
 
 # Lecture Week6
 ## Lec 1
