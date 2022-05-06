@@ -187,7 +187,17 @@ E((Y-E(Y|X))hx)=0, residual, uncorrelated;
 2100 mins, 2D LOTUS; Jension inequality
 2816 mins, E(g(X))>=g(E(X)) <- EX^2 >= (EX)^2, because VAR can't be negative;
 3738 mins, fundamental bridge;
-4345 mins, chebyshev
+4345 mins, chebyshev; <br>
+2022/05/04: finished, 700 mins, EX=sigma E(X|N)P(N);
+0830 mins, adam's law E(X)=E(E(X|N)) E(X|N) means treat N as known;
+1034 mins, Var(X) = E(VAR(X|N)) + VAR(E(X|N)) Eve's law;
+1300 mins, MGF, TBR MGF,  sigma X = PI MGF of each X;
+1900 mins, cauchy schwarz inequanlity, intuitively means corr<=1, it shows correlation how it looks like when miu = 0;
+when X and Y uncorrelated, E(XY) = E(X)E(Y);
+2412 mins, Jension inequality, g is convex E(g(x)) >= g(E(X)), EX^2 >= E(X)^2 intuitively understanding;
+3446 mins, Markov inequality, use bridge indicator;
+4100 mins, intuition of Markov;
+4200 mins, chebyshev
 ### Lecture 29 <br>
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/13: finished, 0312 mins, LOLN;
