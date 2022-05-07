@@ -110,7 +110,20 @@ independent joint PDF of normal;
 1705 mins, log normal;
 2355 mins, jacobian;
 2600 mins, convolution - fancy name of sum;
-4000 mins +, shenon information theory;
+4000 mins +, shenon information theory;<br>
+
+2022/05/05: finished,
+0038 mins, hyper geometric;
+0220 mins, VAR and COV, expansion of VAR(SIGMA Xi);
+0535 mins, finite population correction;
+0736 mins, transformation, fY(y) = fX(x)dx/dy, y = g(x), x = g-1(y);
+1648 mins, log Normal, don't seperate dx/dy unless you interprete it right;
+2115 mins, random vector, n dimension transformation;
+2345 mins, Jacobian, TBR, matrix of all possible partial derivative, reciprocal;
+2746 mins, convolution, fancy word of sum of random variable;
+3212 mins, you can swap derivative and intergral, there is a theory proves that;
+3357 mins, probability can be used to prove existence of something that you can't exibht? TBRT (to be reviewed, this);
+3916 mins, shennon theory, TBRT;
 ### Lecture 23 <br>
 2022/04/07: finished, 0830 mins conjugate prior;
 1049 mins, bayesian statistics;
