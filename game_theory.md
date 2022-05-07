@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 2
 202/05/05: 0700 mins, ingredient of a game;
 2232 mins, strict dominated, handout
 3000 mins, put yourself to other's shoes;
