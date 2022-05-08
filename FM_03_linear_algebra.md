@@ -100,7 +100,24 @@ P^2=P, P^T=P symmetric;
 1341 mins, perpendicular in complex;
 2206 mins, fourier series, euler formula;
 3400 mins, why FFT need to review;
-4550 mins, example of applying FFT
+4550 mins, example of applying FFT <br>
+
+2022/05/06:
+0300 mins, FFT make n^2 mults to nlog2n
+0500 mins, good ATA is positive, so ZTZ is no good, Z-TZ is good and the formula is equivalent as ZHZ
+0921 mins, inner product of complex is yHX 
+1557 mins, unitary = orthognoal but in complex space, hermitian = symmetry in complex space
+1727 mins, TBR basis, orthognal;
+fourier series, Fnij = w^ij
+2102 mins, w is a special number, w^n =  1, euler formula, eix= cos+sin , and by this, w = i 
+2735 mins, F4 column are orthognal or ?unitary?, deal with inner product of compex number you have to take hermitation, or conjugate
+3133 mins, orthognal and orthonrmal-unit,
+3200 mins, cols orthonormal matrix has property, FHF=I, inverse is easy to find
+3400 mins, w64^2=w32
+3700 mins, permutation matrix is change location of rows
+3900 mins, diagnal matrix in this case, how it is looked like
+4108 mins, you can keep performing FT, TBR diagnal matrix, TBRT
+ 
 
 ### Lecture 27
 2022/04/08: finished, ellipsoid=football, hyperbloic=double curve line, parabola=x^2;
