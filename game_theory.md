@@ -16,3 +16,15 @@
 1733 mins, vote still there , strategy can be deleted;
 2343 mins, median voter THM;
 2600 mins, application of median voter THM is gas station, they will not evenly distributed on a road, they will tend to be closing to center.
+
+2022/05/06: 3321<->the end, 3455 mins, some assumption can't be met, does it mean model doesn't work, should we abondone it? an argument
+, you should enrich your model, instead of abondone it
+
+3846 mins, political science model
+
+4046 mins, different approach, best response, no dominated a scenario, but you manage to rationalize it
+
+5042 mins, a diagram with p(r) on the x axis, E(payoff of choosing up) on the y axis, it is like a gamma, I guess this theory is more like the thing I have been searching.
+haha, math phobe
+
+10000 mins, the most important game in the world
