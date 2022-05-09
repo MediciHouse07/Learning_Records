@@ -49,7 +49,19 @@ A modern view of economy
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
-
+### Lecture 19
+2022/05/07: finished, 0116 mins, FTC1, fundamental THM is F(b)-F(a)=integral a to b
+anti derivative is not about a or b;
+0605 mins, he says in the last lecture, they handle intergral 0 to b is laborious, so TBR the last lecture to see what method he was using, maybe is reman sum;
+1225 mins, odometer, speedometer;
+1429 mins, sum is approximation of intergral;
+Riemann sum;
+2200 mins, total distance can be calculated with a absolute operation;
+2306 mins, integral of sum = sumof integral, integral sign is a sum, in French it is called as sum;
+other properties of integral; c can be factoring out if it doesn't depend on x;
+3313 mins, inequality, keep integral it repeatedly, then you get taylor series sort of;
+3731 mins, change of variable for substitution; u' doesn't change sign;
+4152 mins, the reason for using dx or du;
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 ### Lecture 37 <br>
