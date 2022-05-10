@@ -66,9 +66,38 @@ participating;
 
 ### Lecture 16 <br>
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
+
+2022/05/08: 
+0200 mins, Exponential distribution, TBR hyper geometric distribution; TBR MGF
+0530 mins, Exp(1), Y=lambdaX;
+0809 mins, intergration by part;
+1132 mins, exponential distribution, memoriless property; binomial waiting in the discrete time, exponential waiting in the continuous time;
+1446 mins, survival function, P(X>=s);
+1640 mins, exponential prob is the only one memoriless in continuous , geometric is the only memoriless in discrete;
+
 ### Lecture 17 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/02: 3720/5044, 1:00 mins, conditional probability; 910 mins, prove the uniqueness of exp memoryless property; 2238 finite sum is applicable for linearity, infinite sum need to take course real analysis; 2430 mins, interpretation of MGF; 2630 mins, MGF determines distribution; 3018 mins, MGF of X+Y, make X+Y to be easier to be detected; 3500 mins, normal MGF; M^(n)(0)=E(X^n) ; R.V. X has MGF M(t) = E(e^tx)
+
+2022/05/08:
+0000<->3000
+0129 mins: conditional probability is probability, conditiaonal expectation is expectation;
+0247 mins: bias answer;
+0455 mins, memoriless property will say, average is 80, when you are 20, then your new E age will be 100
+E(T|T>20)=20+E(T), otherwise E(T|T>20) > E(T)
+0740 mins, cubic of exponential is a viable
+0850 mins, memoriless property is a property of distribution not for a r.v.
+0910 mins, if X is a continuous memoriless, then it is a X~Exp(lambda);
+I can call myself as librian
+1036 mins, memoriless property is G(s+t) = G(s)G(t);
+1521 mins, continuous function can swap limit and function, after you take limit, you can make m/n from rational to real number
+1800 mins, definition of MGF;
+1820 mins, MGF is finite on some interval around 0 otherwise it is not useful, it must be exist to be useful;
+2238 mins, if a series is finite, linearity work immediately;
+2552 mins, M^n(0)=E(X^n);
+2635 mins, MGF determines distribution;
+2744 mins, MGF make sum of independent r.v. easy, TBR convolution, TBR C(9,10)=0;
+
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/03: finished, 138 mins moment of inertia; 826 mins benefit of using MGF; 1104 E(Z^n)=0 odd by symetry, normal distribution; 1350 mins geo series converges t<1, taylor series converges everywhere; 2129 mins convolution E(X+Y), take MGF of X * MGF of Y, the result is sum of pois is a pois if they are independent; 2907 mins joint distribution, condition for PMF joint distribution; 4230 mins simple extrem case, analysis method <br>
