@@ -39,3 +39,20 @@ haha, math phobe
 2512 mins, BR best response, si hat, and si' is my strategy
 2800 mins, expectation given the belief
 EU1(L,P)=P(l)u1(L,l)+p(r)(L,r)
+
+2022/05/08:
+3000<->End
+
+3326 mins, continuous strategy;
+3525 mins, bs1s2 implies the good part of work together;
+3800 mins, continuous strategy;
+4052 mins, handout, book need to download;
+4324 mins, second derivative, to identify max and min;
+4441 mins, BR1(s2), best response of player 1 given the response of player 2;
+5040 mins, not to choose a strategy that is not best strategy of anything;
+5807 mins, box will converge in the intersection;;
+10029 mins, delete the are that are not best response to anyone;
+10448 mins, externality, you put all your energy but you take half of the proft;
+externality, my benefit not only benefit me, but also you
+10800 mins, Nash Equilibrium;
+10940 mins, on Nash Equilibrium, player 1 and player 2 neither of them have incentive to deviate their behaviour, and they are plaing a best response to each other;
