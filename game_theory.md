@@ -28,3 +28,14 @@
 haha, math phobe
 
 10000 mins, the most important game in the world
+
+# Lecture 4
+2022/05/08:
+0000<->3000
+0114 mins, penalty kick in soccer game;
+0530 mins, best, second best, worst;
+1210 mins, middle is not hold in any believe;
+1400 mins, don't choose a strategy that is never a best response to any belief;
+2512 mins, BR best response, si hat, and si' is my strategy
+2800 mins, expectation given the belief
+EU1(L,P)=P(l)u1(L,l)+p(r)(L,r)
