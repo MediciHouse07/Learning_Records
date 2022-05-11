@@ -64,6 +64,32 @@ participating;
 ### Lecture 14 <br>
 2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
 
+2022/05/09:
+0000 mins,
+Normal, E(Z)=0, VAR(Z)=E(Z^2)=1, E(Z^3)=0
+0417 mins, -Z is a normal by symmetry;
+0522 mins, mean location, SD scale;
+0706 mins, VAR(miu + sigma z);
+0922 mins, P(X=1)=1 VAR(X)=0;
+1037 mins, VAR(X+Y)=VAR(X)+VAR(Y) if X and Y are indepenent, otherwise it doesn't hold;
+1230 mins, if you add X+X, they are the same, it will magnify the variability;
+1502 mins, derive PDF and CDF of a normal that is with offset location and magifiny of sigma
+1859 mins, add 2 normal, the distribution is still a normal with miu1+miu2, sigma1^2 + sigma2^2
+X1-X2 has exactly the same property;
+Not only they have the expected miu and sigma, they are also normal;
+68-95-99.7 rule;
+2400 mins, another way of writing PMF;
+USF, taylor series, euler formula, put it somewhere so taht you can read;
+3138 mins, possion has mean lambda, and variance lambda;
+geometric dist is an analogous of exponential dist;
+3726 mins, symmetry, indicator r.v. , linearity;
+3840 mins, product of indicator r.v. is an indicator r.v.
+4015 mins, expect I1 and I2 happens, it is just p1*p2;
+4109 mins, hyper geo metric, not independent;
+4344 mins, proof of LOTUS TBRT;
+4458 mins, r.v. is a function that map sample to x;
+
+
 ### Lecture 16 <br>
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 
