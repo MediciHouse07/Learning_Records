@@ -56,3 +56,18 @@ EU1(L,P)=P(l)u1(L,l)+p(r)(L,r)
 externality, my benefit not only benefit me, but also you
 10800 mins, Nash Equilibrium;
 10940 mins, on Nash Equilibrium, player 1 and player 2 neither of them have incentive to deviate their behaviour, and they are plaing a best response to each other;
+
+# Lecture 5
+2022/05/09:
+0000<->3000
+0048 mins, profile is a collection a strategy each player choose; One strategy for each players;
+0147 mins, NE, each player's response should be best response in term's of other's choice, s-1; NE will not always happen;
+0350 mins, no regret is a result of NE;
+0730 mins, self-fulfilling;
+1530 mins, analogous of NE between discrete case and continous case;
+1637 mins, NE inter-section in discrete case;
+1733 mins, rationality will make the result approach to the NE;
+1800 mins, a circle, you know that I know things, TBRT; a case of rationality can't lead you to NE;
+2337 mins, 1. dominance, 2. BR, 3.NE;
+2659 mins, a strictly dominated can't be played in a NE;because it is not a BR to anything;
+2813 mins, pay attention to weakly dominated strategy;
