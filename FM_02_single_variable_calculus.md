@@ -44,6 +44,25 @@ A modern view of economy
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 2022/03/29: 💫finished, the begining of the lecture has something to do with Newton's law, it is just like an iteration of linear approximation
+
+2022/05/10: 
+finished
+0410 mins, error analysis;
+0821 mins, newton's method works if f' is not too small, f'' is not to big, x0 start nearby;
+parabola;
+1337 mins, f'(x0) = 0, x1 is unreachable, so that means x1 is undefined;
+1624 mins, MVT;
+1941 mins, MVT condition, continuous at a<=x<=b, differentiable a<x<b; difference between differentiable and continous, TBR;
+continous, limx->0=0, contious, f';
+2530 mins, the case where hypothesis doesn't meet;
+2753 mins, applications;
+knowing who is treating you good is hard;
+2957 mins, re-write derivative formula and MVT and notice the link between the two, MVT make derivative exist?;
+3747 mins, minf'<=MVT=f'<=maxf' ;corollary, neccessary ;
+4003 mins, linear approximation says average speed equals initial spe ed, MVT says averge speed equals the speed at point c;
+4414 mins, the only thing about MVT you need to know;
+minf'<=MVT=f'<=maxf';
+4443 mins, inequalities; e^x>1+x , e^x>1+x+x^2/2, and so on, taylor series again;
 ### Lecture 15 <br>
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
