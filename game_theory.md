@@ -71,3 +71,16 @@ externality, my benefit not only benefit me, but also you
 2337 mins, 1. dominance, 2. BR, 3.NE;
 2659 mins, a strictly dominated can't be played in a NE;because it is not a BR to anything;
 2813 mins, pay attention to weakly dominated strategy;
+
+2022/05/10:
+3000<->10031, 9 minutes left;
+3100 mins, if there is no strictly dominance, NE will generate some stupid conclusion;
+4008 mins, 2 NE on the case, everyone invest or everyone doesn't invest;
+4205 mins, think NE by thinking no regret;
+4255 mins, guess and check is a good method, it is not a bad way to find NE; Especially for a lot of players, but the solution are not too much;
+4619 mins, the play converge so fast towards to no invest; It is aproaching to not to invest NE, there are 2 NEs remember; parato dominated; bear market;
+People are less of confident towards the market;
+5041 mins, self-fulfilling proficy;
+5136 mins, in prisoner's dillima, there is strictly dominated strategy, while in the investment game there is no strictly dominated strategy;
+5320 mins, coordination game normally bad outcome is the result;
+5939 mins, microsoft and network example will be like the investment game;
