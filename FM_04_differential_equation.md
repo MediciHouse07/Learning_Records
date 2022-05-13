@@ -28,3 +28,16 @@
 concentration;
 3200 mins, example;
 4900 mins, steady state
+
+### Lecture 4
+2022/05/11:
+Beginning<->2655,
+0120 mins, turn a equation to we solved already; TBR intergration by part, substitution;
+0424 mins, make variable dimensionless?;
+0550 mins, T is internal temperature, M is constant external temperature;
+0704 mins, an example of dimensionless;
+1028 mins, lumping constant;
+1428 mins, direct substitution, new variable on the left or on the right;
+1830 mins, a linear equation strugle to be free;
+2020 mins, turn a equation from not linear to linear by substitution;
+2500 mins, the process of substitute back;
