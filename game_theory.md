@@ -84,3 +84,10 @@ People are less of confident towards the market;
 5136 mins, in prisoner's dillima, there is strictly dominated strategy, while in the investment game there is no strictly dominated strategy;
 5320 mins, coordination game normally bad outcome is the result;
 5939 mins, microsoft and network example will be like the investment game;
+
+2022/05/11:
+finished, 10000<->End,
+5800 mins, everyone watching american idol, everyone have the same topic;
+10100 mins, listed company, or listed stock exchange;
+10120 mins, bank run;before 1930 lots bank run, a case from good equalibrium to band equalibrium;The end of story is not as I thought;
+10640 mins, after a speech, in this case, he is not trying to persuade you to play a dominated strategy, he persuade you to play a NE; contract is mentioned; NE can be self enforcing agreement;
