@@ -41,3 +41,12 @@ Beginning<->2655,
 1830 mins, a linear equation strugle to be free;
 2020 mins, turn a equation from not linear to linear by substitution;
 2500 mins, the process of substitute back;
+
+2022/05/12:
+2655<->End
+2735 mins, homogeneous ODE's, homogeneous means it is in the same type, e.g., this formula is "baisis" element is (y/x);
+
+3544 mins, the art of substitution;
+4005 mins, slope makes a constant angle with the beam; becasue slope is tangent;
+4325 mins, tangent plus formula;
+4800 mins, polar coordinates, TBR;
