@@ -137,4 +137,5 @@ USF search your interested topic in the video;
 
 0600 mins, marginal revenue curve is twice slope;
 short run and long run; economic profit, accounting profit;
-ATC, average total cost
+ATC, average total cost;
+MC=MR q*;
