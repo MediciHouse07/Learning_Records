@@ -43,7 +43,7 @@ Beginning<->2655,
 2500 mins, the process of substitute back;
 
 2022/05/12:
-2655<->End
+finished, 2655<->End
 2735 mins, homogeneous ODE's, homogeneous means it is in the same type, e.g., this formula is "baisis" element is (y/x);
 
 3544 mins, the art of substitution;
