@@ -92,3 +92,49 @@ Lecturer: John Geanakoplos
 # 9. Howard university measure theory
 ### Lecture 1
 2022/04/01:0922/5014, measure theory translate probability to area, provide a new way of measuring things.
+
+# 10. Khan micro economic
+## Lecture 46
+2022/05/12:
+finished,
+0223 mins, if supplier doesn't take you seriously you have get a bad price;
+average fixed cost, average variable costs, average total costs, ATC, marginal cost
+marginal cost is a derivative, average cost is intersection line of the slope;
+
+## Lecture 47
+2022/05/12:
+finished,
+0100 mins, marginal revenue;
+0250 mins, until MR=MC;
+0339 mins, rational amount to produce;
+0401 mins, MR as upper bound, ATC as lower bound
+
+## Lecture 48
+2022/05/12:
+finished,
+0025 mins, mariginal cost is market price;
+
+## Lecture 56
+2022/05/12:
+finished,
+0045 mins, slope of total revenue slope is 2 as big as slope of demand curve;
+0230 mins, marginal revenue is derivative of total revenue;
+
+
+## Lecture 57
+2022/05/12:
+finished
+0320 mins, mono for one, poly for seller;
+tele company is easy to be monopoly;
+oligo-few, poly-seller;
+
+## Lecture 58
+2022/05/12:
+finished,
+USF search your interested topic in the video;
+0203 mins, marginal revenue curve;
+0344 mins, marginal cost = marginal revenue, q*, marginal economic profit;
+
+0600 mins, marginal revenue curve is twice slope;
+short run and long run; economic profit, accounting profit;
+ATC, average total cost
