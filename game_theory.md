@@ -118,3 +118,6 @@ first order condition q1; then check second order condition with respect to q1, 
 OK, in the Khan video of monopoly topic, it says this;
 a-c/2b can be viewd from both methods;
 4407 mins, TBRT, I didn't get why the way of making player 1 to produce nothing is to let player 2 to produce a-c/b instead of a-c/2b
+
+2022/05/12:
+4407 mins, I think I got it now, write the BR function directly, in order to make q1 produce nothing, BR2(q1): a-c-bq2/2b=q1, set q1=0, we get q2=a-c/b
