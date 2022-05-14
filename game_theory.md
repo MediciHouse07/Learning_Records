@@ -111,3 +111,10 @@ payoff, profit is denoted as profit, u(q1,q2)=pq1-cq1; and it can be re-writed b
 first order condition q1; then check second order condition with respect to q1, concave make you have a best, maximum profit; BR1(q2), player 1 best response for the possible choice of player 2;
 3827 mins, player 2 produce nothing, player 1 is monopoly;
 4027 mins, marginal revenue =  marginal cost;
+
+2022/05/12:
+4109<->4407 
+3907 mins, why monopoly quantity = where MC=MR;
+OK, in the Khan video of monopoly topic, it says this;
+a-c/2b can be viewd from both methods;
+4407 mins, TBRT, I didn't get why the way of making player 1 to produce nothing is to let player 2 to produce a-c/b instead of a-c/2b
