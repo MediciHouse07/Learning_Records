@@ -91,3 +91,23 @@ finished, 10000<->End,
 10100 mins, listed company, or listed stock exchange;
 10120 mins, bank run;before 1930 lots bank run, a case from good equalibrium to band equalibrium;The end of story is not as I thought;
 10640 mins, after a speech, in this case, he is not trying to persuade you to play a dominated strategy, he persuade you to play a NE; contract is mentioned; NE can be self enforcing agreement;
+
+# Lecture 6
+2022/05/12:
+0000<->4109
+0000 mins, coordination game, investment game, coordination game can be changed by a speech;
+0315 mins, I don't know why this game should be named as coordination game;
+0440 mins, games of strategic complemente;
+0517 mins, "Going to the movies" game; each perfers a different NE, there is conflict of interest in this game;
+1839 mins, battle of the sexes;
+1904 mins, corner nomopoly; cournot duopoly model, 2 monopoly, recommend book; 2 extream examples, monopoly, and perfect competition;
+
+players: 2 firms, produce the same things;
+strategies, quantity they produced, qi q-i;
+cost of production, cq, constant marginal cost;
+prices;
+payoff, profit is denoted as profit, u(q1,q2)=pq1-cq1; and it can be re-writed by putting P in u;
+2900 mins, how to find NE in this case, find BR of the 2 players and find intersection;cournot duopoly;
+first order condition q1; then check second order condition with respect to q1, concave make you have a best, maximum profit; BR1(q2), player 1 best response for the possible choice of player 2;
+3827 mins, player 2 produce nothing, player 1 is monopoly;
+4027 mins, marginal revenue =  marginal cost;
