@@ -139,3 +139,6 @@ USF search your interested topic in the video;
 short run and long run; economic profit, accounting profit;
 ATC, average total cost;
 MC=MR q*;
+
+2022/05/12:
+0230 mins, ATC decrease until it hit MC curve, after that, MC is greater ATC, then the ATC will turn to increase; price is average price per unit; ATC is average cost per unit, actually it is average total cost
