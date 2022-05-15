@@ -70,6 +70,21 @@ P^2=P, P^T=P symmetric;
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
+
+2022/05/13:
+
+0000<->1733, which matrix is not diagnolizable;
+
+0000 mins, A=SLAMBDAS-1, how to get this formula;
+
+0725 mins, S-1AS=LAMBDA; if S is invertible, invertible if all the column are independent, and determinant <>0;
+
+0936 mins, A^2's eigen value and eigen vectors; eigen values turn to be squared, eigen vectors are still the same;
+
+TBR foure series, because it is a method that I am not that familiar with;
+
+1523 mins, if all the |lambda| < 1, wil make A^k as k->infinity;
+
 ### Lecture 23
 2022/03/31: 1653/5103, why resolve a differential equation has something to do with e^lambda t? <br>
 2022/04/01: finished
