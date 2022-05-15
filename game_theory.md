@@ -121,3 +121,16 @@ a-c/2b can be viewd from both methods;
 
 2022/05/12:
 4407 mins, I think I got it now, write the BR function directly, in order to make q1 produce nothing, BR2(q1): a-c-bq2/2b=q1, set q1=0, we get q2=a-c/b
+
+2022/05/13:
+finished,
+4407<->End
+Basing on BR1, if q2 produce nothing, BR1 is a-c/2b, while if q2 produce a-c/2b then player 1 will produce nothing, BR1=0
+4440 mins, demand curve intersect with marginal cost curve, makes other player shut down, even itself; competitive quantity, perfect competition quantity, compare it with monopoly quantity;
+BR1 is a linear function of q2;
+5200 mins, connour quantity;
+5400 mins, this game is opposite with partnership game, and investment game, straetgic substitutes;
+total industry profit, monopoly maximize total industry profit; use legal to regulate oligopoly companies;
+10400 mins, incentive to cheat; county's will is GDP, total industry profit, but that is not the interest of companies;
+10708 mins, when new entrances join the industry, the old big company will cheat becasue they signed an agreement;
+totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the one direction, price is on the another direction;
