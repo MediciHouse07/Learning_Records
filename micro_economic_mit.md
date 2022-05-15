@@ -23,3 +23,11 @@ finished,
 
 2846 mins, command economy, capitalist economy;
 
+# Lecture 2
+2022/05/13:
+begin<->1500 how to use indifference curve to make decision
+0127 mins, this course is about model of constraint and maximization;
+0339 mins, assumptions and model;
+completeness, A B or indifference; transitivity; non-satiation->more is better;
+0616 mins, indifference curves; all the combination that make you indifferent;
+1000 mins, properties of indifference curves;
