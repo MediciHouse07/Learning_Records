@@ -28,7 +28,9 @@ Anyway, your own interdispline will be solidify by this activity.
 It is better to find an intersection between demand and supply and other meaningful parts <br>
 
 ### Study mind
-Regarding math, Keep the constant consuming constant, the same logic for business part. If condition or your energy doesn't allow, 1 course is enough for a day, if you feel good, 2 course cound be rated as good, if you feel excellent, 2+ courses can be considered
+Regarding math, Keep the constant consuming constant, the same logic for business part. If condition or your energy doesn't allow, 1 course is enough for a day, if you feel good, 2 course cound be rated as good, if you feel excellent, 2+ courses can be considered;
+
+Another solution you can pick is, 15 mins and extra law, means you can take 15 mins for a course, if you lose your interest, you leave when you finish 15 mins of study, if not you can stay and leave in whenever you want
 
 # Special sign used in the notes
 FM: Top level = fundamental<br>
