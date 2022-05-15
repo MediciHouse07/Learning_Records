@@ -68,6 +68,12 @@ minf'<=MVT=f'<=maxf';
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
+### Lecture 18
+2022/05/13:
+0000<->2417
+0228 mins, intergration, area under a curve, or cumulative sum;
+1038 mins, how a rieman sum is constructed;
+1848 mins, pyramid can be use the volume formula of cicular cone;
 ### Lecture 19
 2022/05/07: finished, 0116 mins, FTC1, fundamental THM is F(b)-F(a)=integral a to b
 anti derivative is not about a or b;
