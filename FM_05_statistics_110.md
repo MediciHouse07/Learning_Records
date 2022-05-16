@@ -20,6 +20,17 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability <br>
 2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding <br>
 2022/03/31: finished, excellent course, random variable, is a function which maps result happened in sample space S to X(s), then you got a distribution, the distribution indicates the variness/randomness of the variable, PMF is just like, P(X=3) if you through a coin, probability of number of heads equals to 3 <br>
+
+2022/05/14:
+
+0000<->3000 mins
+0100 mins, statistics 110 5 word, conditioning the soul of statistics, r.v. and its distribution;
+0913 mins, random walk, absorbing states, TBR eigen value and eiven vector;
+1057 mins, recursive property;
+1206 mins, condition on something, wish something;
+1500 mins, difference equation;
+1900 mins, solve differential equation, one method is to guess;
+2621 mins, lowbetaw TBR, 0/0;
 ### Lecture 8
 2022/03/31: 2111/5023 around 14 minutes CDF and PMF, both are a way of describing distribution, CDF P(X<=x), PMF P(X=aj) only applies for discrete problem <br>
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
