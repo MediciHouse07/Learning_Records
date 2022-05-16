@@ -31,3 +31,14 @@ begin<->1500 how to use indifference curve to make decision
 completeness, A B or indifference; transitivity; non-satiation->more is better;
 0616 mins, indifference curves; all the combination that make you indifferent;
 1000 mins, properties of indifference curves;
+
+2022/05/16:
+finished,
+1500<->End
+1500 mins, grapical, mathematical, intuition; preference is about indifference curve;
+1555 mins, utility, utility function;
+1755 mins, ordinal(doesn't have sense) and cardinal(has some sense);
+1842 mins, MU, diminishing MU;
+2500 mins, MRS, marginal rate of substitution; MRS has to diminish;
+2905 mins, the more you have a thing, the less you want it.
+3025 mins, convex to original, indifference curve; TBRT;
