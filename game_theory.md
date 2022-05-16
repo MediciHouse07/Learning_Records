@@ -134,3 +134,15 @@ total industry profit, monopoly maximize total industry profit; use legal to reg
 10400 mins, incentive to cheat; county's will is GDP, total industry profit, but that is not the interest of companies;
 10708 mins, when new entrances join the industry, the old big company will cheat becasue they signed an agreement;
 totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the one direction, price is on the another direction;
+
+# Lecture 7
+
+2022/05/16:
+0000<->1800
+0100 mins, cownot;
+0300 mins, inperfect competition,cownot about quantity,;
+0330 mins, bertrend competition, about price;
+0933 mins, payoffs, q1p1(revenue) - q1c(cost), q1(p1-c);
+1155 mins, discontinuous function, calculus doesn't work;
+1600 mins, monopoly prices, this is a price that will maximize the profit;
+1759 mins, price it at marginal cost(>=), that will have a zero profit;
