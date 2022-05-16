@@ -32,7 +32,7 @@ completeness, A B or indifference; transitivity; non-satiation->more is better;
 0616 mins, indifference curves; all the combination that make you indifferent;
 1000 mins, properties of indifference curves;
 
-2022/05/16:
+2022/05/14:
 finished,
 1500<->End
 1500 mins, grapical, mathematical, intuition; preference is about indifference curve;
@@ -42,3 +42,13 @@ finished,
 2500 mins, MRS, marginal rate of substitution; MRS has to diminish;
 2905 mins, the more you have a thing, the less you want it.
 3025 mins, convex to original, indifference curve; TBRT;
+
+# Lecture 3 
+2022/05/14:
+0000<->1500
+0100 mins, constraints;
+0542 mins, MRT transformation, MRS substitutes;
+0702 mins, opportunity cost is best alternative you can get;
+1000 mins, budget constraint gives you transformation;
+1233 mins, opportunity set;
+1430 mins, pivot??; pivoting invert, TBRT
