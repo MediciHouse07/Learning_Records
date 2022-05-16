@@ -142,3 +142,14 @@ MC=MR q*;
 
 2022/05/12:
 0230 mins, ATC decrease until it hit MC curve, after that, MC is greater ATC, then the ATC will turn to increase; price is average price per unit; ATC is average cost per unit, actually it is average total cost
+
+
+## Lecture 64
+2022/05/14:
+finished,
+0500 mins, negative externality, positive externality;
+0500 mins, picture used in the class is about marginal;
+
+## Lecture 65
+finished,
+0200 mins, tax to increase cost; ban plastic bag, quota; quota require you to know the demand and supply model, but that is not easy;
