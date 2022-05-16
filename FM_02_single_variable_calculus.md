@@ -89,6 +89,14 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
+
+### Lecture 29
+2022/05/14:
+0000<->1857, next, an example of repeated roots and repeated factors
+0050 mins, P(x)/Q(x), ratio of two polynomials, rational function; whole power is good for this example, square root is not good;
+1300 mins, 1. factor Q, 2. setup, 2. coverup;
+1530 mins, a good example of cover up;
+1700 mins, the condition for cover up works;
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
