@@ -97,6 +97,14 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 1300 mins, 1. factor Q, 2. setup, 2. coverup;
 1530 mins, a good example of cover up;
 1700 mins, the condition for cover up works;
+
+2022/05/15:
+finished, 
+1857<->End
+2100 mins, how to deal with power;
+4456 mins, improper fraction;
+4613 mins, long division; it is interesting;
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
