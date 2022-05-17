@@ -137,7 +137,7 @@ totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the
 
 # Lecture 7
 
-2022/05/16:
+2022/05/14:
 0000<->1800
 0100 mins, cownot;
 0300 mins, inperfect competition,cownot about quantity,;
@@ -146,3 +146,17 @@ totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the
 1155 mins, discontinuous function, calculus doesn't work;
 1600 mins, monopoly prices, this is a price that will maximize the profit;
 1759 mins, price it at marginal cost(>=), that will have a zero profit;
+
+2022/05/15:
+1800<->
+2200 mins, check c is NE;
+2259 mins, Economic Surplus
+In mainstream economics, economic surplus, also known as total welfare or Marshallian surplus, refers to two related quantities. Consumer surplus or consumers' surplus is the monetary gain obtained by consumers because they are able to purchase a product for a price that is less than the highest price that they would be willing to pay. Producer surplus or producers' surplus is the amount that producers benefit by selling at a market price that is higher than the least that they would be willing to sell for. In Marxian economics, the term surplus may also refer to surplus value, surplus product and surplus labour.;
+2330 mins, under NE, outcome is like perfect competition;
+2538 mins, same setting as cournot, but with a different strategy set -> different outcome; TBR compare it with quantity view, the last lecture;
+2925 mins, lineary city model; Differentiated product; Products are not identical; if you are a judege, how you handle each monopoly case will impact the world;
+3730 mins, map distance to something virtual; beer example; cost of this is the thing I don't like but I have to endure; lack of pleasure;
+4035 mins, go back to election model; candidate voted model;
+4402 mins, assumptions; voter can be candidate as well;
+4746 mins, plurality;
+11037 mins, if she drop the election, she lose more;
