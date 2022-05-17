@@ -66,3 +66,11 @@ finished,
 4000 mins, people know best, or gov know best;
 4130 mins, paternalistic;
 4437 mins, black market;
+
+# Lecture 4
+2022/05/15:
+0000<->1500
+0530 mins, opportunity cost/set;
+0800 mins, derive demand curve from indifference curve(utility function) and budget constraint;
+1058 mins, elasticity determines the shape of demand curve;
+1124 mins, epusilon, delta q/Q0/delta p/P0, <=0;
