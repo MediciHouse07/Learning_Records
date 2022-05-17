@@ -148,7 +148,8 @@ totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the
 1759 mins, price it at marginal cost(>=), that will have a zero profit;
 
 2022/05/15:
-1800<->
+finished,
+1800<->End
 2200 mins, check c is NE;
 2259 mins, Economic Surplus
 In mainstream economics, economic surplus, also known as total welfare or Marshallian surplus, refers to two related quantities. Consumer surplus or consumers' surplus is the monetary gain obtained by consumers because they are able to purchase a product for a price that is less than the highest price that they would be willing to pay. Producer surplus or producers' surplus is the amount that producers benefit by selling at a market price that is higher than the least that they would be willing to sell for. In Marxian economics, the term surplus may also refer to surplus value, surplus product and surplus labour.;
