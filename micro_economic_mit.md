@@ -52,3 +52,17 @@ finished,
 1000 mins, budget constraint gives you transformation;
 1233 mins, opportunity set;
 1430 mins, pivot??; pivoting invert, TBRT
+
+2022/05/15:
+1500<->End
+1930 mins, tangency between budget line and indifference curve;
+2050 mins, point X dominate point Y;
+2251 mins, MRS = MRT, fundamental conclusion of consumer choice; this is also ratio of benefits = ratio of cost; it can be re-write and get a more intuitive equation;
+3000 mins, what you want to give up to gain, and what market asked;
+3032 mins, this part is core of consumer theory TBRT;
+3136 mins, poverty line, how many resources you need to live in somewhere;
+3200 mins, SNAP;
+3558 mins, food stamp;
+4000 mins, people know best, or gov know best;
+4130 mins, paternalistic;
+4437 mins, black market;
