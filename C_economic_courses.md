@@ -49,6 +49,29 @@ finished
 0000 mins, message space, type space;
 g(m(theta))=f(theta);
 
+2022/05/17:
+finished,
+0000<->0200
+0400 mins, strategy proof in voting theory;
+0611 mins, direct mechanism means type space is strategy space;
+0935 mins, contra-positive;
+## Lecture 9
+
+2022/05/17:
+finished,
+0209 mins, dictatorial;
+0327 mins, a SCF only look at a specific voter;
+0520 mins, SCF always select b, doesn't care about player's preference;
+
+## Lecture 10
+2022/05/17:
+finished,
+0339 mins, line up;
+0500 mins, single peak;
+0800 mins, this is a case study;
+1035 mins, political economy;
+1509 mins, social choice theory;
+
 # Auction theory
 ## Lecture 1
 2022/05/17:
