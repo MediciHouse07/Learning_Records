@@ -105,6 +105,13 @@ finished,
 4456 mins, improper fraction;
 4613 mins, long division; it is interesting;
 
+### Lecture 30
+2022/05/17:
+0000<->1612
+0110 mins, partial fractions;
+1249 mins, he used substitution here, TBR substitution;
+1611 mins, partial fraction method, always work, but slowly
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
