@@ -161,3 +161,8 @@ In mainstream economics, economic surplus, also known as total welfare or Marsha
 4402 mins, assumptions; voter can be candidate as well;
 4746 mins, plurality;
 11037 mins, if she drop the election, she lose more;
+
+# Lecture 8
+2022/05/17:
+0000<->1500
+1440 mins, location model;
