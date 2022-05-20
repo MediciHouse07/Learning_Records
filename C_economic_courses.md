@@ -24,6 +24,9 @@ finished,
 1207 mins, match the generic property to each problems;
 1514 mins, transfer function, t;
 
+2022/05/18:
+finished
+
 ## Lecture 5
 2022/05/17:
 finished,
@@ -31,10 +34,24 @@ finished,
 0237 mins, U is utility, v is utility as well;
 0358 mins, what is quasi linear TBR;
 
+2022/05/18:
+feasible transfer function, balanced transfer function;
+
 ## Lecture 6
 2022/05/17:
 finished
 0200 mins, M is message or strategy space;
+
+2022/05/18:
+- mechanism
+- message space;
+- M is strategy space;
+- g is outcome function
+- g(M) = (gd(m),gt1(m),gt2(m)...) it should be a vector;
+- g choose one social choice function;
+- 0644 mins, good explaination, TBRT;
+- 0913 mins, message space, it can be plant's type or U/D
+
 
 ## Lecture 7
 2022/05/17:
