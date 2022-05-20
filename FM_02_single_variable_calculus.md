@@ -112,6 +112,19 @@ finished,
 1249 mins, he used substitution here, TBR substitution;
 1611 mins, partial fraction method, always work, but slowly
 
+2022/05/18:
+finished,
+1612<->End
+1641 mins, complete the square technique;
+1838 mins, integration by parts;
+2000 mins, integration by parts is derived from product rule;
+2037 mins, fundamental theorom;
+2651 mins, by using integration by parts, you can reduce an equation to one step backward;
+2815 mins, reduction formula;
+3007 mins, Fn(x)^n=x(lnx)^n - nFn-1(x), reduction formula;
+3139 mins, TBRT, induction method;
+4302 mins, horizontal/vertical slices integration;
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
