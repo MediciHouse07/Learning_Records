@@ -72,6 +72,20 @@ finished,
 1035 mins, political economy;
 1509 mins, social choice theory;
 
+## Lecture 11
+2022/05/18:
+finished,
+0000 mins, SCF, strategic proof;
+0600 mins, median voting rule;
+0654 mins, top alternative;
+
+## Lecture 12
+2022/05/18:
+0000 mins, VCG mechanism;
+0136 mins, t positive means receive;
+0310 mins, quasi linear equation again;
+1247 mins, marginal social impact, I guess the reason is this is just about one player;
+
 # Auction theory
 ## Lecture 1
 2022/05/17:
