@@ -1,4 +1,5 @@
 # Lecture 2:
+2022/05/18:
 0500<->3000
 0500 mins, preference, is who; strategy is want they do; outcome, what happens and what else it will happen;
 0828 mins, incumbent and challenger and compaign strategy case;
