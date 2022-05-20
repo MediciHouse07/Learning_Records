@@ -105,6 +105,41 @@ finished,
 finished,
 0037 mins, VCG mechanism example;
 
+## Lecture 16
+2022/05/18:
+finished,
+0700 mins, maximize a minus function when variable make function to be 0;
+
+## Lecture 17
+2202/05/18:
+finished
+
+## Lecture 18
+2202/05/18:
+0441 mins, hat means declared type;
+1001 mins, utility is always;
+1321 mins, buyer get <0 utility by lying;
+1353 mins, case study, a analysis to prove VCG;
+2104 mins, utility of ling is lower or equal than telling the truth;
+2146 mins, but this model is failed to satistify individual rationality;
+
+## Lecture 19
+2202/05/18:
+0000 mins, bayesian mechanism;
+0126 mins, prior belief;
+0520 mins, bayesian NE;
+0539 mins, bayesian incentive compitable;
+0654 mins, telling truth type, compare it with telling something other than truth;
+0727 mins, realize;
+0749 mins, message space;
+0822 mins, BE, bayesian nash equalibrium;
+1318 mins, quasi linear appears again;
+
+## Lecture 20
+0123 mins, bar in this class means r.v. ;
+0400 mins, ex-post IR(the strongest) , interim IR, ex-onte IR ;
+0550 mins, this example satisfy ex-post IR, but it is not VCG;
+
 # Auction theory
 ## Lecture 1
 2022/05/17:
