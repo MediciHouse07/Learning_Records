@@ -86,6 +86,25 @@ finished,
 0310 mins, quasi linear equation again;
 1247 mins, marginal social impact, I guess the reason is this is just about one player;
 
+## Lecture 13
+2022/05/18:
+finished,
+0841 mins, auction theory is needed, voting theory is needed, TBR;
+it seems second price auction can maximize the potential payment, payoffs ;
+
+## Lecture 14
+2022/05/18:
+finished,
+0050 mins, budget balance, TBRT, submission of transfer = 0;
+0207 mins, efficient decision rule, efficient social choice rule;
+0323 mins, individual rationality, utility has to be greater or equal to 0;
+0443 mins, quasi linear again, TBR;
+
+## Lecture 15
+2022/05/18:
+finished,
+0037 mins, VCG mechanism example;
+
 # Auction theory
 ## Lecture 1
 2022/05/17:
