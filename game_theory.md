@@ -1,3 +1,10 @@
+# Lecture 1
+2022/05/19:
+0000<->1500 in the middle of the first game
+0830 mins, books 3 books are recommended; 10 problem set in this class;
+course tought in class is easy to record on txt, while white board teacher, it is not easy to follow;
+1450 mins, superimpose;
+
 # Lecture 2
 202/05/05: finished, 0700 mins, ingredient of a game;
 2232 mins, strict dominated, handout
