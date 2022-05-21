@@ -185,3 +185,20 @@ finished,
 # Bayesian game theory
 
 ## Lecture 1
+
+# Voting
+## Lecture 1
+2022/05/19:
+- some voter don't vote for their preference;
+- preference is not indifferent;
+- > or >= stands for preference profile because some voting rule;
+- over X, X is alternative? OK it is strategy set;
+- F voting rule map each profile to a certain outcome;
+- voting rule is a machine, take preference profile as input and give output;
+
+## Lecture 2
+2022/05/19:
+- no strategic inference means, these are truly vote;
+- a story is picture created mind story, some more complicated can't;
+- tie breaking rule;
+- plurality rule;
