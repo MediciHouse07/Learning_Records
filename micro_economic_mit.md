@@ -43,6 +43,23 @@ finished,
 2905 mins, the more you have a thing, the less you want it.
 3025 mins, convex to original, indifference curve; TBRT;
 
+2022/05/19:
+0000<->3400
+0330 mins, preference assumption;
+model rely on assumptions;
+only one IC through all bundle, completeness, and the other 2 assumtions can gurantee this;
+ordernal, is rank, cardinal, it has meaning;
+MU is next unit;
+2308 mins barf;
+
+- MRS;
+- diminishing marginal utility cause 2-1 to 1-2
+
+3300 mins;
+
+- adiction things is because utility shift
+- 
+
 # Lecture 3 
 2022/05/14:
 0000<->1500
