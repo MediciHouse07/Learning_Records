@@ -212,3 +212,22 @@ finished,
 - 
 
 End mins;
+
+# Lecture 9
+0000<->1500
+
+0000 mins;
+
+- pi(si) is the probability that pi assign to pure strategy si;
+- developing some notation;
+- pi(si) could be 0;
+- pisi could be 1, then it is a pure strategy, pure strategy is a special case of pisi;
+- payoffs from mixed strategy, E payoff of mixed strategy pi is weighted mixture of expected payoffs of each the pure strategies in the mix;
+- Eu1(A,q)=2*1/2 + 0*1/2
+- Eu1(p,q)=4/5Eu1(A,q)+1/5Eu2(B,q)
+- In general, expected payoff, is weighted average of pure strategies, so expected payoff is in between payoff of pure strategies;
+- height example;
+- yankee example;
+- batting average;
+
+1500 mins;
