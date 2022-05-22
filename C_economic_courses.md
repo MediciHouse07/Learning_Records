@@ -208,3 +208,10 @@ finished,
 - a story is picture created mind story, some more complicated can't;
 - tie breaking rule;
 - plurality rule;
+
+## Lecture 3
+
+finished,
+2022/05/20:
+
+- run off voting;
