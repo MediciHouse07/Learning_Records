@@ -173,3 +173,42 @@ In mainstream economics, economic surplus, also known as total welfare or Marsha
 2022/05/17:
 0000<->1500
 1440 mins, location model;
+
+2022/05/20
+
+finished,
+1500<->End
+
+1500 mins;
+
+- tall type and short type;
+- simultaneous choice;
+- segregation;
+- check profitable deviation to check if a state is NE;
+- 50-50 is also a equalibrium, but a weak NE, because at that time I am indifferent about west and east; also need to consider stable;
+
+3000 mins;
+
+- tipping point, beyond a point, you go to other equalibrium;
+- randomize makes the result to be integrated equalibrium;
+- 
+
+4500 mins;
+
+- Law of large number;
+- Society randomize for you better than you choose;
+- seeing seggregation doesn't mean people like seggregation;
+- segragation intergragation;
+- a real case of segragation;
+- harvard use randomization;
+- bassing, this case/method can be used to argue a policy;
+- central doing randomization vs individual doing randomization;
+
+6000 mins;
+
+- randomize mixed strategies, individual mix strategy;
+- Rock paper sccizous;
+- pure strategy vs mix strategy;
+- 
+
+End mins;
