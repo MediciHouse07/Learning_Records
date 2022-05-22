@@ -58,7 +58,19 @@ MU is next unit;
 3300 mins;
 
 - adiction things is because utility shift
+
+2022/05/19
+
+finished,
+3400<->End
+
+3400 mins
+
+- a little bit of money can double the next of unit;
+- perishable;
 - 
+
+End
 
 # Lecture 3 
 2022/05/14:
