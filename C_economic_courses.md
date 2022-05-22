@@ -80,6 +80,12 @@ finished,
 0327 mins, a SCF only look at a specific voter;
 0520 mins, SCF always select b, doesn't care about player's preference;
 
+2022/05/20:
+
+- strictly ordering;
+- t^0 means no transfer;
+- an enviroment that has dominant strategy, the only choice is dictatorial;
+
 ## Lecture 10
 2022/05/17:
 finished,
