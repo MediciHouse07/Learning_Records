@@ -85,6 +85,29 @@ TBR foure series, because it is a method that I am not that familiar with;
 
 1523 mins, if all the |lambda| < 1, wil make A^k as k->infinity;
 
+2022/05/19
+
+finished,
+1730<->End
+
+1730 mins:
+
+- set the determinant=0 to get eigen value, A-lambda null space is eigen vector;
+- in this case there is no 2 different eigen vector;
+- TBR strengthen eiven value and eigen vector;
+
+2800 mins:
+
+- he mentioned difference equation;
+- You should build your study system, it is interesting and it will benefit yourself;
+- why he can split u0 to the combination of eigen vector, the relation between eigen vector and basis? QSN;
+- eigen vector is normalized to unit vector;
+- one step equation;
+- symetric metric good properties TBR;
+- a quick way of getting eigen vector;
+
+End mins:
+
 ### Lecture 23
 2022/03/31: 1653/5103, why resolve a differential equation has something to do with e^lambda t? <br>
 2022/04/01: finished
