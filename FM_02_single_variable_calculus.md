@@ -87,6 +87,19 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 3313 mins, inequality, keep integral it repeatedly, then you get taylor series sort of;
 3731 mins, change of variable for substitution; u' doesn't change sign;
 4152 mins, the reason for using dx or du;
+### Lecture 20
+2022/05/21:
+0000<->1717
+
+0000 mins;
+
+- FTC1, intergral from a to b = F(a) - F(b);
+- average of f, F'=f;
+- compare FTC1 with MVT;
+- interpretate FTC1 in riemann sum
+
+1500 mins;
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
