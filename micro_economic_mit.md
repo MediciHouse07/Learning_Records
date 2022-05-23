@@ -96,6 +96,43 @@ End
 4130 mins, paternalistic;
 4437 mins, black market;
 
+20220521:
+
+finished,
+0000<->End
+
+0000 mins;
+
+- Y = Pp * P + Pc * C;
+- slope of budget constraint line, MRT, -Pc/Pp;
+- opportunity cost, next best alternative;
+- impose a budeget, opitimize, tradeoff;
+- comparative stats, heared of this term in game theory;
+- opportunity set, shrink;
+- 
+
+1500 mins
+
+- market control the slope, you can control the level;
+- utility function is the source of indifference curve, and the later can represent the prior;
+- it is easy to say if I want next piece of pizza, and did market allow you do;
+- the rate you want to trade is the rate the market allow you;
+- re-write the function, marginal hapiness per money equals;
+- Mup = du/dp
+- MRS=-2.5, you are willing to give 2.5 pizza to one pizza, market charge 1/2, then you will go to D point;
+
+3000 mins
+
+- MB=MC, marginal benefit, marginal cost, MRS=MRT;
+- type 1 player were forced to equalibrium, ot as happy as they can freely choose;
+- if people knew best;
+- no market failure, no paternalistic, you will give the poor money;
+- empirical economic; theory first, and test it;
+
+4500 mins
+
+End mins
+
 # Lecture 4
 2022/05/15:
 0000<->1500
