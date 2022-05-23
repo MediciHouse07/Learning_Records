@@ -231,3 +231,40 @@ End mins;
 - batting average;
 
 1500 mins;
+
+2022/05/21:
+finished,
+1500<->End
+
+1500 mins;
+
+- if a mix strategy is a BR, each pure strategy must be BR, each of them yield the same expected payoffs;
+- sub team;
+- 
+
+3000 mins;
+
+- pure strategy NE
+- BRs doesn't concide, no NE
+- Each person's mixed strategy is BR to other's mixed strategy;
+- case study;
+- 
+
+4500 mins;
+
+- mix strategy and pure strategy;
+- mixing strategy has all the element equal;
+- NE = [(.7 .3),(.6 .4)]
+- 
+
+6000 mins;
+
+- perfect information;
+- strategic effect, venice hit left less, serena lean left less;
+- direct effect, indirect effect;
+- find updated probability profile, to decide whether to choose direct effect or indirect effect;
+- indirect/strategic effect is bigger;
+- comparative statics;
+- 
+
+End mins;
