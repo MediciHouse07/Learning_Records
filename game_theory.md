@@ -268,3 +268,22 @@ finished,
 - 
 
 End mins;
+
+# Lecture 10
+
+20220521:
+
+0000<->1500
+
+0000 mins;
+
+- p* is BR of (q*)
+- if coose L or R, the payoff is still 0.62
+- no profitable pure strategy deviation, is there a mix strategy that make the payoff better
+- only check pure strategy deviation
+- why one player try to make another player indifferenct
+- otherwise the other player will always lean to the weak point;
+- reality is more about mixing
+- 
+
+1500 mins
