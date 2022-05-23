@@ -100,6 +100,19 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 1500 mins;
 
+20220522:
+
+1717<->3312
+
+1500 mins;
+
+- FTC2
+- in the example, no constant
+- proof FTC 2
+- 
+
+3000 mins
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
