@@ -140,3 +140,33 @@ End mins
 0800 mins, derive demand curve from indifference curve(utility function) and budget constraint;
 1058 mins, elasticity determines the shape of demand curve;
 1124 mins, epusilon, delta q/Q0/delta p/P0, <=0;
+
+20220522:
+
+
+0000<->3000
+
+0000 mins;
+
+- Derive demand curve
+- opportunite set is larger
+- shape of demand curve, determined by elasticity of demand
+- elsticity <= 0
+- delta q/ q0 / delta p/ p0
+- elasticity = 0 perfect inelastic
+- 
+
+1500 mins;
+
+- perfect elasticity demand, = infinite; perfect substitutes
+- they increase price a little bit, you lose all the business;
+- Income shifts
+- Engel curve
+- gamma = delta Q/Q0/delta Y/Y0, income, put denominator to be income;
+- local? constant elasticity curve?
+- normal goods, postive engel curve, luxuries, >1 gamma, neccessity
+- gamma < 0 , inferior goods
+- response to price change, 1. income effect, 2. substitution effect
+- 
+
+3000 mins;
