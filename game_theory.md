@@ -287,3 +287,43 @@ End mins;
 - 
 
 1500 mins
+
+20220522:
+
+finished,
+1500<->End
+
+1500 mins;
+
+- different way of throwing ball, curve ball, fast;
+- hitter choose to anticipate the way you through a ball;
+- did get the baseball case and luggage case
+- coordination game
+- 
+
+3000 mins
+
+- they meet less than half of the time
+- 
+
+4500 mins
+
+- One's belief of what the other gonna do
+- 2 interpretation, 1, people really randomizing, 2, people's belief;
+- look at another guy's payoff to calculate self probability set
+- this is similar as luggage problem
+- 3rd interpretation, a propotion of people doing this
+
+6000 mins
+
+- 2 interpretation, 1, people really randomizing, 2, people's belief;
+- increase the fine, didn't make tax payer's preference change;
+- column player's depends on row player's payoff;
+- richer will be auditted more because of this model; to push it back to equalibrium;
+- compliance rate
+- make the auditing less costly
+- might not trust congres
+- check all the pure strategy
+- 
+
+7500 mins
