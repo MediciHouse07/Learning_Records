@@ -327,3 +327,58 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 11
+
+20220523:
+
+finished,
+0000<->End
+
+0000 mins;
+
+- evolution, cooperation, and game theory
+- it has handout
+- symetric game, same strategy, same information
+- small group mutation, and evolutionary stable;
+- cooperate, or defect;
+- cooperation evolutionary stable or not;
+- hardwired
+- 
+
+1500 mins;
+
+- the payout of the new group is bigger
+- 
+
+3000 mins;
+
+- asexual reproduction is a strong assumption here, need to double analyse it
+- game has strategic dominanted, it can't be evolutionary stable
+- 3 by 3 game
+- ES
+- c is not ES, b is not ES, c can invade b and b can invade c
+- strategitely profitable deviation
+- if ss is not NE, s is not ES
+- and above statement, reverse and adverse hold as well
+- is NE , might not ES
+- 
+
+4500 mins
+
+- b is NE , might not ES; b is not ES
+- And b is weak
+- if b is strictly better, than b is ES
+- formal defn
+- s' is deviation, s hat is the previous version, TBRT
+- e^bar
+- symetric NE, u(s hat, s hat) >= u (s', s hat)
+- 
+
+6000 mins
+
+- defn 2 TBRT, equalvant to defn, but don't need to consider epsilon
+- proof is in the handout
+- 
+
+7500 mins
