@@ -170,3 +170,21 @@ End mins
 - 
 
 3000 mins;
+
+2022/05/23:
+
+finished,
+3000<->End
+
+3000 mins;
+
+- slope of new budege constraint, tagent with the old indifferent curve
+- hold utility constant, compensate demand
+- substitution effect is always negative when price is increase
+- if the good is inferior, income effect and substitution effect are on the different direction
+- effective income, price increase you are actually poorer, your opportunity set shrink
+- upward sloping demand curve, giffen good
+- you give them more coupon money of a good, then the good is getting cheaper for them, they go to another good, TBRT
+
+4500 mins;
+
