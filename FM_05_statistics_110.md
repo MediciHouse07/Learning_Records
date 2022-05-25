@@ -47,6 +47,22 @@ finished,
 ### Lecture 9 <br>
 2022/03/14: 💫 finished, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: finished, 2635 minutes Expectation and P has a bridge; 3248 minutes linearity, EX+Y=EX+EY no matter it is dependent or independent; bridge X={1 if A, 0 otherwise, this is indicator R.V. ; 4158 check PMF, geo distribution; 3827 by symatry and bridge
+
+2022/05/24:
+
+0000<->1500 stop at average and mean
+
+0000 mins;
+
+- CDF is a function of real x, not X
+- x-> minus infinity, F(x)->0, x -> infinity, F(x)->1
+- independence slogan is multiply
+- joint probability
+- independent of r.v.
+- 
+
+1500 mins;
+
 ### Lecture 10 <br>
 2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
