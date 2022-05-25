@@ -100,7 +100,7 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 1500 mins;
 
-20220522:
+2022/05/22:
 
 1717<->3312
 
@@ -112,6 +112,23 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 - 
 
 3000 mins
+
+2022/05/23:
+
+3312<->
+
+3000 mins;
+
+- Proof of FTC2
+- 
+
+4500 mins;
+
+- bell curve and FTC2
+- new number pi, transendentail, outside the realm of algebra
+- TBR Lecture 21, it will introduce bell curve
+
+6000 mins;
 
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
