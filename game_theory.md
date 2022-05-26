@@ -459,3 +459,24 @@ finished,
 - monogamous
 
 7500 mins
+
+# Lecture 13
+
+2022/05/24:
+
+0000<->1500
+
+0000 mins;
+
+- cash in a hat
+- lender boworrer game
+- loan and project
+- not simultaneous, it is a sequential move game
+- sequential is because, one move after anothr move
+- draw a tree, previous we use matrix
+- incentive to put
+- anticipation, player 1 need to
+- look forward, and work back
+- 
+
+1500 mins
