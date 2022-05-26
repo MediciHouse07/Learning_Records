@@ -424,3 +424,37 @@ finished,
 - 
 
 4500 mins;
+
+2022/05/24:
+
+3000<->
+
+3000 mins;
+
+- why NE means u(Phat,Phat)>=u(P',Phat)
+- TBR
+- ESS says ESS support fight
+- if c>v, ESS will be a mix, the probability NE is also to describe a situation where there is no pure NE, but there is a mix strategy profile that is good
+- u(H,phat), u(D,phat)
+- phat = v/c
+- mix NE (v/c,1-(v/c))
+- strict or not, check if deviate will cause worse payoff
+- story proof of die out
+- if multation is aggresive and if multation is dovish
+- 
+
+4500 mins;
+
+- v go up, more hawks in ESS
+- c go up, more doves in ESS
+- use real world data to back out the v and c, identification
+
+
+6000 mins
+
+- u(phat, s), mix vs a pure
+- NO ESS
+- big be invaded by middle, middle be invaded by small, small be invaded by big again
+- monogamous
+
+7500 mins
