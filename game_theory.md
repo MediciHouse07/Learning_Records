@@ -382,3 +382,45 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 12
+2022/05/24:
+
+0000<->3000
+
+0000 mins;
+
+- sym NE
+- In game theory, a symmetric equilibrium is an equilibrium where both players use the same strategy (possibly mixed) in the equilibrium. the point is, strategy should be the same
+- strictly, means if you deviate, you will be worse
+- evolution of social convention
+- does symmetric NE means the payoff are the same? I guess so, other wise all the 2*2 are symmetric NE, QSN
+- there can be several ES
+- A social convention doesn't mean it is efficient
+- 11 mins, a case, derived from dating game, but it is reshaped as symmetric
+- the NE in this game are not symmetric
+- and in this case, there is no symmetric pure strategy NE
+- SVC, in this lecture, he said on yesterday, the thing happended behind is that
+- monomorphic,polymophic
+- 
+
+1500 mins;
+
+- You can have monomorphc population, you can also have polymophic
+- probability, mixed strategy, determined nash equalibrium, population, propotion
+-  mixed NE can't be strict, because when we calculate it, we choose a p
+- 2/3, 1/3 is a spiece where 2/3 are aggresive, 1/3 are not
+- in this example, he interprete it in propotion angle
+- 
+
+3000 mins;
+
+- SLF
+- hawk-dove
+- ESS, evolutionary stable strategy
+- is Dove a ESS?
+- no, because H(mutation) vs dove is V, dove vs dove is v/2
+- think about pure strategy first
+- 
+
+4500 mins;
