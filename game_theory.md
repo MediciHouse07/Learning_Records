@@ -427,7 +427,8 @@ finished,
 
 2022/05/24:
 
-3000<->
+finished,
+3000<->End
 
 3000 mins;
 
