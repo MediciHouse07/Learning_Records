@@ -480,3 +480,21 @@ finished,
 - 
 
 1500 mins
+
+2022/05/24:
+
+1500<->3000
+
+1500 mins
+
+- backward induction
+- investment can make the market alive
+- moral hazard
+- agent has incentive not to do on behalf of the principle
+- end up bad for lender and borrower
+- kept the size of the project, small to reduce the temptation to cheat
+- change the order of play
+- take an one shot game into a repeated game
+- change the payoff, redesign the payoff
+
+3000 mins
