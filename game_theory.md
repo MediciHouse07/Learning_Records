@@ -531,3 +531,20 @@ finished,
 - hugry lion game, backward induction
 
 End mins
+
+# Lecture 14
+
+2022/05/25:
+
+0000<->1500
+
+0000 mins
+
+- stakal game is derived from cournot
+- firm 1 can anticipate what firm 2 will do
+- strategic substitutes
+- firm 2's strategy is on the line
+- choose combination of q1 q2 that maximize q1's output  value
+- it is different between simultaneous game and sequential game
+
+1500 mins
