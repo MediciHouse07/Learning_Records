@@ -498,3 +498,36 @@ finished,
 - change the payoff, redesign the payoff
 
 3000 mins
+
+2022/05/25:
+
+finished,
+3000<->End
+
+3000 mins
+
+- incentive design, incentive given by people who writing the contract
+- taking a smaller share of a larger pie, bigger than a larger share of smaller pie
+- rate of return is better in a smaller case
+- opportunity cost is needed to consider
+- attemp to allign the incentive between
+- borrower has incentive contract, CEO and stakeholders
+- middle age, piece rate, share cropping
+- collateral is needed to achieve another, by hurting you enough
+- lower the payoff if you don't repay, but it makes you better off
+- collateral is a committment strategy
+- 1966 norman conquest
+- william the conqueror, burn the ship, another committment strategy, fewer options, changes others behaviour
+- doctor strange love
+- it doesn't work if the other side doesn't know about it
+- backward induction, he think this is the most important thing in this semester
+- node, end node, branch = edges, decision nodes, path
+- hungry lion game
+- stupor
+- 
+
+4500 mins
+
+- hugry lion game, backward induction
+
+End mins
