@@ -548,3 +548,37 @@ End mins
 - it is different between simultaneous game and sequential game
 
 1500 mins
+
+2022/05/26:
+
+finished,
+1500<->End
+
+1500 mins
+
+- TBR
+- firm 2's profit go down, obvious, but why firm 1's profit
+- p down, q up, consumer surplus go up, cs
+- q1's maximum figure is monopoly, maybe that can be one explaination
+- q2's BR is a function of q1
+- langrange equation
+
+3000 mins
+
+- counot NE qty is a-c/3b for q1, now is a-c/2b
+- counot NE qty is a-c/3b for q2, now is a-c/4b
+- only firm one can anounce, creditable commitment
+- sunk cost, you build a plant there, that will somehow show people that you are going to do that
+- they can decide the first move
+- feed true plan, or feed false plan
+
+4500 mins
+
+- it's not about timing, it's about information
+- first mover advantage
+- second mover adv
+- none mover adv
+- initial position is uneven, first mover, even second mover
+- still backward induction
+
+End mins
