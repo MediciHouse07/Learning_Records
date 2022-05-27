@@ -63,6 +63,32 @@ finished,
 
 1500 mins;
 
+2022/05/25:
+
+1500<->4000
+
+1500 mins
+
+- 2 ways of calculting mean
+- fundamental bridge
+- unweighted = same weight, weighted = different weight
+- E(X) = sigmax x P(X=x) sum over x with P(X=x)>0
+- E(X) = 1P(X=1) + 0P(X=0)=P
+- indicator r.v.
+- k depends on k, n does not depend on k
+- QSN why he can re-write the formula, change k=0 to k=1 and why the following equation like that
+- because he take one P out
+
+3000 mins
+
+- linearity, true if X and Y are dependent
+- bin = np, since X=X1+X2+...+Xn, Xi are ber
+- hypergeometric, linearity + indicator + symmetric + fundamental bridge
+- 5 card hand, X=#ace, E(X) is the question
+- a dependent case of linearity
+
+4500 mins
+
 ### Lecture 10 <br>
 2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
