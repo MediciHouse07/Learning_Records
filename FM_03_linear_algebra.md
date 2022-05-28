@@ -67,6 +67,23 @@ P^2=P, P^T=P symmetric;
 
 ### Lecture 21
 2022/03/30: finished, shortage of eigen vector; asymatric matrix leads to complex eigen value
+
+2022/05/26:
+
+
+0000<->1500
+
+0000 mins
+
+- eigen vector with eiven value 0, null space
+- A is singular, lambda=0 is evalue
+- if A is not singular, only 0 vector can turn Ax=0
+- if A is singular, null space vector can turn Ax=0
+- n*n matrix will have n eigen values
+- sum of the eigen values, equal to sum of traces
+
+1500 mins
+
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
