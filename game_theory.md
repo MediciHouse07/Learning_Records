@@ -582,3 +582,49 @@ finished,
 - still backward induction
 
 End mins
+
+# Lecture 15
+2022/05/26:
+
+finished,
+0000<->End
+
+0000 mins
+
+- Zeimilo game
+- perfect information
+- finite number of nodes
+- player 1/2 force a win for 1/2
+- checkers
+- chess
+- THM chess has a solution
+- proof by induction
+- maximum length of game
+- one move long, N-1, ->N+1
+- 
+
+1500 mins
+
+- sub games
+- 
+
+3000 mins
+
+- perfect information
+
+4500 mins
+
+- complete plan of action
+- p2 only has 1 decision node
+- TBR
+- BI([D,d],r), it is also a NE
+- 
+
+6000 mins
+
+- mechanically find NE, there would be some silly action
+- incredible threat
+- NE rely on an incredible threat
+- 
+
+7500 mins
