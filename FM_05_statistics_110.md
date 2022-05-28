@@ -89,6 +89,23 @@ finished,
 
 4500 mins
 
+2022/05/26:
+
+finished,
+4000<->End
+
+4000 mins
+
+- geometric distribution is different with hyper geometric
+- TBR hyper geometric, just like binomial but not replacement?
+- # failures before the first success , each trial is a bern
+- Geom(p)
+- check if the PMF valid
+- X ~ Geom(p), E(X)=q/p
+- 
+
+End mins
+
 ### Lecture 10 <br>
 2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
