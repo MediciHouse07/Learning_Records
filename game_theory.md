@@ -628,3 +628,50 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 16
+2022/05/27:
+
+finished,
+0000<->End
+
+0000 mins
+
+- tough reputation
+- sequential game, last market no need to establish reputation
+- 1% chance of irrational people
+- one market is fine, if 10 markets things are different
+- bayesian
+- TBR
+
+1500 mins
+
+- act as crazy, can convince
+- being tough and crazy is NE for all bosses
+- chain store paradox
+- friends with short fusses
+- hostage taker
+- good reputation
+- sponge
+- step ahead
+- 
+
+3000 mins
+
+- duels
+- launch early or late trade off
+- the key is when not what, because you know what you should do
+- P(i,d)
+- 
+
+4500 mins
+
+- dominant argument, backward induction
+- the shoot start at d*
+
+6000 mins
+
+- 10400 mins, backward induction, solve dilema
+- 
+
+7500 mins
