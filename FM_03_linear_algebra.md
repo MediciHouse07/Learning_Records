@@ -84,6 +84,26 @@ P^2=P, P^T=P symmetric;
 
 1500 mins
 
+2022/05/27:
+
+1500<->3625
+
+1500 mins
+
+- charastistic equation
+- how to solve x, elimination, find pivot, give free variable a value, like 1,0 0,1
+- symmetric matrix, real eigen value
+- eigen vector perpendicular to each other
+- trace linear coefficient, constant term is determinant
+- set free variable to be 1, so pivot variable is -1
+
+3000 mins
+
+- eigen value will be added by a constant number, eigen vector will be unchanged
+- 
+
+4500 mins
+
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
