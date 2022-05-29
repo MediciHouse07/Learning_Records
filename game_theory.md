@@ -675,3 +675,44 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 17
+
+2022/05/27:
+
+finished,
+0000<->
+
+0000 mins
+
+- BI says receiver should accept less
+- pride
+- comparing payoff
+- establishing reputation
+- dictator game
+
+1500 mins
+
+- 2 players bargaining
+- delta dollar today is as good as 1 dollar tomorrow
+- 
+
+3000 mins
+
+- TBR
+- calculated it by the plot and equations
+
+4500 mins
+
+- discount rate the same, reflects their patiences
+
+6000 mins
+
+- the first offer is accepted, no haggling, no bargaining
+- inperfect information
+- labour management, is about bargaining of salary
+- 156 class
+- 115 another class
+- 
+
+7500 mins
