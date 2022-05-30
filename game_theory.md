@@ -768,3 +768,55 @@ finished
 - NE must statify SPE
 
 End mins
+
+
+# Lecture 19
+
+2022/05/28:
+
+
+0000<->1500
+
+0000 mins
+
+- strategies, instruction at each of their information set
+- don't screw up game
+- the excluded NE means don't screw up
+- sub game
+- don't need to consider what the other player
+- definition of strategy
+
+1500 mins
+
+- the third is eliminated because it is not a NE for the sub game
+- 
+
+3000 mins
+
+- match maker
+- 2 NE
+
+4500 mins
+
+- thrid NE, SPE(NOT, mix, mix)
+- the previous 2 NEs are pre strategies
+- SPE implies BI
+- 
+
+6000 mins
+
+- variable cost
+- fixed cost
+- account boring and wrong
+- residual marginal cost
+- 3 views of viewing one problem
+- 1 step from account to economic, consider quantity change of firmA, 2 step from economic to game theory, consider the quantity change of firm B
+- strategic substitutes
+- cournot game is a sub-game of rent or not to rent
+- get 0.31 million USD
+- symmetric cournot, asymmetric cournot
+- from econ to game theory, is strategic effect
+- strategic means other firm will change behaviour
+- tax example is an good example
+
+7500 mins
