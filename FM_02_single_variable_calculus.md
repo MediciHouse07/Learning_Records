@@ -130,6 +130,23 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 6000 mins;
 
+### Lecture 21
+
+2022/05/29:
+
+
+0000<->1500
+
+0000 mins
+
+- use FTC2 to solve differential equation
+- interprete log in FTC2 way
+- draw log picture
+- as long las x<1, intergral x to 1 is an area? OK, because the function is 1/t
+- derive log property by integral
+
+1500 mins
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
