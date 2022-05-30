@@ -716,3 +716,55 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 18
+
+2022/05/28:
+
+finished
+0000<->End
+
+0000 mins
+
+- simoutaneous game, sequential game
+- A BI example
+- information set
+- An information set
+- perfect recall, perfect memory
+- sensible, insensible
+
+1500 mins
+
+- player within the institution has perfect recall
+- perfect information, all information set only have one element
+- imperfect information, not perfect information
+- prisoner delima can be re-write as imperfect information tree
+- complete plan of action, can't tell me what to do at each node, because you can't distinguish nodes, but it can tell you what to do at each strategy set
+
+3000 mins
+
+- information set count number of nodes
+- what matters is information, not time
+- player 2 has  information 1 set(node)
+- strategy tell you what to do
+- turn it to matrix
+- plausible NE or inplausible NE
+- consider BI as well
+
+4500 mins
+
+- some NE are inconsistent with BI
+- sub game
+
+6000 mins
+
+- dominant strategy, and 1 NE
+- a sub game is a part of game that looks like a game within the tree
+- sub game start from a single node
+- it consist are successors in that game
+- it does not break up information set
+- sub game NE combine with BI
+- subgame perfect equalibrium, SPE
+- NE must statify SPE
+
+End mins
