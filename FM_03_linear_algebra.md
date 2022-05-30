@@ -104,6 +104,22 @@ P^2=P, P^T=P symmetric;
 
 4500 mins
 
+2022/05/28:
+
+finished,
+3625<->End
+
+3000 mins
+
+- Q rotation matrix
+- end up with imagine number
+- anti symmetric, -Q=Q
+- triangle matrix, diagnal tells you the eigen value
+- no second indep x
+- 
+
+End mins
+
 ### Lecture 22
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
