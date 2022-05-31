@@ -820,3 +820,52 @@ End mins
 - tax example is an good example
 
 7500 mins
+
+# Lecture 20
+
+2022/05/29:
+
+finished,
+0000<->End
+
+0000 mins
+
+- toll road problem
+- pride, establish reputation, sunk cost
+
+1500 mins
+
+- sunk cost, memoriless
+- WWI, 1 frim market
+- wars of attrition
+- bribery
+- all pay auctions
+- long fight, can happen even rational
+- 2 period game and infinite period game
+- 
+
+3000 mins
+
+- 1 step, find sub game NE
+- got 2 pure strategy NE
+- continuation payoff
+- 
+
+4500 mins
+
+- pure strategy equalibrium, mix strategy equalibrium
+- use another player's probability, make the piror player indifferent
+- mix strategy is a strategy that player mix their strategy
+- roll second game NE to the first game
+- 
+
+6000 mins
+
+- probability of fight up, with respect to the cost go down
+- prior is sunk cost, after is continuation payoff
+- minus c + continuation value
+- when pure strategy counter with each other, you choose mix strategy
+- with probability of fighting forever
+- 
+
+7500 mins
