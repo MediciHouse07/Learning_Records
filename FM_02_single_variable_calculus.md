@@ -147,6 +147,23 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 1500 mins
 
+2022/05/30:
+
+
+1500<->3020
+
+1500 mins
+
+- understand concave or convex, and tagent line, you can draw a picture
+- bell curve
+- nail down
+- erf(x) is error function is 2/sqrt(pi)F(x)
+- C(x),S(x), Fresnal integral,H(x)
+- Li(x)
+- thickness, dx
+
+3000 mins
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
