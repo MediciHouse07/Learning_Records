@@ -869,3 +869,70 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 21
+
+2022/05/29:
+
+finished,
+0000<->End
+
+0000 mins
+
+- cooperation game
+- not contract and mafia
+- you can't solely rely on contract
+- reward and punishment in the future, incentive you behive well today
+
+1500 mins
+
+- no matter how many time you play the prisoner's dilimma
+- the game is still the same
+- unraveling, no punishment no reward in the future
+- sustainable cooperation
+- no future lead to unraveling
+- lame duck effect
+- retirement has a lame duck effect
+- economic major relationship
+- relationship will end, then it is done now
+- BB CC are pure NE
+- second period is still a one shot game
+- strategy, instruction on each information set!
+
+3000 mins
+
+- this strategy induce CC
+- the strategy makes sub game
+- sub game and the whole game
+- continuation payoff, should be surrounded by a box
+- temtation to cheat today, considering the punishment and reward in the future
+- future reward is cc, future punishment is bb
+- TBR
+- 2 NE, one is reward, another is punishment
+- stage game, repeated game
+- 
+
+4500 mins
+
+- re-negotiation can undermine the assumption
+- bankruptcy, incentive for people not to pay in the first time
+- bailout
+- undermine the incentive for not to give bad loan
+- trading off of anti-efficiency, or expose-efficiency
+- 
+
+6000 mins
+
+- keep cooperate as long as nobody cheating
+- the grim trigger strategy
+- infinite game
+- strategy on infinite game
+- infinite prisoner delima and finite prisoner delima
+- the last period we can unravel it back to the beginining
+- temp to cheat 5-4>=reward-punishment
+- [temptation] today <= [value of reward- value of punishment] tomorrow , because it is tomorrow * delta
+- delta < 1 because the game may end
+- 3/4 probability the game will continue
+- 
+
+7500 mins
