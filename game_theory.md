@@ -936,3 +936,152 @@ finished,
 - 
 
 7500 mins
+
+# Lecture 22
+
+2022/05/30:
+
+finished,
+0000<->End
+
+0000 mins
+
+- fruit and vegetable
+- gain by cheating <= reward tomorrow(promise) - punishment(threat) tomorrow, and tomorrow thing should be credible
+- by BI you can know credibility
+- promise of reward, threathen of punishment
+- prisoner's delima, 3-2<=
+
+1500 mins
+
+- credible punishment is a NE, means no one want to deviate
+- both cooperate and both defect are its self equalibrium
+- grim trigger
+- 
+
+3000 mins
+
+- probability that the relationship will continue, is the weight you put on the future
+- probability is low, people tend to cheat
+- not to kill jake, but to kill the relationship
+- one period punishment strategy
+- 
+
+4500 mins
+
+- less punishment needs high delta
+- waiting , not weighting
+- draconian punishment
+- repeated moral hazard
+- outsourcing
+- court system, to enforce contract
+- going wage
+- 
+
+6000 mins
+
+- w* = 2 + ebsilon, incentvie design
+- one shot, wage preium is 100% in this emerging market
+- w** more then one shot, [continuing, firing]
+- delta in this example means the probability of continue the work forever
+- wage premium
+- 
+
+End mins
+
+# Lecture 23
+
+2022/05/30:
+0000<->
+
+0000 mins
+
+- fiable
+- B knows its own cost, A know both cost, A can reveal its cost
+- strategic substitutes
+- if I had low cost, I would reveal it to the other side
+- informational unraveling, high cost can't hide
+- lack of signal can be informative
+- 
+
+1500 mins
+
+- silence can speak volumes
+- certificate
+- verifiable information
+- 
+
+3000 mins
+
+- if you are a real yes, but everyone want to say they are a yes
+- worker game
+- doing the verification in a costly way
+- sometimes costly bad worker can do that too
+- education is a signal to prove they are a good worker
+- MBA costly, and pass it proves something, it satisties both cost and eligibility
+- OK, remove the fees from above
+- opportunity cost is 0
+- mental effort
+- 
+
+4500 mins
+
+- no type want to deviate
+- asymmetric information
+- consistent with behaviour
+- seperating equalibrium, means you can seperate yourself from bad workers
+- 1 year will make MBA like dancing on the table
+
+6000 mins
+
+- 1 year program will be hard, and high tuition
+- qualification inflation USF
+- pessimistic, no learning in this model
+- socially wasteful
+- by that scenarios, teachers and students are socially wasteful
+- 
+
+7500 mins
+
+# Lecture 24
+
+2022/05/30:
+
+0000<->
+
+0000 mins
+
+- jars, small, large
+- you don't know the payoff of the other workers
+- common value, private value
+- pure consumption goods, and goods can be sold
+- 
+
+1500 mins
+
+- winner's curse
+- estimate yi=v+epsilon
+- bell shape
+- winner is on the right side of the bell curve
+- and they have the biggest error
+- 
+
+3000 mins
+
+- bid as if you know you win, this can eliminate your regret
+- in terms of this, you should bid below your estimation
+
+4500 mins
+
+- different types of auction
+- ascending auction
+- descending auction, liek buying a suit on ebay
+- auction D is the same as auction A
+- B and C are related
+- second last hand
+- private value auction
+- bj bar, the second highest bid
+- setting bi=vi, weakly domonant strategy
+- in E, all the auction has a property that they will generate the same revenue in expectation
+
+End mins
