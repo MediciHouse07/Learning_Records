@@ -188,3 +188,29 @@ finished,
 
 4500 mins;
 
+# Lecture 5
+
+2022/05/30:
+
+
+0000<->1500
+
+0000 mins
+
+- producer theory
+- consumer utility function, producer production function
+- producer max pi=R-C
+- q=f(L,k)
+- q firm, Q market
+- variable, fixed
+- SR, LR
+- SR, variable L, fixed Kbar
+- LR, both variable
+- q=f(L,k bar)
+- MPlabour=delta q/delta L
+- Diminishing MP, becasue fixed amount of capital
+- shabble
+- Isoquants, produce the same output, given by L and K
+- indifferent curve roughly equally isoquants
+
+1500 mins
