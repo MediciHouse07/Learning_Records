@@ -164,6 +164,18 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 3000 mins
 
+2022/05/31:
+
+finished,
+3000<->End
+
+3000 mins
+
+- integrand
+- 
+
+End mins
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
