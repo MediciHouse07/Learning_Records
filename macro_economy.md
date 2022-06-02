@@ -28,6 +28,32 @@
 5300 mins, money multiplier, base money + demand deposit = M1; M1 + time deposit = M2;
 5853 mins, leakage;
 
+## Lecture 24
+
+2022/05/31:
+
+0000<->1500
+
+0000 mins
+
+- CB buy government bond lead to bond price rise
+- bond price increase, ir decrease, why
+- bank are subject to run
+- fiscal policy, G in the GDP formula
+- reserve requirement is a item of bank regulation
+- 100% reserve bank is not a bank and it can't pay interest
+- 
+
+1500 mins
+
+- prudential regulation is another item of bank regulation
+- bank capital should be big so that the bank can work
+- deposit gurantee, another bank regulation, bank don't pay GOV pay
+- bank run equalibrium, everyone will go running
+- one NE, run, another NE,not run
+
+3000 mins
+
 ## Lecture 29
 
 ## Lecture 32
