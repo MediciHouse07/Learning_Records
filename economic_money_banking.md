@@ -1,3 +1,11 @@
+# Week1
+
+## 1-3
+
+2022/05/31:
+- integrand
+- taylor
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
@@ -20,6 +28,18 @@
 1844 peel's act, seperate it to issuing department, and banking department;
 Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is doing business like a bank, discount business and something related
 
+### 2-3
+2022/05/31:
+- lend freely at a high rate, badget
+### 2-4
+2022/05/31:
+- internal drain
+- external drain
+- boe as a small bank monitor its own balance sheet
+- maintain par in the gold market
+- cooperation between banks or binding survival constraint to itself
+- holding notes or holding earning asset
+- 
 # Lecture Week6
 ## Lec 1
 ### 1-4
