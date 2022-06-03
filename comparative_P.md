@@ -51,3 +51,31 @@ finished,
 - 
 
 1500 mins
+
+2022/06/01:
+
+finished,
+1500<->End
+
+1500 mins
+
+- election is one procedure
+- white male wealthy
+- competition is another procedure, instead of consensus
+- election fairly conducted, honestly counted
+- manifesto
+- social movement, interest associations
+- articular their interest
+
+3000 mins
+
+- constitution provision, defend democracy
+- what is the system gurantee the outcomes
+- conceptualize
+- interests
+- autonomus
+- labour union
+- chamber of commerce
+- 
+
+End mins
