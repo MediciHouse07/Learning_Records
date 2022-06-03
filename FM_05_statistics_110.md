@@ -281,6 +281,25 @@ nomalizing constant;
 4420 mins, warrant = call option;
 4725 mins, strike price;
 4825 mins, LOTUS;
+
+# Lecture 23
+
+2022/06/01:
+
+0000<->1628
+
+0000 mins
+
+- beta distribution
+- integral get beta function
+- conjugate prior to binomial
+- prior, posterior
+- TBR E calculation and COV calculation
+- propotionality, why propotionality can work, OK, because constant is just to make integration of PDF to be 1
+- 
+
+1500 mins
+
 ### Lecture 24 <br>
 2022/04/08: finished, 0530 mins, sterling formula;
 1133 mins, Gama function factorial formula;
