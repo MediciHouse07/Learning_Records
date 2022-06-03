@@ -214,3 +214,22 @@ finished,
 - indifferent curve roughly equally isoquants
 
 1500 mins
+
+2022/06/01:
+
+1500<->3000
+
+1500 mins
+
+- linear isoquant
+- leontieff production function
+- left shoe and right shoe, serial and serial box
+- MRTs
+- one worker substitues for two machine
+- MRTs = minus MPl/MPk
+- Returns to scale
+- CRS, IRS, DRS
+- IRS case, specialize
+- eventually return scale must decrease
+
+3000 mins
