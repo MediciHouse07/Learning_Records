@@ -300,6 +300,16 @@ nomalizing constant;
 
 1500 mins
 
+2022/06/02:
+
+1500<->3000
+
+1500 mins
+
+- story proof
+
+3000 mins
+
 ### Lecture 24 <br>
 2022/04/08: finished, 0530 mins, sterling formula;
 1133 mins, Gama function factorial formula;
