@@ -169,6 +169,70 @@ finished,
 
 End mins
 
+# Lecture 7
+
+2022/06/02:
+
+finished,
+0000<->End
+
+0000 mins
+
+- AD = G + C + I + NX also for Aggregate Expenditure
+- G, ammunition
+- state purchase shipping industry
+- price ceiling
+- G/GDP increase, this ratio represents the size of the GOV
+- 
+
+1500 mins
+
+- state as a mediator of conflict
+- conservative revolution
+- 
+
+3000 mins
+
+- thrift
+- individualism
+- welfare and work/retrain yourself
+- The main goals of the “Conservative Revolution” are to have a centralized government that protects the citizens’ lives, property, and liberty.
+- 
+
+4500 mins
+
+# Lecture 8
+
+2022/06/02:
+
+0000<->End
+
+finished,
+0000 mins
+
+- price ceiling is micro policy
+- fiscal(G spending and tax on firms) and monetary are macro policy
+- 
+
+1500 mins
+
+- full employment is not 100% employment
+- counter cyclical
+- warefare state program, pensions
+- 
+
+3000 mins
+
+- progressive taxiation
+- public employment
+- WS, are state intervenue the economic with some benefit
+- liberalize import
+- collectivezation 50% G/GDP
+- occupational
+- monetary policy is better, why TBR, OK maybe becasue nationalize will be a trouble in terms of free market
+
+End mins
+
 # Lecture 28
 
 2022/06/01:
