@@ -937,6 +937,48 @@ finished,
 
 7500 mins
 
+2022/06/02:
+
+0000<->5322
+
+0000 mins
+
+- sustain fighting when everyone is rationale
+- sunk and continue
+- contract is outside payment
+- relationship can't rely on contract, but it can be repeated
+- future and today, when it works when it doesn't
+
+
+1500 mins
+
+- lame duck effect
+- pure strategy NE, mix strategy NE, TBR
+- strategy is instruction
+- on each information set
+- SPE TBR
+- 
+
+3000 mins
+
+- SPE, NE at each sub game
+- designated
+- temptation to cheat today <= promise of reward - threat of punishment
+- inequality TBR
+- several NE can make sustainable cooperation for finite repeated game
+- renegotiation will undermine inequalityd equation
+
+4500 mins
+
+- punish him make me fun and other reasons
+- and bankruptcy is an example
+- a wave of bankrupt regulation
+- which create incentive for bankruptcy
+- trade off of expose efficiency, and aiti efficiency
+- 
+
+6000 mins
+
 # Lecture 22
 
 2022/05/30:
