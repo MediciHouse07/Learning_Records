@@ -80,6 +80,60 @@ finished,
 
 End mins
 
+# Lecture 4
+
+2022/06/02:
+
+finished,
+0000<->End
+
+0000 mins
+
+- self perpetuating
+- when rich no one want to compete
+- Daul's
+- 
+
+1500 mins
+
+- liberal, illiberal
+- authoritarian
+- 
+
+3000 mins
+
+- international political economy
+- 
+
+4500 mins
+
+# Lecture 5
+
+0000<->
+
+0000 mins
+
+- 3/4, 1/3 majority
+- party control the cabinet
+- turkey only one chamber, unicameral
+- 
+
+1500 mins
+
+- one complete book of constitution
+- no court can determine constitution level of laws
+- multi-party form cabinet together
+- CH and NZ
+- regional difference within the party
+
+3000 mins
+
+- winner takes all system
+- propotional system
+- 
+
+End mins
+
 # Lecture 6
 
 2022/06/01:
