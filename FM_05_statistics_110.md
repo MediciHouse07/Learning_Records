@@ -282,8 +282,6 @@ nomalizing constant;
 4725 mins, strike price;
 4825 mins, LOTUS;
 
-# Lecture 23
-
 2022/06/01:
 
 0000<->1628
@@ -309,6 +307,21 @@ nomalizing constant;
 - story proof
 
 3000 mins
+
+2022/06/03:
+
+finished,
+3000<->End
+
+3000 mins
+
+- g(ST), ST is a stock of a company, g is a derivative
+- think probability and distribution, then you will think about how much you will pay in the end E(g(ST))
+- binormial, bi-variate normal
+- warrants = call option, is a derivative
+- blackshoes formula
+
+End mins
 
 ### Lecture 24 <br>
 2022/04/08: finished, 0530 mins, sterling formula;
