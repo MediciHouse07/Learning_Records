@@ -90,6 +90,11 @@ finished,
 
 7500 mins
 
+2022/06/03:
+
+4500<->6000
+- he explained money market graph and bond market graph, first think of it through the chain effect of bond to interest rate, then think of it through the money market itself
+
 ## Lecture 29
 
 ## Lecture 32
