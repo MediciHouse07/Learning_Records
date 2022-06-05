@@ -233,6 +233,22 @@ finished,
 
 End mins
 
+# Lecture 9
+
+2022/06/03:
+
+0000<->1500
+
+0000 mins
+
+- tax and expenditure, stabalize
+- labour force: education training
+- high-tech sectors
+- pension age
+- 
+
+1500 mins
+
 # Lecture 28
 
 2022/06/01:
