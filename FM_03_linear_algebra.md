@@ -54,6 +54,24 @@ P^2=P, P^T=P symmetric;
 
 ### Lecture 16 <br>
 2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
+
+2022/06/04:
+
+0000<->2000
+
+0000 mins
+
+- b perpendicular to column space, b is in the null space of A transpose
+- Ax column space of A
+- p + e = b
+- (I-P)b=e
+- m time n matrix, m>n no solution
+- minimize ||Ax-b||^2 = ||e||^2=e1^2+e2^2+e3^2
+- put p1 p2 p3 in the equation, the equation will be solvable
+- 
+
+1500 mins
+
 ### Lecture 17 <br>
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 ### Lecture 18 <br>
