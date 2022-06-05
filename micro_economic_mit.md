@@ -233,3 +233,23 @@ finished,
 - eventually return scale must decrease
 
 3000 mins
+
+2022/06/03:
+
+finished,
+3000<->End
+
+3000 mins
+
+- MRTs, marginal rate of technical substitution, e.g., one worker substitutes 2 machines
+- famine is about politics
+- henry force, mass production, specialization
+- TATA
+- standard of living is determined by productivity
+- given constant L, more K or more A
+- capital comes from saving
+- 1990 to 2005 productivity high, from 1% to 2.x%
+- EU choose more leisure, US choose more productivity
+- 
+
+End mins
