@@ -28,6 +28,8 @@
 5300 mins, money multiplier, base money + demand deposit = M1; M1 + time deposit = M2;
 5853 mins, leakage;
 
+
+
 ## Lecture 24
 
 2022/05/31:
@@ -53,6 +55,40 @@
 - one NE, run, another NE,not run
 
 3000 mins
+
+2022/06/03:
+
+finished,
+3000<->End
+
+3000 mins
+
+- reserve requirement, prudential regulation, deposit gurantee
+- finite deposit gurantee
+- bank(not CB) hold GOV bond, GOV bond can be used as collateral when bank has liquidity issue, they can use it to discount cash
+- TBR
+
+4500 mins
+
+- high frequency economic policy is monetary policy
+- money demand
+- more goods and service to be bought, more money are needed
+- opportunity cost of holding money is interest
+- CB use bond to manipulate IR
+- money market, bond market
+- 
+
+6000 mins
+
+- nominal is money, real is potato
+- ex-ante, ex-post
+- TBR
+- inflationary rate increase, interest rate increase
+- materialize the idea
+- IR is opportunity cost of investment, opportunity cost of IR is GOV interest rate
+- 
+
+7500 mins
 
 ## Lecture 29
 
