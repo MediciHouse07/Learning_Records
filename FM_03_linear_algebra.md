@@ -72,6 +72,26 @@ P^2=P, P^T=P symmetric;
 
 1500 mins
 
+2022/06/05:
+
+1500<->3500
+
+1500 mins
+
+- over compensate
+- 2 picture, one is perpendicular 2 space, another is scatter plot
+- invertible means have solution
+- TBR positive definite
+- back substitution
+- 
+
+3000 mins
+
+- b = p + e, and p is perpendicuar to e
+- 2 pictures, in one picture, C and D didn't show up, in another picture, C and D showed up
+
+4500 mins
+
 ### Lecture 17 <br>
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 ### Lecture 18 <br>
