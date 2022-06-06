@@ -249,6 +249,23 @@ End mins
 
 1500 mins
 
+2022/06/04:
+
+1500<->End
+
+1500 mins
+
+- lever
+- activation pull people to the labour force again
+
+3000 mins
+
+- state level of incentive game
+- marginalized a group
+- 
+
+End mins
+
 # Lecture 28
 
 2022/06/01:
