@@ -253,3 +253,32 @@ finished,
 - 
 
 End mins
+
+
+# Lecture 6
+
+2022/06/05:
+
+0000<->2500
+0000 mins
+
+- proft maxization, cost minimization
+- TC = FC + VC
+- C = K bar * r + L * W
+- don't think of buying machine, think of rent machine
+- per period cost of using machine
+- think of renting building, not building building
+- short run Kbar, long run K
+- C=10Kbar + 5q^2/Kbar
+- MC derivative cost with respect to quantity
+- AC = c/q
+- look at AC curve
+- MC and MPl
+- discrete derivative
+
+1500 mins
+
+- Iso quant, Iso cost curve (c=wl+rk)
+- ISO quant and ISO cost intersection
+
+3000 mins
