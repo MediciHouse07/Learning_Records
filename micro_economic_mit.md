@@ -72,6 +72,13 @@ finished,
 
 End
 
+2022/06/05:
+
+- 2700 mins pizza cookie case
+- MRS= delta p/delta c (y/x)= minus MUc/MUp(x/y)
+- marginal utility has an negtaive relationship with the quantity you have
+
+
 # Lecture 3 
 2022/05/14:
 0000<->1500
@@ -282,3 +289,28 @@ End mins
 - ISO quant and ISO cost intersection
 
 3000 mins
+
+2022/06/05:
+
+finished,
+2500<->End
+2500 mins
+
+- interpretation, k=1/2L, you should have half of your labour of your capital
+- 5 step derive cost function C(q)
+- K L case
+- allocate K and worker to deal with price changing from one aspect
+- iso quant is indifferent curve, iso cost is budget constraint
+- budget constraint is keep the budeget fix, iso cost is about keeping the production the same
+- 
+
+4000 mins
+
+- LR expansion path
+- the more you produce, the less MPl...
+- curve up and curve down LR expansion path
+- LR expansion path, is LR cost curve
+- LR cost are everywhere lower than SR
+- decide how big a plant to build
+
+End mins
