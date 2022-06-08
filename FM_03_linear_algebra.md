@@ -92,6 +92,18 @@ P^2=P, P^T=P symmetric;
 
 4500 mins
 
+2022/06/06:
+
+finished
+3500<->End
+
+- if A has indep columns then ATA is invertible
+- invertible matrix null space only has 0 vector
+- vTv is the length of the vector, if vTv=0 means v is 0
+- if columns are perpendicular to each other, columns are independent
+- perp unit vector = ortho normal vector
+- TBR lecture 17
+
 ### Lecture 17 <br>
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 ### Lecture 18 <br>
