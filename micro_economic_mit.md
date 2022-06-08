@@ -314,3 +314,22 @@ finished,
 - decide how big a plant to build
 
 End mins
+
+# Lecture 7
+
+2022/06/06:
+
+finished
+0000<->1500
+
+- Fixed vs sunk costs
+- sunk cost are something you can't change from the state of now
+- sunk cost are long run fixed
+- sunk cost is purely about the future
+- fallacy
+- perfect competition
+- perfectly competitive graphic
+- identical products
+- full information about prices
+- low transaction cost/ search cost
+- total elastic price
