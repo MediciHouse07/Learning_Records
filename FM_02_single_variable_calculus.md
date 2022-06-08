@@ -25,6 +25,21 @@ Lecture 2 is finished, continuous stuff
 2022/03/15: 0809/5052, review class, lecturer is trying to re-calculate the derivative in several different ways <br>
 2022/03/15: 2423/5052, chain rule, intuitively sense it, it is the a speed-up effect on y with dx * dt <br>
 2022/03/25: finished, there is no lecture 8 <br>
+
+### Lecture 9
+
+2022/06/07:
+
+
+0000<->1500
+
+- application of diferentiation
+- linear approximation, lnx roughly = x - 1
+- if x0=0 fx roughly = f(0) + f'0x, it works when x near 0
+- approximation sinx roughly = x
+- e^x  roughly = 1 + x
+- 
+
 ### Lecture 12 <br>
 2022/04/01: finished, this course is not about relative rate of change
 ### Lecture 13 <br>
