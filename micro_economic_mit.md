@@ -333,3 +333,20 @@ finished
 - full information about prices
 - low transaction cost/ search cost
 - total elastic price
+
+2022/06/07:
+
+
+1500<->3000
+
+- residual demand
+- Q(p) demand curve of the market
+- firm can meet perfect elasticity demand
+- TBR where to find epsilon dq/q / dp/p
+- short run profit maximazation
+- SR no one entry/exit
+- profit = R - C
+- opportunity cost
+- accounting profit, economic profit
+- d profit/ dq = dR/dq - dC/dq
+- M PI = MR(price) - MC
