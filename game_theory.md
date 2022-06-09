@@ -821,6 +821,26 @@ End mins
 
 7500 mins
 
+2022/06/07:
+
+
+0000<->3000
+
+- don't screw up game
+- turn the game to matrix, 3 more NE
+- NE fail BI, those two failed part, includes p1's doubts
+- subgame perfect
+- in the sub game, some player's interest can be omitted
+- 3 NEs tell you what you would do in each information set, it satisfied the definition of strategy
+- 
+
+1500 mins
+
+- find only remained SPE, it is the same as BI would select
+- redundant information set tells you what if
+- Matchmaker game
+- 
+
 # Lecture 20
 
 2022/05/29:
