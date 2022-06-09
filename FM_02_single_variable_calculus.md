@@ -38,6 +38,17 @@ Lecture 2 is finished, continuous stuff
 - if x0=0 fx roughly = f(0) + f'0x, it works when x near 0
 - approximation sinx roughly = x
 - e^x  roughly = 1 + x
+
+
+2022/06/08:
+
+
+1500<->3000
+
+- ln(1+x)
+- (1+x)^r
+- when x close to 0
+- in linear approximation, you throw the quadric term
 - 
 
 ### Lecture 12 <br>
