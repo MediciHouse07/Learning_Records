@@ -841,6 +841,20 @@ End mins
 - Matchmaker game
 - 
 
+2022/06/08:
+
+
+3000<->5000
+
+- Match maker game, 3 elements of vector
+- can't start with the last node, but can start from the last sub-game
+- matrix to handle sub game
+- 2 SPE
+- and A mix SPE, is another NE in the sub game
+- Jake check
+- SPE(not, mix, mix) (Send, G,G) and another one
+
+
 # Lecture 20
 
 2022/05/29:
