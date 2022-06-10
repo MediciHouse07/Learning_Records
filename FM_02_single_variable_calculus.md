@@ -51,6 +51,20 @@ Lecture 2 is finished, continuous stuff
 - in linear approximation, you throw the quadric term
 - 
 
+2022/06/09:
+
+3000<->4500
+
+- timedilatin, special relativity
+- transmitter
+- linear approximation, quadratic approximation
+- because it is dx, so higher order term can be omitted
+- quardridic = linear + f''/2(x-x0)^2
+- ln(1+x)
+- TBR next lecture, explain where does quadridic came
+- second term provides a better fit parabola
+
+
 ### Lecture 12 <br>
 2022/04/01: finished, this course is not about relative rate of change
 ### Lecture 13 <br>
