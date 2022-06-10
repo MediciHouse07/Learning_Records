@@ -350,3 +350,11 @@ finished
 - accounting profit, economic profit
 - d profit/ dq = dR/dq - dC/dq
 - M PI = MR(price) - MC
+
+2022/06/08:
+
+3000<->3700
+
+- marginal decision in economic
+- economic thinking is like gradient descent
+- solve what is the optimal quantity, and what is the max profit
