@@ -358,3 +358,20 @@ finished
 - marginal decision in economic
 - economic thinking is like gradient descent
 - solve what is the optimal quantity, and what is the max profit
+
+2022/06/09:
+
+finished
+3700<->End
+
+- Profit/q=R/q minus C/q
+- TBR MC
+- figure 7 dash 3
+- discrete function versus continuous function
+- impose a tax
+- 10 use per unit tax
+- fix tax of ten
+- TBRT
+- economic think about margin
+- error exist in this sector
+- 
