@@ -53,7 +53,8 @@ Lecture 2 is finished, continuous stuff
 
 2022/06/09:
 
-3000<->4500
+Finished,
+3000<->End
 
 - timedilatin, special relativity
 - transmitter
