@@ -231,7 +231,7 @@ independent joint PDF of normal;
 4701 mins, LOTP;
 4756 mins, independent integration CDF;
 ### Lecture 21 <br>
-#### REP 1 2022/04/05
+#### REX 2022/04/05
 2022/04/05: finished,
 2640 mins, dimensionless, unitless;
 2959 mins, WLOG, without lose of generality; corr(x,y)=rou;
