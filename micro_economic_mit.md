@@ -375,3 +375,8 @@ finished
 - economic think about margin
 - error exist in this sector
 - 
+
+2022/06/09；
+- through both way, I got the same profit 35, other users from youtube says the same
+- impose tax per unit, or impose fix cost, per unit will diminish MR and optimal quantity, fix tax will not diminish optimal quantity but will diminish MR
+- shut down case, he will fix the example and talk later
