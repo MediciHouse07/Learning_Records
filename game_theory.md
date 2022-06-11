@@ -269,6 +269,20 @@ finished,
 
 End mins;
 
+2022/06/09:
+
+finished
+5000<->End
+
+- classic economic school investment
+- residual demand curve
+- MR curve, as twice as steep with the demand curve
+- 1 account assume qty the same, 2 econ assume other's quantity doesn't change, self quantity change, 3 game theory will think about both company quantity changes
+- TBR strategic subsitues
+- TBRT
+- symmytric cournot, asymmetric cournot, they are two nodes in a tree, rent or not rent
+- and tax is the same game
+
 # Lecture 10
 
 20220521:
