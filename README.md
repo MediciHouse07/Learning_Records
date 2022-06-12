@@ -53,6 +53,8 @@ finished: literally what it means <br>
 USF: means useful <br>
 TBR: means to be reviewed <br>
 TBRT: means this sector is to be reviewed <br>
+QSN: means I have question here <br>
+REX: means how many times you have completely viewed the video
 
 # Possible course that will be added
 - Financial Market https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185&index=1
