@@ -383,3 +383,61 @@ finished
 
 2022/06/09；
 - profit per unit
+
+
+# Lecture 8
+## REX 1 2022/06/10
+
+2022/06/10:
+
+finished,
+0000<->End
+
+- P=MC optimal q*
+- profit per unit = price - AC
+- shut down decision
+- continue to sell even though you are losing money
+- SR
+- LR you can optimize your capital to exit this situation
+- transition
+- shut down revenue < vc
+- pq<vc
+- p<vc/q
+- never shut down with this cost function
+- this can be understood by looking at the graph
+- supply curve is derived
+- only for the perfect competition
+- utility + budget, demand; production + input prices + perfect competition = supply curve, firm
+- 
+
+1500 mins
+
+- market supply curve are more elastistic than firm
+- add identical firms get market supply curve
+- K bar short run
+- 1917 mins, useful materials
+- Q=48-p demand curve
+- demand curve + cost function + cost function = equalibrium
+- whole market demand curve and market supply curve
+- LR competition
+- LR allow entry and exit
+- LR making money in, losing money out, no shut down rule
+- profit >0 entry, profit<0 exit, profit = 0 equalibrium
+- 
+
+3000 mins
+
+- the first short run, the second short run
+- main frame market
+- 3350 mins relation between price MC and ATC
+- LR, market supply curve is flat
+- because any new entry or leave will affect profit
+- competition forces cost minimization
+- assumption doesn't cover sunk cost
+- sunk cost create barriers to entry
+- profit is greater to barriers to entry they enter in reality
+- company differ
+- input price upward sloping supply
+- 
+
+End mins
