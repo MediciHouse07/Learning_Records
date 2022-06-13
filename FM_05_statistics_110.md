@@ -231,6 +231,7 @@ independent joint PDF of normal;
 4701 mins, LOTP;
 4756 mins, independent integration CDF;
 ### Lecture 21 <br>
+#### REX 2 2022/06/14
 #### REX 1 2022/04/05
 2022/04/05: finished,
 2640 mins, dimensionless, unitless;
@@ -269,6 +270,22 @@ independent joint PDF of normal;
 - definition of correlation
 - rewrite the function
 - WLOG, without lose of generality
+
+2022/06/12
+
+finished,
+3000<->End
+
+-  VAR(X+Y) VAR(X-Y)
+- proof of correlation is between -1 and 1
+- COV i a multinomial, multi dimension of binomial
+- competing game
+- indicator r.v. to prove the var of binomial
+- IAIB = ? intersection
+- prove bernuli firstm ten prove binomial
+- indicator r.v. practice
+- hyper geometric proof
+
 ### Lecture 22 <br>
 2022/04/06: finished, 
 100 mins, hyper geom(w,b,n), withoug replacement binomial;
