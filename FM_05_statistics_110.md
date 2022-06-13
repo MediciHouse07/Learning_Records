@@ -231,7 +231,7 @@ independent joint PDF of normal;
 4701 mins, LOTP;
 4756 mins, independent integration CDF;
 ### Lecture 21 <br>
-#### REX 2022/04/05
+#### REX 1 2022/04/05
 2022/04/05: finished,
 2640 mins, dimensionless, unitless;
 2959 mins, WLOG, without lose of generality; corr(x,y)=rou;
@@ -254,7 +254,21 @@ independent joint PDF of normal;
 - it also looks like a distributive property
 - play with COV(X+Y,Z+W)=COV(X,Z)+COV(X,W)+COV(Y,Z)+COV(Y,W)
 - and a sigma form practice
-- 
+
+2022/06/11
+
+1500<->3000
+
+- VAR(X1+X2)
+- X1 X2 independent, COV is 0
+- VAR(X1+X2+...+Xn), practice to write and arrange i and j and sigma
+- X, Y indep, they are uncorrelated COV(X,Y)=0
+- converse is false
+- odd moment of standard normal with 0 expectation
+- Y is a function of X, so Y is dependent of X, X also is a function of Y, at least Y partially determines X
+- definition of correlation
+- rewrite the function
+- WLOG, without lose of generality
 ### Lecture 22 <br>
 2022/04/06: finished, 
 100 mins, hyper geom(w,b,n), withoug replacement binomial;
