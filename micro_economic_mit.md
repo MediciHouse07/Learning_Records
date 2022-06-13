@@ -441,3 +441,42 @@ finished,
 - 
 
 End mins
+
+# Lecture 9
+
+2022/06/11
+
+finished,
+0000<->End
+
+- excess demand
+- MC
+- both case are excess demand case, but different equalibrium
+- 6 reasons of demand curve shift
+- 2 reasons of supply curve shift, input cost, tech
+- 
+
+1500 mins
+
+- shape of supply and demand curves
+- welfare economics
+- welfare is a measure of well being
+- consumer surplus
+- compensating variation
+- how much you would like to pay to be better off or not to be worse off
+- willingness to pay, demand curve
+- 
+
+3000 mins
+
+- use extrem case pefect elastic and inelastic to analyse things
+- you willingness to pay is below the price
+- trangle plus rectangle, surplus analysis
+- TBR elastistic
+- perfect competition, price is taken
+- producer surplus, LR profit
+- 4300 mins, TBR, LR and SR
+- 4400 mins, flat market supply curve
+- heterogeneous firms
+- barriers to entry
+- 
