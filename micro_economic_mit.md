@@ -480,3 +480,42 @@ finished,
 - heterogeneous firms
 - barriers to entry
 - 
+
+# Lecture 10
+
+2022/06/12
+
+finished,
+0000<->End
+
+-  SW = CS + PS
+- positive derive normative
+- price ceiling case
+- DWL dead weight lost
+- excess demand can't be resolved
+- efficiency loss
+- allocative inefficiency
+- someelse have to decide how to allocate it instead of the market
+- people wait in line
+- opportunity cost of waiting in line
+- 
+
+1500 mins
+
+- Equity efficiency trade off
+- somebody has extra time, somebody's cost is more valuable
+- vertical equity
+- ticket scalping
+- 
+
+3000 mins
+
+- moral and economic
+- food bank
+- tax medalion
+- TBRT taxi example
+- 4400 mins GOV's position by this policy
+
+4500 mins
+
+End mins
