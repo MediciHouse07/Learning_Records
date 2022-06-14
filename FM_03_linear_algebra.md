@@ -105,7 +105,27 @@ finished
 - TBR lecture 17
 
 ### Lecture 17 <br>
+#### REX 1 2022/03/28
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
+
+2022/06/13
+
+finished,
+0000<->1500
+
+- orthognal and orthonormal
+- QTQ=I
+- qTq
+- when it is square matrix, then QT is the inverse of Q
+- we call it orthognal
+- perm Q
+- understand what is orthonormal Q
+- Q has triangle vector element
+- Q has 1 or minus 1 as its elements
+- 4 d Q construction
+- practice to construct some Qs
+- 3 times 2 form of "Q" TBRT what was the purpose of this
+- 
 ### Lecture 18 <br>
 2022/03/29: finished, property of determinant 9-10, |AB|=|A||B|, |AT|=|A|, they are at the end of the lecture, need to practice
 
