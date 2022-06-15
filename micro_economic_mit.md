@@ -519,3 +519,42 @@ finished,
 4500 mins
 
 End mins
+
+2022/06/13
+
+# Lecture 11
+finished,
+0000<->1500
+
+- before this lecture are the tools
+- this lecture is about how to apply those tools to realistic situations
+- price taker previous example
+- monopoly, price maker
+- cost, technology, input price
+- MR was price, but it is not simply price
+- one firm in SR can be perfective competitive TBRT
+- MR = AREA A - AREA B
+- normal formula of monopoly MR
+- poisoning effect
+- MR = p + p(1/epsilon)
+- 
+
+1500<->3000
+
+- shut down rule hold in SR
+- markup p-mc/p=-1/epsilon
+- markup
+- 
+
+3000<->End
+
+- copyright protection and monopoly and markup
+- welfare effect of monopoly
+- DWL
+- Market failure
+- TBRT
+- price discrimination
+- partial price discrimination
+- looking for signal of your willingness to pay, that is the elastistic
+- tesla price discrimination for the same product
+- 
