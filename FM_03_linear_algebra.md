@@ -125,7 +125,19 @@ finished,
 - 4 d Q construction
 - practice to construct some Qs
 - 3 times 2 form of "Q" TBRT what was the purpose of this
-- 
+
+1500<->3400
+
+- previous Q are 2 by 2, 4 by 4
+- this Q is 3 by 3
+- Gram schmidt TBR
+- projection to a Q
+- TBRT
+- A=a and error vector B construct a orthonormal basis
+- TBR check definition of Q in the book, if it can be a 2 by 3 rectangular matrix
+- check the result of ATB
+
+
 ### Lecture 18 <br>
 2022/03/29: finished, property of determinant 9-10, |AB|=|A||B|, |AT|=|A|, they are at the end of the lecture, need to practice
 
