@@ -558,3 +558,35 @@ finished,
 - looking for signal of your willingness to pay, that is the elastistic
 - tesla price discrimination for the same product
 - 
+
+# Lecture 12
+
+2022/06/14
+
+0000<>1500
+
+- where does monopoly come from
+- enourmous fix cost create a barrier of entry
+- state owned steel company
+- patent
+- 20 years life of patent
+- 20 years of DWL
+- get rid of poisoning effect by pre poisoning them
+- 
+
+1500<->3000
+
+- contigent valuation
+- market failure make gov intervention better
+- introduce competition
+- voucher
+- 
+
+3000<->End
+
+- equity and efficiency
+- mit and yale both like to make fun of harward
+- contestable market
+- Airline deregulation
+- quality competition to price competition
+- airport slot 
