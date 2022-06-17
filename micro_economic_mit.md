@@ -590,3 +590,34 @@ finished,
 - Airline deregulation
 - quality competition to price competition
 - airport slot 
+
+# Lecture 13
+
+2022/06/15
+
+finished
+0000<->1500
+
+- oligopoly
+- cooperatively, cartel, close to monopoly
+- non cooperatively
+- strategy is about how to play
+- equalibrium is about in what way the game will over
+- 
+
+1500<->3000
+
+- off diagnolize
+- 1800 real cartel case
+- MIT1412
+- repeated game
+- 2500 mins Cournot model
+- residual demand function
+- MR = function(other firms quantity,your q)
+- 
+
+3000<->End
+
+- qA = Q minus qU
+- funky BR
+- 
