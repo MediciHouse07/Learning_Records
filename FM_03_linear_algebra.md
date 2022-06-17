@@ -105,6 +105,8 @@ finished
 - TBR lecture 17
 
 ### Lecture 17 <br>
+
+#### REX 2 2022/06/18
 #### REX 1 2022/03/28
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 
@@ -137,6 +139,19 @@ finished,
 - TBR check definition of Q in the book, if it can be a 2 by 3 rectangular matrix
 - check the result of ATB
 
+2022/06/16:
+
+finished,
+3400<->End
+
+- get 3 vector, make them to be orthonormal
+- Gram-Schemid formula
+- 3857 mins, a example
+- 4409 mins, A basis and Q basis
+- A=LU elimination
+- A=QR an expression of Gram Schemid
+- 4817 mins TBRT
+- look at the book to see how to complete QR
 
 ### Lecture 18 <br>
 2022/03/29: finished, property of determinant 9-10, |AB|=|A||B|, |AT|=|A|, they are at the end of the lecture, need to practice
