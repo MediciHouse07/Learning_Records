@@ -621,3 +621,53 @@ finished
 - qA = Q minus qU
 - funky BR
 - 
+
+# Lecture 14
+2022/06/15:
+
+fishnished
+0000<->1500
+
+- Cartel
+- act as a firm
+- analyse cooperative case and non cooperative case
+- unstable
+- incentive to cheat
+- qA from 48 to 50
+- Q = 96
+- qU
+- total benefit  but half posion effect
+- make money by cheating
+- 1800s cartel common
+- anti trust law tuolasi...
+- The national football league
+- busted
+- 
+
+1500<->3000
+
+- OPEC
+- JP vonlunteery agreement
+- GOV policy and industry
+- comparison of monopoly Q and profit, oligopoly BR, perfect competitive market, 96,64,192
+- DWL is propotional to the quantity sold
+- lower profit rise social welfare
+- cartel slash monopoly
+- monopoly markup condition
+- more company markup less, approach competitive outcome
+- more firm make markup hard, also make cooperative hard
+- mergers
+- econ of sclaes vs market power
+- merge make n down and make markup up
+
+3000<->End
+
+- hospital merge got approved without question
+- bertrand competition
+- one penny less to steal all the business from you
+- product differentiation
+- make consumer believe this good is not identical as others
+- breakfast cerieal
+- don't take  it personally, just look at them, laugh at them
+- if they hook you now, you will stick on their product
+- user loyalty
