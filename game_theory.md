@@ -868,6 +868,16 @@ End mins
 - Jake check
 - SPE(not, mix, mix) (Send, G,G) and another one
 
+2022/06/16:
+
+REW
+
+- 4900 mins, 3 layers of business application
+- TBR strategic substitues
+- 2nd level of the answer, the econ answer, think with BI you will use MC=MR
+- ECON answer, you are the monopolist of the residual demand curve, so you can use MC=MR
+- the right answer only one, solve out sub game, roll back
+
 
 # Lecture 20
 
