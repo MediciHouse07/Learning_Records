@@ -620,7 +620,16 @@ finished
 
 - qA = Q minus qU
 - funky BR
-- 
+
+
+2022/06/16:
+
+REW
+
+- 3222 mins, figure 13 dash 1, cournot case
+- in the short run, fixed cost will treat as constant
+- in the long run, everything varies
+
 
 # Lecture 14
 2022/06/15:
