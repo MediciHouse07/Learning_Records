@@ -43,6 +43,10 @@
 2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
 
 ### Lecture 15 <br>
+
+#### REX 2 2022/04/30
+#### REX 1 2022/03/25
+
 2022/03/25:  finished why when m>n, which means by which m equations and n unknown there is no solution? because: it might have a situation like 0=1, or x1=1 in the same time x1=2 <br>
 2022/04/30: finished, 0428 mins, projection matrix of OLS;
 0830 mins, uppercase of P projection matrix, lowercase p is projected vector, aTa is length square;
@@ -51,6 +55,36 @@ P^2=P, P^T=P symmetric;
 1800 mins, m>n, Ax=b no solution, solve Axhat=P;
 3742 mins, A is not square matrix;A is square matrix, P = I, which means column space of A is the whole R^n, P is I, notice sigular cases;
 4621 mins, m>n case, unknown are paprameters vector
+
+2022/06/17:
+
+REW
+
+0000<->1300
+
+- p is on the same direction as a, so p = xa
+- aT(b-xa)=0 is a fundamental formula
+- you can derive x and p through above formula
+- notice p and P
+- consider if b becomes 2b, what happen on projection
+- if a becomes 2a it will not affect projection, so there is a projection matrix P and we have Pb
+- put parenthesis on different place then you create p and P
+- C(P) = line through a, and rank(P)
+- P is symm
+- 
+
+2529<->3100
+
+- the same formula, [vector](b-Axvector)
+- what does sub space that e in
+- N(AT) orthorgnal to C(A)
+- multi dimension, x and little p
+- then P
+
+3400<->3920
+
+- look at the P, if A is invertible square matrix, then the C(A) is the whole Rn, then projection matrix is I
+
 
 ### Lecture 16 <br>
 2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
