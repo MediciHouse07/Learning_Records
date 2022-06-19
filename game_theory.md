@@ -142,6 +142,21 @@ total industry profit, monopoly maximize total industry profit; use legal to reg
 10708 mins, when new entrances join the industry, the old big company will cheat becasue they signed an agreement;
 totald quantity, NE, monopoly quantity, competitive quantity; quantity is on the one direction, price is on the another direction;
 
+2022/06/17:
+
+REW
+
+4000<->End
+
+- perfect competition is where MC and deamnd curve intersect, no profit
+- strategic substitues, cournot; parterniship game strategic complyments;
+- monopoly maximize industry proft
+- and the combination of the 2 monopoly quantity
+- even though the guys who signed the agreement follows the agreement, the new comer will not
+- 10900 mins, comparison perfect competitive and  and 
+- cournot is in the middle derived from cournot model, bertrend implies the market will play perfect competition
+
+
 # Lecture 7
 
 2022/05/14:
@@ -168,6 +183,29 @@ In mainstream economics, economic surplus, also known as total welfare or Marsha
 4402 mins, assumptions; voter can be candidate as well;
 4746 mins, plurality;
 11037 mins, if she drop the election, she lose more;
+
+2022/06/17:
+
+REW
+
+0000<->3000
+
+- perfect competition, firm are price taker
+- monopoly and perfect competition
+- cournot is sitting in between above 2 cases
+- comsumer surplus and price and quantity are sitting in between
+- bertrand competition
+- TBR cournot
+- bertrand set prices let quantity comes out
+- Q(p)
+- Q(p) = 1-p, p is lower of the 2 prices
+- in this case, strategy is price, so instead of s we use p
+- NE of bertrand is setting price at c
+- if firm 2 c+3epsilon, firm 1 will change to c + 1epsilon
+- bertrand outcome is like perfect competition 
+- same setting as cournot, but different strategy set, with different outcome
+- relax the assumption
+-
 
 # Lecture 8
 2022/05/17:
