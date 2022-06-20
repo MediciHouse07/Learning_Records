@@ -95,6 +95,23 @@ finished,
 4500<->6000
 - he explained money market graph and bond market graph, first think of it through the chain effect of bond to interest rate, then think of it through the money market itself
 
+## Lecture 26
+
+0000<->1500
+
+- fiscal policy
+- taxation and goverment spending
+- gov is a redistributor
+- train can be a service of GOV
+- transfer payment
+- automatic stabilizers
+- unemployment benefit
+- pay less in good times
+- propotional tax
+- GOV budget constraint
+- high automatic stabalizer
+- 
+
 ## Lecture 29
 
 ## Lecture 32
