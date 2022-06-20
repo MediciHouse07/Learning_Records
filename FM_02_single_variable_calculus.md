@@ -217,6 +217,17 @@ finished,
 
 End mins
 
+### Lecture 22
+
+0000<->1500
+
+- integration by slicing
+- turn delta x to dx
+- method of disks
+- integrand
+- volume is propotional to width x
+
+
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
