@@ -112,6 +112,20 @@ finished,
 - high automatic stabalizer
 - 
 
+2022/06/19:
+
+1500<->3000
+
+- GOV need to recognize that it is a recession gap
+- lump sum taxes, propotional taxes
+- TBRT
+- eternality
+- tax bread make you buy less bread, tax everything
+- tax leisure, tax not consuming
+- lump sum doesn't change relative prices
+- lump sum, tax everyone 10 lira
+- progressive taxes, regressive taxes
+
 ## Lecture 29
 
 ## Lecture 32
