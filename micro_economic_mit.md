@@ -208,6 +208,22 @@ REW
 - demand curve is correctly labeled
 - in general if you change a price one good, all goods demand will change
 
+2022/06/19
+
+REW
+1000<->2000
+
+- what determins the demand curve
+- elasticity determins the demand curve
+- discrete Q0 and P0
+- insulin
+- perfect substitues, strategic substitues
+- nothing and all eitire market
+- the more substitutable, the more elastic
+- change of income, and ow it affect demand curve
+- figure 4 4
+- 
+
 # Lecture 5
 
 2022/05/30:
