@@ -227,6 +227,14 @@ End mins
 - integrand
 - volume is propotional to width x
 
+2022/06/19:
+
+1500<->3200
+
+- check vol of portion of width x of ball
+- hug each other or stick to the side
+- revolve around y axis not only x axis
+- one case is a ball sitting on x=a coordianate, another case is y=a and y=x^2 shaped curve
 
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
