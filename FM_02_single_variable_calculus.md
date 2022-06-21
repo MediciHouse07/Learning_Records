@@ -218,7 +218,7 @@ finished,
 End mins
 
 ### Lecture 22
-
+2022/06/18:
 0000<->1500
 
 - integration by slicing
