@@ -141,6 +141,8 @@ finished,
 End mins
 
 # Lecture 4
+
+## REX 1 2022/05/23
 2022/05/15:
 0000<->1500
 0530 mins, opportunity cost/set;
@@ -194,6 +196,17 @@ finished,
 - you give them more coupon money of a good, then the good is getting cheaper for them, they go to another good, TBRT
 
 4500 mins;
+
+2022/06/19
+
+REW
+0000<->1000
+
+- utility tells your indifference curve
+- 0330 mins mistake in his expression
+- opportunity cost and budget constraint
+- demand curve is correctly labeled
+- in general if you change a price one good, all goods demand will change
 
 # Lecture 5
 
