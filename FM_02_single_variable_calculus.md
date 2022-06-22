@@ -218,6 +218,8 @@ finished,
 End mins
 
 ### Lecture 22
+#### REX 1 2022/06/20
+
 2022/06/18:
 0000<->1500
 
@@ -235,6 +237,15 @@ End mins
 - hug each other or stick to the side
 - revolve around y axis not only x axis
 - one case is a ball sitting on x=a coordianate, another case is y=a and y=x^2 shaped curve
+
+2022/06/20
+
+finished,
+3200<->End
+
+- unit of the volume, need to pay attention
+- A boilling water application in the next lecture
+- 100 and 70 degree, max y =1 
 
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
