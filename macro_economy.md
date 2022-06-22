@@ -97,6 +97,7 @@ finished,
 
 ## Lecture 26
 
+### REX 1 2022/06/20
 0000<->1500
 
 - fiscal policy
@@ -125,6 +126,33 @@ finished,
 - lump sum doesn't change relative prices
 - lump sum, tax everyone 10 lira
 - progressive taxes, regressive taxes
+
+2022/06/20:
+
+finished,
+3000<->End
+
+- lump sum taxation is prop regressive tax, the poorer your are you paid more
+- 10% is not progressive nor regressive
+- you need to think about marginal change, 1 extra lira will cost the same for poor and rich
+- 10% is flat tax
+- progressive tax, minimum tax level
+- direct tax(salary), indirect tax(VAT)
+- tax is about flow, not about stock
+- VAT poorer people pays more
+- 4200 mins interesting
+- collect VAT is easy
+- direct tax require you to understand the details
+- budget deficit = T minus G
+- 1990 Turkey
+- flow is budge deficit, stock is debt
+- primary surplus = T minus (G excluding interest)
+- cyclically adjusted budget deficit
+- 5900 mins crowding out crowding in
+- saving go to investment or go to GOV spending
+- private loan market
+- I = (i, Y) Y determines demand curve
+- bank lost expertise when GOV is the main debtor
 
 ## Lecture 29
 
