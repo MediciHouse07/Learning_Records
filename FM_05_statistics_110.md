@@ -477,6 +477,7 @@ COV(X+Y,X-Y)
 4000 mins, stationary, steady state, converge, $\vec{s}$$Q$ = $\vec{s}$, also it is eigen value and eigen vector
 
 ### Lecture 32 <br>
+#### REX 1 2022/04/16 
 2022/04/16: finished, 0640 mins, irr irreducible, you can go anywhere from anywhere;
 0812 mins, recurrent, start at a state return to a state; otherwise, transient;
 1330 mins, absorbing state;
@@ -484,6 +485,20 @@ COV(X+Y,X-Y)
 2700 mins, prob vector;
 2930 mins, reversible markov chain;
 4500 mins, proof of chain, qij=1/di
+
+2022/06/21
+
+0000<->1540
+
+- irreducible chain means you can go anywhere from anywhere
+- the opposite is reducible
+- reducible can be split to irreducible
+- state is recurrent, P =1 of returning to that state
+- the opposite is transient
+- 1300 mins a case of turning a recurrent structure to transient
+- 1400 mins a case of recurrent and transient mix, also a visualization of gambler's ruin
+- periodic chain
+- 1540 mins summary
 ### Lecture 33 <br>
 2022/04/16: finished, 1700 mins, Markov chain - google;
 2000 mins, google story;
