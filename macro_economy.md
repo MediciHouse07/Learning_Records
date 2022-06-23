@@ -154,6 +154,27 @@ finished,
 - I = (i, Y) Y determines demand curve
 - bank lost expertise when GOV is the main debtor
 
+# Lecture 27
+
+2022/06/21
+
+finished
+0000<->3000
+
+- 0325 mins inflation vs unemployment
+- long run PC, short run PC
+- national rate of unemployment
+- rational expectation makes inflaiton and unemployment increase
+- 
+
+3000<->End
+
+- pi is inflation
+- expectations augmented PC
+- inflation is first order derivative
+- 4200 mins PC
+- 
+
 ## Lecture 29
 
 ## Lecture 32
