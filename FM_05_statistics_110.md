@@ -499,6 +499,17 @@ COV(X+Y,X-Y)
 - 1400 mins a case of recurrent and transient mix, also a visualization of gambler's ruin
 - periodic chain
 - 1540 mins summary
+
+2022/06/22
+
+1500<->3000
+
+- s vector is stationary with trans matrix Q
+- OK, TBR lecture 31
+- TBRT why it is unique
+- still TBR markov chain
+- reversible MC TBRT
+
 ### Lecture 33 <br>
 2022/04/16: finished, 1700 mins, Markov chain - google;
 2000 mins, google story;
