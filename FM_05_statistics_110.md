@@ -458,6 +458,10 @@ ind->uncorrelated, uncorrelated!=>ind for univariate, while it seems work for mu
 COV(X+Y,X-Y)
 
 ### Lecture 31 <br>
+
+#### REX 2 2022/05/03
+#### REX 1 2022/04/15
+
 2022/04/14: 0<->1928, 0430 mins, stochastics process;
 0730 mins, 171 class stochastic process;
 1928 mins, lost interest for today <br>
@@ -475,6 +479,19 @@ COV(X+Y,X-Y)
 2641 mins, LOLN hold on iid, free will, LOLN hold in Markov;
 3300 mins, LOTP;
 4000 mins, stationary, steady state, converge, $\vec{s}$$Q$ = $\vec{s}$, also it is eigen value and eigen vector
+
+2022/06/23
+
+0000<->1500
+
+- chronological
+- markov chain, example of stochastic processes
+- discrete r.v. and discrete space
+- think about continuous r.v. and continuous space
+- P(xn+1=j|xn=i,xn-1=xi-1...)
+- past and future are conditionally independent given the present
+- homogeneous, qij this doesn't depend on time, that means there are some qij depend on time
+
 
 ### Lecture 32 <br>
 #### REX 1 2022/04/16 
