@@ -173,7 +173,24 @@ finished
 - expectations augmented PC
 - inflation is first order derivative
 - 4200 mins PC
-- 
+
+# Lecture 28
+
+2022/06/22
+
+finished
+0000<->End
+
+- your expectation will affect inflation rate, so GOV need to make you believe
+- 0400 mins, keysian, wage
+- I will be your customer, but we will have an one year agreement
+- expectation management, frequent used by CB
+- sticky expectation
+- 2800 mins shift of philippe curve
+- location of PC depends on location of supply curve
+- GDPoutput and unemployment rate
+- 3900 mins inflation rate
+- don't let inflation grow, you would have 90% unemployment rate and that would be
 
 ## Lecture 29
 
