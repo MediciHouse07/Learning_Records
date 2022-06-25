@@ -192,7 +192,56 @@ finished
 - 3900 mins inflation rate
 - don't let inflation grow, you would have 90% unemployment rate and that would be
 
-## Lecture 29
+
+# Lecture 29
+
+2022/06/23:
+
+finished
+0000<->End
+
+- make people understand will increase their credibility
+- AD determines inflation
+- make you understand it will mainatain a stable credibility
+- GOV credibility
+- 
+
+# Lecture 31
+
+2022/06/23:
+
+finished,
+0000<->1500
+
+- balance of trade, tell you whether you are a open economy or closed economy
+- balance of payments
+- tourism services
+- produce in foreign country and sell in foreign country belong to net investment income category
+
+1500<->3000
+
+- net transfer income, gift, it is a small item
+- current account deficit
+- trade over time, you get more from you produced
+- sleep under a shelter 
+
+3000<->4500
+
+- smooth marginal utility
+- we don't have money to produce a car today, yes this word is interesting
+- magic way of understanding a thing
+- german are getting old, expect low in the future, they are going to retire, so they will save,turk are young, expect more 
+- deficit corresponds to surplus
+- 2000 turk has a good expectation
+- no one lend you you end with surplus and crisis
+
+4500<->10000
+
+- financial account, portofolio investment(GOV bond, small share of the compoany), hot money; foreign direct investment(big share of the company), 
+
+10000<->End
+
+- change in CB reserves
 
 ## Lecture 32
 2022/03/21: 💫 finished 
