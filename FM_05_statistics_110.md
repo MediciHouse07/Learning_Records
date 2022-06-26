@@ -492,6 +492,14 @@ COV(X+Y,X-Y)
 - past and future are conditionally independent given the present
 - homogeneous, qij this doesn't depend on time, that means there are some qij depend on time
 
+2022/06/24:
+
+1500<->3000
+
+- transition matrix, stationary property
+- markov chain to simlulate something
+- LOLN holds in Markov chain case as well
+- 1 by M matrix is a vector
 
 ### Lecture 32 <br>
 #### REX 1 2022/04/16 
