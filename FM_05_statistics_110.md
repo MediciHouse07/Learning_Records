@@ -500,6 +500,7 @@ COV(X+Y,X-Y)
 - markov chain to simlulate something
 - LOLN holds in Markov chain case as well
 - 1 by M matrix is a vector
+- the reason that he uses vector times Q is because of the way he define Q, his Q is on row wise not column wise
 
 ### Lecture 32 <br>
 #### REX 1 2022/04/16 
