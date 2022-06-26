@@ -291,6 +291,16 @@ finished,
 End mins
 
 
+2022/06/24:
+
+0000<->1500
+
+- for production theory, SR and LR, difference is capital is vriable or fixed
+- 0920 mins MPl definition delta q / delta L
+- holding capital fix, shabel, marginal production diminishing
+- 1200 mins LR
+- utility function and ISO quant
+
 # Lecture 6
 
 2022/06/05:
