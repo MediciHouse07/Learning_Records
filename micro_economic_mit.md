@@ -709,3 +709,21 @@ fishnished
 - don't take  it personally, just look at them, laugh at them
 - if they hook you now, you will stick on their product
 - user loyalty
+
+# Lecture 15
+
+2022/06/24:
+
+0000<->1500
+
+- factor market
+- market that give you the price of labor and capital
+- value of next unit of labor, MRPl=MPl*MR
+- perfectly competitve labor market
+- MPl diminishing
+- next player add to my win total
+- some player add huge probability of chance to win
+- TBR, MP little L how to understand it forgot
+- SR labor demand
+- LR laor demand
+- figure 15-2
