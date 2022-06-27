@@ -459,6 +459,7 @@ COV(X+Y,X-Y)
 
 ### Lecture 31 <br>
 
+#### REX 3 2022/06/25
 #### REX 2 2022/05/03
 #### REX 1 2022/04/15
 
@@ -501,6 +502,16 @@ COV(X+Y,X-Y)
 - LOLN holds in Markov chain case as well
 - 1 by M matrix is a vector
 - the reason that he uses vector times Q is because of the way he define Q, his Q is on row wise not column wise
+
+2022/06/19:
+
+3000<->End
+
+- he also use row vector, 1 by M vector
+- Xn and,  s vector PMF at time n
+- s is 1 by M matrix, Q is M by M matrix
+-  does it exist, is it unique, stationary dist is referring s vector
+
 
 ### Lecture 32 <br>
 #### REX 1 2022/04/16 
