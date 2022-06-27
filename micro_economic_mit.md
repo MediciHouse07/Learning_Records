@@ -737,3 +737,20 @@ fishnished
 - SR labor demand
 - LR laor demand
 - figure 15-2
+
+2022/06/25:
+
+0000<->1500
+
+- SR MPl, marginal production of labour, next unit
+- MRPl not just what they make, but what they worth, equal to MPl times MR
+- set MRPl = wage(which is the cost)
+- marginal benefit minus marginal cost
+- MP, P is productive
+- perfectly competitive market make people to be a price taker
+- 0700 mins, diminishing marginal product make the demand downward sloping
+- computer chip and potato chip
+- 1200 the basketball case tells you move from making computer chip to making potato chip, because wining a game in israle is much easier than US, so he takes this analogy
+- abvoe is SR case
+- LR difference is capital can adjust
+- LR demand curve is more flexible, need to understand, may need to go back to the previous LR demand curve, the tesla case, the bowl curve
