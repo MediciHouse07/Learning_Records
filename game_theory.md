@@ -208,6 +208,9 @@ REW
 -
 
 # Lecture 8
+
+## REX 1 2022/05/20
+
 2022/05/17:
 0000<->1500
 1440 mins, location model;
@@ -250,6 +253,18 @@ finished,
 - 
 
 End mins;
+
+2022/06/25:
+
+0000<->3000 what is the equalibrium for 2 town model is the following topic
+
+- to understand the begininig of this lecture, you need to take the last lecture, which is lecture 7
+- 1500 mins, two town model, 2 types of people
+- x axis is number of your type in your town
+- exactly mixed make both sides better off
+- simultaneously, sequentially
+- 2799 segregation
+- initial state decides how long time it will converge to segregtion
 
 # Lecture 9
 0000<->1500
