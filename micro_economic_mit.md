@@ -754,3 +754,19 @@ fishnished
 - abvoe is SR case
 - LR difference is capital can adjust
 - LR demand curve is more flexible, need to understand, may need to go back to the previous LR demand curve, the tesla case, the bowl curve
+
+2022/06/26:
+
+1500<->3000
+
+- 1548 mins capital demand
+- MPk times P of good = r rent
+- market L supply, against the firm labour supply
+- H = 24 minus leisure, don't model good, model bad
+- labor leisure trade off
+- translate quantity to dollar
+- indifference curve and budget line determins the wage people demand and hours of work people would like to provide
+- income effect fight against the substitution effect
+- w gose up leads to substution effect leisure goes down
+- income effect, you are richer, reflects that
+- 3000 mins, explain income effect by case
