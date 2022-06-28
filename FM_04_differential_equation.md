@@ -50,3 +50,16 @@ finished, 2655<->End
 4005 mins, slope makes a constant angle with the beam; becasue slope is tangent;
 4325 mins, tangent plus formula;
 4800 mins, polar coordinates, TBR;
+
+### Lecture 5
+
+2022/06/26:
+
+0000<->2000
+
+- dy/dt=f(y0) no t in RHS
+- TBRT
+- direction field
+- 1 find critical point, 2 draw graph f(y), interest is >0 and <0
+- 1500 mins dy/dt = ry minus w bank case
+- graph with dy/dt on the y axis, y on the x axis
