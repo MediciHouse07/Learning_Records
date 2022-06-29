@@ -770,3 +770,15 @@ fishnished
 - w gose up leads to substution effect leisure goes down
 - income effect, you are richer, reflects that
 - 3000 mins, explain income effect by case
+
+2022/06/27:
+
+finished,
+3000<->End
+
+- substitution effect + income effect, figure 15 dash 4
+- and 15 dash 5
+- giffin good
+- H times dH/dy = income effect
+- TBRT
+- 4500 mins child labour
