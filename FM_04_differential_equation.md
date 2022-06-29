@@ -53,6 +53,8 @@ finished, 2655<->End
 
 ### Lecture 5
 
+#### REX 1 2022/06/27
+
 2022/06/26:
 
 0000<->2000
@@ -63,3 +65,19 @@ finished, 2655<->End
 - 1 find critical point, 2 draw graph f(y), interest is >0 and <0
 - 1500 mins dy/dt = ry minus w bank case
 - graph with dy/dt on the y axis, y on the x axis
+
+2022/06/27:
+
+1500<->End
+
+- logistic EQN
+- 2336 mins example
+- k decline as y increases
+- the spread of disease, the spread of rumour
+- y less than 0, no physical meaning
+- stable solution
+- unstable solution, y = 0
+- semi stable
+- 3700 mins, harvesting case
+- 4458 mins, maximum rate of harvesting
+- there is claps in the end of the lecture
