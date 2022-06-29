@@ -81,3 +81,6 @@ finished, 2655<->End
 - 3700 mins, harvesting case
 - 4458 mins, maximum rate of harvesting
 - there is claps in the end of the lecture
+- salmon
+- bourgeois
+- sannitary
