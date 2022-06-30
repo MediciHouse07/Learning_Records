@@ -84,3 +84,15 @@ finished, 2655<->End
 - salmon
 - bourgeois
 - sannitary
+
+# Lecture 6
+
+2022/06/28:
+
+0000<->1500
+
+- conjugate complex number
+- polar representation
+- 0530 mins Euler's formula
+- exponential law
+- TBRT
