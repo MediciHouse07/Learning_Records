@@ -85,7 +85,7 @@ finished, 2655<->End
 - bourgeois
 - sannitary
 
-# Lecture 6
+### Lecture 6
 
 2022/06/28:
 
