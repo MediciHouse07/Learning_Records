@@ -45,6 +45,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 ### 1-4
 2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
 
+# Lecture Week8
+## Lec 1
+### 1-1
+2022/06/28:finished
+### 1-2
+2022/06/28:finished
+### 1-3
+2022/06/28:finished, retial or purchase money, versus whole sale gold money; this is 1500s to 1800s, king pay sodier in foreign land, pure fiat money is useless, a gold is neccessary for paying wage
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
