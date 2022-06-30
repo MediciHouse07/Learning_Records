@@ -782,3 +782,41 @@ finished,
 - H times dH/dy = income effect
 - TBRT
 - 4500 mins child labour
+
+# Lecture 16
+
+2022/06/29:
+
+finished,
+0000<->End
+
+- minimum wage case
+- firm get consumer surplus, worker get supplier surplus
+- DWL propotional to the how far away with equalibrium
+- non competitive labour market, it has monopoly and oligopoly
+- firm has market power, because worker can't perfectly shop job opportunity
+- Monopsony
+
+1500 mins
+
+- as long as MPl>w, even though you set mw, as long as mw<MPl, the firm still like the worker
+- Norway, envy day, 2240 mins
+- labour market and output market, different layer
+- diversion from current consumption to future consumption
+- capital market is financial capital
+- your decision of how hard to work, your decision of how hard you save
+
+3000 mins
+
+- corp debt, equity(stock), bank
+- intercomporal choice
+- comsumption in this period versus comsumption in next period
+- u(c1,c2)
+- u(leisure,c)
+- my taste for consumption in this period versus next period
+- income substitution effect
+- s = y minus c1
+- labour = 24 minus leisure
+- higher interest rate lead to less saving
+
+End
