@@ -28,6 +28,10 @@
 4643 mins, dim N(A) = n - r = # of free variables;
 
 ### Lecture 10 <br>
+
+#### REX 2 2022/04/26
+#### REX 1 2022/03/22
+
 2022/03/22: 💫 finished <br>
 2022/04/26: finished, 0330 mins, 2 equal row -> singular matrix, means dependent;
 0540 mins, rank, double check;
@@ -35,6 +39,18 @@
 2443 mins, C(R)<>C(A) different column spaces but same row space;
 2600 mins, basis for row space, first row of R;
 3400 mins, Gauss-Jordan;
+
+2022/06/29:
+
+0000<->1500
+
+- row space
+- N(AT) is left null space
+- identify the four fundamental spaces
+- draw four fundamental space picture
+- pivot and basis
+- dimension and rank
+- dimension of row space and column space are the same
 
 ### Lecture 11 <br>
 2022/03/23: 💫 finished
