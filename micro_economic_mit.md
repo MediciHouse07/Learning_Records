@@ -820,3 +820,15 @@ finished,
 - higher interest rate lead to less saving
 
 End
+
+# Lecture 17
+
+2022/06/30:
+
+0000<->1500
+
+- capital market, is about firm finance themself
+- money received overtime
+- perpetuity
+- PV equal f/ir
+- accerlaration of compounding
