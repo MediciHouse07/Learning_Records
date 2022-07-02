@@ -52,6 +52,17 @@
 - dimension and rank
 - dimension of row space and column space are the same
 
+2022/06/30:
+
+1500<->3000 next topic is null space of A transpose
+
+- basis are pivot columns, dimension are rank r, which means the basis is r dimension
+- is 2 dimensional
+- special solution
+- C(R)<>C(A)
+- basis for row space is first r rows of R, not A
+- but row space of R is the same as row space of A
+
 ### Lecture 11 <br>
 2022/03/23: 💫 finished
 
