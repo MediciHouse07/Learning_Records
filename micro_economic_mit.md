@@ -832,3 +832,28 @@ End
 - perpetuity
 - PV equal f/ir
 - accerlaration of compounding
+
+2022/06/30:
+
+finished,
+
+1500<->3000
+
+- r = i minus pi, r is real interest rate, i is nominal interest rate, pi is inflation rate
+- inflation is hard to measure
+
+3000<->End
+
+- the way you think of interest rate is different with the way the state think of interest rate
+- NPV, cost and benefit, is a sigma, with all period of discount net R minus C
+- interest rate is opportunity cost of investment
+- next best thing is the discount rate you want to use
+- insulation cost, is about heat
+- write a formula so you can decide
+- 3800 mins insulation personal consumer side NPV
+- upfront cost
+- 4200 mins human capital
+- 4432 mins present value of education
+- cost is green, benefit is yellow area
+- interest rate increase, the benefit minus cost will be a worse deal
+- interest rate of student loan makes things different
