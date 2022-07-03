@@ -29,6 +29,7 @@
 
 ### Lecture 10 <br>
 
+#### REX 3 2022/07/01
 #### REX 2 2022/04/26
 #### REX 1 2022/03/22
 
@@ -62,6 +63,17 @@
 - C(R)<>C(A)
 - basis for row space is first r rows of R, not A
 - but row space of R is the same as row space of A
+
+2022/07/01:
+
+finished,
+
+3000<->End
+
+- why N(AT) is left null space, and its explaination
+- combination of columns that gives 0 column, combination fo rows that gives 0 row
+- produce dimension, produce basis
+- span the space to R n by n
 
 ### Lecture 11 <br>
 2022/03/23: 💫 finished
