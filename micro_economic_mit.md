@@ -825,6 +825,8 @@ End
 
 2022/06/30:
 
+finished,
+
 0000<->1500
 
 - capital market, is about firm finance themself
@@ -857,3 +859,34 @@ finished,
 - cost is green, benefit is yellow area
 - interest rate increase, the benefit minus cost will be a worse deal
 - interest rate of student loan makes things different
+
+
+# Lecture 18
+
+2022/07/01:
+
+finished,
+
+0000<->1500
+
+- saving
+- tax subsidy to retirement savings
+- tall sign, rate that bank tax you
+- tax free , tax deferred
+- money market, gov bond; bond, corporate bond; stock, corporate equity
+
+1500<->3000
+
+- rose example trade is good or bad
+- life is about trade
+- under paid worker
+- PPF, production possibility frontier
+- economies of scope, economies of scale
+- diseconomies of scope
+- comparative advantage
+
+3000<->End
+
+- all advantage but only one comparative advantage
+- comparative advantage leads to specialized
+- to make one computer, give up less roses, opportunity cost, comparative advantage
