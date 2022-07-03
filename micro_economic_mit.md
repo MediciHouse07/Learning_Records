@@ -890,3 +890,36 @@ finished,
 - all advantage but only one comparative advantage
 - comparative advantage leads to specialized
 - to make one computer, give up less roses, opportunity cost, comparative advantage
+
+# Lecture 19
+
+2022/07/01:
+
+finished,
+
+0000<->1500
+
+- where comparative advantage come from
+- factor endowment, such as cheap labour
+- techonology, first mover
+- techonology policy becomes trade policy
+- import policy expand the total welfare
+- competing consumer from the world, competing producer from the world
+
+1500<->3000
+
+- trade policy
+- producer is source of job
+- quotas, limit of imports; tariffs, taxes levied on imports
+- C is goverment tariff
+- trade wars
+- NAFTA colinton
+- free trade in a regime in a certain territory
+
+3000<->End
+
+- don't compensate losers, socially riot creating comparative advantage damage environment
+- trade policy as a tool of foreign policy
+- what is the right response
+- blurr line
+
