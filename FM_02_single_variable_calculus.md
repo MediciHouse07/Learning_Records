@@ -260,6 +260,12 @@ finished,
 - calories,KWH,foot lbs
 - TBRT dart example
 
+2022/07/02
+
+0000<->1500
+
+- reviewed
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
