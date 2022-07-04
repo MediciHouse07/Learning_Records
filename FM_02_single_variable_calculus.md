@@ -250,6 +250,16 @@ finished,
 ### Lecture 23 <br>
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
+### Lecture 24
+
+2022/07/02:
+
+0000<->1500
+
+- heat=energy=work
+- calories,KWH,foot lbs
+- TBRT dart example
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
