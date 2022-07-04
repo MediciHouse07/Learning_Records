@@ -923,3 +923,40 @@ finished,
 - what is the right response
 - blurr line
 
+# Lecture 20
+
+2022/07/02:
+
+finished,
+
+0000<->1500
+
+- expected utility theory
+- more than fair bet
+- Eu = P(win)u(win) + P(lose)u(lose)
+- Expected value, and Expected utility
+- risk averse, or risk pro
+- this is difference between expected value and expected utility
+- diminishing margin utiltiy
+- non linear concave combination
+- 1200 mins, more than fair gave leads to worse off
+- offering more than fair game, but you would like to pay to avoid a bet
+
+1500<->3000
+
+- risk aversion, from diminishing marginal effect
+- extensions
+- risk neutrality
+- risk loving
+- gambling function become smaller, you will be getting neutral
+- loss aversion
+- 
+
+3000<->End
+
+- lock the door is also about the insurance
+- risk aversion or neutral is determined by the propotion of risk level to your total income
+- lotery is a big source of finance of the sate
+- risk tolerance varies
+- different theory behind the lotery leads to different policy decisions
+- 
