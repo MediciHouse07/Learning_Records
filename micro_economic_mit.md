@@ -960,3 +960,27 @@ finished,
 - risk tolerance varies
 - different theory behind the lotery leads to different policy decisions
 - 
+
+# Lecture 21
+
+2022/07/05:
+
+finished,
+
+0000<->End
+
+- equity and fairness
+- equity and efficiency
+- isowelfare curve
+- utilitary
+- SWF = f(u1,u2,...)
+- diminishing marginal utility, take away one's money and give the money to someone else, see if the net is positive
+- commodity egalitarilism
+- inequality unitless is not about judgemenkt
+- poverty line is about judgement
+- leakage of the bag & admin costs
+- marginal tax
+- substitution effect
+- typically think substitution effect dominant
+- reduce the price of leisure
+- 
