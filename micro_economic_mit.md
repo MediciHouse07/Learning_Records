@@ -983,4 +983,39 @@ finished,
 - substitution effect
 - typically think substitution effect dominant
 - reduce the price of leisure
-- 
+
+
+# Lecture 22
+
+2022/07/03:
+
+finished,
+
+0000<->1500
+
+- taxation in US
+- tax wedge
+- burden the same, but one end with price up another end with price down
+- total tax wedge, and what market looks like matters
+
+1500<->3000
+
+- elastic demand, producer bear all the taxes, inelastic demand, consumer bear all the taxes
+- negotiating power
+- hotel tax and airbnb
+- what to tax, 1700s
+- tax on Y income or C 2253 mins
+- Y = C + S , saving is a engine of economic growth
+- fairness, rich save, others don't
+- tax cause leaks in the bucket, transfer also
+- transfer is implicity tax, T = max (0 , 10000 - Y)
+- categorical transfers
+- TANF
+
+3000<->End
+
+- TBRT
+- self reveal
+- paternalistic
+- EITC, conditional transfer
+- negative tax, is a subsidy
