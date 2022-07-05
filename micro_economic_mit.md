@@ -1019,3 +1019,29 @@ finished,
 - paternalistic
 - EITC, conditional transfer
 - negative tax, is a subsidy
+
+# Lecture 23
+
+2022/07/03:
+
+finished,
+
+0000<->1500
+
+- perfect competition, information
+- externality
+- marginal willingness to pay, marginal willingness to buy
+- SMC = PMC + MD
+- PMC=PMB=SMB
+- dead weight lost point at optimal
+- externality is about wheather you bear the consequence
+
+1500<->3000
+
+- internalize externality
+- RND externality
+
+3000<->End
+
+- plannned economy
+- corrective tax and subsidy can help firm to handle externality
