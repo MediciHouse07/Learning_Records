@@ -266,6 +266,14 @@ finished,
 
 - reviewed
 
+2022/07/03
+
+1500<->3000
+
+- number hits = ce^(-r)^2
+- calculate integral than calculate the probability
+- 
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
