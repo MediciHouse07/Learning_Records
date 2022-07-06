@@ -1045,3 +1045,63 @@ finished,
 
 - plannned economy
 - corrective tax and subsidy can help firm to handle externality
+
+# Lecture 24
+
+2022/07/04:
+
+0000<->1500
+
+- imperfect competition, externality = market failure
+- information asymetry
+- pristine shape
+- second hand car, seller has
+- insurance, consumer has
+- insurance model
+- adverse selection
+- TBRT
+
+1500<->300
+
+- market failure means market is collapsed
+- buy apple has market failure 
+- have access to gene, there is no need to have insurance
+- 2 islands case, makes both people better off
+- more information make us worse
+- subdization, GOV intervene
+- health insurance is not taxed, to help the people into the market, to fix the market failure
+- mandate, work comp insurance
+- insure people for risk cause moral hazard
+- adverse behaviour is encouraged
+
+3000<->End
+
+- MVC + G = w
+- payroll
+- annuity, regular payment until people die
+- 
+
+# Lectue 25
+
+2022/07/04:
+
+0000<->1500
+
+- share of healthcare expenditure
+- spending too high, outcome is too unequal
+- market failure and redistribution are 2 area needs GOV to involve
+- medicare for the older, medikid for the poor
+- socialism
+
+1500<->3000
+
+- hidden tax, firm pay employee less and part of as insurance
+- status quo
+- 3 legged stool
+- have access to employer market
+- eligible
+
+3000<->End
+
+- reputational monopoly, the top one charge 3 times of the top 2
+- 
