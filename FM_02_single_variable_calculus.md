@@ -252,6 +252,8 @@ finished,
 
 ### Lecture 24
 
+#### REX 1 2022/07/05
+
 2022/07/02:
 
 0000<->1500
@@ -272,7 +274,14 @@ finished,
 
 - number hits = ce^(-r)^2
 - calculate integral than calculate the probability
-- 
+
+2022/07/05:
+
+3000<->End
+
+- numerical integration
+- riemann sums, trapezoidal rule, simpson's rule
+- symmetric compromise
 
 ### Lecture 29
 2022/05/14:
