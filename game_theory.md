@@ -266,6 +266,18 @@ End mins;
 - 2799 segregation
 - initial state decides how long time it will converge to segregtion
 
+2022/07/06:
+
+3000<->4500
+
+- check NE, check profitable deviation
+- in the exact NE, indifferent with which town to live not it is not a stable NE, in the segregation NE, people is not indifferent with which town to live, but it is a stable NE
+- tipping point, beyond the tipping point, you go to the other equalibrium
+- people would rather to be in a intergrated equalibrium
+- but likely to end out in an inefficient equalibrium
+- seemingly
+- having society choosing for you end up with better off
+
 # Lecture 9
 0000<->1500
 
