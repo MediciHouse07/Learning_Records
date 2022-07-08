@@ -399,6 +399,16 @@ End mins
 - gamma 1/2 is sqrt(pi)
 - normalizing normal, also has something to do with sqrt(pi)
 
+2022/07/07:
+
+0000<->1500
+
+- understand the approximation and limitation
+- gamma distribution came from game function
+- more integration is needed
+- the relation between gamma and integration
+- 
+
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 2022/04/09: finished, 332 mins, Beta Gamma, need to review previous 2 videos; transformation function;
