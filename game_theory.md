@@ -278,6 +278,17 @@ End mins;
 - seemingly
 - having society choosing for you end up with better off
 
+2022/07/06:
+
+4500<->6000
+
+- you see segregation, doesn't mean people prefer segregation
+- 5000 mins newheaven, darman, activist
+- 1960 bassing, segregation in school
+- bassing
+- centrally randomization vs individual randomization
+- that's where mix NE comes from
+
 # Lecture 9
 0000<->1500
 
