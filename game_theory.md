@@ -289,6 +289,20 @@ End mins;
 - centrally randomization vs individual randomization
 - that's where mix NE comes from
 
+2022/07/07:
+
+6000<->End
+
+- individual randomization is more like choice not central planning
+- randomize mixed strategies
+- mixed strategies is a random of your pure strategy
+- rock paper scissors
+- no NE in pure strategies, but may have mixed strategy
+- (1/3,1/3,1/3) is a mixed strategy, vs (1,0,0) is a pure strategy
+- derive expected payoff calculation formula
+- weakly BR is a NE, mixed 1/3 is a BR
+- why it is the only NE
+
 # Lecture 9
 0000<->1500
 
