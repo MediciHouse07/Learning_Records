@@ -373,6 +373,8 @@ finished,
 End mins
 
 ### Lecture 24 <br>
+#### REX 2 2022/04/25
+#### REX 1 2022/04/08
 2022/04/08: finished, 0530 mins, sterling formula;
 1133 mins, Gama function factorial formula;
 1733 mins, normalizing constant of normal;
@@ -388,6 +390,15 @@ End mins
 2300 mins, Gamma related with many distribution;
 2800 mins, memoriless property, poisson & exponential;
 4256 mins, LOTUS
+
+2022/07/06:
+
+0000<->1500
+
+- arithmatic sequence
+- gamma 1/2 is sqrt(pi)
+- normalizing normal, also has something to do with sqrt(pi)
+
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 2022/04/09: finished, 332 mins, Beta Gamma, need to review previous 2 videos; transformation function;
