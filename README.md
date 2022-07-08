@@ -8,6 +8,10 @@ Learning_Records-main is the first folder within the zip<br>
 # Notes
 2rd rule should be noticed <br>
 2022/03/25: Adjustment about the rule: If you always jump video from one to another you use this 💫, other wise you don't need, for example, you jump to the next ten, then you learn the lesson after that course, you don't need to put a 💫 on it <br>
+## Plan for the study 2022/07/06
+- 15 + 15 way daily basic + extention thinking 
+- weekend 1 course only to expand the barrier
+- assume total 300 hours, 600 days can perform one round, with perfect quality
 
 # Direction of my research
 ### Supply side(what is the topic researchers on the field chasing):
