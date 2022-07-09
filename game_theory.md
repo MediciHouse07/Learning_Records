@@ -303,6 +303,19 @@ End mins;
 - weakly BR is a NE, mixed 1/3 is a BR
 - why it is the only NE
 
+2022/07/07:
+
+from the book strategy Dutta
+
+Complete information and incomplete information
+Simultaneously, when both side knows each others gain, that is a complete information game, otherwise it is a imperfect information
+
+Perfect information and imperfect information
+Sequentially, when the defensive knows what the offensive choose, that is a perfect information, otherwise it is imperfect information
+Need to double check the idea of involve the nature thing and information set the fog
+
+Bayesian NE, the NE in the incomplete information game, a way to handle it is to turn an incomplete information game to an imperfect information game
+
 # Lecture 9
 0000<->1500
 
