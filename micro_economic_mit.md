@@ -784,6 +784,7 @@ finished,
 - 4500 mins child labour
 
 # Lecture 16
+## REX 1 2022/06/29
 
 2022/06/29:
 
@@ -820,6 +821,15 @@ finished,
 - higher interest rate lead to less saving
 
 End
+
+2022/07/07:
+
+0000<->0941
+
+- target is to listen how he describe individual decide saving and wage
+- binding
+- 0900 mins inelastic end up with no effect of minimum wage
+- hasn’t reached my target yet, need to think about why inelastic labour market can make minimum wage policy useless
 
 # Lecture 17
 
