@@ -886,6 +886,22 @@ finished
 
 End mins
 
+2022/07/08:
+
+0000<->1500
+
+- simultaneous game, sequential game
+- second mover advantage
+- 0600 mins information set
+- blackboard has the definition of the perfect information
+- information set will leads to a imperfect information if it contians 2 nodes
+
+1500<->3000
+
+- perfect recall
+- player of game is firm and a country
+- had the game is perfect information, player would know if is on the upper node or lower node
+- strategy tell player what to do at each of its information sets
 
 # Lecture 19
 
