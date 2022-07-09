@@ -409,6 +409,18 @@ End mins
 - the relation between gamma and integration
 - 
 
+2022/07/08:
+
+1500<->3000
+
+- normal formula, and the difference between the two
+- how to turn a formula to PDF, normalize
+- Gamma(a,lamda), Gamma(a,1)
+- poisson processes
+- disjoint, joint intervals
+- 2800 mins, poisson and exponential
+- interarrival times are iid expo(lambda)
+
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
 2022/04/09: finished, 332 mins, Beta Gamma, need to review previous 2 videos; transformation function;
