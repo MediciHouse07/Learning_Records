@@ -373,6 +373,7 @@ finished,
 End mins
 
 ### Lecture 24 <br>
+#### REX 3 2022/07/09
 #### REX 2 2022/04/25
 #### REX 1 2022/04/08
 2022/04/08: finished, 0530 mins, sterling formula;
@@ -420,6 +421,20 @@ End mins
 - disjoint, joint intervals
 - 2800 mins, poisson and exponential
 - interarrival times are iid expo(lambda)
+
+2022/07/09:
+
+3000<->End
+
+- negative binomial & geometric
+- convolution
+- list all the distributions
+- induction
+- MGF
+- to understand this part, MGF, convolution, negative binomial, geometric, posson and exponential
+- TBRT
+- 4700 mins, the property of gamma function
+- Gamma(a,lambda), what does the lambda mean
 
 ### Lecture 25 <br>
 2022/03/29: 💫 432/4814, suddenly want to back to basic stuffs <br>
