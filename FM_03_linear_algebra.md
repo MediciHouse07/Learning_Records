@@ -381,6 +381,7 @@ fourier series, Fnij = w^ij
  
 
 ### Lecture 27
+#### REX 1 2022/04/08
 2022/04/08: finished, ellipsoid=football, hyperbloic=double curve line, parabola=x^2;
 0356 mins, definition for positive, lambda test, det test, pivot test, XTAX>0 test;
 0555 mins, positive semidefinite;
@@ -390,6 +391,18 @@ fourier series, Fnij = w^ij
 3959 mins, special matrix;
 4811 mins, radius eigen value = Qlambda QT=A, Q eigen vector matrix is direction of radius of elliposoid, eigen value is the size of the vector;
 3612 mins, 2nd derivative matrix, has to be 0, which will determine min point
+
+2022/07/10:
+
+0000<->1500
+
+- positive definite matrix
+- elliposoid
+- eigen value test, determinant test
+- boarder line, positive semi definite
+- singular matrix, 2 by 2, so one eigen value has to be 0
+- if XTAX is positive, the matrix is positive definite
+- TBRT
 
 ### Lecture 28
 2022/04/09: finished, 240 mins, a symetry has inverse;
