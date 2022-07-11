@@ -59,6 +59,26 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - GOV like to arrogate this currency publish authority, it turns it to be a 0% rate of financing
 - authority espacially tax authority is an asset of GOV, enforce paying tax with their currency or jail, this is where fiat money get power, chartalist idea
 
+### 1-5
+
+- 2022/07/09
+
+### 1-6
+
+- 2022/07/09, PPP, EP = P star, quantity of money determines the price level in 2 different countries, then there is a PPP E
+
+## Lec 2
+
+### 2-1
+
+2022/07/09:
+
+- medalist, gold silver
+- mint par
+- arbartrage by transporting
+- forward interest parity, spot exchange rate is related of the forward exchange rate, cap and floor
+- so basically PPP, FIP(E=(1+R)/(1+Rstar)F),rewrite it will also help to understand it,mint par(E=x of gold/y of gold), they are different way of ideas of explaining the exchange rate
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
