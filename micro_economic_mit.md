@@ -78,6 +78,15 @@ End
 - MRS= delta p/delta c (y/x)= minus MUc/MUp(x/y)
 - marginal utility has an negtaive relationship with the quantity you have
 
+2022/07/10:
+
+0000<->1500
+
+- work horse
+- utility mx, prefs, budget constraint
+- satiation
+- indifference curve is graphic form of preferences
+- completeness, you can't say I don't know
 
 # Lecture 3 
 2022/05/14:
