@@ -336,6 +336,7 @@ End mins:
 2022/04/01: finished
 
 ### Lecture 24
+#### REX 1 2022/04/04
 2022/04/01: 0454/5111, markov matrix, has lambda= 1, and its steady state: lamnbda = 1, what is steady state? <br>
 2022/04/04: finished, 300 mins, steady state;
 424 mins, Markov has a lambda eigen value;
@@ -403,6 +404,18 @@ fourier series, Fnij = w^ij
 - singular matrix, 2 by 2, so one eigen value has to be 0
 - if XTAX is positive, the matrix is positive definite
 - TBRT
+
+
+2022/07/11:
+
+0000<->1500
+
+- 2 tests that can decide if it is a positive definite
+- test 3 is derived from test 2
+- xTAx is a more important test
+- for every x1 and x2, is it always postive
+- but x1 x2 equals 0 would make it 0, should we count that
+- 2 6 6 18 threshold
 
 ### Lecture 28
 2022/04/09: finished, 240 mins, a symetry has inverse;
