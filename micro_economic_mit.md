@@ -88,6 +88,24 @@ End
 - indifference curve is graphic form of preferences
 - completeness, you can't say I don't know
 
+2022/07/11:
+
+1500<->3000
+
+- from difference curve to utility function
+- not cardinal but it is ordinal
+- you can rank, but you can't compare
+- from utility to Mu, it makes sense to think about next cokkie
+- diminishing Mu
+- holding pizza costant, you can get relation between cookie and utility
+- the first and the second cookie
+- cookies versus Mu
+- the rate you want to substitue between pizza and cookie, MRS, slope, marginal rate of substitution
+- MRS changes
+- MRS has to diminish
+- MRS = slope(delta y / delta x) = minus MUx axis(cookies)/MU y axis, intuitive explaination is what he offered
+- 
+
 # Lecture 3 
 2022/05/14:
 0000<->1500
