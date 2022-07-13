@@ -15,3 +15,8 @@
 - Dual mandate as double task
 - 14 T USD M2
 - reserve requirement and capital requirement are a way to shrink money supply
+
+2022/07/11:
+
+3500<->5700
+
