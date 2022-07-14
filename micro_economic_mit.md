@@ -24,6 +24,10 @@ finished,
 2846 mins, command economy, capitalist economy;
 
 # Lecture 2
+## REX 3 2022/07/12
+## REX 2 2022/05/19
+## REX 1 2022/05/14
+
 2022/05/13:
 begin<->1500 how to use indifference curve to make decision
 0127 mins, this course is about model of constraint and maximization;
@@ -104,7 +108,16 @@ End
 - MRS changes
 - MRS has to diminish
 - MRS = slope(delta y / delta x) = minus MUx axis(cookies)/MU y axis, intuitive explaination is what he offered
-- 
+
+2022/07/12:
+
+3000<->End
+
+- concave to origin, convex to origin
+- diminishing of MR, diminishing of MRS
+- addictive is about different product and other aspects
+- 3800 mins, the demand curve shift and diminishing marginal utility
+- perishbility
 
 # Lecture 3 
 2022/05/14:
