@@ -417,6 +417,17 @@ fourier series, Fnij = w^ij
 - but x1 x2 equals 0 would make it 0, should we count that
 - 2 6 6 18 threshold
 
+2022/07/12:
+
+1500<->3000
+
+- going up in some directions, going down in other directions
+- lambda 1 times lambda is the determinant
+- sum of diagnal is trace is lambda 1 plus lambda 2
+- positive definite and bowl
+- 见微知著
+- rewrite it to square form, tell you it is positive
+
 ### Lecture 28
 2022/04/09: finished, 240 mins, a symetry has inverse;
 XTAX>0 XTBX>0 XT(A+B)X>0;
