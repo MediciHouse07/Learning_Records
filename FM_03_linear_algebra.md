@@ -428,6 +428,21 @@ fourier series, Fnij = w^ij
 - 见微知著
 - rewrite it to square form, tell you it is positive
 
+2022/07/13:
+
+3000<->4500
+
+- completing the square has something to do with elimination
+- A = LU
+- number outside of the square are pivots
+- second derivative
+- 3 by 3 example, pivot, determinant, eigen values
+- 2, minus one, 0; minus one 2, minus one; 0, minus one 2
+- calculate xTAx
+- TBR positive definite in previous lecture, it is not too much but there are some
+- cut a 3 by 3 will give you a something like a football
+- eigen vector and eigen value, diagnolization, QLAMBDAQT and the eposolloid
+
 ### Lecture 28
 2022/04/09: finished, 240 mins, a symetry has inverse;
 XTAX>0 XTBX>0 XT(A+B)X>0;
