@@ -79,6 +79,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - forward interest parity, spot exchange rate is related of the forward exchange rate, cap and floor
 - so basically PPP, FIP(E=(1+R)/(1+Rstar)F),rewrite it will also help to understand it,mint par(E=x of gold/y of gold), they are different way of ideas of explaining the exchange rate
 
+### 2-1
+
+2022/07/13:
+- 4T USD daily, FX trade volume
+- matched book dealer is FIP dealer, forward interest parity, E = (1+r)/(1+r*)F
+- speculative dealer is UIP dealer, uncovered interest parity
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
