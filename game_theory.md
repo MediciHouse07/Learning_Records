@@ -903,6 +903,12 @@ End mins
 - had the game is perfect information, player would know if is on the upper node or lower node
 - strategy tell player what to do at each of its information sets
 
+2022/07/13:
+
+3000<->4654
+
+- strategy tells you what you should do at each information set
+
 # Lecture 19
 
 2022/05/28:
