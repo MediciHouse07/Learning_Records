@@ -909,6 +909,12 @@ End mins
 
 - strategy tells you what you should do at each information set
 
+2022/07/14:
+
+4654<->10200
+
+- respect dominant strategy, though it is the first concept
+
 # Lecture 19
 
 2022/05/28:
