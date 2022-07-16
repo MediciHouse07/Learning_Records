@@ -1,3 +1,13 @@
+### 2022/07/14
+
+- 10 push up, 20 both ends up, 10 deep squat, warm up
+- 10 push up, 20 both ends up, 10 deep squat, warm up
+
+### 2022/07/13
+
+- 10 push up, 20 both ends up, 10 deep squat, warm up
+- 10 push up, 20 both ends up, 10 deep squat, warm up
+
 ### 2022/07/12
 
 - 10 push up, 20 both ends up, 10 deep squat, warm up
