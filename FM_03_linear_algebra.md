@@ -382,6 +382,7 @@ fourier series, Fnij = w^ij
  
 
 ### Lecture 27
+#### REX 2 2022/07/14
 #### REX 1 2022/04/08
 2022/04/08: finished, ellipsoid=football, hyperbloic=double curve line, parabola=x^2;
 0356 mins, definition for positive, lambda test, det test, pivot test, XTAX>0 test;
@@ -442,6 +443,15 @@ fourier series, Fnij = w^ij
 - TBR positive definite in previous lecture, it is not too much but there are some
 - cut a 3 by 3 will give you a something like a football
 - eigen vector and eigen value, diagnolization, QLAMBDAQT and the eposolloid
+
+2022/07/13:
+
+3500<->End
+
+- diagnal fxx and fyy has to bigger enough to counter fxy and fyx on the off diagnal
+- to make the matrix to be postive definite
+- ellipse, ellipsoid
+- TBRT, why eigen vector tells you the axis and eigen value tells you the length, TBR A=QLAMBDAQT
 
 ### Lecture 28
 2022/04/09: finished, 240 mins, a symetry has inverse;
