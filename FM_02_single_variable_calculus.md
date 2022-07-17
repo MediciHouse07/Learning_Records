@@ -283,6 +283,21 @@ finished,
 - riemann sums, trapezoidal rule, simpson's rule
 - symmetric compromise
 
+### Lecture 25
+
+2022/07/15:
+
+0000<->1500
+
+- trapezoidol rule
+- versus two integral
+- simpson's rule
+- simpson's rule is using the exact answer for all degree 2 polynomials
+- watch out for 1/x when x near 0
+- check f(x)=1 for those numeric integration, to check if the weight was correct
+- slicing or adding up
+
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
