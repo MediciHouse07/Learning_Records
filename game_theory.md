@@ -836,6 +836,9 @@ finished,
 
 # Lecture 18
 
+## REX 2 2022/07/15
+## REX 1 2022/05/28
+
 2022/05/28:
 
 finished
@@ -914,6 +917,14 @@ End mins
 4654<->10200
 
 - respect dominant strategy, though it is the first concept
+
+2022/07/15:
+
+10200<->End
+
+- sub game, a game within a game
+- whereever you found yourself in the tree, play NE, this is SPE
+- at the end of this course, short SPE votes example
 
 # Lecture 19
 
