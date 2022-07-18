@@ -180,6 +180,17 @@ finished,
 
 End mins
 
+2022/07/16:
+
+0000<->1500
+
+- budget constraint
+- 0540 mins, MRT
+- 0650 opportunity cost, next best alternative
+- comparative status
+- area under budget constraint, opportunity set shrink, even though the income are the same
+- 
+
 # Lecture 4
 
 ## REX 1 2022/05/23
