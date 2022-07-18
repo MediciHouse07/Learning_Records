@@ -297,6 +297,13 @@ finished,
 - check f(x)=1 for those numeric integration, to check if the weight was correct
 - slicing or adding up
 
+2022/07/16:
+
+1500<->3000
+
+- bell curve, V=Q^2
+- asymptote
+- what is A(b)
 
 ### Lecture 29
 2022/05/14:
