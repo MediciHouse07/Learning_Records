@@ -189,7 +189,16 @@ End mins
 - 0650 opportunity cost, next best alternative
 - comparative status
 - area under budget constraint, opportunity set shrink, even though the income are the same
-- 
+
+2022/07/17:
+
+1500<->3000
+
+- meeting budget line
+- how you want to trade pizza and cookies and what market allow you to do
+- 2300 mins, MRS=MRT=MUC/MUP=-PC/PP
+- ratio of the benefit = ration of cost
+- unit price of marginal utility equals
 
 # Lecture 4
 
