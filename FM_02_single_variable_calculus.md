@@ -305,6 +305,14 @@ finished,
 - asymptote
 - what is A(b)
 
+2022/07/17:
+
+3000<->4500
+
+- How to formulate A(b)
+- asympto
+
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
