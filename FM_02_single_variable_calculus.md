@@ -284,6 +284,7 @@ finished,
 - symmetric compromise
 
 ### Lecture 25
+#### REX 1 2022/07/15
 
 2022/07/15:
 
@@ -312,6 +313,9 @@ finished,
 - How to formulate A(b)
 - asympto
 
+2022/07/18:
+
+4500<->End
 
 ### Lecture 29
 2022/05/14:
