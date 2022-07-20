@@ -200,6 +200,14 @@ End mins
 - ratio of the benefit = ration of cost
 - unit price of marginal utility equals
 
+2022/07/18:
+
+3000<->4500
+
+- MB=MC is the key definition of the whole course
+- debit card, debit
+- 4330 mins, market failure, how to relate it with this case?
+
 # Lecture 4
 
 ## REX 1 2022/05/23
