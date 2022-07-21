@@ -182,6 +182,7 @@ geometric dist is an analogous of exponential dist;
 1640 mins, exponential prob is the only one memoriless in continuous , geometric is the only memoriless in discrete;
 
 ### Lecture 17 <br>
+#### REX 1 2022/04/02
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/02: 3720/5044, 1:00 mins, conditional probability; 910 mins, prove the uniqueness of exp memoryless property; 2238 finite sum is applicable for linearity, infinite sum need to take course real analysis; 2430 mins, interpretation of MGF; 2630 mins, MGF determines distribution; 3018 mins, MGF of X+Y, make X+Y to be easier to be detected; 3500 mins, normal MGF; M^(n)(0)=E(X^n) ; R.V. X has MGF M(t) = E(e^tx)
 
@@ -203,6 +204,17 @@ I can call myself as librian
 2552 mins, M^n(0)=E(X^n);
 2635 mins, MGF determines distribution;
 2744 mins, MGF make sum of independent r.v. easy, TBR convolution, TBR C(9,10)=0;
+
+2022/07/19:
+
+0000<->1648
+
+- geommetric and exponential,  both memoriless distribution in discrete world and continuous world
+- aha moment is a memoriless case
+- proof of exponential is the only memoriless in continuous case
+- TBRT
+- G(m/n t)
+- G is continuous so you can swap and function G
 
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
