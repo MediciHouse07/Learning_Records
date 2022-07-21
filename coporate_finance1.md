@@ -10,6 +10,19 @@
 
 ### Lecture 6 <br>
 
+### Lecture 16
+
+2022/07/19:
+
+0000<->1500
+
+- tbills and bonds
+- gov bond, company bond
+- debt holder get paid first
+- if can't pay they go bankrupt
+- tbills, less then 1 year, duration is less than notes
+- debenture
+- face value, maturity date, coupon rate(3.5%)
 
 ### Lecture 17 <br>
 2022/04/03: 💫 0<->1000, 0342 mins current yield=coupound payment/initial cost, coupon rate = coupound payment/par; 0125 mns, definition of YTM, r, is the rate that makes price of bond = PVIFA + PVIF?<br>
