@@ -1,4 +1,5 @@
 # Lecture 15
+## REX 1 2022/07/19
 
 2022/07/09
 
@@ -20,3 +21,9 @@
 
 3500<->5700
 
+2022/07/19:
+
+5700<->End
+
+- if it helps to make the fiat gaining more resilience
+- token base is anomous, account base is not anounomous
