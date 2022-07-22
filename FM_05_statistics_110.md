@@ -216,6 +216,20 @@ I can call myself as librian
 - G(m/n t)
 - G is continuous so you can swap and function G
 
+2022/07/20:
+
+1648<->3148
+
+- 1730 mins moment generating function
+- M(t)=E(etX)
+- taylor series, take derivattive and set it as 0, cef of t^n/nfactorial
+- SIGMAx^nt^n/nfactorial
+- real analysis, and infinite sum
+- MGF determines distribution
+- independent, you can split the product
+- bernp, MGF
+- and thus binomial
+
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/03: finished, 138 mins moment of inertia; 826 mins benefit of using MGF; 1104 E(Z^n)=0 odd by symetry, normal distribution; 1350 mins geo series converges t<1, taylor series converges everywhere; 2129 mins convolution E(X+Y), take MGF of X * MGF of Y, the result is sum of pois is a pois if they are independent; 2907 mins joint distribution, condition for PMF joint distribution; 4230 mins simple extrem case, analysis method <br>
