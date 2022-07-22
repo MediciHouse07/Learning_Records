@@ -1,5 +1,10 @@
 ### 2022/07/19
 
+- 15 deep squat
+- 10 deep squat, warm up
+
+### 2022/07/19
+
 - 20 deep squat, warm up
 
 ### 2022/07/18
