@@ -24,6 +24,17 @@
 - debenture
 - face value, maturity date, coupon rate(3.5%)
 
+2022/07/20:
+
+1500<->3000
+
+- price of a asset is the discount of all the promise from the future
+- TBR PVIFA it is introduced before this lecture
+- par and face value are the same
+- pay 1138 for 3 years of reward 1000 + coupon payment
+- wheather it is good or not depends on the other product in the market
+- match your interest rate with your payment period, this was introduced in previous lecture
+
 ### Lecture 17 <br>
 2022/04/03: 💫 0<->1000, 0342 mins current yield=coupound payment/initial cost, coupon rate = coupound payment/par; 0125 mns, definition of YTM, r, is the rate that makes price of bond = PVIFA + PVIF?<br>
 1046<->1339, IR increase, price of bond decrease; YTM down, price up;<br>
