@@ -183,6 +183,39 @@ geometric dist is an analogous of exponential dist;
 
 ### Lecture 17 <br>
 #### REX 1 2022/04/02
+
+2022/07/21:
+
+3148<->4648
+
+- TBRT
+- by LOTUS, we get the MGF of normal distribution
+
+2022/07/20:
+
+1648<->3148
+
+- 1730 mins moment generating function
+- M(t)=E(etX)
+- taylor series, take derivattive and set it as 0, cef of t^n/nfactorial
+- SIGMAx^nt^n/nfactorial
+- real analysis, and infinite sum
+- MGF determines distribution
+- independent, you can split the product
+- bernp, MGF
+- and thus binomial
+
+2022/07/19:
+
+0000<->1648
+
+- geommetric and exponential,  both memoriless distribution in discrete world and continuous world
+- aha moment is a memoriless case
+- proof of exponential is the only memoriless in continuous case
+- TBRT
+- G(m/n t)
+- G is continuous so you can swap and function G
+
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/02: 3720/5044, 1:00 mins, conditional probability; 910 mins, prove the uniqueness of exp memoryless property; 2238 finite sum is applicable for linearity, infinite sum need to take course real analysis; 2430 mins, interpretation of MGF; 2630 mins, MGF determines distribution; 3018 mins, MGF of X+Y, make X+Y to be easier to be detected; 3500 mins, normal MGF; M^(n)(0)=E(X^n) ; R.V. X has MGF M(t) = E(e^tx)
 
@@ -205,30 +238,6 @@ I can call myself as librian
 2635 mins, MGF determines distribution;
 2744 mins, MGF make sum of independent r.v. easy, TBR convolution, TBR C(9,10)=0;
 
-2022/07/19:
-
-0000<->1648
-
-- geommetric and exponential,  both memoriless distribution in discrete world and continuous world
-- aha moment is a memoriless case
-- proof of exponential is the only memoriless in continuous case
-- TBRT
-- G(m/n t)
-- G is continuous so you can swap and function G
-
-2022/07/20:
-
-1648<->3148
-
-- 1730 mins moment generating function
-- M(t)=E(etX)
-- taylor series, take derivattive and set it as 0, cef of t^n/nfactorial
-- SIGMAx^nt^n/nfactorial
-- real analysis, and infinite sum
-- MGF determines distribution
-- independent, you can split the product
-- bernp, MGF
-- and thus binomial
 
 ### Lecture 18 <br>
 2022/03/14: 💫 MGF [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
