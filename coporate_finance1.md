@@ -12,6 +12,17 @@
 
 ### Lecture 16
 
+#### REX 2 2022/07/21
+
+2022/07/21:
+
+3000<->4500
+
+- TBRT
+- by LOTUS, we get the MGF of normal distribution
+- buy=ask price, sell=bid price
+- 107%+1/32% of face value
+
 2022/07/19:
 
 0000<->1500
