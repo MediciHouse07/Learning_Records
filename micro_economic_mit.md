@@ -120,6 +120,17 @@ End
 - perishbility
 
 # Lecture 3 
+
+## REX 2 2022/07/22
+## REX 1 2022/05/21
+
+2022/07/22
+
+3400<->End
+
+- theoritical, empirical
+
+
 2022/05/14:
 0000<->1500
 0100 mins, constraints;
