@@ -183,6 +183,18 @@ geometric dist is an analogous of exponential dist;
 
 ### Lecture 17 <br>
 #### REX 1 2022/04/02
+#### REX 2 2022/07/22
+
+2022/07/22:
+
+End minus 15 min<->End
+
+- update use bayes rule
+- laplace rule of succession
+- find posterior 
+- p is r.v. in this case
+- |p means treating p as constant
+- distinguish P and f
 
 2022/07/21:
 
