@@ -382,6 +382,18 @@ End mins
 
 # Lecture 6
 
+2022/07/23:
+
+0000<->1500
+
+- derive the demand curve
+- slope = minus Pc/Pp
+- in general, when you change the price of one good, the demand of other goods is also changed
+- influence by changing a price
+- 1059 mins, elasticity of demand, determines the shape of demand
+- epsilon is less and equal to 0
+- demand change percentage / price change percentage, delta/Q0/delta/P0
+
 2022/06/05:
 
 0000<->2500
