@@ -87,6 +87,17 @@ finished, 2655<->End
 
 ### Lecture 6
 
+2022/07/23:
+
+0000<->1547
+
+- 1000 mins e^at the only function satisfies the property
+- take a derivative to complex number, does it follow the normal derivative rules
+- also infinite series
+- traingle formula
+- proof of eitheta1 time eitheta2 = ei(theta1+theta2)
+- turn something long to something short, is the beauty of mathmathetic
+
 2022/06/28:
 
 0000<->1500
