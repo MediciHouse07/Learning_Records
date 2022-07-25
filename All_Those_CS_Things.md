@@ -1,6 +1,14 @@
 # MAIN 1: CMU CSAPP 15-213 
 ## Lecture 2
 
+2022/07/23:
+
+1500<->2600
+
+- 1649 mins introduce why char can be interpreted as true
+- shift 8 bit might end with the original number, because of MOD
+- 2540 mins, sign bit
+
 2022/07/22:
 
 0000<->1500
