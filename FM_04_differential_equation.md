@@ -87,6 +87,22 @@ finished, 2655<->End
 
 ### Lecture 6
 
+2022/07/24
+
+1500<->3000
+
+- disguised form of the formula
+- black box, theta goes in complex comes out
+- complex value function
+- CX-Vd
+- u(t)+iv(t)
+- D(u+iv)=D(u)+iD(v)
+- modulus
+- r=modulus of alpha |alpha|
+- thetha = argument of alpha arg(alpha)
+- polar form is good for multiplication
+- multi the moduli, add the angles/arguments
+
 2022/07/23:
 
 0000<->1547
