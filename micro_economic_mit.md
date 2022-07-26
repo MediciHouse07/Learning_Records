@@ -222,6 +222,21 @@ End mins
 # Lecture 4
 
 ## REX 1 2022/05/23
+
+2022/07/24
+
+1500<->3000
+
+- perfect substitutes leads to perfect elastistic
+- 2000 mins, income effect
+- engle curve is income and quantity demand
+- gamma = deltaQ/Q0/deltaY/Y0
+- gamma>0 normal goods
+- gamma<0 inferior goods
+- luxury gamma >1
+- neccessary gamma < 1
+- 3000 mins substitution effect, income effect
+
 2022/05/15:
 0000<->1500
 0530 mins, opportunity cost/set;
