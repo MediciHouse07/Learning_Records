@@ -266,6 +266,22 @@ End mins
 
 End mins
 
+# Lecture 10
+
+2022/07/25:
+
+0000<->1700
+
+- statutory law, common law, convention, interpretation
+- british constitution has no single document
+- flexible versus rigid
+- parlimentary soverinty, not restricted by judiciary, not crown, 
+- EU, all treaties limits parlimentary soverenty
+- house of common
+- house of lords
+- foreign minister, chancellor
+- 1990, 
+
 # Lecture 28
 
 2022/06/01:
