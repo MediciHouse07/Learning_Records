@@ -87,6 +87,15 @@ finished, 2655<->End
 
 ### Lecture 6
 
+2022/07/25
+
+3000<->End
+
+- real part of a complex number
+- 3849 mins, the answer
+- real domain, complex domain
+- to be continued
+
 2022/07/24
 
 1500<->3000
