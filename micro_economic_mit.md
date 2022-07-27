@@ -221,7 +221,18 @@ End mins
 
 # Lecture 4
 
+## REX 2 2022/07/25
 ## REX 1 2022/05/23
+
+3000<->End
+
+- substitution effect is always negative, income effect can go the other way
+- mathematically interpret the idea
+- holding u constant, holding p(price ratio) constant
+- inferior product sub effect and income effect works against each other
+- inferior poor makes you want to buy more
+- a price change changes 2 things, change your relative tendency to product, another change is to change your effective income
+- giffen good, upward slope demand curve, happends in inferior product, theoritically, actually it is hard to find the corresponding product in real life
 
 2022/07/24
 
