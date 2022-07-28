@@ -317,6 +317,20 @@ Need to double check the idea of involve the nature thing and information set th
 Bayesian NE, the NE in the incomplete information game, a way to handle it is to turn an incomplete information game to an imperfect information game
 
 # Lecture 9
+
+## REX 1 2022/05/21
+
+2022/07/26:
+
+0000<->1500
+
+- pi(si) could be 0, pi(si) could be 1 pure strategy
+- pure payoff 1 and 1/2, mix strategy end up with payoff 3/5, lies between 1 and 1/2, weighted average
+- average is higher than the lowest, lower than the highest
+
+
+2022/05/21:
+
 0000<->1500
 
 0000 mins;
