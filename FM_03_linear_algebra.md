@@ -7,6 +7,15 @@
 
 ### Lecture 4 <br>
 
+#### REX 1
+
+2022/07/26
+0000<->1500
+
+- A first inverse then transpose and reverse order, is this a definition
+- A=LU, A=LDU, D stands for diagnol
+- general form of A=U
+
 ### Lecture 5 <br>
 
 ### Lecture 6 <br>
