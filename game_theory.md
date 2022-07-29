@@ -320,6 +320,15 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 
 ## REX 1 2022/05/21
 
+2022/07/27:
+
+1500<->3000
+
+- if a mixed strategy is a BR conclusion is derived from average must lay between best and the worst
+- if you try to maximize the group
+- average's component must be self best, if it is not, then  exclude the one that is not the best
+- the reason of using mixed strategy, is because sometimes there is no BR
+
 2022/07/26:
 
 0000<->1500
