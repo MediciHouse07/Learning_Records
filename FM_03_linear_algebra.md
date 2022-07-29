@@ -9,6 +9,16 @@
 
 #### REX 1
 
+2022/07/27:
+
+1500<->3000
+
+- product of inverses is L
+- 2000 mins explaination of why reverse order is better
+- in the right order, the multiplier just sit on L
+- E is product or row elimination
+- how many operations, the cost
+
 2022/07/26
 0000<->1500
 
