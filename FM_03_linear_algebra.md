@@ -7,7 +7,25 @@
 
 ### Lecture 4 <br>
 
+#### REX 2 2022/07/28
 #### REX 1
+
+2022/07/28:
+
+3000<->End
+
+- multiply, subtract 2 operations counted as one operation
+- 100^2
+- the count
+- 1/3 ncubed
+- cost of b, what is b, TBRT
+- b, n^2 RHS, elimination and backward substitution
+- above are without row exchanges
+- then he talks about with row exchanges
+- permutation
+- how many 3 by 3 row exchange
+- inverse is transpose, about permutation matrices
+- 4 by 4, how many permutations
 
 2022/07/27:
 
