@@ -317,6 +317,16 @@ finished,
 
 4500<->End
 
+### Lecture 27
+
+2022/07/29:
+
+0000<->1500
+
+- 3 double angle formula
+- 2 half angle formula
+- d sinx
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
