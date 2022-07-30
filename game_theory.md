@@ -320,6 +320,14 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 
 ## REX 1 2022/05/21
 
+2022/07/28:
+
+3000<->4500
+
+- worth to practice mix NE, and feel it
+- if mix, then the pure strategy must be a response
+- maybe need to recall something to go to 4500<->6000
+
 2022/07/27:
 
 1500<->3000
