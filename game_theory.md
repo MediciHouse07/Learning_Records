@@ -318,7 +318,17 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 
 # Lecture 9
 
+## REX 2 2022/07/30
 ## REX 1 2022/05/21
+
+2022/07/30:
+
+6000<->End
+
+- in this case, strategic effect dominate
+- find one's p, use another's payoff
+- backward think how one drive another to equalibrium
+- otherwise one side would only go to one direction
 
 2022/07/29
 
