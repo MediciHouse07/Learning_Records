@@ -320,6 +320,20 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 
 ## REX 1 2022/05/21
 
+2022/07/29
+
+4500<->6000
+
+- if vene is mixing, then payoff of L and R must be equal
+- I found how serene would mix, by knowing vene is mixing
+- think about how to arrange them
+- to find vene's mix, use serena's payoff
+- he says both l and r are BR, they are not NE, but BR
+- if serena is more than 0.6 to the left, vene should always to the right, which leads to vene's NE is a pure strategy
+- BRs don't coincide, no NE, but BR is always BR
+- direct effect, strategic effect(indirect effect)
+- since vene knows serena's some skills is improved
+
 2022/07/28:
 
 3000<->4500
