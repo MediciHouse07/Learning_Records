@@ -319,6 +319,14 @@ finished,
 
 ### Lecture 27
 
+2022/07/30:
+
+1500<->3000
+
+- half angle formula
+- turn even power to odd power
+- difference times a sum
+
 2022/07/29:
 
 0000<->1500
