@@ -319,6 +319,13 @@ finished,
 
 ### Lecture 27
 
+2022/07/31:
+
+3000<->End
+
+- arc sin, is sin inverse
+- arc sin (b/a) = theta
+
 2022/07/30:
 
 1500<->3000
