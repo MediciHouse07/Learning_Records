@@ -16,6 +16,27 @@
 - 1100 mins inclusive or and exclusive or and other operations
 - 1327 representation and operations and set
 
+## Lecture 5
+
+2022/08/01:
+
+0000<->1500
+
+- GCC C compiler
+- 8286 and x 86
+- core processor, several processor on a single chip
+- DDR connect to dynamic RAM main memory, PCI peripheral devices,  SATA discs
+- AMD number 2, intel number 1
+- ISA instruction set architecture
+- memory, an array of byte
+- 2300 mins virtual memory
+
+2300<->2740
+
+- cache, reread will be faster
+- 2519 mins, C code
+- register
+
 # MAIN 2: Computer network
 
 ## Lecture 1
