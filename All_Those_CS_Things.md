@@ -20,6 +20,12 @@
 
 2022/08/01:
 
+2740<->3639
+
+- shark machine, what is that
+
+2022/08/01:
+
 0000<->1500
 
 - GCC C compiler
