@@ -267,6 +267,13 @@ End mins
 End mins
 
 # Lecture 10
+## REX 1 2022/08/01
+
+2022/08/01：
+
+1700<->End
+
+- 3840 mins british legislation
 
 2022/07/25:
 
