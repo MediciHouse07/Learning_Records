@@ -1,4 +1,13 @@
 # Lecture 1
+
+2022/08/02:
+
+0000<->1500
+
+- allignment between participant want and designer want
+- assume best effort from all team and all matches
+- 2033 mins killer apps
+
 2022/05/16:
 finished,
 0000<->2300
