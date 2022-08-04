@@ -90,6 +90,12 @@
 - state
 - stastical multiplexing
 
+1-6
+
+2022/08/02
+
+- layer, it can be improved independently
+- 
 
 ## Lecture 5
 
