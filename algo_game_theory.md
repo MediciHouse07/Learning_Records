@@ -1,5 +1,14 @@
 # Lecture 1
 
+2022/08/02
+
+2033<->5331
+
+- no luxury to design a game from scratch, more on understanding existing game or improve it
+- price of anarchy
+- dominant strategy is a weak assumption
+- every bimatrix game has a NE
+
 2022/08/02:
 
 0000<->1500
