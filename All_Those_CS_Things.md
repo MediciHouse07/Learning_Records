@@ -20,6 +20,13 @@
 
 2022/08/01:
 
+3639<->4041
+
+- disassembler(object code to assembly code), reverse assembler (assembly code to object code)
+- 4041 do the disassembler by self
+
+2022/08/01:
+
 2740<->3639
 
 - shark machine, what is that
