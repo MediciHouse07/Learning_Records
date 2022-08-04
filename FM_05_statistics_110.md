@@ -14,6 +14,15 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 5 <br>
 #### REX 1 2022/03/31
 
+2022/08/02:
+
+1600<->3100
+
+-  demographic
+- disease and test
+- 2442 mins bayes rule and LOTP
+- rare of disease and rare of test is wrong, both matters
+
 2022/08/01:
 
 0000<->1600
