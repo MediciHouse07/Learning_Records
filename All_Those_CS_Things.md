@@ -116,6 +116,12 @@
 
 # Lecture1
 
+2022/08/02:
+
+1500<->2033
+
+- type drive, store things in type
+
 2022/07/22:
 
 0000<->1500
