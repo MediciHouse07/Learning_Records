@@ -1,4 +1,12 @@
 # MAIN 1: CMU CSAPP 15-213 
+
+## Lecture 1
+
+0000<->1638
+
+- 2015 Sep course
+- 1638 mins, floating point
+
 ## Lecture 2
 
 2022/07/23:
