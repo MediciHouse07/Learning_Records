@@ -13,6 +13,19 @@ PDF PMS CDF, always forgot the difference between them
 
 ### Lecture 5 <br>
 #### REX 1 2022/03/31
+#### REX 2 2022/08/03
+
+2022/08/03:
+
+3100<->End
+
+- intersection of clue, or one after another one will end up with the same probability
+- innocent given evident, evident given innocent
+- 3800 mins statistical science for the court book
+- prior, posterior
+- indep and conditional indep
+- conditional indep doesn't imply indep
+- 4900 mins indep doesn't imply conditional indep
 
 2022/08/02:
 
