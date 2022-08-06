@@ -343,6 +343,26 @@ REW
 
 # Lecture 5
 
+## REX 1 2022/06/03
+
+2022/08/04:
+
+0000<->1500
+
+- consumer utility function, producer production function
+- q = f(L,K)
+- consumer happiness, producer quantity
+- factor of the production
+- variable capital, fixed capital
+- LR all input are variable, SR kapital can be fixed
+- SR is about you are hired to manage a plant
+- MPl = delta q / delta L
+- diminishing MP
+- 1226 mins LR production
+- decision for consumer is driven by utility function, for producer is driven by production function
+- Isoquants = indifference curve
+- combination of capital and labour produce the same quantity of good
+
 2022/05/30:
 
 
