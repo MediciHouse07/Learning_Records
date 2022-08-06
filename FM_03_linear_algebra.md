@@ -1,6 +1,17 @@
 34 lectures in TTL
 ### Lecture 1 <br>
 
+#### REX 1
+
+2022/08/04:
+
+0000<->1500
+
+- row picture, column picture, matrix form
+- 0430 mins row picture
+- 1000 mins column picture
+- all the combination fill the whole plane
+
 ### Lecture 2 <br>
 
 ### Lecture 3 <br>
