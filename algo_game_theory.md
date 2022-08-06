@@ -1,4 +1,12 @@
 # Lecture 1
+## REX 1 2022/08/04
+
+2022/08/04
+
+5331<->End
+
+- interactability critique
+- np completeness
 
 2022/08/02
 
