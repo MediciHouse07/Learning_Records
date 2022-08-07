@@ -33,3 +33,14 @@ finished,
 0957 mins, much better, believed much better;
 1500 mins, tournament;
 this course is more close to computer science, I can still learn it when I tend to like computer science, sometimes I do like that. And, because I will feel excited when I learn econ wise of game theory or incentive theory, so I guess I will put myself close to that direction, hope that I can find a balance between the two.
+
+# Lecture 2
+
+2022/08/05
+
+0000<->1500
+
+- single item auctions
+- sealed bid auction
+- not to discourage the incentive to overbidding
+- sealed bid, first price auction
