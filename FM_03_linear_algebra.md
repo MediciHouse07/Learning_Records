@@ -3,6 +3,13 @@
 
 #### REX 1
 
+2022/08/05:
+
+1500<->3000
+
+- 3 plane intersect at a point, the point is a solution, 3 plane intersect at a point, means 2 plane are parallel, and so on
+- row picture is line or plane, column picture is vector
+
 2022/08/04:
 
 0000<->1500
