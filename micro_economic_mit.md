@@ -345,6 +345,17 @@ REW
 
 ## REX 1 2022/06/03
 
+2022/08/05:
+
+1500<->3000
+
+- perfect substitutable, linear isoquant
+- Leontieff production function, right shoes and left shoes
+- MRTs = delta k/ delta L
+- delta L times MPl + delta k times MPk = 0, rearrange the formula MRTs = MPl/MPk
+- returns to skill 
+- increase return to scale can't happen, because it would grow to monopoly
+
 2022/08/04:
 
 0000<->1500
