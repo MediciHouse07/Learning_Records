@@ -1,7 +1,16 @@
 34 lectures in TTL
 ### Lecture 1 <br>
 
+#### REX 2 2022/08/06
 #### REX 1
+
+2022/08/06:
+
+3000<->End
+
+- span to the whole 3d space, non singular, invertible
+- 3700 mins calculation on row and column way
+- Ax is a comb of column of A
 
 2022/08/05:
 
