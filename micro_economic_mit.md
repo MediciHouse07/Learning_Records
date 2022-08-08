@@ -343,7 +343,28 @@ REW
 
 # Lecture 5
 
+## REX 2 2022/08/06
 ## REX 1 2022/06/03
+
+2022/08/06:
+
+3000<->End
+
+- 1798 malthus
+- land is fixed in malthus
+- mass starvation in malthus theory
+- malthus didn't account productivity or innovation
+- q = At times f(L,K)
+- famine is not about tech, it is about plts
+- Ford introduced mass production, previously people produce car themselves
+- 3806 mins TATA
+- capital comes from how much people save
+- standard of living is K and A
+- TFP, total factor productivity
+- 1947 1973 1990
+- 4250 mins, last century, GDP rate
+- computer is not deemed as the next industry revolution
+- 4535 mins more work or more leisure
 
 2022/08/05:
 
