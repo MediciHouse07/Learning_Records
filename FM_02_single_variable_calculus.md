@@ -342,6 +342,21 @@ finished,
 - 2 half angle formula
 - d sinx
 
+### Lecture 28
+
+2022/08/07
+
+0000<->1500
+
+- sec = 1/cos, csc = 1/sin, ctan = cos / sin
+- where ever see 1 one, re write it to cos ^2 + sin ^2
+- quotient rule
+- take the derivative of above formulas
+- integral of tan
+- 1000 mins dd(sec + tan)
+- u'/u logrithmic derivative
+- 1401 mins integral of sec^4x dx
+
 ### Lecture 29
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
