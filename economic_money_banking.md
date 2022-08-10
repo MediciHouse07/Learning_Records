@@ -95,6 +95,27 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - matched book dealer is FIP dealer, forward interest parity, E = (1+r)/(1+r*)F
 - speculative dealer is UIP dealer, uncovered interest parity
 
+### 2-3
+
+2022/08/08
+
+- chartalism, ex rate as price of goods between countries PPP
+- metalism, ex rate as price of financial asset, FIP
+- trade account and financial account
+- money view is money in terms of money
+- ralative price of good, relative price of asset, relative price of money
+
+### 2-4
+
+2022/08/08
+
+- a world of war, back to 1500s
+- govt bank and bank's bank
+- where the origin of the hybirdity
+- private profit seeking FX dealer
+- public welfare central bank
+- this course is the starting point of money view
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
