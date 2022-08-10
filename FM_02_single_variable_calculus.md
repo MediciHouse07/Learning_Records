@@ -344,6 +344,16 @@ finished,
 
 ### Lecture 28
 
+2022/08/08
+
+1500<->3000
+
+- rewrite square root to be trig function
+- opposite and adjacent
+- hyp
+- 2600 mins, trig and a plot
+- sqrt(1+x^2)
+
 2022/08/07
 
 0000<->1500
