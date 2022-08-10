@@ -116,6 +116,24 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - public welfare central bank
 - this course is the starting point of money view
 
+## Lecture 3
+### 3-1
+
+2022/08/09
+
+- long period of low interest rate
+- lead to unhealthy business keep going on
+- strong japnese yen lead to bad export result
+
+### 3-2
+
+2022/08/09
+
+- capital retreat to domestic from global
+- revalue the gold, is like to create more gold
+- some country has more gold, some doesn't, so this lead to money transfer
+- gold standard, dollor standard, floating rate, EU
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
