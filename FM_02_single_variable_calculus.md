@@ -343,6 +343,15 @@ finished,
 - d sinx
 
 ### Lecture 28
+#### REX 1 2022/08/09
+
+2022/08/09
+
+3000<->End
+
+- 3400 mins, integrand table
+- 3740 mins, completing the square
+- (x+a)^2
 
 2022/08/08
 
