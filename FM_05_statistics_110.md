@@ -2,6 +2,20 @@
 ### Questions: <br>
 PDF PMS CDF, always forgot the difference between them
 ### Lecture 1 <br>
+#### REX 1 2022/02/20
+
+2022/08/08
+
+0000<->1500
+
+- 0646 mins, naive definition of probability
+- last time? it seems there is another course before this course
+- Mosteller, founder of stats institution in harward
+- Govt IQSS, politics and stats probability come together
+- Gambling game, Fermat, Pascal, 1650, letters
+- math is logic of certainty, statistics is logic of uncertanty
+- 1500 mins, naive definition
+
 2022/02/20: finished
 ### Lecture 2 <br>
 2022/02/23: finished
