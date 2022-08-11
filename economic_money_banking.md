@@ -134,6 +134,16 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - some country has more gold, some doesn't, so this lead to money transfer
 - gold standard, dollor standard, floating rate, EU
 
+### 3-3
+
+2022/08/10
+
+- Mudell, act1 1900 1933, confrontation of Fed and gold standard
+- after ww1, other country want to return to gold standard
+- gold scarcity -> deflationary pressure
+- Fed increase IR, push the other country drop the gold standards 1931 to world depression and banking system collapse
+- mint par deposit par, you can't defend them both
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
