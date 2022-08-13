@@ -4,7 +4,19 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 1 <br>
 #### REX 1 2022/02/20
 
-2022/08/08
+2022/08/12
+
+1500<->3000
+
+- experiemnt can be anything, you do something, something happens
+- sample space, is all possible outcomes of an experiment
+- event is a subset of the sample space
+- 2148 mins, naive defn of prob, P(A)=#favorable outcomes, favored by A/# possible outcomes
+- assumes all outcome are equally likely, finite sample space
+- for example, if there is alien, mistakely using naive definition if 1/2
+- 3100 mins, multiplication rule
+
+2022/08/10
 
 0000<->1500
 
