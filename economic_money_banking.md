@@ -134,7 +134,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - some country has more gold, some doesn't, so this lead to money transfer
 - gold standard, dollor standard, floating rate, EU
 
-### 3-3
+### 3-4
 
 2022/08/10
 
@@ -143,6 +143,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - gold scarcity -> deflationary pressure
 - Fed increase IR, push the other country drop the gold standards 1931 to world depression and banking system collapse
 - mint par deposit par, you can't defend them both
+
+### 3-5
+
+2022/08/12
+
+- 1934 confrontation of national macro economic mgt, vs fixed rate breton wood
+- 2 ideas Keynesian(elastic,surplus country adjust, increase internatioanl money) and IMF(displinary ,deficit country adjust, fixed international money)
+- Mundell
 
 # Lecture Week11
 ## Lec 1
