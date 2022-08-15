@@ -3,6 +3,16 @@
 PDF PMS CDF, always forgot the difference between them
 ### Lecture 1 <br>
 #### REX 1 2022/02/20
+#### REX 2 2022/08/13
+
+2022/08/13
+
+3000<->End
+
+- 3600 mins, if k>n = n choose k 0, n choose k (n k) = n!/n- k!k!
+- proof of n choose k
+- think in terms of multiplication rule
+- 4300 mins sampling table
 
 2022/08/12
 
