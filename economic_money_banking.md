@@ -116,7 +116,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - public welfare central bank
 - this course is the starting point of money view
 
-## Lecture 3
+## Lecture 14
 ### 3-1
 
 2022/08/09
@@ -151,6 +151,26 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - 1934 confrontation of national macro economic mgt, vs fixed rate breton wood
 - 2 ideas Keynesian(elastic,surplus country adjust, increase internatioanl money) and IMF(displinary ,deficit country adjust, fixed international money)
 - Mundell
+
+
+
+### 4-1
+
+2022/08/13
+
+- breton wood
+- trade deficit, pay dollar out
+- kindleberger, mundell's professor
+- like bacor structure, but all these are on the US balance sheet, not on some international balance sheet
+
+### 4-2
+
+2022/08/13
+
+- expansion of the second hierachy
+- 1971 US go off the gold Nixxon
+- stagnation, inflation and unemployment
+- 1972-1999 flexible exchange, learning from experience
 
 # Lecture Week11
 ## Lec 1
