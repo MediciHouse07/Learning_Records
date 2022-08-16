@@ -117,6 +117,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - this course is the starting point of money view
 
 ## Lecture 14
+
+#### REX 2 2022/08/14
+#### REX 1
+
 ### 3-1
 
 2022/08/09
@@ -171,6 +175,18 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - 1971 US go off the gold Nixxon
 - stagnation, inflation and unemployment
 - 1972-1999 flexible exchange, learning from experience
+
+### 4-3
+
+2022/08/14
+- offshore, without the risk of being frezeed
+- leman's bill became worthless, MMMF decide not to hold any risky bills
+- a holding action, a colaboration
+- permanent manipulation; home bias
+- no global currency, dollar is a national currency
+- SWAP in unlimited amount, switzland, ECB, FED, BOE, BOJ
+- financial instability social instability
+- at war CB became financing agent of the GOV
 
 # Lecture Week11
 ## Lec 1
