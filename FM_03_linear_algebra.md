@@ -30,6 +30,21 @@
 
 ### Lecture 2 <br>
 
+#### REX 1
+
+2022/08/14
+
+- elimination, software use this method to solve equation
+- m n, m>n no solution
+- m < n more than one solution
+- m=n one solution if independent
+- 0430 mins the first pivot
+- recursive
+- upper triangle, is u
+- pivot can't be 0
+- if pivot is 0 and no 0 below, then dependent, no solution m > n, not invertible
+- augmented column
+
 ### Lecture 3 <br>
 
 ### Lecture 4 <br>
