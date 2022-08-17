@@ -472,6 +472,28 @@ End mins
 
 # Lecture 6
 
+## REX 1 2022/06/05
+
+2022/08/15
+
+0000<->1500
+
+- cost varies with production
+- SR, capital is fixed
+- FC, VC, TC=FC+VC
+- turn a production function to cost function
+- C = Kbar * r + L * w
+- r is rental rate, not buying machine, rent machine
+- w is rental rate as well
+- per period cost of using machine and labour
+- assume r = 10 USD, w = 5 USD
+- q = sqrt L * K
+- assume K bar = 1
+- MC and AC=c/q
+- langlanrge , minimum equals averge of the function, so where 2 line intersect, that is where derivative is 0
+- MC dc/dq, MPl=dq/dL
+- MC = w/MPl
+
 2022/06/05:
 
 0000<->2500
