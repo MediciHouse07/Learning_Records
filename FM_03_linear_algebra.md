@@ -32,7 +32,20 @@
 
 #### REX 1
 
+2022/08/15
+
+1500<->3000
+
+- augmentaed matrix
+- elimination, get the final right hand side
+- back substitution
+- get 3 unknowns
+- matrix times a column is a column
+- row times a matrix is a row
+
 2022/08/14
+
+0000<->1500
 
 - elimination, software use this method to solve equation
 - m n, m>n no solution
