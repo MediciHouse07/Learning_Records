@@ -30,7 +30,22 @@
 
 ### Lecture 2 <br>
 
+#### REX 2 2022/08/16
 #### REX 1
+
+2022/08/16
+
+3000<->End
+
+- E32, mark it as 32, multiplier is on the 32
+- E32E21A=u
+- E32E21 is lower triangle matrix
+- move the parenthesis, it is called as associated law
+- P for permutation, you can't read it in multiplier way
+- inverse of E32E21 is L
+- A=LU
+- use multiplier idea to think about inverse of E32
+- E21^-1E32^-1, pay attention to the sign
 
 2022/08/15
 
