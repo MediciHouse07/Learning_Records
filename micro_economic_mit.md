@@ -474,6 +474,18 @@ End mins
 
 ## REX 1 2022/06/05
 
+2022/08/16
+
+1500<->3000
+
+- LR maximum
+- L and K economically efficient
+- ISO cost curve = budget constraint
+- ISO quant = indifference curve
+- MRTs=w/r, where ISO quant tangent with ISO cost
+- L is on the x axis
+- ISO quant, pay attention to its name, it simply means, it produce the same quantity, it is a good analogy to think about indifference curve is to produce the same utility
+
 2022/08/15
 
 0000<->1500
