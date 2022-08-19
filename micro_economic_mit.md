@@ -472,7 +472,20 @@ End mins
 
 # Lecture 6
 
+## REX 2 2022/08/17
 ## REX 1 2022/06/05
+
+2022/08/17
+
+3000<->4500
+
+- calculate the cost you have to pay with the vary of the quantity you produce
+- production function r and w 3 things get you the cost
+- keep the quantity, price change, substitution effect
+- minimum wage end up with company buys more machine
+- budget constraint is keep budget fixed, ISO quant is keep quantity fixed
+- LR expansion path
+- LR cost curve
 
 2022/08/16
 
