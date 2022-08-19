@@ -377,6 +377,8 @@ finished,
 - 1401 mins integral of sec^4x dx
 
 ### Lecture 29
+#### REX 1 2022/05/15
+
 2022/05/14:
 0000<->1857, next, an example of repeated roots and repeated factors
 0050 mins, P(x)/Q(x), ratio of two polynomials, rational function; whole power is good for this example, square root is not good;
@@ -392,6 +394,8 @@ finished,
 4613 mins, long division; it is interesting;
 
 ### Lecture 30
+#### REX 1 2022/05/18
+
 2022/05/17:
 0000<->1612
 0110 mins, partial fractions;
@@ -410,6 +414,17 @@ finished,
 3007 mins, Fn(x)^n=x(lnx)^n - nFn-1(x), reduction formula;
 3139 mins, TBRT, induction method;
 4302 mins, horizontal/vertical slices integration;
+
+### Lecture 31
+
+2022/08/17
+
+0000<->1500
+
+- Arc length, it is curve
+- factoring out dx
+- linear function example, you can figure what it is for linear function, you can figure what it would be for all functions
+- y=sqrt (1-x^2) example of non linear function
 
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
