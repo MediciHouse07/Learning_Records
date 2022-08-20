@@ -417,6 +417,16 @@ finished,
 
 ### Lecture 31
 
+2022/08/18
+
+1500<->3000
+
+- 1800 mins definition of sin and radians
+- alpha times 1 = alpha
+- 2538 mins surface area
+- tilted
+- example, y=x^2
+
 2022/08/17
 
 0000<->1500
