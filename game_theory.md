@@ -442,6 +442,17 @@ finished
 - and tax is the same game
 
 # Lecture 10
+## REX 1 2022/05/22
+
+2022/08/18
+
+0000<->1500
+
+- if you mix, the payoff of each pure strategy must be equal
+- strictly profitable deviation
+- pure strategy deviation
+- if pure strategy deviation can't help you better off, there is no other mix strategy can help you better off
+- it is not one tring to make anothr indifferent, it is about it has to be, otherwise the other would cheat on the side so that they will be back to equalibrium
 
 20220521:
 
@@ -460,7 +471,7 @@ finished
 
 1500 mins
 
-20220522:
+2022/05/22:
 
 finished,
 1500<->End
