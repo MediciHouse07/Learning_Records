@@ -416,6 +416,14 @@ finished,
 4302 mins, horizontal/vertical slices integration;
 
 ### Lecture 31
+#### REX 1 2022/08/19
+
+2022/08/19
+
+3000<->End
+
+- slice of the area on a sphere
+- 2pi y ds
 
 2022/08/18
 
