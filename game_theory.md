@@ -444,6 +444,13 @@ finished
 # Lecture 10
 ## REX 1 2022/05/22
 
+2022/08/19
+1500<->3000
+
+- as long as you randomizing, the pure strategy mixed must has equal return
+- nine eleven
+- 2600 mins, above case, I didn't fully follow this time
+
 2022/08/18
 
 0000<->1500
