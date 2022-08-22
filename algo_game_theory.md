@@ -36,6 +36,28 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 2
 
+2022/08/20
+
+0000<->1500
+
+- give the person who evaluate the price of it the most, and that end up with people just write the highest number
+- name birthday, evaluation = mm + dd) times .10, mine is 2 D, the most is 4.3 USD
+- no need to pay the price you evaluate can be a useful method of weighing people for a job
+
+1500<->3000
+
+- that is evaluation, not price, OK price is also a depends thing
+- what if the 1 1 people bid it then sell it to a 12 31 people, this would end up with better off for two person
+- no need to pay is definitely equal to people running for a job
+- ebay is not first price auction
+- ebay pay the second highest bid
+- sealed bid auction
+- designer to predict what would happen
+- second bid auction would result in vi=bi, each bidders true price is revealed, that is also a dominant strategy
+- b_minus i
+- is utility is maximized by bidding vi
+- B = max bj j<>i
+
 2022/08/05
 
 0000<->1500
