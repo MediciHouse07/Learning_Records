@@ -40,6 +40,17 @@ PDF PMS CDF, always forgot the difference between them
 
 2022/02/20: finished
 ### Lecture 2 <br>
+#### REX 1 2022/02/23
+
+2022/08/20
+
+0000<->1500
+
+- self annotating
+- 10 people, split into team of 6, team of 4
+- and 2 teams of 5 are different
+- n-1 choose 0 is 1, only way one to choose that is not to choose, n-1 choose n is 0, because you can't choose n from n-1
+
 2022/02/23: finished
 ### Lecture 3 <br>
 2022/02/24: 1219/4854 birthday problem<br>
