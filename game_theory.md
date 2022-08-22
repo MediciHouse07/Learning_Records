@@ -444,7 +444,16 @@ finished
 # Lecture 10
 ## REX 1 2022/05/22
 
+2022/08/20
+
+3000<->4500
+
+- payoff is bad when mixing in this case
+- because sometimes they don't meet
+- the good side is they have chance to meet, comparing the 0 payoff
+
 2022/08/19
+
 1500<->3000
 
 - as long as you randomizing, the pure strategy mixed must has equal return
