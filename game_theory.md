@@ -444,6 +444,13 @@ finished
 # Lecture 10
 ## REX 1 2022/05/22
 
+2022/08/21
+
+4500<->6000
+
+- D's randomizing is N's believe of what D would do
+- literally randomizing or mixed propotion
+
 2022/08/20
 
 3000<->4500
