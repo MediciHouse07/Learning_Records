@@ -42,6 +42,15 @@ PDF PMS CDF, always forgot the difference between them
 ### Lecture 2 <br>
 #### REX 1 2022/02/23
 
+2022/08/21
+
+1500<->3000
+
+- different way to represent the same situation, such as put dots in different boxes, or using a bar between different groups of dots
+
+> The beauty of math is, you can simulate a result of a thing, without really using material
+> Hi history me, sitting on a coach, wearing a heavy clothe to keep warm, in the mid night, watching this video
+
 2022/08/20
 
 0000<->1500
