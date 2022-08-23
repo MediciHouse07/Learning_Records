@@ -36,6 +36,17 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 2
 
+2022/08/21
+
+3000<->4500
+
+- only two things are possible
+- vi and B, vi-B
+- second price auction is no regret
+- every honest bidder gets non negtative utility
+- 1.dominant strategy, incentive compatible DSIC, claim 1 + claim 2
+- 2. Vickrey auction is awesome, social surplus = SIGMA vixi
+
 2022/08/20
 
 0000<->1500
