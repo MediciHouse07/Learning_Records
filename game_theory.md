@@ -442,7 +442,18 @@ finished
 - and tax is the same game
 
 # Lecture 10
+
+## REX 2 2022/08/22
 ## REX 1 2022/05/22
+
+2022/08/22
+
+6000<->End
+
+- column player's behaviour determined by row player's payoff, if you change the fine, it would only change the row payer's behaviour
+- so, change fine will not increase the compliance rate
+- audit more to push it back to equalibrium
+- equalibrium mix, is behaviour
 
 2022/08/21
 
