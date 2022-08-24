@@ -36,6 +36,18 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 2
 
+2022/08/22
+
+4500<->6000
+
+- collusion
+- 4743 sponsor search auction
+- sponsor links, organic search results
+- bid on keyword
+- single item auction
+- slots are the sponsor list
+- click through rate
+
 2022/08/21
 
 3000<->4500
