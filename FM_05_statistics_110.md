@@ -40,7 +40,19 @@ PDF PMS CDF, always forgot the difference between them
 
 2022/02/20: finished
 ### Lecture 2 <br>
+
+#### REX 2 2022/08/22
 #### REX 1 2022/02/23
+
+2022/08/22
+
+3000<->End
+
+- proof by interpretation
+- vandermonde 3618 mins
+- 4300 mins, non naive definition of probability
+- S is a sample space, P(S)=1, S is the whole universe
+- are disjoint
 
 2022/08/21
 
