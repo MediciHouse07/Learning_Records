@@ -115,6 +115,16 @@
 - general form of A=U
 
 ### Lecture 5 <br>
+#### REX 1
+
+2022/08/23
+
+0000<->1500
+
+- sometimes it doesn't need to do row exchange
+- matlab, solve a system, it would permutation first
+- P^-1=P^T
+- I lost my mind to the air 0500 mins to 0900 mins
 
 ### Lecture 6 <br>
 2022/03/18:💫 Finished this lecture
