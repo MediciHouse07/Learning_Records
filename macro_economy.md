@@ -1,3 +1,24 @@
+## Lecture 10
+
+### REX 1
+
+2022/08/23
+
+0000<->1500
+
+- Y/L vs K/L graph
+- capital perworker
+- 0330 mins, poorer country growing faster
+- look at the slope, diminishing return
+- thus invest in Turkey has better than Germeny
+- vertical, use capital better, horizontal has more capital
+- human capital technology can't increase too much if average people has been trained to be better
+- tech curve growing faster is also because they are catch up, convergence
+- country are more and more the same that is converge
+- conditional converge
+- qualified labour leaving country lead to human capital lower
+- cyclinical
+
 ## Lecture 18
 2022/03/13: 1446/4737
 * similar as real GDP vs nominal GDP, there are real profit vs nominal profit as well, real profit = real revenue - real cost, real means remove the effect of price changing
