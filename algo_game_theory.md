@@ -35,6 +35,18 @@ finished,
 this course is more close to computer science, I can still learn it when I tend to like computer science, sometimes I do like that. And, because I will feel excited when I learn econ wise of game theory or incentive theory, so I guess I will put myself close to that direction, hope that I can find a balance between the two.
 
 # Lecture 2
+## REX 1 2022/08/23
+
+2022/08/23
+
+6000<->End
+
+- report your true value is DS
+- v i alpha i
+- maximize social surplus
+- poly time
+- 10700 mins no voice
+- 10830 mins voice back
 
 2022/08/22
 
