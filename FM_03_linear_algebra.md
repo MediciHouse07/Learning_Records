@@ -74,6 +74,11 @@
 - augmented column
 
 ### Lecture 3 <br>
+#### REX 1
+2022/08/24
+
+0000<->1500
+- case study multiplication
 
 ### Lecture 4 <br>
 
@@ -115,7 +120,12 @@
 - general form of A=U
 
 ### Lecture 5 <br>
+#### REX 2 2022/08/24
 #### REX 1
+
+2022/08/24
+
+1500<->End No voice, skip the rest
 
 2022/08/23
 
