@@ -2,6 +2,18 @@
 
 ### REX 1
 
+2022/08/24
+
+1500<->3000
+
+- reparing car, picking cotton, construction worker, you do everything, but your work sucks in every of your work
+- above is about human capital
+- tax or subsidy ,technology
+- import better tech, or innovate better tech
+- you want your company use better tech
+- people tend to use a tech not to invent a tech, so you need to pay people to invent tech
+- or GOV do research when nobody want to do research
+
 2022/08/23
 
 0000<->1500
