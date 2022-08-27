@@ -37,6 +37,28 @@ this course is more close to computer science, I can still learn it when I tend 
 # Lecture 2
 ## REX 1 2022/08/23
 
+## JMP 1 2022/08/23
+
+2022/08/23: Jump way of reviewing
+
+4832<->End
+
+- one slot, is single item auction
+- goods are not the same, goods here are slots
+- above 2 makes it different with single item auction, if it is a single item auction, you can use second price auction
+- alpha, probability of clicking the j's slot
+- CTR
+- vi time alpha j, unless alpha is 100% otherwise it can't reflect advertizer's valuation, because they care about click
+- which advertizr to pick, which order they should be on, what price they should pay
+- DSIC auction
+- xi is the CTR of the slot i get assigned
+- subject to feasibility, one advertizer per slot
+- 10300 mins question about one bidder get more than one slot
+- he will continue to talk this topic in the next lecture
+- decide who wins, decide the winner to pay
+- it has to be a joint activity
+- 11100 mins answer to step 1
+
 2022/08/23
 
 6000<->End
