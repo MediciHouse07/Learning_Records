@@ -1,6 +1,18 @@
 ## Lecture 10
 
+### REX 2 2022/08/25
 ### REX 1
+
+2022/08/25
+
+3000<->End
+
+- bank intermediation
+- if there were no bank, everyone needs to be potato expert
+- investment is adding to the capital stock
+- Kt = Ktminus1 plus It minus depreciation
+- consumption, GOV spending, the rest potatoes is saving
+- Save turns to investment, when banking system working well, otherwise you sleep on potatoes
 
 2022/08/24
 
