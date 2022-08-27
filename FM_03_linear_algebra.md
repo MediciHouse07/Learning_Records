@@ -75,6 +75,15 @@
 
 ### Lecture 3 <br>
 #### REX 1
+
+2022/08/25
+
+1500<->3000
+
+- fourth way of matrix calculation, first column times first row, second column times second row
+- matrix block multiplication
+- non zero vector x solve Ax=0, means A singular
+
 2022/08/24
 
 0000<->1500
