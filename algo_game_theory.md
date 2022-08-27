@@ -123,3 +123,15 @@ this course is more close to computer science, I can still learn it when I tend 
 - sealed bid auction
 - not to discourage the incentive to overbidding
 - sealed bid, first price auction
+
+# Lecture 3
+
+2022/08/25
+
+0000<->1500
+
+- 3 orthognal property are satisfied in vbk rule
+- vi is value per unit of goods
+- one parameter means only vi is unknown
+- pick who wins is allocation rule, pay how much is payment rule
+- utility = vi times xi(b) minus pi(b)
