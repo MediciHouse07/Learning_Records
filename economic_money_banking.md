@@ -188,6 +188,24 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - financial instability social instability
 - at war CB became financing agent of the GOV
 
+# Week 9
+## Lecture 15
+
+### 1-1
+
+2022/08/26
+
+### 1-2
+
+2022/08/26
+
+- firm discount in London, but firm are not in England
+- issue a bill of exchange
+- in this case, foreign exchange needs to be considered
+- second graph is about dealers and banks
+- dealers will have another relation with BOE
+- in the first graph is shows city of London Banks
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
