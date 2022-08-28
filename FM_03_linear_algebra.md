@@ -74,7 +74,19 @@
 - augmented column
 
 ### Lecture 3 <br>
+#### REX 2 2022/08/26
 #### REX 1
+
+2022/08/26
+
+3000<->End
+
+- inverse can't exist Ax=0, because x is non 0, Ainverse times A lead to x=0
+- invertible, determinant is none 0
+- gauss jordan equation, solve 2 equation at once
+- a b c d, are 4 unknowns
+- augmented matrix
+- E times A|I ,  2 ideas thinks of row times a matrix, and times matrix in block way
 
 2022/08/25
 
