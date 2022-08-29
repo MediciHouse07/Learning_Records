@@ -126,6 +126,10 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 3
 
+1500<->2200
+
+- didn't follow
+
 2022/08/25
 
 0000<->1500
