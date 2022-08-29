@@ -206,6 +206,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - dealers will have another relation with BOE
 - in the first graph is shows city of London Banks
 
+### 1-3
+
+2022/08/27
+
+- treynor model on the foreign exchange case
+- x/y, price of USD, think of currency as good
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
