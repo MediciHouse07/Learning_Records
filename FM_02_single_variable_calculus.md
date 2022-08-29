@@ -444,6 +444,14 @@ finished,
 - linear function example, you can figure what it is for linear function, you can figure what it would be for all functions
 - y=sqrt (1-x^2) example of non linear function
 
+### Lecture 33
+
+0000<->1500
+
+- polar coordinates, this is a continued course, where is lec 32
+- delta A = 1/2 a square delta theta
+- reman sum in polar
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
