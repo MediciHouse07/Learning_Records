@@ -446,6 +446,14 @@ finished,
 
 ### Lecture 33
 
+2022/08/28
+
+1500<->3000
+
+- hyperbola
+- if sign is the same it is ellipse
+- esento
+
 2022/08/27
 
 0000<->1500
