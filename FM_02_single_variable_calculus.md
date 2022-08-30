@@ -446,6 +446,8 @@ finished,
 
 ### Lecture 33
 
+2022/08/27
+
 0000<->1500
 
 - polar coordinates, this is a continued course, where is lec 32
