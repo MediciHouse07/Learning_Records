@@ -213,6 +213,21 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - treynor model on the foreign exchange case
 - x/y, price of USD, think of currency as good
 
+### 2-1
+
+2022/08/28
+
+- central bank is different comparing with dealer is, it can shrink its balance sheet
+- no liquidity if there is no dealer
+
+### 2-2
+
+2022/08/28
+
+0000<->0600
+
+- treynor model but in another direction
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
