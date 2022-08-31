@@ -228,6 +228,22 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - treynor model but in another direction
 
+### 2-3
+2022/08/29
+
+- old age CB set 90 days bill
+- nowadays CB set overnight rate
+- 1923 Keyens
+- dogma
+- CIP introduced in this lecture
+
+## Lecture 16
+
+### 3-1
+2022/08/29
+
+- 4T USD a day in foreign exchange, very high fraction of it is high frequency trading
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
