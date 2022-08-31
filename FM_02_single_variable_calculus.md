@@ -446,6 +446,16 @@ finished,
 
 ### Lecture 33
 
+2022/08/29
+
+3000<->End
+
+- r=0 is the focus of the hyperbla
+- Kepler's law
+- conservation of angular momentum
+- 3506 mins, after this minute are exam
+- parametric curves
+
 2022/08/28
 
 1500<->3000
