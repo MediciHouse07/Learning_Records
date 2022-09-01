@@ -346,6 +346,21 @@ REW
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
 
+2022/08/30
+
+0000<->1500
+
+- minimize cost, maybe this should always be the first to think, like mobalizing comes first
+- output is goods and service that beening produced
+- fixed input, is plant, you can't have a big plant instantly
+- cloud tech transfer something like sitting in the LR to SR
+- MPl, next amount of labour will leverage how many quantity
+- diminishing MP
+- digging a hole with one shuffle
+- diminishing MPl comes from fixed capital
+- LR plant is not fixed
+- ISO quant is given in the LR case
+
 2022/08/06:
 
 3000<->End
