@@ -346,6 +346,12 @@ REW
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
 
+2022/09/01
+
+1500<->3000
+
+- the last sentence, there can never be forever increase return to scale
+
 2022/08/30
 
 0000<->1500
