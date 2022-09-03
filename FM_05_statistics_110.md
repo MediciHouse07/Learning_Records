@@ -75,6 +75,15 @@ PDF PMS CDF, always forgot the difference between them
 2022/02/23: finished
 ### Lecture 3 <br>
 
+2022/09/01
+
+1500<->3000
+
+- drink milk in the morning
+- disjoint events
+- if A<B then P(A)<P(B)
+- proof of P A Union B
+
 2022/08/30
 
 0000<->1500
