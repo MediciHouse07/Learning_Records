@@ -75,6 +75,13 @@ PDF PMS CDF, always forgot the difference between them
 2022/02/23: finished
 ### Lecture 3 <br>
 
+2022/09/02
+
+3000<->End
+
+- wishful thinking
+- matching problem & taylor series, TBRT
+
 2022/09/01
 
 1500<->3000
