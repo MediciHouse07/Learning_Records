@@ -86,6 +86,7 @@ finished, 2655<->End
 - sannitary
 
 ### Lecture 6
+#### REX 1 2022/07/25
 
 2022/07/25
 
@@ -132,3 +133,13 @@ finished, 2655<->End
 - 0530 mins Euler's formula
 - exponential law
 - TBRT
+
+### Lecture 7
+2022/09/03
+
+0000<->1500
+
+- asymtotic line, asymto
+- stady state plus another element, the another element will be 0
+- temperature model
+- this lecture need the previous lecture to refresh memory
