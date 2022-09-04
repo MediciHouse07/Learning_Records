@@ -39,6 +39,7 @@ this course is more close to computer science, I can still learn it when I tend 
 
 ## JMP 1 2022/08/23
 
+
 2022/08/23: Jump way of reviewing
 
 4832<->End
@@ -125,6 +126,15 @@ this course is more close to computer science, I can still learn it when I tend 
 - sealed bid, first price auction
 
 # Lecture 3
+
+## JMP 2 2022/09/02
+
+2022/09/02
+
+0000<->2000
+
+- vixi(b)-pi(b)
+- non negative utility
 
 1500<->2200
 
