@@ -343,8 +343,19 @@ REW
 
 # Lecture 5
 
+## REX 3 2022/09/02
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
+
+2022/09/02
+
+3000<->End
+
+- 2500 USD TATA car
+- standard of living
+- 4000 mins, capital comes from saving, capital contribute standard of living
+- TFP
+- drink milk
 
 2022/09/01
 
