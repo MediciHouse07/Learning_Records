@@ -88,6 +88,17 @@ finished, 2655<->End
 ### Lecture 6
 #### REX 1 2022/07/25
 
+2022/09/04
+
+0000<->1500
+
+- complex number division
+- polar rep'n
+- exponential law
+- e^at dy/dt=ay, y(0)=1
+- eitheta1 times eitheta2
+- 1450 mins trig geometry
+
 2022/07/25
 
 3000<->End
