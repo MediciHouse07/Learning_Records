@@ -88,6 +88,18 @@ finished, 2655<->End
 ### Lecture 6
 #### REX 1 2022/07/25
 
+2022/09/05
+
+1500<->3000
+
+- real number in complex umber out
+- complex valued function of real variable
+- the general form ut+ivt
+- test take derivative to both side of the eula equation
+- test ei0
+- modulus of alpha = r
+- argument of alpha = theta angle
+
 2022/09/04
 
 0000<->1500
