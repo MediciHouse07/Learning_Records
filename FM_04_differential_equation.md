@@ -86,7 +86,17 @@ finished, 2655<->End
 - sannitary
 
 ### Lecture 6
+
+#### REX 2 2022/09/06
 #### REX 1 2022/07/25
+
+2022/09/06
+
+3000<->End
+
+- lecture 6 might not help to understand lecture 7, because I didn't feel difficult when study lecture 6
+- real part of e^ix
+- 1^1/n in complex number, n has n complex roots
 
 2022/09/05
 
