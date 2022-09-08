@@ -158,6 +158,15 @@
 - I lost my mind to the air 0500 mins to 0900 mins
 
 ### Lecture 6 <br>
+
+2022/09/07
+
+0000<->1500
+
+- linear combination, in the space
+- in the space, or sub space means, their linear computing can't escape from the plane
+- comlumn space 1420 mins
+
 2022/03/18:💫 Finished this lecture
 ### Lecture 7 <br>
 2022/03/20:💫 Finished this lecture
