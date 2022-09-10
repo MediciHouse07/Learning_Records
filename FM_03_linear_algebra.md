@@ -159,6 +159,16 @@
 
 ### Lecture 6 <br>
 
+2022/09/08
+
+1500<->3000
+
+- columns don't fill the whole space
+- for equation 3 unknown can't fill the whole space
+- b in the column space of A are solutions
+- dependent and independent, if it contributes something new or not
+- column space is about b, null space is about x
+
 2022/09/07
 
 0000<->1500
