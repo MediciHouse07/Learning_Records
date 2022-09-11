@@ -158,6 +158,18 @@
 - I lost my mind to the air 0500 mins to 0900 mins
 
 ### Lecture 6 <br>
+#### REX 2 2022/09/09
+#### REX 1
+
+2022/09/09
+
+3000<->End
+
+- solution to Ax=0, in the null space, and think about why null space is a space
+- if it is R3 the null space is a line
+- match finance and capability
+- to [1,2,3,4], right hand side, the solution can't form a subspace, because zero vector is not in the space, it doesn't go through the origin
+- sub space have to go through the origin
 
 2022/09/08
 
