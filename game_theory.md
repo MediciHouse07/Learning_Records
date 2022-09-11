@@ -321,6 +321,12 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 ## REX 2 2022/07/30
 ## REX 1 2022/05/21
 
+2022/09/09
+
+1500<->3000
+
+- mixed strategy profile {p1*,p2*,p3*...}
+
 2022/09/08
 
 0000<->1500
