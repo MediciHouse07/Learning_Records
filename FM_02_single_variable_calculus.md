@@ -472,6 +472,18 @@ finished,
 - delta A = 1/2 a square delta theta
 - reman sum in polar
 
+### Lecture 35
+
+2022/09/10
+
+0000<->1500
+
+- L'Hopital's rule French
+- L'Hospital's rule English
+- 0/0 indeterminate form
+- devide by x-1
+- LHs rule version 1
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
