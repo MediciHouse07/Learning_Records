@@ -321,6 +321,15 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 ## REX 2 2022/07/30
 ## REX 1 2022/05/21
 
+2022/09/10
+
+3000<->4500
+
+- sometimes there is pure strategy NE, sometimes there is no pure strategy NE
+- the key word in mixed strategy problem is BR
+- DS is a more strict hypothesis
+- mixing must end up with choosing left and right itself the BR of itself, otherwise we just exclude the one that is not BR, and only mix those are BR
+
 2022/09/09
 
 1500<->3000
