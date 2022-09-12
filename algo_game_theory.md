@@ -37,7 +37,25 @@ this course is more close to computer science, I can still learn it when I tend 
 # Lecture 2
 ## REX 1 2022/08/23
 
+## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
+
+2022/09/10
+
+5000 <->End
+
+- click through rate is to quantify the slot's difference, alpha
+- alpha is not dependent on the occupation
+- 5700 mins, till here is assumptions setup
+- bidder has private evaluation, vi, vi times alpha j
+- till 5900 mins, is about assumption
+- Desired 1. DSIC auction
+- 2. maximize social surplus
+- fraction of the click player get, xi, is the CTR of the slot i get assigned
+- for the bidder that didn't get slot, xi is 0
+- poly time to gurantee the algorithm running on real time
+- one bidder can only get one slot
+- assume DSIC, how to assign slots
 
 
 2022/08/23: Jump way of reviewing
@@ -127,7 +145,50 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 3
 
+## REX 1 2022/09/10
 ## JMP 2 2022/09/02
+
+2022/09/10:
+
+0000<->End
+
+- now it is time to think about how to get DSIC
+- greedy algorithm
+- single parameter means vi is the only unknown
+- feasible allocations
+- xi set is the amount of stuff everybody gets
+- allocation rule, who wins, how much to pay, payment rule
+- x(b) belongs to X set, p(b), they are all vectors
+- x is slot j for player i
+- 1500 mins, followed till this minute
+- bound ensure non negative utility for truthful bidders, this step is still based on truthful bidder
+- 1700 mins, till here is some extra or more specific setup
+- 1830 mins, allocaiton rule is implementable if
+- first price rule is not implementable
+- monotune
+- second definition, an allocation rule is monotune, the higher you bid, the more you get
+- single bid auction is monotune
+- 2700 mins, seems go to another case now...
+- design space
+- if allocation rule exist, then it is about payment rule
+- myerson's lemma
+- assign good to the highest bidder, unique, talking about allocation rule, it is the only one
+- thus, the left thing is payment rule
+- greedy algorithm
+- 3400 mins punch line
+- coupling means (x,p) 4800 mins example
+- fix i b minus i(other's bid)
+- 4230 mins
+- designate
+- 5500 mins, if not monotune, the inequality fails
+- jump is x(y) minus x(z)
+- p is changing at every single point
+- y and z getting closer, z times jump = payment jump
+- jump in p of z = z times jump in x at z
+- 10230 mins, payment formula is derived
+- 10700 mins, sort proved the second price is the best one
+- 10830 mins, proof by picture
+- sponsored search auction is an application of myerson's lemma
 
 2022/09/02
 
