@@ -474,6 +474,14 @@ finished,
 
 ### Lecture 35
 
+2022/09/11
+
+1500 <->3000
+
+- right hand of LH's rule exist, means limit of left hand of LH's rule exist
+- sin u is roughtly equal to u when u is close to 0, this is a similar application
+- use LH's rule to see which factor goes faster
+
 2022/09/10
 
 0000<->1500
