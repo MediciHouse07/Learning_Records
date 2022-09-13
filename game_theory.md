@@ -321,6 +321,14 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 ## REX 2 2022/07/30
 ## REX 1 2022/05/21
 
+2022/09/11
+
+4500 <->10000
+
+- to find serena's mixing, look at venus's payoffs
+- 5800 mins direct effect, strategic effect
+- 10022 mins strategic effect, V knows S improved her back end volley, V hit less to the left, thus S lean less to the left
+
 2022/09/10
 
 3000<->4500
