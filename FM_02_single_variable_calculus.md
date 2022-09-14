@@ -473,6 +473,22 @@ finished,
 - reman sum in polar
 
 ### Lecture 35
+#### REX 1 2022/09/12
+
+2022/09/12
+
+3000 <->End
+
+- compare which one goes to zero or infinity faster
+- switch the position of exponential
+- exponential beats all the 
+- RHS limit need to exist
+- 0^0
+- moving exponent
+- the hypothesis to be applied for L'Hop
+- 0/0 or infinity over infinity
+- look before you lhop
+- don't forget basic algebra
 
 2022/09/11
 
