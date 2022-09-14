@@ -318,8 +318,19 @@ Bayesian NE, the NE in the incomplete information game, a way to handle it is to
 
 # Lecture 9
 
+## REX 3 2022/09/12
 ## REX 2 2022/07/30
 ## REX 1 2022/05/21
+
+2022/09/12
+
+10000 <->End
+
+- serena lean to the left less often
+- vene's
+- comparative stastics
+- improve s's ability
+- vene's shock, if s don't change her behaviour, then v is not indifferent to the right and left, then v would only shoot to the right, then v need to lean to the right more, thus bring s to the right
 
 2022/09/11
 
