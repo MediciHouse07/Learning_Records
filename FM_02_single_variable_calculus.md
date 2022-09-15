@@ -508,6 +508,16 @@ finished,
 - devide by x-1
 - LHs rule version 1
 
+### Lecture 36 <br>
+
+2022/09/13
+
+0000<->1500
+
+- improper integral
+- the integral converges if limit exist, diverges if not 1300 mins
+- but how a rectangle can be called as converges? answer: it refers to if it converges, means x^2 integral is 1/3 times x^3, means if it can be integrated
+
 ### Lecture 37 <br>
 2022/03/25:💫 1827/5011, jump to this course out of curious, pre-lecture: anti-derivative, partial fraction intergral, improper intergral <br>
 2022/03/26: finished, the rest part is not that hard<br>
