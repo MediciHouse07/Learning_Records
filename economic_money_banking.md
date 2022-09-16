@@ -244,6 +244,28 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - 4T USD a day in foreign exchange, very high fraction of it is high frequency trading
 
+### 3-2
+
+2022/09/14
+
+- CIP,  UIP, Expected hypothesis of the term structure; formulas
+- UIP and EH of Term structure are about the future
+- F/S forward exchange rate divided by spot exchange rate
+
+### 3-3
+
+2022/09/14
+
+### 3-4
+
+2022/09/14
+
+- due to means people hold the bill, due from means people need to repay money
+- Rstar means foreign exchange part, R dnotes spot part
+- 4 T number daily is for all FX market
+- what financial people does is to make all the things go even though currencies are different
+- 
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
