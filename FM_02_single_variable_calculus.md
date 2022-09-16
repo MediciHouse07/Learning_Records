@@ -510,6 +510,16 @@ finished,
 
 ### Lecture 36 <br>
 
+2022/09/14
+
+1500<->3000
+
+- occilate
+- limit exist means finite, which is not infinite
+- classical example, sqrt of pi = integral of e^xsquare
+- limite is infinite, means integral diverges
+- 2900 mins, when p greater than 1 and less than 1
+
 2022/09/13
 
 0000<->1500
