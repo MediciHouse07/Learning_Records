@@ -264,7 +264,16 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - Rstar means foreign exchange part, R dnotes spot part
 - 4 T number daily is for all FX market
 - what financial people does is to make all the things go even though currencies are different
-- 
+
+### 3-5
+
+2022/09/15
+
+### 4-1 WK9
+
+2022/09/15
+
+- some people cares about the term rate, some peole cares about... and some people cares about the spread between the two lines, that was a force that shape the chart
 
 # Lecture Week11
 ## Lec 1
