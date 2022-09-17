@@ -509,6 +509,15 @@ finished,
 - LHs rule version 1
 
 ### Lecture 36 <br>
+#### REX 1 2022/09/15
+
+2022/09/15
+
+3000<->End
+
+- telda
+- improper integral is the topic of this section
+- 1/x^2 when it is located in -1 and 1
 
 2022/09/14
 
