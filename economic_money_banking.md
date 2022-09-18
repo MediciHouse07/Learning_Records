@@ -275,6 +275,21 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - some people cares about the term rate, some peole cares about... and some people cares about the spread between the two lines, that was a force that shape the chart
 
+### 4-2
+
+2022/09/16
+
+- collateral shortage, and repo rate
+- bidding on spot market, and invert yield curve
+- when there is no one want to be on the contract of otherside, that's when the other side has a high yield
+- not about volume, it is about incentive
+
+### 4-3
+
+2022/09/16
+
+- 0000<->0600 do business with CB, it is not neccessary to deal in market rate
+
 # Lecture Week11
 ## Lec 1
 2022/03/18:💫 All finished <br>
