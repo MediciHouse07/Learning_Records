@@ -543,3 +543,17 @@ finished,
 
 ### Lecture 38 <br>
 2022/03/26:  finished, decimal expansion, what is that? they say it has something to do with rational numbers, maybe it is two Z, one devided by another so that a rational can be expressed <br>
+
+
+### Lecture 39 <br>
+
+2022/09/16
+
+0000<->1500
+
+- review of power series
+- R and radius of convergences
+- inside of convergence of radius, fx can be rewrite to polonomial
+- radius of converges can be infinity
+- 1/1minusx and 1/1plusx, geometric power series
+- 1/1plusx, R=1
