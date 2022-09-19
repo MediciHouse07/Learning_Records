@@ -547,6 +547,15 @@ finished,
 
 ### Lecture 39 <br>
 
+2022/09/17
+
+1500<->3000
+
+- 2019 mins, radius of converges example, take the element inside an integral and calculate the limit
+- multiply, odd function and even function
+- differentiate
+- 3000 mins, natrual log expansion
+
 2022/09/16
 
 0000<->1500
