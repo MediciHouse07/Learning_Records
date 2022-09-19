@@ -286,9 +286,25 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 4-3
 
+2022/09/17
+
+0600<->End
+
+- sterialization
+- CB act like a speculative dealer
+- arm and leg
+- company, are you competitive are you not competitive
+- CB don't care positive profit
+- CB cares people
+- an argument of foreign intervention is OK
+- the way the private market work is by distorting the market, if the distortion is too big, then there is premium
+- for CB, it could not distort market
+
 2022/09/16
 
 - 0000<->0600 do business with CB, it is not neccessary to deal in market rate
+
+
 
 # Lecture Week11
 ## Lec 1
