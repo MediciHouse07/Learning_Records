@@ -547,6 +547,13 @@ finished,
 
 ### Lecture 39 <br>
 
+2022/09/18
+
+3000<->End
+
+- alternate
+- error function
+
 2022/09/17
 
 1500<->3000
