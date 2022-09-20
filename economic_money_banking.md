@@ -239,6 +239,9 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lecture 16
 
+#### REX 2 2022/09/18
+#### REX 1
+
 ### 3-1
 2022/08/29
 
@@ -304,7 +307,17 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - 0000<->0600 do business with CB, it is not neccessary to deal in market rate
 
+### 4-4
 
+2022/09/18
+
+- decision for resource allocation, not market driven
+- peripheral market money bond
+- outside, offshore, make deal in dollar without the control of domestic control
+- smack on top
+- market need to be deep, need lots of dealers to function well
+- country's position in international trade
+- on top, dealer make market, at the bottom, CB as a dealer
 
 # Lecture Week11
 ## Lec 1
