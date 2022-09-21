@@ -1,5 +1,21 @@
 # Week1
 
+### Lecture 1 Week1
+
+## 1-2
+
+2022/09/19
+
+0000<->1500
+
+- bankers only know the place they understand
+- iron ore as colletral for loan
+- salt water, fresh water
+- no CB thinking, is CB thinking
+- Financial crisis minsky moment
+- LSE
+- monatorist
+
 ## 1-3
 
 2022/05/31:
