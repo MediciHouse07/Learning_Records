@@ -104,6 +104,20 @@ PDF PMS CDF, always forgot the difference between them
 2022/02/24: 1219/4854 birthday problem<br>
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
+
+2022/09/19:
+
+0000<->1000
+
+- by inclusion and exclusion
+- matching problem is in the end of the last lecture
+- add P and subtract P for intersection
+- the first k is labbeled
+- didn't follow, something were forgot
+- complement of a union is intersection of a complement
+- taylor series e^x
+- TBRT
+
 2022/03/26: finished, the begining of this lecture has a continue relation with the end of Lecture 3 <br>
 
 ### Lecture 5 <br>
