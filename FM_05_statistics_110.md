@@ -105,6 +105,19 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
+2022/09/20
+
+0000<->1000
+
+- by symmetryc, subscript can be anything
+- 0400 mins, probability and conditional probability
+- symmetry is the key to this section
+- this is also an application of inclusion and exclusion
+- the card you name is the card that appears, but it can think in another way, the deck is randomly arranged
+- how to interprete P(U A)? why the formula strart with 1 - 1/2! ...
+- OK, it might be the probability of matching 1 2 3 4, and the opposite is probability of no match
+- only intersection of A complement can be think of as exactly no match, otherwise it has at least one match
+
 2022/09/19:
 
 0000<->1000
