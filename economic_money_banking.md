@@ -2,6 +2,10 @@
 
 ### Lecture 1 Week1
 
+## 1-1 
+
+- is a reading material
+
 ## 1-2
 
 2022/09/19
@@ -21,6 +25,15 @@
 2022/05/31:
 - integrand
 - taylor
+
+## 1-4
+
+2022/09/20
+
+- banker approach the bank from the liquidity perspective
+- short introduction of traditional banking system and shadow bank system
+- traditional theory course and this course, maybe it is about theory and practice, practice is about how people work in a field associated with a theory, and some of theories are derived from practice, some formula
+
 
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
