@@ -105,6 +105,17 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
+2022/09/21
+
+0000<->1500
+
+- matching problem
+- jth card in deck is labeled j
+- maybe need to review the book to get a concrete idea of it
+- e to the x evaluate at x equal minus 1
+- 2 computing forces end in 1/e
+- next step is to define independence
+
 2022/09/20
 
 0000<->1000
