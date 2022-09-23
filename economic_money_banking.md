@@ -1,6 +1,7 @@
 # Week1
 
 ### Lecture 1 Week1
+#### REX 1 2022/09/21
 
 ## 1-1 
 
@@ -34,6 +35,21 @@
 - short introduction of traditional banking system and shadow bank system
 - traditional theory course and this course, maybe it is about theory and practice, practice is about how people work in a field associated with a theory, and some of theories are derived from practice, some formula
 
+## 1-5
+
+2022/09/21
+
+- course structure, domestic, international, forward
+- 4 price of money
+- interest rate, par price of money in terms another money today but it is not exchange rate
+- private money, public money
+- all banking is a swap of IOUs
+
+## 1-6 Lecture 1 5/5
+
+2022/09/21
+
+- Allyn
 
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
