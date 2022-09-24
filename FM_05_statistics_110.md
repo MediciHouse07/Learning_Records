@@ -105,6 +105,12 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
+2022/09/22
+
+book page 25<->26
+
+- Reviewed the part in the 20220921 study in the book de Montmort matching problem
+
 2022/09/21
 
 0000<->1500
