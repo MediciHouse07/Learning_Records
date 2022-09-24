@@ -20,3 +20,15 @@
 - visualize classification problem in 2 D chart ad 1 D chart
 - supervised learning, x and y are given to train
 - 1 lane road, 2 lane road, intersection
+
+
+# Lecture 2
+
+2022/09/22
+
+0000<->1500
+
+- input training set output a hypothesis
+- how to represent hypothesis
+- notations
+- how to choose parameter theta
