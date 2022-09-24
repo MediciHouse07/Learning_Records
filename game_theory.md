@@ -1069,6 +1069,20 @@ End mins
 
 # Lecture 19
 
+2022/09/22
+
+0000<->1500
+
+- information set, to model simul and sequential game
+- sub game
+- sub game perfection
+- trust each other not to screw up
+- perfect information
+- BI and sub game perfect equalibrium
+- though some NE doesn't allign with BI, but it reflects people's worry about other people might screw up
+- 1300 mins, from here is sub game approach
+- document what is perfect information, what is imperfect information, and some other types
+
 2022/05/28:
 
 
