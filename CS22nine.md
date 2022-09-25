@@ -24,6 +24,15 @@
 
 # Lecture 2
 
+2022/09/23
+
+1500<->2000
+
+- minimize square difference
+- cpls investigation
+- 1/2 is to make the math simpler
+- gradient descend
+
 2022/09/22
 
 0000<->1500
