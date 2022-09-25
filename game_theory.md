@@ -1069,6 +1069,14 @@ End mins
 
 # Lecture 19
 
+2022/09/23
+
+1500<->3000
+
+- SPE, must play NE in every sub game
+- in what case a tree can be rewrite to matrix, in what case it can't
+- at the end match maker game
+
 2022/09/22
 
 0000<->1500
