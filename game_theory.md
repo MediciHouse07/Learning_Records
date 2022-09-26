@@ -1069,6 +1069,16 @@ End mins
 
 # Lecture 19
 
+2022/09/24
+
+3000<->4946
+
+- last decision node, last sub game
+- don't forget mixed NE
+- this example is about BI
+- SPE is not mix mix
+- this game contains 3 SPEs, the other 2 are send and 2 pure strategy
+
 2022/09/23
 
 1500<->3000
