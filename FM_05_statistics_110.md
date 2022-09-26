@@ -105,6 +105,21 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
+2022/09/24
+
+3000<->4500
+
+- conditional probability, evidence added
+- conditioning is the soul of statistics
+- a notebook, that can be used to seach all my words
+- dependent and independent
+- intuition brain and logical brain
+- if conditioning on B, then B is the only universe, the B complementary is excluded
+- renormailize
+- intuition 1 and intuition 2
+- pebble world and frequentist world
+- 4421 mins, example of frequentist world
+
 2022/09/23
 
 1500<->3000
