@@ -1069,6 +1069,17 @@ End mins
 
 # Lecture 19
 
+2022/09/25
+
+4946<->End
+
+- 2 firm playing cournot model
+- marginal revenue and marginal cost
+- strategic substitutes TBR
+- 11400 mins sub game, rent and not rent symmetric cournot, asymmetric cournot
+- work out profit for both cases and decide
+- recalculate the cournot then get the exact number
+
 2022/09/24
 
 3000<->4946
