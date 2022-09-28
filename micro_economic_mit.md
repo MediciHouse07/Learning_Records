@@ -507,6 +507,17 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2022/09/26
+
+0000<->1500
+
+- maximize profit, minimize the cost
+- cost curve and the production varies
+- average, and marginal, average cost produced in entire production, margianl produced for the next unit of labour
+- marginal product of labor
+- the capital term dropped because it is fixed, it might because K is fixed, and rental rate is fixed
+- while the labour is not, you can hire more people or less people in the short run
+
 2022/08/17
 
 3000<->4500
