@@ -191,6 +191,18 @@
 
 2022/03/18:💫 Finished this lecture
 ### Lecture 7 <br>
+
+2022/09/26
+
+0000<->1500
+
+- elimination will not change null space, it will change column space
+- 0700 mins, rank of A
+- pivot columns and free columns
+- free is you can assign anything to the columns
+- set pivot column to be 1 0
+- x is derived at the end of the section
+
 2022/03/20:💫 Finished this lecture
 ### Lecture 8 <br>
 2022/03/21:💫 Finished this lecture, and some take away, in the last few minutes, rank tell you everything about number of solutions, if you forgot, watch it again
