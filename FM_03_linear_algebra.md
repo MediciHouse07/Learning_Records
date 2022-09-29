@@ -192,6 +192,23 @@
 2022/03/18:💫 Finished this lecture
 ### Lecture 7 <br>
 
+2022/09/27
+
+1500<->3000
+
+- special solution
+- Ax=0, Ux=0
+- pivot variable, free variable
+- n minus r in m by n matrix of free variables
+- echelon form
+- reduced row echelon form
+- identity matrix sitting in the pivot
+- u is echelon, r is reduced row echelon
+- pivot part, and free part of the matrix
+- null space matrix, N
+- RN=0
+- N=[], block matrix, one calculation get all solutions in the null space
+
 2022/09/26
 
 0000<->1500
