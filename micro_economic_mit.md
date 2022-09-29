@@ -507,6 +507,21 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2022/09/27
+
+1500<->3000
+
+- MC is higher when wage is high and less productive the worker
+- LR cost, K is not fixed
+- given quantity, what mix makes a optimal cost
+- vary quantity how L and K act optimally
+- isocost
+- slope of the ISO cost curve
+- optimal is where isoquant intersect with isocost
+- the intersection is the most you can produce given the isoquant and isocost
+- MPl/MPk=MRTS=neg w/r
+- 2900 mins LR 5 step
+
 2022/09/26
 
 0000<->1500
