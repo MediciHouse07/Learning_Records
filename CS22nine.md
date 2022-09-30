@@ -24,6 +24,14 @@
 
 # Lecture 2
 
+2022/09/28
+
+2000<->3500
+
+- you have m training examples, so you need to take partial derivative for all those m training examples, theta j = theta j minus simgma of m of partial derivatives
+- repeat until convergence
+- no local optimal
+
 2022/09/23
 
 1500<->2000
