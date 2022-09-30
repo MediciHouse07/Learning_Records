@@ -192,6 +192,17 @@
 2022/03/18:💫 Finished this lecture
 ### Lecture 7 <br>
 
+#### REX 2 2022/09/28
+#### REX 1
+
+2022/09/28
+
+3000<->End
+
+- will show up
+- transpose the matrix and think about its pivot
+- in 4000 mins example, he choose a free variable, while in previous example he also choosed a free variable, not pivot variable
+
 2022/09/27
 
 1500<->3000
