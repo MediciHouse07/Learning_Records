@@ -507,6 +507,15 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2022/09/28
+
+3000<->4500
+
+- cost varies with quantity produced
+- substitution effect, and perfect substitution
+- LR expansion path
+- consumer's constraint(given the budget) are different with producer's constraint(maximize the profit)
+
 2022/09/27
 
 1500<->3000
