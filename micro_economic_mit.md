@@ -504,8 +504,16 @@ End mins
 
 # Lecture 6
 
+## REX 3 2022/09/29
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
+
+2022/09/29
+
+4500<->End
+
+- size of the plant can be modeled by its output
+- run overtime
 
 2022/09/28
 
