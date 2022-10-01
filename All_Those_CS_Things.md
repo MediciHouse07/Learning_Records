@@ -150,6 +150,32 @@
 
 # Ext2: System security
 
-# Ext3: CMU database I
+# Ext3: CMU database I 15-445
+
+## Lecture 1
+
+2022/09/29
+
+0327<->2525
+
+- other database courses 0452 mins
+- 0623<->1800 jumped book recommend
+- inter-related data that models some aspect of the real world
+- flat file example
+
+
+# Ext3: CMU database II 15-721
+
+## Lecture 1
+
+2022/09/29
+
+2000<->2353
+
+- start with thanks to SAP
+- OK he will introduce SAP HANA paper
+- 1970 first database
+- seems this is not a junior course
+
 
 # Ext4: MIT distributed system
