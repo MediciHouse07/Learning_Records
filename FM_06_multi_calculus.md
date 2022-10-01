@@ -3,6 +3,8 @@
 
 ### Lecture 9
 
+2022/09/29
+
 0000<->1500
 
 - delta z is roughly equal to fx delta x + fy delta y
