@@ -1,6 +1,17 @@
 ### Lecture 8
 2022/03/27: 💫 finished,  but skipped the contow part, I think I learned it before
 
+### Lecture 9
+
+0000<->1500
+
+- delta z is roughly equal to fx delta x + fy delta y
+- tanget plane to the surface
+- express the formula in linear way
+- cross product
+- close enough the roughly equal turns to be equal
+- application find min/max
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
