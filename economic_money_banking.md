@@ -51,6 +51,19 @@
 
 - Allyn
 
+### Lecture 2 Week1
+
+
+## 2-1 Lecture 2 1/7
+
+2022/09/30
+
+- some country has higher interest rate, some has lower
+- ECB buy bond from peripheral to let the price of the bond go down
+- price miss allign
+- debt to GDP lead to price miss allign
+- absorb the debt to a larger entity
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
