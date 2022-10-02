@@ -2,6 +2,23 @@
 2022/03/27: 💫 finished,  but skipped the contow part, I think I learned it before
 
 ### Lecture 9
+#### REX 1 2022/10/01
+
+2022/10/01
+
+3000<->End
+
+- 2 by 2 linear system
+- solve the linear system you get the best fit line
+- and the cost function will give you a minimum result
+- transistor
+- exponential relation between transistors and time
+- OLS is more general
+- best exponential fit y=ce^ax
+- 4726 mins
+- transform exponential to linear
+- quadratic law
+- solve for 3 by 3 linear system, which means it has 3 parameters
 
 2022/09/30
 
