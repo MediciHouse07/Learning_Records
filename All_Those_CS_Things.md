@@ -154,6 +154,21 @@
 
 ## Lecture 1
 
+2022/09/30
+
+2525<-> 3953
+
+- some problems how to handle in flat file structure
+- durability
+- software can work with a database and doesn't need to know the underlying things within the database
+- DBMS is software
+- 1970s people re-write database again and again
+- relational model is to resolve above problem
+- 3253 mins 2 papers
+- different data structure leads to different API for example who to delete a group of data, tree structure, hash structure and so on
+- database can envovle itself without creating any effect to applications
+- relational model can be used to model anything, for example unstructured model
+
 2022/09/29
 
 0327<->2525
