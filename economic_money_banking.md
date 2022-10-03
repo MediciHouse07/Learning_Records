@@ -56,6 +56,18 @@
 
 ## 2-1 Lecture 2 1/7
 
+2022/10/01
+
+- Draghi ECB
+- German Cbankers
+- Soros preview
+- spain pay higher interest rate to bondholders
+- ECB pays it with the purpose of lowering the interest rate
+- 60% debt to GDP
+- for the excess bonds EU can choose to forgive them and reduce the pressure on countries like Spain
+- banks today have huge amount of reserves in ECB, no interest, because they don't trust each other, why? TBRT
+- CB has nothing to do with issuing bill to finance themself things, only a role like treasury can do that
+
 2022/09/30
 
 - some country has higher interest rate, some has lower
