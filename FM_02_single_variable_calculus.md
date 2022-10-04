@@ -69,6 +69,16 @@ Finished,
 ### Lecture 12 <br>
 2022/04/01: finished, this course is not about relative rate of change
 ### Lecture 13 <br>
+#### REX 1 2022/04/29
+
+2022/10/02
+
+0000<->1500
+
+- implicit differentiation
+- calculate one rate of change based on another rate of change
+- conical
+
 2022/04/01: 1650/5322, relative rate of change <br>
 2022/04/29: finished, 0850 mins: conical can be simplified as triangle
 1110 mins : setup for a problem, picture + formula + question
