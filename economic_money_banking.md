@@ -76,6 +76,23 @@
 - debt to GDP lead to price miss allign
 - absorb the debt to a larger entity
 
+## 2-2
+
+2022/10/02
+
+- expand both side of balance shee is not a free launch
+- promise to pay gold, promise to pay currency, credit and security
+- consumer think of deposit as money
+- problem decompose, then treat each of element as factkey and prepare decisions correspondingly
+
+## 2-3 Lecture 2 Week 1 3/7
+
+2022/10/02
+
+- CB's balance sheet, that determines what they are allowed to do, for example, CB are not supposed to accept deposit directly
+- outside money is gold
+- inside money is some form of credit
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
