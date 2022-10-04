@@ -24,6 +24,16 @@
 
 # Lecture 2
 
+2022/10/02
+
+3500<->3900
+
+- theta 0 equal 0, theta 1 equal 0
+- iteration by iteration, theta 0 and theta 1 will be changed
+- it is different with OLS
+- which determines that it is a ML course instead of statistics course
+- QA answer why subtract derivative
+
 2022/09/28
 
 2000<->3500
