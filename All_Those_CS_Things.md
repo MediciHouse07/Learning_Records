@@ -154,6 +154,14 @@
 
 ## Lecture 1
 
+2022/10/02
+
+3953<->4400
+
+- structure, integrity, manipulation
+- n-ary relation = table n columns
+- tuple
+
 2022/09/30
 
 2525<-> 3953
