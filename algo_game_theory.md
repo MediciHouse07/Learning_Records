@@ -210,3 +210,13 @@ this course is more close to computer science, I can still learn it when I tend 
 - one parameter means only vi is unknown
 - pick who wins is allocation rule, pay how much is payment rule
 - utility = vi times xi(b) minus pi(b)
+
+# Lecture 4
+
+2022/10/03
+
+0000<->0700
+
+- meyerson's lemma application
+- who wins, how much they should pay
+- need to double check meyerson's lemma and the previous 2 lectures
