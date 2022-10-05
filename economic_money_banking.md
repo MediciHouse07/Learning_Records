@@ -93,6 +93,18 @@
 - outside money is gold
 - inside money is some form of credit
 
+## 2-4 Week 1 4/7
+
+2022/10/03
+
+- financial instrument, financial institution, money structure
+
+## 2-5 Week 1 5/7
+
+2022/10/03
+
+- monetarism metalism vs keyansian chartalism
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
