@@ -71,6 +71,18 @@ Finished,
 ### Lecture 13 <br>
 #### REX 1 2022/04/29
 
+2022/10/03
+
+1500<->3000
+
+- for a person, source of information
+- the info is far from you, is sort of easy to access, while if it is near, the situation changes
+- appealing, instance from game thoery, equalibrium it can be an article that I would write
+- UX user experience, Q&A, one to one, many to many, what training can save that, restaurant analogy another article
+- constraint
+- you can complain or you can try to abstract it to a problem, and try to use theory to solve the problem
+- the process of deriving a formula, after that you can apply calculus theories
+
 2022/10/02
 
 0000<->1500
