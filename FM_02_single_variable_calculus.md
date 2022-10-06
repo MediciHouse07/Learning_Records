@@ -71,6 +71,15 @@ Finished,
 ### Lecture 13 <br>
 #### REX 1 2022/04/29
 
+2022/10/05
+
+4500<->End
+
+- get a formula for x1
+- get a formula, and rewrite it to fx and its derivatives form
+- xn+1=xn-fxn/f'xn
+- iteration
+
 2022/10/04
 
 3000<->4500
