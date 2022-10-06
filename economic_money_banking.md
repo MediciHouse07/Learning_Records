@@ -105,6 +105,13 @@
 
 - monetarism metalism vs keyansian chartalism
 
+## 2-6 Week 1 6/7
+
+2022/10/04
+
+- dealer can go in both direction, and they provide liquidity and they determine price
+- thus no market dealer no price
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
