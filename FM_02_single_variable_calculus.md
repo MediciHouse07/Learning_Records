@@ -71,6 +71,16 @@ Finished,
 ### Lecture 13 <br>
 #### REX 1 2022/04/29
 
+2022/10/04
+
+3000<->4500
+
+- the application is a elipse
+- then use triggeometry to solve the problem
+- and the 2 angles are the same
+- hole in one application
+- 4100 mins newton's method
+
 2022/10/03
 
 1500<->3000
