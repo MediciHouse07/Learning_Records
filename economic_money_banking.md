@@ -112,6 +112,29 @@
 - dealer can go in both direction, and they provide liquidity and they determine price
 - thus no market dealer no price
 
+## 2-7 Week1 7/7
+
+2022/10/05
+
+- CB from banker's bank to public agency
+- 1907 JP morgon
+- in disarray
+- joint the market when market collapse
+- defend exchange rate
+- convince the world in this book
+- convince somebody in this mail
+- negotiation lesson
+- intervene the interest rate to control the economic cycle
+- one case, CVO case, LM case, these can't be written explicitly in article, but it can be designed in DSS 
+- term structure of interest rate
+- artificial hierachy of money credit
+- how to interpret elasticity it is a curve from an reverse direction; answer: when elasticity the curve is like that, when it is scarcity, the curve is the other direction
+- CB do, defend exchange rate, defend par, economic stability
+- new role, buy new financial instrument
+- understand your role
+- think on a bigger picture
+- thin reed
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
