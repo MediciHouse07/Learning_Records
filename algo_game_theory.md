@@ -40,6 +40,22 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+2022/10/05
+
+0000<->1000
+
+- nevertheless
+- private evaluation, who win, how much they pay
+- maximaze social surplus, DSIC
+- quasilinear utility, losing = 0 utility, utility of wining = evaluation minus price
+- vi minus p
+- 0526 mins sealed bid auctions
+- each bidder submit a bid to the auction designer
+- suppose you don't need to pay, you write as high you can bid
+- bidder's behaviour will be changed if the price logic differs
+- no discourage from overbidding
+- 0933 mins first price auction
+
 2022/09/10
 
 5000 <->End
