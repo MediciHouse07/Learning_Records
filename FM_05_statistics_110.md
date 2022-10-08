@@ -184,6 +184,20 @@ book page 25<->26
 #### REX 1 2022/03/31
 #### REX 2 2022/08/03
 
+2022/10/06
+
+0000<->1500
+
+- simulation game
+- measure uncertainty
+- pie and incorrect evaluation
+- break up problem into simpler pieces
+- partition = disjoint and complete the whole picture
+- 0722 mins, law of total prob
+- 0944 mins, example of LOTP
+- ace of spades
+- stops at the second question of the example
+
 2022/08/03:
 
 3100<->End
