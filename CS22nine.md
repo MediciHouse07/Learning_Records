@@ -24,6 +24,13 @@
 
 # Lecture 2
 
+2022/10/06
+
+2221<->3621
+
+- the theta is the unknown, thus each row from the dataset is the supply that would determines the derivative of the function
+- 3217 mins, redo all the diavation, means finishing all the interation of the training examples
+
 2022/10/02
 
 3500<->3900
