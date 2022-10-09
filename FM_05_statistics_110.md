@@ -184,6 +184,21 @@ book page 25<->26
 #### REX 1 2022/03/31
 #### REX 2 2022/08/03
 
+2022/10/07
+
+1500<->3000
+
+- specify the type of the ace, the probability doubled
+- counter intuition
+- 2100 mins another example about conditional probability
+- 2252 mins, intepretation of the assumption
+- what patient cares about
+- an example of using LOTP makes problem easier
+- 1%, 95%
+- second test is not independent
+- competition between how rare a disease and how are a wrong test
+- frequentist
+
 2022/10/06
 
 0000<->1500
