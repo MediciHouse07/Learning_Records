@@ -24,6 +24,17 @@
 
 # Lecture 2
 
+2022/10/07
+
+3621<->5121
+
+- batch gradient descent
+- when the data set is large, the batch gradient descent would be time consuming
+- stochastic gradient descent
+- batch is about using all example from the data set just for every one step, and repeatedly
+- stochastic gradient never converge, but it is faster
+- monitor cost function, which is Jtheta
+
 2022/10/06
 
 2221<->3621
