@@ -184,6 +184,21 @@ book page 25<->26
 #### REX 1 2022/03/31
 #### REX 2 2022/08/03
 
+2022/10/08
+
+3000<->4500
+
+- with the new evidence, update the probability
+- bayes rule has coherence property
+- probability and law, example 3500 mins
+- include independence thinking and bayesian thinking
+- prosecutor fallacy
+- statistical science in a court room, statistics for a lawer 2 books recommendation
+- prior, postererior
+- PA is not one, PA|A is one
+- confusing independence with conditional independence 4107 mins
+- CI given C doesn't imply independence
+
 2022/10/07
 
 1500<->3000
