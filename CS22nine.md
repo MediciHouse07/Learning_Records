@@ -24,6 +24,21 @@
 
 # Lecture 2
 
+2022/10/08
+
+5121<->6621
+
+- neuro network is not linear
+- normal equation, one step lead you to the global optimal
+- linear algebra course and this course 5500 mins
+- theta belongs to R^n+1
+- raw number
+- if A is square matrix, trace of A = sum of diagnal entries
+- tr A
+- det A equals to multiply of diagnal lambda??forget
+- fA = trAB then derivative of A = B^T
+- 10623 mins, trace properties
+
 2022/10/07
 
 3621<->5121
