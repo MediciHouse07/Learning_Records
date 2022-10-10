@@ -184,6 +184,18 @@ book page 25<->26
 #### REX 1 2022/03/31
 #### REX 2 2022/08/03
 
+2022/10/09
+
+3500<->End
+
+- prior before we have the evidence, posterior after we have the evidence
+- PA prior, PA|A posterior
+- chess opponnent of unknown strength
+- condition on how strong the person is, all the game are independent; not condition on how strong the person is, ealier game gives you evidence so not independent
+- 4708 mins another direction of indept and dept
+- fire alarm example
+- indept F and C, but it would be dependent given A
+
 2022/10/08
 
 3000<->4500
