@@ -24,6 +24,16 @@
 
 # Lecture 2
 
+2022/10/09
+
+6621<->End
+
+- 10700 mins, collection the formula, otherwise it might affect understanding
+- matrix computation of the linear equation
+- 11630 mins normal equation
+- one step to get the global minimum
+- TBR linear algebra normal equation section and compare
+
 2022/10/08
 
 5121<->6621
