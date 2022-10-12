@@ -1,4 +1,12 @@
 # Lecture 1
+
+2022/10/10
+0000<->1500
+
+- study strategic situation
+- not a price taker
+- the outcome of one decision is only dependent not on your own action, but also the action of others
+
 2022/05/19:
 0000<->1500 in the middle of the first game
 0830 mins, books 3 books are recommended; 10 problem set in this class;
