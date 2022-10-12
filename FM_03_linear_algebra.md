@@ -305,6 +305,17 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2022/10/10
+0000<->1500
+
+- double b will double the projection, by looking at the formula
+- projection matrix, act on b
+- column space of the projection matrix is the line through a
+- rank is 1
+- TBR rank
+- PT=P
+- P2=P
+
 2022/03/25:  finished why when m>n, which means by which m equations and n unknown there is no solution? because: it might have a situation like 0=1, or x1=1 in the same time x1=2 <br>
 2022/04/30: finished, 0428 mins, projection matrix of OLS;
 0830 mins, uppercase of P projection matrix, lowercase p is projected vector, aTa is length square;
