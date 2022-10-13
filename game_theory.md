@@ -1,5 +1,18 @@
 # Lecture 1
 
+2022/10/11:
+
+1500<->3000
+
+- rewrite the 2 matrix into one
+- devinity school
+- ABCD is not in the form of a typical payoff
+- numbers is typical payoff
+- people who only care about their own grade, evil git
+- defn, my strategy alpha strictly dominates my strategy beta, if my payoff from alpha is strictly greater than that from beta, regardless of what others do
+- do not play a strictly dominanted strategy
+- the next part is about to talk the possibility of the 2 players come to an agreement
+
 2022/10/10
 0000<->1500
 
@@ -14,6 +27,7 @@ course tought in class is easy to record on txt, while white board teacher, it i
 1450 mins, superimpose;
 
 # Lecture 2
+
 202/05/05: finished, 0700 mins, ingredient of a game;
 2232 mins, strict dominated, handout
 3000 mins, put yourself to other's shoes;
