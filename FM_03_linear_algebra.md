@@ -305,6 +305,19 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2022/10/11
+
+1500<->3000
+
+- why projection
+- Ax=b may have no solution
+- solve the closet solution
+- then solve Axhat=P
+- plan is column space of a matrix consists of 2 vectors
+- think transpose of matrix in vector way
+- think in linear system way
+- e is in null space of A transpose
+
 2022/10/10
 0000<->1500
 
