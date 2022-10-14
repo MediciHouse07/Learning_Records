@@ -1,5 +1,16 @@
 # Lecture 1
 
+2022/10/13
+4500<->6000
+
+- in indignant angel case, no dominant strategy
+- the game is a coordination problem
+- payoff is important
+- you can't get what you want until you know what you want
+- if you are evil git and you know your opponent is an indignant angel
+- you payoff matters, not others payoff
+- and reverse the role, thus drives put yourself in others shoes, indignant angel should choose alpha
+
 2022/10/12
 3000<->4500
 
