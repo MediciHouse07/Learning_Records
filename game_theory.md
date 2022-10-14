@@ -1,5 +1,18 @@
 # Lecture 1
 
+2022/10/12
+3000<->4500
+
+- I reason to choose beta, I have to make sure other reason the same, but actually your reason doesn't affect other's reasoning
+- if I can make sure other choose beta, I can choose alpha and take advantage of the choice
+- dominated strategy and dominant strategy
+- pareto inefficient, rational choice can lead to bad outcomes
+- indignant angel
+- colussion
+- repeating operation, and reputation
+- mafia, where the contract is hard to enforce, some verbal agreement between the mafia is a good substitute
+- the end of this section is an experiment of indignant angel
+
 2022/10/11:
 
 1500<->3000
