@@ -305,6 +305,16 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2022/10/12
+
+3000<->4500
+
+- e in NAT, e is perpendicular to CA
+- A might not be a square matrix
+- when A is square invertible matrix, its columns space is the whole Rn
+- the projection matrix is I when A is square invertible matrix
+- application of OLS
+
 2022/10/11
 
 1500<->3000
