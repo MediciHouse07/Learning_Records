@@ -305,6 +305,14 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2022/10/13
+
+3300<->End
+
+- invertible square matrix can span the whole Rn, or column space is the whole Rn
+- least square example
+- no solution equation, after you muply it by AT, you get a solution
+
 2022/10/12
 
 3000<->4500
