@@ -23,6 +23,14 @@
 
 
 # Lecture 2
+## REX 1 2022/10/09
+
+## REVIEW 1 2022/10/12
+
+2022/10/12
+6800<->7648
+
+- normal equation is has element on the 2 sides of the equal sign
 
 2022/10/09
 
