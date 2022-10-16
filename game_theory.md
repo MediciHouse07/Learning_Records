@@ -1,6 +1,16 @@
 # Lecture 1
+## REX 2 2022/10/14
+## REX 1
+
+2022/10/14
+
+5326<->End
+
+- You know your own payoff
+- You can't get what you want until you know what you want
 
 2022/10/13
+
 4500<->6000
 
 - in indignant angel case, no dominant strategy
