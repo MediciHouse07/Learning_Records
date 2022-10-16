@@ -40,6 +40,15 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+2022/10/14
+
+1000<->2000
+
+- non trivial
+- slip of paper
+- 1 your name; 2 your birthday; 3 evaluation mm+dd times .1 means maximum 4.3; 4 evaluation - bid is the payoff; 5 first price auction
+- the next topic is second price vickery auction
+
 2022/10/05
 
 0000<->1000
