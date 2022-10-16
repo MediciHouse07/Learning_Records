@@ -1,4 +1,22 @@
 ### Lecture 1:
+
+2022/10/14:
+0000<->1500
+
+- first order ODE
+- sovable
+- analytic method
+- formula grows like rabit
+- direction field
+- solution integral curve
+- x, y is only a point, the slope makes it is on the like of fx
+- integral curve is the curve that links all the points
+- y1x solution to y'=fxy graph of yx is an integral curve associate with the direction field
+- solution satisfies y1'x = fx,y1x
+- slope of y1x = slope of direction field at point x y1x
+- how do computer draw direction field
+
+
 2022/03/13: 13:23/48:55 didn't follow... <br>
 2022/04/06: finished, 
 926 mins, direction field;
