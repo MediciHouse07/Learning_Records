@@ -30,6 +30,16 @@
 
 # Lecture 17
 
+2022/10/15
+
+1500<->3000
+
+- start with short something
+- sell the stock you don't own
+- best price discovery in the market
+- location advantage
+- decentralized, no custody function
+
 2022/08/19
 
 0000<->1500
