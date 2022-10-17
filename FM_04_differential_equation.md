@@ -1,5 +1,16 @@
 ### Lecture 1:
 
+2022/10/15:
+
+1500<->3000
+
+- human way of drawing direction field
+- all the points that generte the slope 2 or slope c
+- level curve
+- isocline
+- solution curve and isocline
+- y'=minus x/y
+
 2022/10/14:
 
 0000<->1500
