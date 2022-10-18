@@ -1,6 +1,20 @@
 ### Lecture 1:
 
-2022/10/15:
+2022/10/16
+
+3000<->End
+
+- a line that is both isocline and integral curve
+- carder
+- solution can't escape
+- 2 integral curve can't cross, can't have 2 slopes
+- closer to line that has slope 1
+- 3930 mins derive a solution by geometric graph
+- 2 integral curve can't be tangent
+- exist + uniqueness theom
+- TBRT existence and uniqness theom
+
+2022/10/15
 
 1500<->3000
 
