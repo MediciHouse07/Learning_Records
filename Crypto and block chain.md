@@ -30,6 +30,13 @@
 
 # Lecture 17
 
+2022/10/16
+
+3000<->4000
+
+- wash sell, buy and sell at the same time, pumping up the volume, artifitial liquadity, affect price
+- hot wallet, cold wallet
+
 2022/10/15
 
 1500<->3000
