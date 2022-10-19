@@ -30,6 +30,12 @@
 
 # Lecture 17
 
+2022/10/17
+
+4000<->5000
+
+- millennium lots of server were built already, baby boome
+
 2022/10/16
 
 3000<->4000
