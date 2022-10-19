@@ -1,5 +1,22 @@
 ### Lecture 1:
 
+2022/10/17
+
+3000<->End
+
+- slanty
+- solution can't escape
+- x goes to infinity, they become closer to y~x
+- plug in y=x into the formula, y'=1=1
+- 2 integral curve cannot tangent
+- existence and uniqueness 
+- has one and only one solution through x0,y0
+- f xy should be continuous near vacinity of the point
+- fy xy should be continuous near x0 y0
+- xy'=1-y, when x =0 points fails existence, when x=0 and y=1 failes uniqueness
+- differential equation in the right form
+- the exquation is not continuous and even not defined
+
 2022/10/16
 
 3000<->End
