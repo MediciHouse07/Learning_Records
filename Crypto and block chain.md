@@ -30,6 +30,13 @@
 
 # Lecture 17
 
+2022/10/18
+
+5000<->6500
+
+- perpetual rolling
+- 20.15% RM B bit coin trading
+
 2022/10/17
 
 4000<->5000
