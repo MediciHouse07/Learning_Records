@@ -110,3 +110,17 @@
 - how to represent hypothesis
 - notations
 - how to choose parameter theta
+
+# Lecture 3
+
+2022/10/18
+
+0000<->1500
+
+- notation, vector Rn
+- 0950 trace is sum of diagnal elements, SIGMA Aii
+- inner product
+- dot product is positive, similar in some sense, dot product is negative, not similar in some sense
+- 1347 mins outer product
+- vuT outer product, give you a matrix of m by n
+- outer product matrix is rank 1 matrix? TBRT?
