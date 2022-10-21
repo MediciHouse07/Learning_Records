@@ -113,6 +113,21 @@
 
 # Lecture 3
 
+2022/10/19
+
+1500<->3000
+
+- 1602 mins, rank 2 matrixes
+- min(m,n,k)
+- 2000 mins, different way of thinking matrix vector mutiplication
+- 2450 mins, rank
+- Sn symmetric matrix
+- 2700 mins, why LA?
+- think data as matix in Rmn
+- probability, covariance matrix, gaussian covariance matrix
+- 1think data set as matrix in Rmn 2 probability 3 calculus optimization
+- f R->R
+
 2022/10/18
 
 0000<->1500
