@@ -135,6 +135,23 @@
 - think on a bigger picture
 - thin reed
 
+# Week 2 
+
+## Lecture 3 Week1
+
+### 1-1 Week2 Lecture 3
+
+2022/10/21
+
+- QE1 was invented in the financial crisis
+- 2012 they are talking about QE3
+- expectation theory of the term structure
+- enter market and buy long bond
+- 2 methods
+- move weigh on, make some thing to take the pressure
+- outright
+- ocean liner
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
