@@ -113,6 +113,20 @@
 
 # Lecture 3
 
+2022/10/21
+
+3000<->4500
+
+- calculus, start from 3000, f Rn->R
+- cost function is f Rn->R, 1st order, gradient Rn->Rn, 2nd gradient Sn Hession
+- Rm->Rn, NN layer
+- Rmn jacobian, Rnnn T
+- kernel methods to measure similar examples
+- 4100 bijection, full rank
+- 4200 mins, rank 2, create bijection from one plane sub space to another plane sub space
+- 4420 mins, there will be some point is inaccessible given the input space and output space
+- column space row space? TBRT 4500 mins
+
 2022/10/19
 
 1500<->3000
