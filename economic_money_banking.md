@@ -152,6 +152,27 @@
 - outright
 - ocean liner
 
+### 1-2 2/9
+
+2022/10/22
+
+- reading in this week Allyn young
+- 1924 post WWI
+-  vs I economic orthodoxy
+- barter, no
+- growth
+- currency principle, he is critique about the
+- II vs oppose the chartalists
+- speculation
+- populists
+- he is metalist, keyeisian?
+
+### 1-3 3/9
+
+2022/10/22
+
+- hierachy in the table form
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
