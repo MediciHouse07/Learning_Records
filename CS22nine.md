@@ -113,6 +113,15 @@
 
 # Lecture 3
 
+2022/10/22
+
+4400<->5900
+
+- bi jection
+- input space is row space, output space is column space
+- A inverse translate the output space back to the input space, in this case
+- outer product, inner product
+
 2022/10/21
 
 3000<->4500
