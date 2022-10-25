@@ -173,6 +173,25 @@
 
 - hierachy in the table form
 
+### 1-4 Lecture 3 4/9
+
+2022/10/23
+
+- war finance, tax, labour for free
+- money and labour
+- sell bond
+- convoluted
+- salmon P chase, civil war period
+
+### 2-1 Lecture 3 5/9
+
+2022/10/23
+
+- second thing that salmon P chase did
+- green back, legal tender for 1 dollar
+- insert legal tender between gold and deposit layer
+- GOV is buying things without making others buying things less
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
