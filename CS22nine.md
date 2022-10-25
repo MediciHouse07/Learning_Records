@@ -113,6 +113,17 @@
 
 # Lecture 3
 
+2022/10/23
+
+5900<->11400
+
+- projection matrix, solve linear
+- THETA belongs to Rn, space for parameter
+- y belongs to Rm
+- 10200 mins, understand column space again
+- 10800 mins understand the column space
+- going back to gradient descent, if y is in the column space, the error can be achieved at 0
+
 2022/10/22
 
 4400<->5900
