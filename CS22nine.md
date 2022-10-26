@@ -113,6 +113,19 @@
 
 # Lecture 3
 
+2022/10/24
+
+11400<->End
+
+- 11600 mins, linear transformation
+- matrix, rotate space or scale your space
+- rot 1, scale 2, rot 2, breaking a matrix, decomposition
+- eidgun decomposition, rotation scaling complex, rotation inverse
+- svd, rotation 1 scaling real, rotation 2, orthonormal diagnal, orthonal
+- sum of eigen value = trace of diagnal
+- PI of eigen value = determinant
+- 12430 mins, ration, determinant
+
 2022/10/23
 
 5900<->11400
