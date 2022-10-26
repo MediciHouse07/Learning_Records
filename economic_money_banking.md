@@ -135,7 +135,23 @@
 - think on a bigger picture
 - thin reed
 
-# Week 2 
+## 2-2 Week 2 Lecture 3 7/9
+
+2022/10/24
+
+- 1863
+- give up legal tender and go to bond
+- PS now withdraw bank notes which is printed by bank
+
+## 2-3 Week 2 Lecture 3 8/9
+
+2022/10/24
+
+- call loan(overnight loan)
+- calling in call loan to speculator, stock price low, interest rate rise
+- raising reserve from London
+- 1907 JP Morgon private
+- then Fed
 
 ## Lecture 3 Week1
 
