@@ -208,6 +208,25 @@
 - insert legal tender between gold and deposit layer
 - GOV is buying things without making others buying things less
 
+
+### 2-4
+
+2022/10/25
+
+- member banks, reserves banks, fed reserve system
+- elastic reserve
+- discount loans, rediscount, FR reserve, FR notes
+- the idea that this would work is because they see that ther e is loan that can be discounted
+
+### 2-5 Lecture 3 9/9
+
+2022/10/25
+
+- open market operation invented Benjamin 20s, fed change IR by selling tbills and buy tbills
+- they can't work in above way, because they have full of tbills
+- private money(), state money()
+- the reality is it is hybird
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
