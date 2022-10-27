@@ -157,6 +157,17 @@ minf'<=MVT=f'<=maxf';
 1038 mins, how a rieman sum is constructed;
 1848 mins, pyramid can be use the volume formula of cicular cone;
 ### Lecture 19
+#### REX 1 2022/05/07
+
+2022/10/25
+
+0000<->1500
+
+- FTC1
+- TBR to review the last lecture to understand how ot do x2 integral without FTC1
+- distance travelled
+- odometer, speedometer
+
 2022/05/07: finished, 0116 mins, FTC1, fundamental THM is F(b)-F(a)=integral a to b
 anti derivative is not about a or b;
 0605 mins, he says in the last lecture, they handle intergral 0 to b is laborious, so TBR the last lecture to see what method he was using, maybe is reman sum;
