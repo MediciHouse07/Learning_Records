@@ -159,6 +159,16 @@ minf'<=MVT=f'<=maxf';
 ### Lecture 19
 #### REX 1 2022/05/07
 
+2022/10/26
+
+1500<->3000
+
+- riemann sum
+- 2357 mins, integral in French is called sum
+- inteprete it as sum
+- c is a constant, doesn't depend on x
+- a<b<c is not neccessary
+
 2022/10/25
 
 0000<->1500
