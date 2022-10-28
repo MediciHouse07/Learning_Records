@@ -40,6 +40,25 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+2022/10/26
+
+2000<->3500
+
+- minimum amount to beat other competitors
+- 2nd price = vickery auction
+- easy to predict what would happen, easy to know what to do
+- every bidder has an obvious(DS) strategy
+- guranteed to maximaize the player i 's utility
+- first price 2500 mins, has a lot to think, thus make the problem more complex
+- 2600 mins, why vickery auction is great
+- vi-B
+- first price auction will be vi minus Bi
+- 3230 mins, end of proof
+- 2nd price auction, truth telling bidder gets non negative utility
+- pays something that is less then the winner's evaluation
+- under this auction, you may want to tell the truth because it maximizes your utility
+- what if i didn't win, if i bidd higher than vi, utility is still 0, if I did win, if I bidd higher than vi, utility is still vi minus B, then why don't say bid higher than or equal than vi is the solution, TBRT
+
 2022/10/14
 
 1000<->2000
