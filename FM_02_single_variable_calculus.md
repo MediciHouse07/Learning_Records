@@ -157,7 +157,22 @@ minf'<=MVT=f'<=maxf';
 1038 mins, how a rieman sum is constructed;
 1848 mins, pyramid can be use the volume formula of cicular cone;
 ### Lecture 19
+#### REX 2 2022/10/25
 #### REX 1 2022/05/07
+
+2022/10/27
+
+3000<->End
+
+- e^x>=1, x>=0
+- 3600 mins, taylor series
+- change of variales, substitution
+- 3750 mins, general procedure in substitution
+- limitation scope on the integral sign, substituion would work when u' doesn't change sign
+- substitution taking account of limits
+- which variable is invovled in the integral
+- 4440 mins, sign change example
+- coherent
 
 2022/10/26
 
