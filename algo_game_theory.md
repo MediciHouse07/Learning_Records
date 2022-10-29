@@ -40,6 +40,16 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+2022/10/27
+
+3500<->5000
+
+- vickery auction, 1 DSIC(bidding true value, gurantee non neg utility), 2  maximize the social surplus(one precondition is we don't know the people's true evaluation), 3 poly time
+- overarching
+- maybe the idea is to not to let them bid less than their evaluation
+- bid higher is not good for individual, it can only harm others, if only think about individual's own utility, bid their evaluation is the minimum effort to pay to gain the goods, then why bid more?
+- 1 which advertiser will be shown, 2 in which order, 3 what they are going to pay
+
 2022/10/26
 
 2000<->3500
