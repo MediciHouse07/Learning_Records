@@ -28,3 +28,16 @@
 
 # Negotiation
 
+# Week 1
+## 2 A framework
+
+### 2-5 Video 
+
+2022/10/27
+
+- karma
+- I offer the whole pie, he wwant to offer the whole pile
+- then it would be 50% to 50%
+- what is the pie?
+- the colleague think the ride is worth of 100, then the pie is 100...
+- colleague, so act in non strategic fashion
