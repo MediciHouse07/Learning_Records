@@ -55,3 +55,13 @@
 - what is the pie?
 - the colleague think the ride is worth of 100, then the pie is 100...
 - colleague, so act in non strategic fashion
+
+### 2-7 Video
+
+2022/10/28
+
+- split the amount that is in dispute
+- making claims
+- dividing things up
+- propotional division and priciple of dividing a clothe
+- crediter case to understand principle of dividing a clothe
