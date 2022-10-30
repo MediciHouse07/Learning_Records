@@ -273,6 +273,14 @@ book page 25<->26
 2022/03/31: finished, conditioning independent doesn't imply unconditioning independent and vice versa
 ### Lecture 6 <br>
 
+2022/10/28
+
+0000<->1500
+
+- Monty hall problem, three door problem
+- Monty always open a goat door
+- lazy monty hall
+
 ### Lecture 7
 2022/03/29: 💫 2618/5145 , it has someting to do with Lecture 5, law of total probability <br>
 2022/03/30: 2618 around, just to review basing on the law of total probility, see what is the new understanding <br>
