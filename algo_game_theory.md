@@ -35,10 +35,29 @@ finished,
 this course is more close to computer science, I can still learn it when I tend to like computer science, sometimes I do like that. And, because I will feel excited when I learn econ wise of game theory or incentive theory, so I guess I will put myself close to that direction, hope that I can find a balance between the two.
 
 # Lecture 2
+## REX 2 2022/10/28
 ## REX 1 2022/08/23
 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
+
+2022/10/28
+
+5000<->End
+
+- can't immediately use vickery auction
+- the higher the slop the more the value
+- click through rate
+- adviser cares about click through
+- vi times alphaj
+- solve the allocation problem automatically, even though we don't know their evaluation, run as if we knew their evaluation
+- xi = CTR of i gets assigned
+- poly time, linear time
+- pick winner couple with correct payment, joint
+- solve the problem by dealing with them individually
+- dependent on one is true
+- next best
+- assign jth highest bidder the jth slot
 
 2022/10/27
 
