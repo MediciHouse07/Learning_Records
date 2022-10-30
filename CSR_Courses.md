@@ -10,6 +10,20 @@
 
 ### Unit 1.10 Perspective
 
+2022/10/28
+
+0806<->End
+
+- java's vm language, byte code
+- hack vm language only recognize integer
+- both are stack base, push and pop
+- 1990s SUN java
+- archar rival
+- java can run on everything, even washing machine
+- SUN want to connect everything
+- java complier generates bite code? byte code
+- register machine, stack architecture, types of vm architecture
+
 0000<->0806
 
 2022/10/27
