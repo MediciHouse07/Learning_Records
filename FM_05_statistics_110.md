@@ -273,6 +273,21 @@ book page 25<->26
 2022/03/31: finished, conditioning independent doesn't imply unconditioning independent and vice versa
 ### Lecture 6 <br>
 
+2022/10/29
+
+1500<->3000
+
+- 1500 mins, one easy way to inteprete the formula
+- LOTP
+- what to condition on
+- LOTP application 1700 mins, on Montyhall problem
+- by symmetry
+- asymmetry case
+- simpler and extreme case
+- simpson's paradox 2800 mins
+- aggregate data together the outcome might flip
+- next is the reason
+
 2022/10/28
 
 0000<->1500
