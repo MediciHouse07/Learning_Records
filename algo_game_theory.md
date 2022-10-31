@@ -221,6 +221,21 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/10/29
+
+0000<->1500
+
+- vickery auction satisfies 3 properties which are orthognal to each other
+- second price auction solve the problem as if designer know the individual's evaluation
+- greedy algorithm
+- simgle parameter auction
+- only unknown vi value per unit of good
+- xi amount of stuff everybody gets
+- allocation rule + payment rule
+- x(b), P(b)
+- 1300 mins, all the notations
+- Pi(b) belongs to [0, bi * Xi(b)], upper bound is to ensure non negative utility for truthful bidders
+
 2022/09/10:
 
 0000<->End
