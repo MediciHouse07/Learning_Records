@@ -273,6 +273,17 @@ book page 25<->26
 2022/03/31: finished, conditioning independent doesn't imply unconditioning independent and vice versa
 ### Lecture 6 <br>
 
+#### REX 2 2022/10/30
+
+2022/10/30
+
+3000<->End
+
+- conditional and unconditional gets different results
+- simpson's paradox and policy implication
+- confounder
+- relates xx to
+
 2022/10/29
 
 1500<->3000
