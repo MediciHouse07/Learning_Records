@@ -221,6 +221,13 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/10/30
+
+0000<->1000
+
+- one slot per bidder, one bidder per slot
+
+
 2022/10/29
 
 0000<->1500
