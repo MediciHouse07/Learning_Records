@@ -221,6 +221,16 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/10/31
+
+1000<->2500
+
+- defn 1800 mins
+- an allocation rule x is implementable if exist a payment P such that (x,p) is DSIC
+- defn 2 2150 mins
+- an allocation rule is monotune, if every i, every b-i, the amount of stuff I get holding everyone fix is non decreasing in its bid z, the higher you bid, the more stuff you get
+- if winner is the second highest, it is not monotune
+
 2022/10/30
 
 0000<->1000
