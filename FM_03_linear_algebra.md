@@ -387,6 +387,21 @@ REW
 
 
 ### Lecture 16 <br>
+
+2022/10/31
+
+0000<->1500
+
+- projection matrix kills perpendicular part, leaves the part that b is in the column space of matrix
+- the basic four space
+- intepret the above claims based in formula
+- columns space means Ax
+- p(Pb)+e
+- (I-P)b=e
+- minimize determinant of Ax-b square
+- e1 square + e2 square + e3 square
+- fitting a straight line
+
 2022/03/27: finished, it is worth of a review, if A has independent column, ATA must be invertible
 
 2022/06/04:
