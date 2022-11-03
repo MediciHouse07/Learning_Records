@@ -221,6 +221,30 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/11/01
+
+2500<->10300
+
+- sponsor search auction is monotune
+- allocation rule to be implementable, allocation rule to be monotune
+- first tool in mechanism design
+- part 1 an allocation rule x is implementable<->whether or not it is monotune
+- part 2 in this case, exist unique payment st (x,p) is DSIC
+- (bi)=0 lead to pib=0
+- part 3 p is given by an explicit formula
+- there is an awesome auction for sponsored search
+- 4056 mins
+- xi(z,b-1),pi(z,b-1)
+- x(z) the amount you get
+- 4500 mins suppose 0<=z<=y, truth bid z and false bid y
+- sandwich
+- 2 assumption can be thought of 2 player, under DSIC, it can derive a sandwich
+- piecewise constant
+- take the limit and let y to approach z
+- 2 cases, jump case and no jump case
+- 10226 formula is derived
+- to do, verify it can work
+
 2022/10/31
 
 1000<->2500
