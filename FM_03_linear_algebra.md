@@ -388,6 +388,15 @@ REW
 
 ### Lecture 16 <br>
 
+2022/11/01
+
+1500<->3000
+
+- over compensate for outlier
+- given b1, given b2 the same as p1 p2, and e1 e2
+- ATA symmetric, invertible
+- back substitution, get e1 e2 e3
+
 2022/10/31
 
 0000<->1500
