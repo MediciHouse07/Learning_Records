@@ -388,6 +388,16 @@ REW
 
 ### Lecture 16 <br>
 
+2022/11/02
+
+3000<->End
+
+- error vector is perpendicular to the space
+- if A has indep columns, then ATA is invertible
+- length of Ax and length of Ax square
+- unit vector, perpendicular if dot product is 0
+- ortho normal vectors
+
 2022/11/01
 
 1500<->3000
