@@ -221,6 +221,15 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/11/02
+
+2500<->3500
+
+- if implementable then exist a payment DSIC
+- if bid is 0, payment is 0
+- myerson's lemma 3 points
+- randomize auction, determinstic auction
+
 2022/11/01
 
 2500<->10300
