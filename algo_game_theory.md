@@ -221,6 +221,18 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/11/04
+
+3500<->5000
+
+- evaluation is the only unknown
+- single item auction, n bidders, n+1 way of allocation
+- if the prize has k coppies
+- the amount you bid and the payment you need to do is not neccessarily the same
+- monotune
+- the inequalities make overbidding and underbidding both can give a value that is less then truely bidding
+- z is bidding 4200 mins in this thought experiment
+
 2022/11/02
 
 2500<->3500
