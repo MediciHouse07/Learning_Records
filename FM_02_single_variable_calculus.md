@@ -206,6 +206,20 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 3731 mins, change of variable for substitution; u' doesn't change sign;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
+
+2022/11/04
+
+0000<->1500
+
+- comparison between FTC1 and MVT
+- from FTC1, delta F/delta x=average f
+- MVT is F'c time delta x
+- MVT is vague, FTC is more clear
+- then introduced inequality
+- obvious average is within the max and min
+- 1200 mins application in exam
+- use both eay, FTC and MVT
+
 2022/05/21:
 0000<->1717
 
