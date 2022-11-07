@@ -221,6 +221,16 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+2022/11/05
+
+5000<->6500
+
+- 5500 mins, if x is not monotune, then x is not implementable
+- no jump point proof, sitting on different lines
+- jump in p at the = z times jump p in x at t
+- 10130 mins, doesn't follow
+- next step is verification
+
 2022/11/04
 
 3500<->5000
