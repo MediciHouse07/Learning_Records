@@ -207,6 +207,15 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2022/11/05
+
+1500<->3000
+
+- geometric intepretation
+- lower R.S. less then integral and less then upper R.S.
+- 2256 mins, differential equation
+- 2620 mins, application
+
 2022/11/04
 
 0000<->1500
