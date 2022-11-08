@@ -207,6 +207,13 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2022/11/06
+
+- what is FTC2, maybe he is talking about the proof version 2; no it is not, lim delta G / delta x = fx is FTC2
+- need to check what is Fx and Gx
+- FTC1 is about F and B
+- TBRT
+
 2022/11/05
 
 1500<->3000
