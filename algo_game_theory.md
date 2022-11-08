@@ -218,8 +218,18 @@ this course is more close to computer science, I can still learn it when I tend 
 
 # Lecture 3
 
+## REX 2 2022/11/06
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
+
+2022/11/06
+
+6500<->End
+
+- the lowest bid that makes you the highest AKA second highest bid
+- trughful bid, over bid, under bid
+- also think about monotune
+- if lower bid, there is risk that not bid you wanted thing, thus lead you to under bid in the showed in the class
 
 2022/11/05
 
