@@ -65,3 +65,13 @@
 - dividing things up
 - propotional division and priciple of dividing a clothe
 - crediter case to understand principle of dividing a clothe
+
+# Internet history
+
+## Week5
+
+### 1-2 Video
+
+2022/11/07
+
+- TBRT
