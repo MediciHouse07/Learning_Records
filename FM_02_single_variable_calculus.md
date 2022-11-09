@@ -207,7 +207,22 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2022/11/07
+
+3425<->End
+
+- from F'=f define Gx
+- FTC2 is G'x = fx
+- then Fx = Gx+c
+- FTC1 is FB-FA = integral
+- transcendental function
+- 4630 mins, bell curve
+- e^(-x^2)
+- Fx cannot be expressed in terms of log exp trig
+
 2022/11/06
+
+3000<->4500
 
 - what is FTC2, maybe he is talking about the proof version 2; no it is not, lim delta G / delta x = fx is FTC2
 - need to check what is Fx and Gx
