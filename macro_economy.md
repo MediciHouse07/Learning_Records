@@ -43,6 +43,15 @@
 - qualified labour leaving country lead to human capital lower
 - cyclinical
 
+## Lecture 11
+
+2022/11/08
+
+0000<->1500
+
+- flow variable and stock variable
+- production is income
+
 ## Lecture 18
 2022/03/13: 1446/4737
 * similar as real GDP vs nominal GDP, there are real profit vs nominal profit as well, real profit = real revenue - real cost, real means remove the effect of price changing
