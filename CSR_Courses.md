@@ -72,6 +72,19 @@
 
 ### 1-2 Video
 
+2022/11/08
+
+- 20MB per second
+- rats net
+- 300 MB per second
+- laser printer
+- signet
+- bravo to ms office
+- 1973
+- yank
+- CSMA CD carrier sense multiple access, collision detect
+- TBRT
+
 2022/11/07
 
 - TBRT
