@@ -45,6 +45,14 @@
 
 ## Lecture 11
 
+2022/11/09
+
+1500<->End
+
+- capital, human capital, technology
+- diminishing marginal return
+- they don't have the same production function
+
 2022/11/08
 
 0000<->1500
