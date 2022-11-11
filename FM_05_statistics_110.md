@@ -309,6 +309,15 @@ book page 25<->26
 
 ### Lecture 7
 
+2022/11/09
+
+1500<->3000
+
+- 1500 mins difference equation
+- discrete analog of differential equation
+- be professional, and other's attack
+- unfair solution will converge to fair solution when the game converges to fair
+
 2022/11/08
 
 0000<->1500
