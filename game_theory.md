@@ -62,6 +62,16 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 2
 
+2022/11/11
+
+0000<->1500
+
+- under cut
+- players i j, strategies, si strategy of player i, such as choose number 13
+- Si all of possible strategies of player i
+- s a particular play of the game
+- a strategy profile, one strategy for each player in the game
+
 202/05/05: finished, 0700 mins, ingredient of a game;
 2232 mins, strict dominated, handout
 3000 mins, put yourself to other's shoes;
