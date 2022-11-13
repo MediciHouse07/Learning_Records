@@ -309,6 +309,22 @@ book page 25<->26
 
 ### Lecture 7
 
+2022/11/11
+
+3000<->4500
+
+- no probability left for oscilation
+- prob is 0 of gaming going on forever
+- the definition of random variable
+- vague
+- 3808 mins, the difference between variables and R.V.
+- R.V. is a function from sample space to R
+- reconcile
+- numerical summary
+- 4322 mins, Defn Bernonlli
+- P(X=1), X(s)=1
+- Binomial n p
+
 2022/11/09
 
 1500<->3000
