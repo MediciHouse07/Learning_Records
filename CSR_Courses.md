@@ -88,3 +88,18 @@
 2022/11/07
 
 - TBRT
+
+# ISIT Governance
+
+## Week 1
+
+2022/11/12
+
+#1-5 Video 1-3 
+
+- IT Governance
+- IT Spending as a percentage of revenue
+- overrun spending
+- 7% behind schedule
+- short benefit
+- IT governance is a response to these problems
