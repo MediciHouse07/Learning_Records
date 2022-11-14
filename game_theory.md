@@ -62,6 +62,18 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 2
 
+2022/11/12
+
+1500<->3000
+
+- strategy sets
+- payoffs
+- dominated strategy, dominant strategy
+- dominanted strategy must have a strategy that is always doing better
+- another strategy that always does better
+- center dominates right
+- should not choose a dominated strategy, so eliminate right
+
 2022/11/11
 
 0000<->1500
