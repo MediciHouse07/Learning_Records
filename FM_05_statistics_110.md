@@ -309,6 +309,15 @@ book page 25<->26
 
 ### Lecture 7
 
+2022/11/12
+
+4500<->End
+
+- event, the set that makes X(s)=1
+- binomial distribution
+- probability mass function
+- X+Y ~ bin n+m,p
+
 2022/11/11
 
 3000<->4500
