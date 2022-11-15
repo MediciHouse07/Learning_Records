@@ -37,6 +37,17 @@
 - close enough the roughly equal turns to be equal
 - application find min/max
 
+### Lecture 10
+
+2022/11/13
+
+0000<->1500
+
+- complete a square
+- general version
+- sum of 2 square, origin is the minimam
+- difference of 2 square, there will be a saddle point
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
