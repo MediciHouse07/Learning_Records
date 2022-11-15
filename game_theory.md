@@ -62,6 +62,13 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 2
 
+2022/11/13
+
+3000<->4500
+
+- weakly dominated strategy
+- 68 above is a dominated strategy
+
 2022/11/12
 
 1500<->3000
