@@ -103,3 +103,13 @@
 - 7% behind schedule
 - short benefit
 - IT governance is a response to these problems
+
+2022/11/13
+
+#1-6 1-4 Video
+
+- leadership, organizational structure, processes
+- leadership's questions
+- preferential access
+- what if they are failed to perform a role
+- sterring committee, IT investment prioritization process
