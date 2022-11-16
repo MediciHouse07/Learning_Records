@@ -62,6 +62,19 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 2
 
+2022/11/14
+
+4500<->6000
+
+- delete all those strategies that are greater than 67
+- >67 step is about not to choose a dominated strategy
+- 67>s>45 this step is about put yourself in other's shoes
+- 45 to 30 is in shoes square
+- KR KKR
+- KR KKR KKKR
+- knowledge rationality
+- common knowledge, you know that I know that you know, infinite sequence
+
 2022/11/13
 
 3000<->4500
