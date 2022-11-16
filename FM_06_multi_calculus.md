@@ -39,6 +39,16 @@
 
 ### Lecture 10
 
+2022/11/14
+
+1500<->3000
+
+- 4ac - b2
+- if it is less than 0 then there is saddle point
+- if it is 0, degenerate critical point
+- degenerate means on a certain direction nothing is happened
+- next step second derivative, how many second derivative do we have
+
 2022/11/13
 
 0000<->1500
