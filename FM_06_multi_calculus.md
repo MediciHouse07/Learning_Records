@@ -39,6 +39,16 @@
 
 ### Lecture 10
 
+2022/11/15
+
+3000<->4500
+
+- 3357 mins, maximum, minimum
+- AC-Bsquare
+- 4ac-bsquare
+- 4051 mins, taylor series and quadratic approximation
+- approximation doesn't apply to degenerate case
+
 2022/11/14
 
 1500<->3000
