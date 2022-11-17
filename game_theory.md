@@ -62,6 +62,17 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 2
 
+2022/11/15
+
+6000<->End
+
+- 6300 mins, contraction after understanding the rationality
+- not only you know, but also others have known
+- non-prime mortgage
+- both get a pink hat
+- mutual knowledge is not common knowledge
+- which means, if the other people know how to choose a number, while I don't know if the other know that I know how to choose a number, thus he may not choose a small number because I may think he doesn't know I know how to choose a number
+
 2022/11/14
 
 4500<->6000
