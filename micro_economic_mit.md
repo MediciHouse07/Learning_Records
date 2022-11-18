@@ -1,4 +1,15 @@
 # Lecture 1
+
+2022/11/16
+
+0000<->1500
+
+- micro economic, individual and firm make decision given scarcity, constrained optimization
+- tradeoffs
+- opportunity cost
+- supply+demand
+- 1000 mins, all models are wrong, some are useful
+
 2022/05/06: 0000<->1347
 0636 mins, engieers deal with limited material and use it to build a robot
 MIT where mordern economic came from
