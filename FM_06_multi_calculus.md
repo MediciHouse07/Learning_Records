@@ -39,6 +39,18 @@
 
 ### Lecture 10
 
+2022/11/16
+
+3700<->End
+
+- linear approximation
+- taylor approximation for one variable
+- analogy to 2 variable calculas
+- general case reduces to quadradic case
+- 4640 mins example
+- A is positive, AC-Bsquare>0
+- critical point and boundary 0 and infinity
+
 2022/11/15
 
 3000<->4500
