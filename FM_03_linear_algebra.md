@@ -252,6 +252,26 @@
 #### REX 2 2022/04/26
 #### REX 1 2022/03/22
 
+2022/11/17
+
+0000<->1500
+
+- R3
+- rows are dependent
+- rank, rows tell you something about columns
+- C(A)
+- N(A)
+- rowspace
+- row are basis for the row spaces
+- all the combinition of the rows of A
+- C(AT)
+- nullspace of AT, N(AT)=left null space of A
+- dim C(A)=rank r
+- TBR the last lecture
+- pivot columns
+- basis is pivot columns
+- dimension is r
+
 2022/03/22: 💫 finished <br>
 2022/04/26: finished, 0330 mins, 2 equal row -> singular matrix, means dependent;
 0540 mins, rank, double check;
