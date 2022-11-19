@@ -1,5 +1,26 @@
 # Lecture 1
 
+2022/11/17
+
+1500<->3000
+
+- positive what things are vs normative should be
+- low supply and high demand
+- positive question 1900 mins
+- then normative question
+- counter
+- 1 market failures
+- fraud
+- imperfect information
+- 2 equity, fairness
+- 3 behavioral econ
+- incoporate psychology to the model
+- standard economic is market know best
+- how freely should the market function
+- 2900 Soviet union
+- invisible hand and capitalist
+- wrong decision, wrong allocation, lead to serious problem, it can be a collapse of a nation, that why decision advantage that analytic tool given are important
+
 2022/11/16
 
 0000<->1500
