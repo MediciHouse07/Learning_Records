@@ -1,5 +1,19 @@
 # Lecture 1
 
+2022/11/18
+
+1935<->End
+
+- fake kidney, market failure
+- imperfect information
+- equity, fairness
+- waiting list, optimal way to allocate
+- behaviourial
+- right wing science, GOV mess things up
+- market knows the best
+- right wing means let the market decide, reduce taxes
+- left wing is the opposite and it supports revolution
+
 2022/11/17
 
 1500<->3000
