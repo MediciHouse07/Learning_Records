@@ -113,3 +113,15 @@
 - preferential access
 - what if they are failed to perform a role
 - sterring committee, IT investment prioritization process
+
+2022/11/18
+
+#1-7 1-5 Video
+
+- how will IT change the basis of competition in our industry
+- emerging competitors
+- how IT helping us
+- how use IT to enter new market
+- questions to ask
+- IT governance ambrella 0337 mins
+- IT governance, strategic element, tatical element
