@@ -1,6 +1,15 @@
 # Computer science hack computer
 
 ## Week1 
+
+### Unit 0.0 Module 0 
+
+2022/11/18
+
+0000<->0500
+
+- VM code to assembly code
+
 ### Unit 1.6
 2022/10/11
 1000<->End
