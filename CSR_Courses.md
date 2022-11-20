@@ -75,6 +75,18 @@
 - propotional division and priciple of dividing a clothe
 - crediter case to understand principle of dividing a clothe
 
+### 2-8 Video
+
+2022/11/18
+
+- same benefit
+- not the same benefit
+- sea corp
+- how should they split the cost
+- definition of the pie
+- comparing with do it on its own
+- TBRT, pie and dividing a clothe
+
 # Internet history
 
 ## Week5
