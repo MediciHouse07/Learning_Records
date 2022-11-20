@@ -252,6 +252,19 @@
 #### REX 2 2022/04/26
 #### REX 1 2022/03/22
 
+2022/11/18
+
+1500<->3000
+
+- dimension of the column space and the dimension of the row space are the same
+- dimension of null space, m by n matrix, n-r
+- special solutions, free variables, give one free variable one and the rest zero
+- dim NAT = m-r
+- CR is not CA, R is after row reduction
+- basis for row space is first r rows of R
+- row reduction changes column space doesn't change row space
+- why NAT is left null space
+
 2022/11/17
 
 0000<->1500
