@@ -252,6 +252,19 @@
 #### REX 2 2022/04/26
 #### REX 1 2022/03/22
 
+2022/11/19
+
+3000<->4500
+
+- take the transpose of ATy=0 then get the reason of left null space
+- gauss jordan
+- rref
+- rref AI->RE
+- EA=R
+- to invertible matrix, R is I
+- E is A-1
+- zero row, and last row in the E
+
 2022/11/18
 
 1500<->3000
