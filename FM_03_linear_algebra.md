@@ -248,9 +248,19 @@
 
 ### Lecture 10 <br>
 
+#### REX 4 2022/11/20
 #### REX 3 2022/07/01
 #### REX 2 2022/04/26
 #### REX 1 2022/03/22
+
+2022/11/20
+
+3400<->End
+
+- R was I, E was A inverse, in independent matrix case
+- if the matrix has more than one row that are 0 vectors
+- upper trangular, symmetric matrices
+- diagnal matrices
 
 2022/11/19
 
