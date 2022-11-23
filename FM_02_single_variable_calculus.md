@@ -125,6 +125,17 @@ A modern view of economy
 4128 mins: Newton's method is to get a root, which is solution, it goes really fast, only 4 steps is needed it goes the the edge of a calculator
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
+
+2022/11/21
+
+0000<->1500
+
+- TBRT
+- f' not small, f'' not too big
+- x0 need to near the root, because it can't read your mind
+- make progress
+- f'=0 is a disaster
+
 2022/03/29: 💫finished, the begining of the lecture has something to do with Newton's law, it is just like an iteration of linear approximation
 
 2022/05/10: 
