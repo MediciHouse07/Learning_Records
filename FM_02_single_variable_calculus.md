@@ -126,6 +126,20 @@ A modern view of economy
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 
+2022/11/22
+
+0000<->1500
+
+- x1=x0-fx(0)/f'(x1)
+- qualititive way of error analysis
+- E1=|x-x1|
+- E2=|x-x2|
+- x is the true zero point
+- E2~E12
+- digits of accuracy doubles at each steps
+- second derivative is not too big means it is quardradic part
+- wiggle
+
 2022/11/21
 
 0000<->1500
