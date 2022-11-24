@@ -186,3 +186,15 @@
 - 1347 mins outer product
 - vuT outer product, give you a matrix of m by n
 - outer product matrix is rank 1 matrix? TBRT?
+
+# Lecture 4
+
+2022/11/22
+
+0000<->1500
+
+- locally weighted regression
+- feature selection algorithms
+- parametric learning algorithm
+- non parametric learnin algorithm
+- amount of data/parameter you need to keep growth linearly with size of data
