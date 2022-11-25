@@ -126,6 +126,17 @@ A modern view of economy
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 
+2022/11/23
+
+1500<->3000
+
+- mean value theorem
+- at some time you are running at the average speed
+- 1800 mins, words intepretation, formula intepretation
+- translate it up
+- one bad point ruins the proof, need f' exist at all x
+- rewrite MVT
+
 2022/11/22
 
 0000<->1500
