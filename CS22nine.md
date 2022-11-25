@@ -189,6 +189,17 @@
 
 # Lecture 4
 
+2022/11/23
+
+1500<->3000
+
+- tao, bandwidth
+- TBRT
+- IID implies that
+- RV. mean, variance
+- parameterized by
+- frequentist, bayesian
+
 2022/11/22
 
 0000<->1500
