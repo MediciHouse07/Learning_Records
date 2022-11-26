@@ -189,6 +189,14 @@
 
 # Lecture 4
 
+2022/11/24
+
+1500<->3000
+
+- the change of tao will affect overfitting and underfitting
+- P nipselon can be integratd to 1
+- 2900 mins theta times x i is mean???
+
 2022/11/23
 
 1500<->3000
