@@ -126,6 +126,16 @@ A modern view of economy
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 
+2022/11/24
+
+3000<->End
+
+- comparison with linear approximation
+- Inequalities
+- e^x>1+x
+- e^x>1+x+x^2/2+x^3/3*2
+- hare tortoise
+
 2022/11/23
 
 1500<->3000
