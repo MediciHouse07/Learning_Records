@@ -189,6 +189,19 @@
 
 # Lecture 4
 
+2022/11/25
+
+0000<->1500
+
+- define x1=x and x2=x^2 or sqrt (x)
+- fixed set of parameters, parametric
+- non parametric learning algorithm
+- computer memory
+- fit theta to minimize SIGMA wi times yi-thetaxi square
+- because for each type of prediction, you need to fit theta to minimize a modified cost function
+- so you have to keep the data in the memory
+- non parametric, amount of data you need to keep grows linearly with the size of data
+
 2022/11/24
 
 1500<->3000
