@@ -377,6 +377,20 @@ finished,
 4500 mins, X=1 is event, the event is {s:X(s)=1};
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
+
+2022/11/25
+
+0000<->1500
+
+- Bin(n,p)
+- story
+- X=X1+X2+...+Xn, Xj=1 or 0 depends on if the trial is success or failure
+- independent, identical, distribution
+- R.V. is a function and distribution, how the probability distributed
+- x=7 is an event, X<=7 is an event
+- cumulative distribution function
+- discrete, something you can list
+
 2022/03/31: 2111/5023 around 14 minutes CDF and PMF, both are a way of describing distribution, CDF P(X<=x), PMF P(X=aj) only applies for discrete problem <br>
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
