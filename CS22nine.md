@@ -189,6 +189,16 @@
 
 # Lecture 4
 
+2022/11/26
+
+1500<->3000
+
+- the bigger the tao, the sharper the slope, the overfitting
+- fatter thinner curve
+- to choose the square error instead of to the 4th power
+- unmodeled effects, random noise
+- 2800 mins, the formula yi = thetaTx + epsilon implies a probability
+
 2022/11/25
 
 0000<->1500
