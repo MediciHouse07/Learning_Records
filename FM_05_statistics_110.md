@@ -378,6 +378,17 @@ finished,
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
 
+2022/11/26
+
+1500<->3000
+
+- hybird variable
+- sanity check
+- binomial therom
+- independent we know x without knowing anything about j
+- 2850 mins, by independent
+- 3000 mins vandermonde
+
 2022/11/25
 
 0000<->1500
