@@ -189,6 +189,12 @@
 
 # Lecture 4
 
+2022/11/28
+
+1500<->3000
+
+- probability is not conditioned on theta, it is conditioned on xi, so P(y|x;theta), use semicolon
+
 2022/11/26
 
 1500<->3000
