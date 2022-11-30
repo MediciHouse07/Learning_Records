@@ -378,6 +378,16 @@ finished,
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
 
+2022/11/27
+
+3000<->4500
+
+- if it is independent, it is binomial, if it is not, it is not
+- number of aces in the deck
+- the elk problem
+- 4350 mins, hypergeometric
+- TBRT
+
 2022/11/26
 
 1500<->3000
