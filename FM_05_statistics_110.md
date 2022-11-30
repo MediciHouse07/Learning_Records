@@ -378,7 +378,7 @@ finished,
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
 
-2022/11/27
+2022/11/28
 
 3000<->4500
 
