@@ -378,6 +378,17 @@ finished,
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
 
+2022/11/30
+
+3000<->4500
+
+- independent and the same probability of success
+- a function from sample space to a number
+- has k tagged elk
+- if choose k from w, if k is bigger than w, then the C is 0
+- sampling with replacement is binomial
+- sampling without replacement is hypergeometric
+
 2022/11/28
 
 3000<->4500
