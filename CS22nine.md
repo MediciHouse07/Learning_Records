@@ -189,6 +189,18 @@
 
 # Lecture 4
 
+2022/11/30
+
+3000<->4500
+
+- likelihood of theta
+- fix theta talking about probability, fix data talking about likelihood
+- probability of data, likelihood of parameters
+- MLE, maximum likelihood estimation
+- choose theta to maximize the likelihood
+- classification problem
+- not outlier
+
 2022/11/28
 
 1500<->3000
