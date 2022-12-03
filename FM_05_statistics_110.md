@@ -378,6 +378,13 @@ finished,
 4754 mins, distribution is blue print of each probability that a r.v. will be a specific number;
 ### Lecture 8
 
+2022/12/01
+
+3530<->End
+
+- write down the formula is not end of proof, you also need to check if it fits the sanity check
+- if the sample size is big also if the number that choose is small, with replacement and without replacement concides to with replacement
+
 2022/11/30
 
 3000<->4500
