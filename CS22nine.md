@@ -189,6 +189,15 @@
 
 # Lecture 4
 
+2022/12/01
+
+3000<->4500
+
+- by CLT the error is gaussian distribution
+- because of CLT
+- choose theta to maximize the likelihood
+- maximize one therm end up with minimizing another term
+
 2022/11/30
 
 3000<->4500
