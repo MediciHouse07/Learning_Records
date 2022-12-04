@@ -19,6 +19,21 @@
 
 ### Unit 1.10 Perspective
 
+2022/12/02
+
+0806<->End
+
+- JAVA byte code JAVA JVM
+- hack VM 16 digits, it can only recognize integer
+- both are stack base
+- 1990 JAVA
+- business and office application
+- a universal VM architecture that can run on all the machines
+- cross platform compitability
+- nothing can stop a good idea, it has a life of its own
+- sluggish
+- stack vs register machine, register machine are more applicable for mobile devices
+
 2022/10/28
 
 0806<->End
@@ -33,9 +48,9 @@
 - java complier generates bite code? byte code
 - register machine, stack architecture, types of vm architecture
 
-0000<->0806
-
 2022/10/27
+
+0000<->0806
 
 - 1970s IBM apple, first PC, no software on them
 - pascal run on mainframe
