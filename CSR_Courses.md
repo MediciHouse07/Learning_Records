@@ -91,6 +91,14 @@
 
 - dividing a pie, dividing a clothe
 
+### 3-2 Video
+
+2022/12/02
+
+0000<->0911
+
+- TBRT
+
 # Internet history
 
 ## Week5
