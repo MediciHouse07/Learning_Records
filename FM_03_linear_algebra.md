@@ -351,6 +351,17 @@ finished,
 - span the space to R n by n
 
 ### Lecture 11 <br>
+
+2022/12/02
+
+0000<->1500
+
+- TBRT
+- basis for M = all 3 by 3 s
+- dim M is 9, dim S is 6, dim U is 6, dim D is 3
+- dim(S intersect U)=3
+- sum S+U = all 3 by 3 s
+
 2022/03/23: 💫 finished
 
 ### Lecture 14 <br>
