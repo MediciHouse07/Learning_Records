@@ -137,6 +137,15 @@
 
 - TBRT
 
+### 2-1 Video
+
+2022/12/02
+
+0000<->1130
+
+- area code vs network number
+- internetwork protocal
+
 # ISIT Governance
 
 ## Week 1
