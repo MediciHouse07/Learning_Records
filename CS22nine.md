@@ -189,6 +189,14 @@
 
 # Lecture 4
 
+2022/12/02
+
+4500<->6000
+
+- the most commonly used algorithm
+- GLS
+- TBRT
+
 2022/12/01
 
 3000<->4500
