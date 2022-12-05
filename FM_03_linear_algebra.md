@@ -352,6 +352,15 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/03
+
+0000<->1500
+
+- matrix space
+- sub space of symmetric matrices
+- symmetric dimension above then you know 3 below, this is about information
+- 6+6=3+9
+
 2022/12/02
 
 0000<->1500
