@@ -189,6 +189,16 @@
 
 # Lecture 4
 
+2022/12/03
+
+4500<->6000
+
+- derive logistic function from a broad principle
+- maximize likelihood, which means to make the prediction is closer to the mean
+- batch gradient ascent???
+- OK this is for likelihood
+- gradient descent is for loss function
+
 2022/12/02
 
 4500<->6000
