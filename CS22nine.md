@@ -189,6 +189,17 @@
 
 # Lecture 4
 
+2022/12/04
+
+6000<->7500
+
+- not the same as linear regression because hypothesis function is changed
+- gradient descent vs newton's method
+- f theta equals 0
+- TBRT
+- quadratic convergence
+- 0.01 error
+
 2022/12/03
 
 4500<->6000
