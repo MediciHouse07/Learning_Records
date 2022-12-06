@@ -352,6 +352,19 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/04
+
+1500<->3000
+
+- solution to differential equation
+- special solution to differential equation
+- basis
+- dimCA=rank=dimCAT
+- pivot column times pivot row gives a matrix
+- rank 1 matrix are building block
+- subset of rank 1 matrices, not a subspace
+- TBRT
+
 2022/12/03
 
 0000<->1500
