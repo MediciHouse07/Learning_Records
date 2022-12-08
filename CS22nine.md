@@ -189,6 +189,15 @@
 
 # Lecture 4
 
+2022/12/05
+
+10430<->End
+
+- use Newton's method to find l'theta=0
+- hessian matrix
+- cost is reflected in computing the invert of a big matrix
+- 10 parameters is better to use newton's method
+
 2022/12/04
 
 6000<->7500
