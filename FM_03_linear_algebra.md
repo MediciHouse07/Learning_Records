@@ -352,6 +352,15 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/06
+
+1500<->3000
+
+- find a basis for solution space
+- rank 1 matrices is building block for all the matrices, rank 4 can be break down to    4 rank 1 matrices
+- subset of rank 4 matrices, form a subspace
+- add 2 rank 4 matrices , is the sum rank 4
+
 2022/12/05
 
 1500<->3000
