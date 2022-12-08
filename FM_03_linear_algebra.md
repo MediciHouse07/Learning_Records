@@ -352,6 +352,17 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/05
+
+1500<->3000
+
+- dim solution space = 2 but cosx and sinx is not the only basis
+- you can multiply them by number and you can sum them
+- 7 by 17 matrix of rank 4 matrices
+- add 2 rank 4 matrices the rank might not be rank 4
+- subset of rank 1 matrices is not a subspace
+- TBRT
+
 2022/12/04
 
 1500<->3000
