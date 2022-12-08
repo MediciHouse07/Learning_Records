@@ -227,6 +227,37 @@
 - private money(), state money()
 - the reality is it is hybird
 
+
+### 3-1 Lecture 4 1/
+
+2022/12/06
+
+- MBS
+- physical authority, CB authority
+
+### 3-2
+
+2022/12/06
+
+- Hyman minsky
+- financial instability hypothesis
+
+### 3-3
+
+2022/12/06
+
+- uses and sources
+- goods and services
+- financial assets
+- financial liabilities
+- money
+- decumulation, accumulation
+- repayment of debts
+- dishoarding
+- a hierachy picture
+- rule 1 every use has corresponding source
+- rule 2 every agents use is some other agents source
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
