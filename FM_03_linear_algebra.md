@@ -352,6 +352,20 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/07
+
+3000<->End
+
+- matrix of all four 1
+- dim N A = n-r
+- TBRT
+- set the free variable as 1 0 0, 0 1 0
+- CA is R1
+- gives number n and m
+- graph = nodes, edges
+- graph theory???
+
+
 2022/12/06
 
 1500<->3000
