@@ -258,6 +258,33 @@
 - rule 1 every use has corresponding source
 - rule 2 every agents use is some other agents source
 
+### 3-4
+
+2022/12/07
+
+- when write IOU, existing of money doesn't change, but existing of credit changes
+- bank accept IOU and issue money, expansion of money and expansion of credit
+
+### 3-5
+
+2022/12/07
+
+- total money isn't changing
+- in the course of
+- case no expansion of money
+- case expansion of credit
+
+### 3-6
+
+2022/12/07 
+
+- a little passages
+- think every kind of unit as money flow operation
+- survival constraint reserve constraint
+- cash inflow > cash outflow
+- liquidity constraint
+- Cash Flow–Cash Commitment ≥ 0, this is survival constraint, understand the word constraint
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
