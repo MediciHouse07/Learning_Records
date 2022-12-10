@@ -139,6 +139,14 @@
 
 ### 2-1 Video
 
+2022/12/08
+
+1130<->1724
+
+- network number
+- router tables
+- 1528 mins, DHCP
+
 2022/12/02
 
 0000<->1130
