@@ -352,6 +352,15 @@ finished,
 
 ### Lecture 11 <br>
 
+2022/12/08
+
+3000<->End
+
+- if the dimension is 0, the basis is empty
+- understand the dimension of the subspace, then understand the basis
+- free variable, independent
+- all special solutions are basis
+
 2022/12/07
 
 3000<->End
