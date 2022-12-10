@@ -154,6 +154,15 @@
 
 ## Lecture 1
 
+2022/12/08
+
+4400<->5400
+
+- DML
+- relational algebra
+- relational calculus
+- 5040 mins, relational algebra
+
 2022/10/02
 
 3953<->4400
