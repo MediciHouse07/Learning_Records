@@ -285,6 +285,13 @@
 - liquidity constraint
 - Cash Flow–Cash Commitment ≥ 0, this is survival constraint, understand the word constraint
 
+### 3-7 Reading Hyman Minsky
+
+2022/12/08
+
+- An article of hyman minsky
+- he was a socialist, and his dream is a world like Utopia
+
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
