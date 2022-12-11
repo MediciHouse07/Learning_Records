@@ -192,6 +192,24 @@ knowing who is treating you good is hard;
 minf'<=MVT=f'<=maxf';
 4443 mins, inequalities; e^x>1+x , e^x>1+x+x^2/2, and so on, taylor series again;
 ### Lecture 15 <br>
+
+2022/12/09
+
+0000<->1500
+
+- differentials
+- differential of y
+- notation
+- continent, and UK
+- ratio of infinitesimuls
+- notation that Newton used is not effective
+- Lbniz, continent; Britain, Newton
+- used in linear approximation
+- notation change of the notation
+- antiderivatives, 1432 mins
+- y+dy
+- y+(x-x0)f'x0
+
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
