@@ -291,6 +291,15 @@
 
 ### 3-7 Reading Hyman Minsky
 
+2022/12/10
+
+- money interest, public interest
+- and socialization came in anyway through the back door of subsidies and bailouts, next pagraph, life
+
+2022/12/09
+
+- TBRT
+
 2022/12/08
 
 - An article of hyman minsky
