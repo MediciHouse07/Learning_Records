@@ -193,6 +193,14 @@ minf'<=MVT=f'<=maxf';
 4443 mins, inequalities; e^x>1+x , e^x>1+x+x^2/2, and so on, taylor series again;
 ### Lecture 15 <br>
 
+2022/12/10
+
+1500<->3000
+
+- tanx, sin-1x, tan-1x
+- proof of Fx-Gx=C
+- the rate of changes determines the function
+
 2022/12/09
 
 0000<->1500
