@@ -103,3 +103,15 @@ Or, is there any way that you can make the progress faster
 Of course without losing the quality of the study
 
 '''
+
+# Lecture 19
+
+2022/12/10
+
+0000<->1000
+
+- ICO
+- a way to raise money
+- 0420 mins, ICO video
+- 28B USD raised, 20 months
+- 150 B adventure capital
