@@ -32,3 +32,12 @@
 2022/12/10
 
 - waton
+
+
+# Week2
+
+## 1-1
+
+2022/12/11
+
+- map, size of the countries far from equator is lager than that is closer to equator
