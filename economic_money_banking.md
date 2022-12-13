@@ -228,7 +228,7 @@
 - the reality is it is hybird
 
 
-### 3-1 Lecture 4 1/
+### 3-1 Lecture 4 1/11
 
 2022/12/06
 
@@ -304,6 +304,29 @@
 
 - An article of hyman minsky
 - he was a socialist, and his dream is a world like Utopia
+
+### 4-1 7/11
+
+- ODR
+- dishoarding 2$
+- application of rules
+- payment with money and payment with credit
+- vareli
+- decumulating asset
+- repayment
+- decumulating financial asset
+
+
+### 4-2 8/11
+
+- account as framework of macroeconomics analysis
+- money on top, credit below
+- left hand right hand, use and source
+- negative is about decumulation and dishoarding or reduction of financial asset
+- C I G X-M=Y
+- MV=PT
+- All transaction are made by money assumption
+- GM is sort of a bank
 
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
