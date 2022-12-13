@@ -193,6 +193,14 @@ minf'<=MVT=f'<=maxf';
 4443 mins, inequalities; e^x>1+x , e^x>1+x+x^2/2, and so on, taylor series again;
 ### Lecture 15 <br>
 
+2022/12/11
+
+3000<->4500
+
+- symbolically
+- substitution
+- sin^2x cos^2x, belongs to the same family
+
 2022/12/10
 
 1500<->3000
