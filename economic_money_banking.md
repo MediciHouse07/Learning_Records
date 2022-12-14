@@ -307,6 +307,8 @@
 
 ### 4-1 7/11
 
+2022/12/11
+
 - ODR
 - dishoarding 2$
 - application of rules
@@ -319,6 +321,8 @@
 
 ### 4-2 8/11
 
+2022/12/11
+
 - account as framework of macroeconomics analysis
 - money on top, credit below
 - left hand right hand, use and source
@@ -327,6 +331,27 @@
 - MV=PT
 - All transaction are made by money assumption
 - GM is sort of a bank
+
+## 4-3 9/11
+
+2022/12/12
+
+- dishoard, borrow, decumulation for meeting liquidity constraint
+- borrow is just shift constraint to tomorrow
+
+## 4-4
+
+2022/12/12
+
+- ponzi
+- alignment of cash flows and commitment in time
+
+## 4-5 11/11
+
+2022/12/12
+
+- cash flow and cash commitment determines interest rate, fragility
+- Fin asset, fin liabilities
 
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
