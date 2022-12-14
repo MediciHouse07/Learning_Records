@@ -41,3 +41,22 @@
 2022/12/11
 
 - map, size of the countries far from equator is lager than that is closer to equator
+
+## 1-2
+
+2022/12/12
+
+- mawangdui map 160 BC
+
+## 1-4
+
+2022/12/12
+
+- state as unit of analysis
+- population, size of state, economic power, military resource potential
+- measure unit
+- capital income
+- national income is hard to calculate
+- level of wealth
+- 1970 PPP
+- poverty indexes
