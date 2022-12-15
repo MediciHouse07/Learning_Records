@@ -60,6 +60,23 @@
 - flow variable and stock variable
 - production is income
 
+## Lecture 12
+
+2022/12/13
+
+0000<->1500
+
+- buying a share is not an investment
+- a company buying a machine is an investment
+- Kt = Kt-1 + It minus deltaKt-1
+- Y=C+I+G+NX
+- Spri = Y-T-C
+- SGov = T-G
+- Investment = Total saving
+- have people to not to eat potatoes today to have investment
+- shady character
+
+
 ## Lecture 18
 2022/03/13: 1446/4737
 * similar as real GDP vs nominal GDP, there are real profit vs nominal profit as well, real profit = real revenue - real cost, real means remove the effect of price changing
