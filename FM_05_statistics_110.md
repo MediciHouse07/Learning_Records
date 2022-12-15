@@ -433,6 +433,19 @@ finished,
 2022/03/31: 2111/5023 around 14 minutes CDF and PMF, both are a way of describing distribution, CDF P(X<=x), PMF P(X=aj) only applies for discrete problem <br>
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
+
+2022/12/13
+
+0000<->1500
+
+- P(X<=x) as a function of real x, is CDF
+- P(X=1) 2 3 4 is PMF, is the jump
+- right continuous
+- properties of CDF
+- increasing, x tend to infinity
+- joint CDF
+- knowing of probability of one case, doesn't tell you the probability of another case, that is independent
+
 2022/03/14: 💫 finished, in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: finished, 2635 minutes Expectation and P has a bridge; 3248 minutes linearity, EX+Y=EX+EY no matter it is dependent or independent; bridge X={1 if A, 0 otherwise, this is indicator R.V. ; 4158 check PMF, geo distribution; 3827 by symatry and bridge
 
