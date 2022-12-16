@@ -62,6 +62,17 @@
 
 ## Lecture 12
 
+2022/12/14
+
+1500<->3000
+
+- healthy banking system is vital for healthy economy
+- increase tax and GOV can save it themself
+- private property, property right
+- no private property, there is no capitalism
+- investment require you to be able to forecast, if it can't be forecasted, there is no confidence, investment is an overtime behaviour
+- uncertainty increases, investment decreases
+
 2022/12/13
 
 0000<->1500
