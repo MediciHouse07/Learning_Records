@@ -434,6 +434,17 @@ finished,
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 
+2022/12/14
+
+1500<->3000
+
+- average one number summary
+- sum over finite list
+- indicator R.V.
+- E(X)=P(A)
+- A occur
+- the rest part sum to 1, binomial therom
+
 2022/12/13
 
 0000<->1500
