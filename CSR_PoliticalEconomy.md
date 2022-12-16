@@ -60,3 +60,11 @@
 - level of wealth
 - 1970 PPP
 - poverty indexes
+
+## 1-5
+
+- symbolic
+- 1900 1.6 1960 3 2011 7.2
+- decline death rates
+- more jobs vs more care
+- quadrople
