@@ -14,3 +14,16 @@
 - 1811, limited liability new york state
 - investor goes to NY because above activities
 - buy a share of startup company is like buying a lottery
+
+## 1-4
+
+2022/12/14
+
+- inflation indexed debt
+- rice bonds
+- payable in rice
+- debase
+- 1786, indexed debt
+- neccesity
+- Massachusetts
+- mess up
