@@ -208,3 +208,18 @@
 - questions to ask
 - IT governance ambrella 0337 mins
 - IT governance, strategic element, tatical element
+
+
+# 2-1
+
+2022/12/15
+
+
+- IT governance, IT alignment
+- operating model
+- what who and who these decisions
+- IT principle, role of IT, objectives
+- business principle drive IT principle
+- data integration required, processes
+- coperate level, local application level BU level
+- serving business goals
