@@ -61,6 +61,21 @@
 - production is income
 
 ## Lecture 12
+### REX 1 2022/12/15
+
+2022/12/15
+
+3000<->End
+
+- tech, human capital, capital
+- potential GDP, expect to produce in this year
+- did all the machines are working
+- what is the maximum production, what is the normal production
+- capacity utilization
+- factors of production, used normally
+- 13% unemployment
+- more people than normal are unemployed
+- fractional(normal), structual(normal), ciclynical unemployment
 
 2022/12/14
 
