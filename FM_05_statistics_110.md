@@ -434,6 +434,21 @@ finished,
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 
+2022/12/15
+
+3000<->4500
+
+- binomial formula, if you rephrase it it is (p+q)^n=1
+- linearity
+- even if X Y are dependent
+- np by linearity, since X=X1+X2+..+Xn
+- 3800 mins, by indicator, by linearity, by symmetry, by fundamental bridge
+- geometric distribution
+- Geom(p)
+- number of failures before the first success
+- geometric series gives the geometric probability name
+- binomial therom gives the binomial distribution name
+
 2022/12/14
 
 1500<->3000
