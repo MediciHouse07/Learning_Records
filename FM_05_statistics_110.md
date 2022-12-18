@@ -434,6 +434,12 @@ finished,
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 
+2022/12/16
+
+- reframe and construct a formula from a known and existing formula
+- X~(Geom(p)), E(X)
+- iteration way to calculate Ex
+
 2022/12/15
 
 3000<->4500
