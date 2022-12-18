@@ -436,6 +436,8 @@ finished,
 
 2022/12/16
 
+XX<->End
+
 - reframe and construct a formula from a known and existing formula
 - X~(Geom(p)), E(X)
 - iteration way to calculate Ex
