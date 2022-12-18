@@ -125,6 +125,21 @@ course tought in class is easy to record on txt, while white board teacher, it i
 10840 mins, difference of mutual knowledge and common knowledge
 
 # Lecture 3
+
+2022/12/16
+
+0000<->1500
+
+- application of interative deletion of dominated strategy
+- left wing, right wing
+- left is tree should have a vote, right think they should eat immi
+- 2 candidates player, strategy, payoffs
+- u(1,1),u(2,1)
+- u(1,3),u(2,3)
+- and so on
+- choose 2 always 5% advance then choose 1 except the first 2 cases
+- 2 strictly dominates 1
+
 2022/05/05: 0000<->3321, 0035 mins, iteration of deletion, and it will finally converge to 1;
 0322 mins, political spectrum, from left to right, left is fruit eater, left is emgrt eater...;
 0522 mins, key component of game theory, player, strategy, payoff...;
