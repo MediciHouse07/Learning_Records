@@ -126,6 +126,18 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 3
 
+2022/12/17
+
+1500<->3000
+
+- 2 is not dominated by 3
+- but if no one would choose 1, u(2,1) and u(3,1) can be ignored
+- 1 and 10 won't be choosen
+- Median voter therom
+- product placement
+- 1967 1928 Down Hottelly
+- simplified things
+
 2022/12/16
 
 0000<->1500
