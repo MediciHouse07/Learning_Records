@@ -126,6 +126,18 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 3
 
+2022/12/18
+
+3000<->4500
+
+- capture and catch the intuition
+- enrich the model
+- add more to the model
+- TBRT
+- 4120 mins, best response
+- no player has dominated strategy
+- up is the best response to left
+
 2022/12/17
 
 1500<->3000
