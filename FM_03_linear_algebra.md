@@ -429,6 +429,31 @@ finished,
 
 2022/03/23: 💫 finished
 
+### Lecture 12
+
+2022/12/18
+
+1500<->3000
+
+- basis of the null space
+- from graph theory to linear algebra
+- TBRT
+- TBR basis
+- OHM's LAW
+- enable user to use it at its potential strength
+- current on node
+- current in equal to current out
+
+2022/12/17
+
+0000<->1500
+
+- matrix comes from somewhee
+- eletrical network
+- incidence matrix
+- loop corresponds to dependent row
+- real matrix from genuene graph
+
 ### Lecture 14 <br>
 2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
 
@@ -608,16 +633,6 @@ finished
 
 #### REX 2 2022/06/18
 #### REX 1 2022/03/28
-
-2022/12/17
-
-0000<->1500
-
-- matrix comes from somewhee
-- eletrical network
-- incidence matrix
-- loop corresponds to dependent row
-- real matrix from genuene graph
 
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 
