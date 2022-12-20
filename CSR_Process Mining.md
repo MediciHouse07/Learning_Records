@@ -16,6 +16,15 @@
 
 ## 2-2
 
+2022/12/18
+
+- Moores law
+- volume, velocity, variety
+- veracity
+- what happened, why did it happen, what will happen, what is the best that can happen
+- what time would you choose
+- 1425 mins, process matters
+
 2022/12/17
 
 0000<->0500
