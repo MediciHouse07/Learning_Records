@@ -37,3 +37,23 @@
 - design, plan, store, service
 - 2 support processes, HCM, project management
 - financial processes, financial accounting, management accounting or cotrolling processes
+
+## p7
+
+2022/12/19
+
+- IWM
+
+## p8
+
+2022/12/19
+
+- receive materials, receive invoice, send payment
+- process for procurement and production
+
+## p9
+
+2022/12/19
+
+- fulfillment/sell, it may trigger the procurement process and production process
+- material planning, includes finish goods as well, sub assemblies, 
