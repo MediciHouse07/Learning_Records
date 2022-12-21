@@ -431,6 +431,24 @@ finished,
 
 ### Lecture 12
 
+2022/12/19
+
+1500<->3000
+
+- basis for the null space
+- potential difference can only be determined by constant
+- nothing will move if the potential are the same
+- potentials
+- rank of the matrix is 3
+- 5 edges, 4 nodes
+- potential differences, c currents y1 to y5 on edges
+- x2-x1=y1 ...
+- Kirchoff's CL
+- ATy=0
+- conservation law
+- y1 y3 y4
+- ATy is about nodes, it has 4 rows, represents 4 nodes
+
 2022/12/18
 
 1500<->3000
