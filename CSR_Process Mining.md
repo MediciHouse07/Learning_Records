@@ -31,3 +31,17 @@
 
 - 10 minutes, from prehistoric to 2003
 - internet of content, internet of people, internet of things, internet of places
+
+## 2-4
+
+2022/12/19
+
+- process model analysis, data oriented analysis
+- glue between business and IT
+- same statistics but different distribution
+- Tsinghua university
+- people don't follow process model
+- event data is not alligned with process model
+- nominal, true and false don't have order
+- data mining are not process centric
+- end to end process models concurrency are essential for process mining
