@@ -126,6 +126,14 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 3
 
+2022/12/19
+
+3000<->4500
+
+- enrich it, so that we can have the model to be more useful, to capture more ideas
+- 1970s English election
+- rationalize
+
 2022/12/18
 
 3000<->4500
