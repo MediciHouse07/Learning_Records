@@ -431,6 +431,21 @@ finished,
 
 ### Lecture 12
 
+2022/12/20
+
+3000<->4500
+
+- when do elimination, the last row become all 0
+- satisfies Kirkoff current law
+- they are not independent because they come from a loop
+- edges
+- pivot column doesn't have a loop
+- tree: graph with no loop
+- number of loops = number of edges minus (number of nodes minus 1)
+- Euler's formula
+- from dimNAT, derive number of loops equals, derives Euler's formula
+- TBRT
+
 2022/12/19
 
 1500<->3000
