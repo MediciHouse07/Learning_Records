@@ -126,6 +126,14 @@ course tought in class is easy to record on txt, while white board teacher, it i
 
 # Lecture 3
 
+2022/12/20
+
+4500<->End
+
+- introduce the concept of best response
+- think about why it is a strict line
+- derive the chart
+
 2022/12/19
 
 3000<->4500
