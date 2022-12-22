@@ -45,3 +45,21 @@
 - nominal, true and false don't have order
 - data mining are not process centric
 - end to end process models concurrency are essential for process mining
+
+## 3-1
+
+2022/12/20
+
+- predictor variable, response variable
+- workflow systems
+- operations research
+- cum laude
+- entropy
+- inverse of compressibility
+- intermezzo
+- calculate the split point enumerate so that the entropy the smallest one
+- weight entropy
+- information gain
+- information loss
+- post prunning
+- chapter 3
