@@ -63,3 +63,13 @@
 - information loss
 - post prunning
 - chapter 3
+
+## 3-2
+
+2022/12/21
+
+- root node, information gain
+- before split and after split, compare the entropy
+- precision and recall
+- change minimal information gain to capture more outcome, but might result in overfitting
+- underfitting
