@@ -73,3 +73,22 @@
 - precision and recall
 - change minimal information gain to capture more outcome, but might result in overfitting
 - underfitting
+
+## 3-3
+
+2022/12/21
+
+- unsupervised learning
+- association rule
+- X implies Y
+- support
+- lift NX&Y/N DEVIDE NX/N TIMES NY/N
+- confidence, XUY/X
+- support XUY/N
+- lift and correlation
+- apriori
+- min support, min confidence
+- brute force approach
+- |Z|>=2 means it has at least 2 elements
+- computational problem, interpretation problem
+- sequence mining, episode mining
