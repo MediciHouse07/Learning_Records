@@ -431,6 +431,16 @@ finished,
 
 ### Lecture 12
 
+2022/12/21
+
+3200<->End
+
+- applied math
+- ATy=0 Kirchoff's CL
+- e=Ax potential differences at nodes
+- y=Ce current y1 y2 y3 y4 y5
+- ATA ATCA symmetric
+
 2022/12/20
 
 3000<->4500
