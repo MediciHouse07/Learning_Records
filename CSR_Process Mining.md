@@ -92,3 +92,22 @@
 - |Z|>=2 means it has at least 2 elements
 - computational problem, interpretation problem
 - sequence mining, episode mining
+
+## 4-1 reading materials
+
+2022/12/23
+
+- finish reading
+
+## 4-2
+
+2022/12/23
+
+- instance have different attributes
+- centroid
+- repeatedly calculate the centroids
+- iterate further no changes anymore
+- random initial centroid
+- K means + decision tree or association rule
+- hierarchical clustering
+- TBRT
