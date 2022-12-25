@@ -2,7 +2,12 @@
 
 ## Week1 
 
-### Unit 0.0 Module 0 
+### 2-2 Unit 0.0 Module 0 
+
+
+2022/12/23
+
+- introduce the structure
 
 2022/11/18
 
