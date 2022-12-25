@@ -235,6 +235,21 @@ minf'<=MVT=f'<=maxf';
 
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
+
+2022/12/23
+
+0000<->1500
+
+- differential equation
+- y=integral fx dx
+- substitution
+- annihilation operator
+- seperation of variables
+- TBRT
+- implicity equation
+- y=H-1(Fx+c)
+- normally leave it as implicity form
+
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
 ### Lecture 18
