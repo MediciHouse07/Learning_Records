@@ -236,6 +236,14 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+2022/12/27
+
+0000<->1500
+
+- the rate of change depends on both x and y
+- use the idea of differential
+- general version of seperation of formula
+
 2022/12/23
 
 0000<->1500
