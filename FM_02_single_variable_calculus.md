@@ -236,6 +236,15 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+2022/12/28
+
+1500<->3000
+
+- addictive constant
+- separation of variables
+- superfulous
+- slope of tangent line = twice slope of ray from origin
+
 2022/12/27
 
 0000<->1500
