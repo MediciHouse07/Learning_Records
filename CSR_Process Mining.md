@@ -111,3 +111,13 @@
 - K means + decision tree or association rule
 - hierarchical clustering
 - TBRT
+
+## 4-3
+
+2022/12/29
+
+- confusion matrix
+- cum laude
+- TP TN FP FN
+- cross validation
+- concept drift
