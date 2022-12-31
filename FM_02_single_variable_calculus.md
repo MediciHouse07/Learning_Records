@@ -236,6 +236,14 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+2022/12/29
+
+3000<->End
+
+- reciprical
+- TBRT
+- parabola
+
 2022/12/28
 
 1500<->3000
