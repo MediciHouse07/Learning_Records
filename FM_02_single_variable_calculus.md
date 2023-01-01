@@ -236,6 +236,15 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+2022/12/30
+
+3000<->End
+
+- at origin, x is not defined, otherwise it obeys, it can leave from another branch
+- find curve perpendicular to parabolas
+- perpendicular, their mutiplication is -1
+- when y = 0, solution stops, that's where derivatives equals 0
+
 2022/12/29
 
 3000<->End
