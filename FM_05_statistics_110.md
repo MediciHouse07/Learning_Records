@@ -542,6 +542,16 @@ finished,
 End mins
 
 ### Lecture 10 <br>
+
+2022/12/31
+
+0000<->1500
+
+- expectation doesn't exist
+- TBRT
+- X=0 X=1 X=2 X(s)P({s})
+- negative binomial
+
 2022/03/14: 💫 0610/5010 in order to understand so called taylor Expectation in link [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
