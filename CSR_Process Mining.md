@@ -121,3 +121,20 @@
 - TP TN FP FN
 - cross validation
 - concept drift
+
+# Week2
+
+## 1-1 Reading
+
+2022/12/31
+
+- ProM can convert Petri nets to other BPMN
+
+## 1-2
+
+2022/12/31
+
+- play out, from model to event
+- replay
+- process discovery play in
+- case, activity
