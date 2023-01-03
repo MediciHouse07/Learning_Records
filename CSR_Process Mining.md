@@ -143,6 +143,13 @@
 
 2023/01/01
 
+- 2 traffic lights
+- 9 reachable markings, 6 reachable markings
+- can't distinguish the right part
+- non deterministic
+
+2023/01/01
+
 - rg, go
 - reachable marking, unreachable marking
 - enabling and firing
