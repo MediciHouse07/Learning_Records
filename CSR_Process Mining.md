@@ -138,3 +138,25 @@
 - replay
 - process discovery play in
 - case, activity
+
+## 2-1
+
+2023/01/01
+
+- rg, go
+- reachable marking, unreachable marking
+- enabling and firing
+- number of token may change
+- limiting factor
+- atomic
+- concurrently
+- 8 reachable states
+- interleaving semantics, there is a certain order
+- 7^6
+- both are enabled only one occur
+- TBRT
+- t3 can't be fired
+- t2 at most once
+- t1
+- limit the reachable marking so that the remaining are safe
+- make them alternate
