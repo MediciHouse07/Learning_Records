@@ -543,6 +543,16 @@ End mins
 
 ### Lecture 10 <br>
 
+2023/01/01
+
+0000<->1500
+
+- 2 ways of calculate average, naive way, weighted way
+- 0500 mins, wishful thinking
+- add 2 function
+- X(s), Y(s)
+- undemocratic
+
 2022/12/31
 
 0000<->1500
