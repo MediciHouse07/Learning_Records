@@ -167,3 +167,15 @@
 - t1
 - limit the reachable marking so that the remaining are safe
 - make them alternate
+
+## 2-2
+
+2023/01/02
+
+0000<->0747
+
+- alternating
+- deteministic
+- transition system
+- reachability graph
+- multiple arc
