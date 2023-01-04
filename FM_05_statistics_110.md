@@ -543,6 +543,18 @@ End mins
 
 ### Lecture 10 <br>
 
+2023/01/02
+
+1500<->3000
+
+- r.p negative binomial
+- number of failure before the rth success
+- indep bern trial
+- Xj~Geom(p), Xj are independent
+- X~FS(p)
+- Y=X-1 (Y and X means number)
+- Putnam
+
 2023/01/01
 
 0000<->1500
