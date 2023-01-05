@@ -543,6 +543,19 @@ End mins
 
 ### Lecture 10 <br>
 
+2023/01/03
+
+3000<->4500
+
+- Putnam exam
+- Random permutation, all the permutation are equally likely
+- local maxima
+- on average how many local maximum
+- indicator R.V.
+- 7 is bigger than 4 is not independent with 7 is bigger than 5
+- St Peterburg paradox
+- Y=2^X find E(Y)
+
 2023/01/02
 
 1500<->3000
