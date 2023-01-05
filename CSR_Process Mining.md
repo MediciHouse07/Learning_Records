@@ -170,6 +170,13 @@
 
 ## 2-2
 
+2023/01/03
+
+- reachability graph does not need to be finite
+- play in
+- play out
+- replay can detect problem
+
 2023/01/02
 
 0000<->0747
