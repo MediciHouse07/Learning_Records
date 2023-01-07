@@ -192,6 +192,18 @@
 
 2023/01/05
 
+1144<->1330
+
+- if a marking enables at least one transition, not dead marking
+- live, after trigger something, only a partial is enabled to be transited
+- bounded, if marking is limited with certain number of token
+- safe, 1-bounded
+- deadlock free, if marking enables no transition then it is dead, if there is reachable dead marking, then there is potential deadlock, [if all reachable marking enables at least one transition]
+- live, after trigger something, only a partial is enabled to be transited then it is not live
+- starting from a box, means the transition can always fire
+
+2023/01/05
+
 0729<->1144
 
 - liveness
