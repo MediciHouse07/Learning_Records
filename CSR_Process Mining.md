@@ -192,6 +192,17 @@
 
 2023/01/05
 
+0729<->1144
+
+- liveness
+- a transition is live
+- Petri net
+- possible
+- p4 is unbounded
+- liveness is about transition
+
+2023/01/05
+
 0000<->0729
 
 - k bounded
