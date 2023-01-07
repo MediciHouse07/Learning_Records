@@ -543,6 +543,14 @@ End mins
 
 ### Lecture 10 <br>
 
+2023/01/05
+
+3440<->End
+
+- intermediate point, end point
+- infinity=E(2^X) not equal 2^EX=4
+- EX=2???
+
 2023/01/03
 
 3000<->4500
