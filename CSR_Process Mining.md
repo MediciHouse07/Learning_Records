@@ -186,3 +186,18 @@
 - transition system
 - reachability graph
 - multiple arc
+
+
+## 3-1
+
+2023/01/05
+
+0000<->0729
+
+- k bounded
+- unbounded point
+- safeness, 1 boundedness
+- deadlock
+- marking is dead
+- deadlock-free
+- initial marking is deadlock, but bounded
