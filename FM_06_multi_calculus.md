@@ -80,6 +80,24 @@
 - sum of 2 square, origin is the minimam
 - difference of 2 square, there will be a saddle point
 
+### Lecture 11
+
+2023/01/06
+
+0000<->1500
+
+- differentials
+- dy=f'xdx
+- use inverse function to derive the derivative for a complex formula
+- df=fxdx+fydy+fzdz
+- df is not a number
+- differential as a placeholder
+- how changes in x y z affect f
+- placeholder for small variation delta x delta y delta z to get appro formula delta f r equal fxdeltax
+- the rate of change dy/dt, divide by something like dt to get a rate of change
+- if they are all function of t
+- d and delta don't live in the same world
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
