@@ -190,6 +190,18 @@
 
 ## 3-1
 
+2023/01/06
+
+1144<->End
+
+- states,marking;transition,transition
+- initial states, final states
+- complete traces, go from initial state to final state
+- incomplete trace
+- finite transition system has infinitely traces
+- from petri net to reachable graph to final states
+- transition system use state which comprimise markings
+
 2023/01/05
 
 1144<->1330
