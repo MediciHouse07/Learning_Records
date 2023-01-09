@@ -82,6 +82,14 @@
 
 ### Lecture 11
 
+2023/01/07
+
+1500<->3000
+
+- divide by dt, get chain rule
+- when delta t tend to 0, delta turns to derivative
+- TBRT
+
 2023/01/06
 
 0000<->1500
