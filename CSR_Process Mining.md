@@ -236,3 +236,26 @@
 - marking is dead
 - deadlock-free
 - initial marking is deadlock, but bounded
+
+## 3-2
+
+0000<->1008
+
+2023/01/07
+
+- soundness
+- WF nets
+- workflow management, business process management
+- BPM IT and management science
+- 1732 the division of labor
+- timeline
+- re/design implement/configure run/adjust
+- learning the process while they are running
+- BPMN EPCs(SAP) Petri nets
+- reachability graph, transition system
+- dead lockd may indicate that a model is not a good model
+- and split doesn't have corresponding join
+- safe, bounded, deadlock-free, live
+- anomoly
+- WF-net, one source place, one sink place, from start to end
+- safeness, proper completion, option to complete, absence of dead parts
