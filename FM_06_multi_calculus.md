@@ -82,6 +82,16 @@
 
 ### Lecture 11
 
+2023/01/08
+
+1500<->3000
+
+- coefficient is the relative change between df and dt
+- substitute
+- get the same answer
+- reciprocal
+- differential on multi variables, justify product quotient rule
+
 2023/01/07
 
 1500<->3000
