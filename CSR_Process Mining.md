@@ -239,6 +239,15 @@
 
 ## 3-2
 
+1008<->End
+
+2023/01/08
+
+- option to complete implies proper completion
+- short circuited petri net
+- verification soundness checking
+- performance analysis
+
 0000<->1008
 
 2023/01/07
