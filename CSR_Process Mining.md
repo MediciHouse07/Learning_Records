@@ -268,3 +268,24 @@
 - anomoly
 - WF-net, one source place, one sink place, from start to end
 - safeness, proper completion, option to complete, absence of dead parts
+
+## 4-1
+
+2023/01/09
+
+0000<->1500
+
+- from event log learn a process model
+- loops, parallel, choice
+- alpha algorithm
+- order of activity within a particular case
+- multiset of traces
+- challenge for proces discovery
+- direct succession	
+- causility
+- parallel
+- choice
+- sequence, XOR split
+- followed
+- model and event log agree on footprint matrix
+- set??? 1000 mins
