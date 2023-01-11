@@ -82,6 +82,16 @@
 
 ### Lecture 11
 
+2023/01/09
+
+3000<->4500
+
+- chain rule with more variables
+- if don't have explicit formula
+- you can't simplify a partial derivative
+- know the rate of changes
+- single variable, d, not curly d
+
 2023/01/08
 
 1500<->3000
