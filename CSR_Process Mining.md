@@ -271,6 +271,16 @@
 
 ## 4-1
 
+2023/01/10
+
+XXXX<->End
+
+- alpha algorithm contains 8 lines
+- after removing the elements, the property still holds
+- transitions and places
+- arcs F
+- prepare the foot print matrix then apply the alpha algorithm
+
 2023/01/09
 
 0000<->1500
