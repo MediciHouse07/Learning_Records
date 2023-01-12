@@ -82,6 +82,18 @@
 
 ### Lecture 11
 
+2023/01/10
+
+3500<->End
+
+- sum of the 2 effects
+- in total derivative we can simplify dx time 1/dx, in partial derivative we can't
+- IT team what is a healthy communication
+- curly f doesn't make sense
+- partial f partial r
+- gradient vector
+- downward pointing
+
 2023/01/09
 
 3000<->4500
