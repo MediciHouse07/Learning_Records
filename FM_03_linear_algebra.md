@@ -497,6 +497,19 @@ finished,
 - loop corresponds to dependent row
 - real matrix from genuene graph
 
+### Lecture 13
+
+2023/01/11
+
+0000<->1500
+
+- 3 vectors in R 7, what the dimension it would be
+- you want me to do an instant decision but I am lacking of needed information, can you describe more about this, or what you just said is everything
+- echelon form
+- reduced echelon form, u 0 0 u
+- why dim NA=2
+- TBRT from 1000 mins
+
 ### Lecture 14 <br>
 2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
 
