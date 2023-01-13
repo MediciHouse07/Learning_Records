@@ -299,3 +299,17 @@ XXXX<->End
 - followed
 - model and event log agree on footprint matrix
 - set??? 1000 mins
+
+## 4-2
+
+2023/01/11
+
+0000<->0641
+
+- limitations
+- implicit places
+- remove them doesn't affect the process model
+- unable to deal with loops
+- 0330 mins
+- loops of length 2
+- different event log discover the same model
