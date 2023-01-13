@@ -313,3 +313,4 @@ XXXX<->End
 - 0330 mins
 - loops of length 2
 - different event log discover the same model
+- multiple transition with the same label is not allowed for a WF net
