@@ -122,6 +122,19 @@
 - cross validation
 - concept drift
 
+## 6-1 Optional
+
+2023/01/12
+
+0000<->0459
+
+- fluxicon
+- make process software for business uses
+- 2012
+- yyyy-M-d H:mm time format ProM
+- https://blog.csdn.net/weixin_43719616/article/details/121977923
+
+
 # Week2
 
 ## 1-1 Reading
@@ -306,10 +319,17 @@ XXXX<->End
 
 0641<->1245
 
+- get some basic knowledge about how to use ProM
+
+2023/01/12
+
+0641<->1245
+
 - some model can't be discovered by alpha algorithm
 - silent transition
 - region based model
 - TBRT, how to use ProM
+
 
 2023/01/11
 
