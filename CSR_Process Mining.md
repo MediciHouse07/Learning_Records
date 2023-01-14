@@ -302,6 +302,15 @@ XXXX<->End
 
 ## 4-2
 
+2023/01/12
+
+0641<->1245
+
+- some model can't be discovered by alpha algorithm
+- silent transition
+- region based model
+- TBRT, how to use ProM
+
 2023/01/11
 
 0000<->0641
