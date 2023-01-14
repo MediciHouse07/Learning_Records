@@ -499,6 +499,13 @@ finished,
 
 ### Lecture 13
 
+2023/01/12
+
+1000<->1535
+
+- complete solution
+- why x = vector + c times vector + d times vector, gives the conclusion that c times vector and d times vector forms the null space, how did he know what are the elements within A1535 mins, TBR null space
+
 2023/01/11
 
 0000<->1500
