@@ -233,6 +233,18 @@
 
 2022/03/20:💫 Finished this lecture
 ### Lecture 8 <br>
+
+2023/01/13
+
+0000<->1100
+
+- connect to lecture 13, the answer might be related with F 0 0 F or something in this lecture, the block matrix
+- 0557 mins, condition for solvability
+- solvable when b is in CA
+- if a combinition of rows of A give zero row, then same comb of entries of b must give 0
+- then find the complete solution to Ax=b
+- starting from finding one peticular solution
+
 2022/03/21:💫 Finished this lecture, and some take away, in the last few minutes, rank tell you everything about number of solutions, if you forgot, watch it again
 
 ### Lecture 9 <br>
@@ -498,6 +510,16 @@ finished,
 - real matrix from genuene graph
 
 ### Lecture 13
+
+2023/01/13
+
+1000<->1400
+
+- x is complete solution
+- special solution + general solution
+- x is complete solution
+- the clue is within the complete solution
+- TBR complete solution
 
 2023/01/12
 
