@@ -315,6 +315,16 @@ XXXX<->End
 
 ## 4-2
 
+2023/01/13
+
+1245<->End
+
+- noise, incompleteness
+- alpha algorithm can't generate a model with duplicate transition
+- the top model describe the dominant behaviour
+- idem, the same as the previous discussi n
+- rediscovery criterion
+
 2023/01/12
 
 0641<->1245
@@ -343,3 +353,13 @@ XXXX<->End
 - loops of length 2
 - different event log discover the same model
 - multiple transition with the same label is not allowed for a WF net
+
+## 5-1
+
+2023/01/13
+
+0000<->0500
+
+- fuzzy model
+- ProM package manager
+- xes
