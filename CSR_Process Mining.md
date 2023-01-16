@@ -356,6 +356,20 @@ XXXX<->End
 
 ## 5-1
 
+2023/01/14
+
+0500<->End
+
+- verification techniques, comformance checking
+- pompom, remove activities that are in frequent
+- inductive miner animation
+- replay an reality
+- fuzzy miner
+- animate event log in fuzzy instance
+- social network miner
+- case id, event, timestamp + other attributes
+- filter logic
+
 2023/01/13
 
 0000<->0500
