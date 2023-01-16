@@ -234,6 +234,22 @@
 2022/03/20:💫 Finished this lecture
 ### Lecture 8 <br>
 
+2023/01/14
+
+1100<->2600
+
+- step 1 x particular
+- set all free variables to 0
+- solve Ax=b for pivot  variables
+- x null space
+- complete solution = x particular + x null space
+- Axp=b, Axn=0, A(xp+xn)=b
+- special solution to null space 2000 mins
+- xp is a particular guy, xn is a subspace
+- x=xp+xn
+- x is not in the x null sub space
+- r<=m pivot can't more than number of rows, r<=n a column can't have more than one pivot
+
 2023/01/13
 
 0000<->1100
