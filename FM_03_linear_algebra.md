@@ -234,6 +234,24 @@
 2022/03/20:💫 Finished this lecture
 ### Lecture 8 <br>
 
+2023/01/15
+
+2500<->4000
+
+- full column rank, r=n
+- no free variable, only zero vector
+- then if there is a solution to Ax=b, x=xp
+- unique solution
+- tall and thin matrix
+- identity matrix and zero matrix
+- 2 independent rows, the other rows are 0s
+- 4 equations and 2 unknown
+- not always has a solution
+- full row rank means r=m
+- r=m
+- can solve ax=b for every b
+- I and F
+
 2023/01/14
 
 1100<->2600
