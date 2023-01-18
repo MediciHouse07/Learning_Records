@@ -377,3 +377,23 @@ XXXX<->End
 - fuzzy model
 - ProM package manager
 - xes
+
+# Week 3
+## 1-1 
+
+2023/01/16
+
+0000<->End
+
+- is the process model a correct reflection of the real process
+- venn diagram to describe confusion matrix
+- event log only shows fraction of possible traces
+- replay fitness= TP'/TP'+FN'
+- fitness simplicity precision generalization
+- underfitting model
+- occam's razor
+- overfitting model
+- do not fit
+- in underfitting case, you should remove some possibilities
+- 5 example is not enough to say the generalization is good
+- representational bias
