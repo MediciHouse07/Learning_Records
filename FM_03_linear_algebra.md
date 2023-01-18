@@ -234,6 +234,24 @@
 2022/03/20:💫 Finished this lecture
 ### Lecture 8 <br>
 
+2023/01/16
+
+3200<->End
+
+- the right hand side that can make the Ax=b has a solution
+- full column rank, 0 or 1 solution
+- full row rank, r=m
+- Ax=b for every b, because you have m pivots
+- square matrix enable you to solve for every b
+- r=m=n, solve every b, one solution because no zero vector
+- r=n<m, 0 or 1 solution(solution means solution to Ax=b)
+- r=m<n, 1 or infinitely many solutions
+- F could be into the I
+- r<m, r<n
+- I F 0 0
+- 0 solution or infinitely many solutions
+- rank tells you everything about the solutions
+
 2023/01/15
 
 2500<->4000
