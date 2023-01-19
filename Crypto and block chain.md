@@ -106,6 +106,23 @@ Of course without losing the quality of the study
 
 # Lecture 19
 
+2023/01/17
+
+0000<->1500
+
+-  ICO
+- 2010 JR
+- conferences to convince people
+- on top of BTC, put an application, then raise money
+- 12 months raised
+- law fee, accounting fee
+- 1990, publish software and everybody can see, open source movement
+- 2009, Satuxi, MIT license
+- investor put the money in before published
+- FOMO
+- fear of missing o
+- to get return, risk and return
+
 2022/12/10
 
 0000<->1000
