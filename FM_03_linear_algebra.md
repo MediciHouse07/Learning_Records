@@ -563,6 +563,20 @@ finished,
 
 ### Lecture 13
 
+2023/01/17
+
+0700<->2200
+
+- rank of C, 6
+- A(xp+xn)=b derives Axp=b, Axn=0
+- if b has the form of multiple of 1 2 1, sovable
+- square matrix, null space zero vector, AT also zero vector
+- 5 by 5 matrices, vector space
+- 25 dimensional
+- invertible, are they a subspace
+- B square 0, does it imply B=0
+- 0 1 0 0
+
 2023/01/13
 
 1000<->1400
