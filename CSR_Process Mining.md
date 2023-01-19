@@ -397,3 +397,18 @@ XXXX<->End
 - in underfitting case, you should remove some possibilities
 - 5 example is not enough to say the generalization is good
 - representational bias
+
+## 1-2
+
+2023/01/17
+
+0000<->1000
+
+- desire line
+- metaphor
+- the model doesn't allow the behaviour, but it happended anyway, is it outliner
+- build an althernative model, is it overfitting
+- modeling language 1, modeling language 2
+- plethora of notations
+- the choice of language will influence the outcome
+- use transition system it is difficult to describe concurrency
