@@ -563,6 +563,15 @@ finished,
 
 ### Lecture 13
 
+2023/01/18
+
+2200<->3700
+
+- invertible matrix times another matrix
+- N(CD)=N(D) if C is invertible
+- basis for N(B)
+- any of the solution can be perticular solution
+
 2023/01/17
 
 0700<->2200
