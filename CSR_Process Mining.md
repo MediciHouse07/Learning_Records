@@ -400,6 +400,13 @@ XXXX<->End
 
 ## 1-2
 
+2023/01/18
+
+0938<->End
+
+- indirect dependency
+- duplicate activities
+
 2023/01/17
 
 0000<->1000
