@@ -563,6 +563,12 @@ finished,
 
 ### Lecture 13
 
+2023/01/19
+
+3200<->End
+
+- xp+xn doesn't depend on finite matrix, discrete elements
+
 2023/01/18
 
 2200<->3700
