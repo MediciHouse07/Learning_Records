@@ -419,3 +419,16 @@ XXXX<->End
 - plethora of notations
 - the choice of language will influence the outcome
 - use transition system it is difficult to describe concurrency
+
+## 1-3
+
+2023/01/19
+
+0000<->End
+
+- UML activity diagram
+- deferred choice
+- or join
+- EPCs event driven process chains
+- OR paradox
+
