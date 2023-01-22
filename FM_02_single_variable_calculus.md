@@ -287,6 +287,18 @@ minf'<=MVT=f'<=maxf';
 2022/03/13:💫 Lecture 16 0638/4524, followed, but need further explaination <br>
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
 ### Lecture 18
+
+2023/01/20
+
+0000<->1500
+
+- definite integrals
+- cumulative sum
+- divide into rectangles, add up areas, taking the limits as rectangles get thin
+- 3b/n the quantity squared
+- limiting value is always easier
+- massive
+
 2022/05/13:
 0000<->2417
 0228 mins, intergration, area under a curve, or cumulative sum;
