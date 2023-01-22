@@ -432,3 +432,25 @@ XXXX<->End
 - EPCs event driven process chains
 - OR paradox
 
+## 1-4 Reading
+
+2023/01/20
+
+- middleware
+- inflate
+- spaghetti, lasagna
+
+## 2-1
+
+2023/01/20
+
+0000<->0600
+
+- dependency graphs and causal nets
+- nodes activities, arcs causal dependencies
+- arcs be annotated with frequencies or confenditialities
+- causal footprint
+- from footprint to a dependency graph
+- remove the places and get a dependency graph
+- fuzzy model, dependency graph
+- heuristics
