@@ -442,21 +442,6 @@ XXXX<->End
 
 ## 2-1
 
-2023/01/20
-
-0000<->0600
-
-- dependency graphs and causal nets
-- nodes activities, arcs causal dependencies
-- arcs be annotated with frequencies or confenditialities
-- causal footprint
-- from footprint to a dependency graph
-- remove the places and get a dependency graph
-- fuzzy model, dependency graph
-- heuristics
-
-## 2-2
-
 2023/01/21
 
 0000<->End
@@ -471,3 +456,17 @@ XXXX<->End
 - output binding input binding
 - declarative
 - by the nature of the net
+
+
+2023/01/20
+
+0000<->0600
+
+- dependency graphs and causal nets
+- nodes activities, arcs causal dependencies
+- arcs be annotated with frequencies or confenditialities
+- causal footprint
+- from footprint to a dependency graph
+- remove the places and get a dependency graph
+- fuzzy model, dependency graph
+- heuristics
