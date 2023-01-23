@@ -455,6 +455,8 @@ XXXX<->End
 - fuzzy model, dependency graph
 - heuristics
 
+## 2-2
+
 2023/01/21
 
 0000<->End
