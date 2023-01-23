@@ -288,6 +288,18 @@ minf'<=MVT=f'<=maxf';
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
 ### Lecture 18
 
+2023/01/21
+
+1500<->3000
+
+- top view, side view
+- 1/3 base times height
+- n square
+- slope 2 pyramid
+- asterisk
+- nuisance
+- brieviate
+
 2023/01/20
 
 0000<->1500
