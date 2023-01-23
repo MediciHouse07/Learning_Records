@@ -454,3 +454,18 @@ XXXX<->End
 - remove the places and get a dependency graph
 - fuzzy model, dependency graph
 - heuristics
+
+2023/01/21
+
+0000<->End
+
+- dependency graphs, causal structure of the model
+- fuzzy models can be viewed as dependency graph
+- causal nets
+- remove obligation, create obligation
+- silent transitions
+- relating C nets to WF nets
+- valid binding sequences
+- output binding input binding
+- declarative
+- by the nature of the net
