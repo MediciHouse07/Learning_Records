@@ -290,6 +290,17 @@ minf'<=MVT=f'<=maxf';
 
 2023/01/21
 
+3000<->4500
+
+- notation Riemann sums
+- from Riemann sum to integral
+- ci is a notation not c times i
+- integrals can be intepreted as cumulative sums
+- rate per year, times 1/365
+- borrow rate...
+
+2023/01/21
+
 1500<->3000
 
 - top view, side view
