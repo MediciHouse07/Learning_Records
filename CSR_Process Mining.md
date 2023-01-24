@@ -470,3 +470,15 @@ XXXX<->End
 - remove the places and get a dependency graph
 - fuzzy model, dependency graph
 - heuristics
+
+## 2-2
+
+2023/01/22
+
+0000<->1500
+
+- counting direct succession
+- dependency measure
+- times(dependency measure)
+- threshold for including or not including a causality
+- loop pattern
