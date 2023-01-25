@@ -56,3 +56,43 @@
 - basic food or luxury
 - selling for construction or selling for repair
 - stable stream of income or cyclical income flow
+
+# 1-12
+
+2023/01/23
+
+- is business seasonal
+- 55% of the sales are concentrated in 6 months
+- clients, small contractors
+- loyal?
+- diversified pool
+- difficult to manage
+- suppliers
+- one big leader in the market
+- better discount
+
+# 1-13
+
+2023/01/23
+
+- strategy
+- long term goal
+- why am I good
+- good price
+- good and quick service
+- variety of products in terms of reference
+- management behind the company
+- when he leaves, means he think he can do it better
+- 
+
+# 1-14
+
+2023/01/23
+
+- the first question, why do you sell
+- business analysis
+- do you make money, P&L
+- do you need money, balance sheet analysis
+- a good BS can't sustain itself with a bad PL
+- 8 people 3 million
+- concept, number, opnion
