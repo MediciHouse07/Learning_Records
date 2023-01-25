@@ -473,6 +473,14 @@ XXXX<->End
 
 ## 2-2
 
+2023/01/23
+
+0600<->End
+
+- sequence pattern
+- Xor pattern
+- dependency matrix
+
 2023/01/22
 
 0000<->1500
