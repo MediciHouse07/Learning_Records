@@ -34,3 +34,25 @@
 - debt leverage
 - profile
 - have cost under control
+
+# 1-10
+
+2023/01/23
+
+- credit line
+- not only look at the number, may because the number are not complete, but what if you include those missing info into some sort of report
+
+# 1-11
+
+2023/01/23
+
+- isolation
+- distribution vs production
+- value add is small
+- low margin
+- economic condition shape the business
+- why an industry is cyclical
+- postpone in buying a thing
+- basic food or luxury
+- selling for construction or selling for repair
+- stable stream of income or cyclical income flow
