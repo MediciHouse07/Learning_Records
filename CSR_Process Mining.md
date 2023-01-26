@@ -490,3 +490,16 @@ XXXX<->End
 - times(dependency measure)
 - threshold for including or not including a causality
 - loop pattern
+
+## 2-3
+
+2023/01/24
+
+0000<->1100
+
+- C net
+- from dependency graph to C net
+- that one can consider
+- TBRT
+- takes windows before A and also to the output side
+- input binding, b,c 5 times, it is not about types of input binding
