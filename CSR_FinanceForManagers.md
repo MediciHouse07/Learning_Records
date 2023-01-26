@@ -257,3 +257,10 @@
 - payable to suppliers
 - clients are taking longer to pay
 - operational ratios
+
+## 1-21
+
+2023/01/24
+
+- what number do you expect
+- analyzing one year, analyzing
