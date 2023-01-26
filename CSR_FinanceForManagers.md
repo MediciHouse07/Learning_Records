@@ -44,6 +44,15 @@
 
 # 1-11
 
+2023/01/24
+
+- buy cut distribute
+- expect something from the numbers
+- low margins, low value add
+- where is company based
+- is the business cyclical
+- who are the clients, construction or repairs
+
 2023/01/23
 
 - isolation
