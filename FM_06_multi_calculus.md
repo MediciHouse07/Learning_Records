@@ -138,6 +138,20 @@
 - if they are all function of t
 - d and delta don't live in the same world
 
+### Lecture 12
+
+2023/01/24
+
+0000<->1500
+
+- gradient of w times drdt
+- vector field
+- drdt is dxdt dydt dzdt, velocity vector
+- perpendicular
+- gradient vector pointing towards higher values of w
+- TBRT
+- it linked 3 variables to 1 t variable
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
