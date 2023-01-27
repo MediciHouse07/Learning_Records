@@ -140,6 +140,22 @@
 
 ### Lecture 12
 
+2023/01/25
+
+0000<->1500
+
+- gradient of w at some point x y z
+- drdt velocity vector
+- grident is perpendicular
+- level surface set it equal to c
+- normal vector of the plane is its coefficient
+- gradient vector is always perpendicuar to the function
+- points towards to higher value of w
+- level curve, level surface
+- velocity vector is tangent to the curve, thus it is tangent to the surface
+- moving on a curvce, what happens to the velocity curve
+- TBRT 1000<->1500
+
 2023/01/24
 
 0000<->1500
