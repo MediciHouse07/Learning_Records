@@ -493,6 +493,16 @@ XXXX<->End
 
 ## 2-3
 
+2023/01/25
+
+0000<->End
+
+- input binding is just a set
+- refinement
+- 1500 approach 2, finite number
+- heuristic miner proM
+- TBRT?
+
 2023/01/24
 
 0000<->1100
