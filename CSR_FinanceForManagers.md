@@ -264,3 +264,84 @@
 
 - what number do you expect
 - analyzing one year, analyzing
+
+
+# Week2
+## 1-4
+
+- sales, strategy, management
+- based on which, expect something from the numbers
+
+## 1-5
+
+- CF=bottom line + A and D
+
+## 1-6
+
+- days of collection
+- DOC=receivables/dailysales
+- evolution of DOC
+
+## 1-7
+
+- financial impact of delay
+- financial implication daily sales times duration
+- 88K is not neglegible because it is 20% of the total amount of the credit the customer asked
+- is it a customer problem, or the management problem
+
+## 1-8
+
+- DOI
+- distribution company, DOI is more important
+- number of days taken to sell inventory
+- inventory/daily cost
+
+## 1-9
+
+- excess inventory incur the need of financing
+- stated policy is 60
+- purchasing manager, manager, supplier
+- turn over = 2 means the inventory is renewed twice a year, means days of inventory is 180 days
+
+## 1-10
+
+- DOP
+- purchases
+- DOP=paybles/daily purchases
+- stock initial + purchases - cogs = final stock
+- for the simplicity, in this course take COGS
+
+## 1-11
+
+- all the section has deterioration
+- calculate the forecast of the future
+- bank lines of credit
+
+## 1-12
+
+- forecast to the P&L first
+
+## 1-13
+
+- forecast to the BS
+
+## 1-14
+
+- fixed asset next year = fixed asset this year - dep next year + CAPXt+1
+- non current part of BS
+- cash and credit are the last things to fill in
+- A' and L' to decide if it is needed
+- there is loop
+- enable iterative calculation
+
+## 1-15
+
+- example of fill in the BS
+
+## 1-16
+
+- more credit needed in the next year
+
+## 1-17
+
+- anyway in every year they need more finance is not something good
