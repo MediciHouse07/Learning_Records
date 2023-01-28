@@ -366,6 +366,17 @@
 
 ## 1-14
 
+2023/01/26
+
+- non current assets
+- fixed assett+1 = ft - dept+1 + capxt+1
+- long term debt ltd = ltd - repayt+1+newletdt+1
+- equity capital of the founders
+- equity + net income+1 - dividendst+1
+- there is loop
+- credit line , financial expenses, LTD depends on L' L' depends on equity depends on net income depends on financial expenses
+- new investment in the distributor case would not be too much
+
 2023/01/25
 
 - fixed asset next year = fixed asset this year - dep next year + CAPXt+1
