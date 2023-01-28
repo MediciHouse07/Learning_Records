@@ -513,3 +513,15 @@ XXXX<->End
 - TBRT
 - takes windows before A and also to the output side
 - input binding, b,c 5 times, it is not about types of input binding
+
+## 3-1
+
+0000<->0940
+
+2023/01/26
+
+- state based regions
+- from event log to transition system
+- multiset abstraction
+- TBRT
+- alpha algorithm has a lot of limits, so this week is about what other advanced algorithm that can be used that don't have those limits
