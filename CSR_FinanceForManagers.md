@@ -269,20 +269,28 @@
 # Week2
 ## 1-4
 
+2023/01/25
+
 - sales, strategy, management
 - based on which, expect something from the numbers
 
 ## 1-5
 
+2023/01/25
+
 - CF=bottom line + A and D
 
 ## 1-6
+
+2023/01/25
 
 - days of collection
 - DOC=receivables/dailysales
 - evolution of DOC
 
 ## 1-7
+
+2023/01/25
 
 - financial impact of delay
 - financial implication daily sales times duration
@@ -291,6 +299,8 @@
 
 ## 1-8
 
+2023/01/25
+
 - DOI
 - distribution company, DOI is more important
 - number of days taken to sell inventory
@@ -298,12 +308,16 @@
 
 ## 1-9
 
+2023/01/25
+
 - excess inventory incur the need of financing
 - stated policy is 60
 - purchasing manager, manager, supplier
 - turn over = 2 means the inventory is renewed twice a year, means days of inventory is 180 days
 
 ## 1-10
+
+2023/01/25
 
 - DOP
 - purchases
@@ -313,19 +327,37 @@
 
 ## 1-11
 
+2023/01/25
+
 - all the section has deterioration
 - calculate the forecast of the future
 - bank lines of credit
 
-## 1-12
+## 1-12 Video 9 Forecast of the P&L
+
+2023/01/26
+
+- sales is the first thing
+- past
+- Lombardi similar company sells around 5 M euros, or economic growth in the area
+- sales growth, cogs growth, transportation, gross margin the same logic
+- opex/sales, think about economic scale, whether the company has hit the maximum efficiency
+- EBITDA is a consequence of the other stuffs
+- growth of opex has the same rate
+
+2023/01/25
 
 - forecast to the P&L first
 
 ## 1-13
 
+2023/01/25
+
 - forecast to the BS
 
 ## 1-14
+
+2023/01/25
 
 - fixed asset next year = fixed asset this year - dep next year + CAPXt+1
 - non current part of BS
@@ -336,12 +368,18 @@
 
 ## 1-15
 
+2023/01/25
+
 - example of fill in the BS
 
 ## 1-16
 
+2023/01/25
+
 - more credit needed in the next year
 
 ## 1-17
+
+2023/01/25
 
 - anyway in every year they need more finance is not something good
