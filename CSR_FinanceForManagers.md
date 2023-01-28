@@ -349,7 +349,16 @@
 
 - forecast to the P&L first
 
-## 1-13
+## 1-13 Video 10
+
+2023/01/26
+
+- financial expense thing is related to the B/S
+- interest is bank lines of credit
+- simplified balance sheet
+- assume the same DOC
+- 1.25 times
+- multiply them by growth shortcut
 
 2023/01/25
 
