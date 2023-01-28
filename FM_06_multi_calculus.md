@@ -140,6 +140,17 @@
 
 ### Lecture 12
 
+2023/01/26
+
+1000<->2500
+
+- moving on the curve of w=c, dwdt is 0, delta w times velocity vector =0, which is dwdt
+- gradient vector is perpendicuar to velocity vector
+- this is true for any motion on w=c
+- gradient is perpendicular to any direction of the velocity vector
+- perpendicular to the surface, perpendicular to the plane
+- TBRT 2000<->2500
+
 2023/01/25
 
 0000<->1500
