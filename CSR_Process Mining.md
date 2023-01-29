@@ -516,6 +516,19 @@ XXXX<->End
 
 ## 3-1
 
+2023/01/27
+
+0000<->End
+
+- state, past future and past future
+- last event, next event
+- past horizon 2 sequence abstraction, set abstraction
+- preprocessing, postprocessing
+- improve diamond structure
+- discover concurrency
+- generalize the behivour
+- state based regions
+
 0000<->0940
 
 2023/01/26
