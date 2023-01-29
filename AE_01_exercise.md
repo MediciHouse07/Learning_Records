@@ -1,3 +1,7 @@
+### 2023/01/27
+
+- 10 deep squat, 40 both ends up, 20 push up, warm up
+
 ### 2022/09/24
 
 - 10 deep squat, 20 both ends up, 10 push up, warm up
