@@ -407,11 +407,25 @@
 
 ## 1-15
 
+2023/01/27
+
+- other, put to 10 or 0
+- promissory combine
+- 0 and not applicable and Empty
+- fixed asset assume unchanged
+- TLD given repay 30 per year
+
 2023/01/25
 
 - example of fill in the BS
 
 ## 1-16
+
+2023/01/27
+
+- poly panel needs more and more cash year by year
+- 470 to 600 is 130, 30 is about 3 months
+- that's when poly panel needs the money
 
 2023/01/25
 
@@ -419,6 +433,19 @@
 
 ## 1-17
 
+2023/01/27
+
+- AR increase, sales increase, DOC increase
+- (credit line needed + ltd) times assumed interest rate you get financial expenses
+
 2023/01/25
 
 - anyway in every year they need more finance is not something good
+
+# Week3
+
+## 1-3
+
+2023/01/27
+
+- recap
