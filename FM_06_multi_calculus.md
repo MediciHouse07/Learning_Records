@@ -140,6 +140,25 @@
 
 ### Lecture 12
 
+2023/01/27
+
+2000<->3500
+
+- find the tangent plane to surface x2+y2-z2=4 at 2 1 1
+- option 1 solve function of z
+- option 2 normal vector
+- gradient vector -> normal vector -> tangent plane
+- stay on the level set =0
+- roughly to 0 means approximation
+- 4(x-2)+2(y-1)+xxx=0 approximation
+- directional derivatives
+- move in another direction
+- straight line trajectory
+- u vector
+- dr/ds=u
+- change the value in any direction
+- TBRT 3400-3500
+
 2023/01/26
 
 1000<->2500
