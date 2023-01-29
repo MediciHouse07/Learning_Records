@@ -143,6 +143,14 @@
 
 ## 1-15 Video 9
 
+2023/01/27
+
+- other, put to 10 or 0
+- promissory combine
+- 0 and not applicable and Empty
+- fixed asset assume unchanged
+- TLD given repay 30 per year
+
 2023/01/24
 
 - cost
@@ -166,6 +174,12 @@
 - able to grow without sacrificing margin
 
 ## 1-16 Video 10
+
+2023/01/27
+
+- poly panel needs more and more cash year by year
+- 470 to 600 is 130, 30 is about 3 months
+- that's when poly panel needs the money
 
 2023/01/24
 
@@ -191,6 +205,11 @@
 
 
 ## 1-17
+
+2023/01/27
+
+- AR increase, sales increase, DOC increase
+- (credit line needed + ltd) times assumed interest rate you get financial expenses
 
 2023/01/24
 
