@@ -449,3 +449,21 @@
 2023/01/27
 
 - recap
+
+## 1-4
+
+2023/01/27
+
+- everyday of delay in DOC may have financial impact
+- operational ratio is bad
+
+## 1-5
+
+2023/01/27
+
+- suppose to use another ratios to do the forecast
+- for example, the ratios they committed
+- doesn't solve the problem
+- even with good policies the problem is still there
+- so why
+- as they grow, the needs of funds are growing faster than working capital, NOF > WC
