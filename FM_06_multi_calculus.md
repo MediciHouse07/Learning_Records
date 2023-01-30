@@ -140,6 +140,13 @@
 
 ### Lecture 12
 
+2023/01/28
+
+3400<->End
+
+- rotate the slice
+- u tangent to level, angle is 90 degree
+
 2023/01/27
 
 2000<->3500
