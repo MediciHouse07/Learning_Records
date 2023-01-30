@@ -467,3 +467,102 @@
 - even with good policies the problem is still there
 - so why
 - as they grow, the needs of funds are growing faster than working capital, NOF > WC
+
+2023/01/28
+
+3400<->End
+
+- rotate the slice
+- u tangent to level, angle is 90 degree
+
+# Week3
+
+## 1-6
+
+2023/01/28
+
+- NFO
+- receivible and inventory, needs finance
+- NFO=AR+INV-AP, use of funds
+- AR and INV require finance, AP finance the NFO operation
+- NFO depends on sales
+- WC = EQUITY + LTD - FIXED A
+- fixed asset require strategic deicisions by top management
+- long term financing minus fixed assets
+- NFO needs of funds, WC source of funds
+
+## 1-7
+
+2023/01/28
+
+- simplified structure to BS
+- WC is stable, not that current
+
+
+## 1-8
+
+2023/01/28
+
+- draw a chart between WC and NFO
+- diagnosis has to be brief and simple
+- concise, concrete, clear, complete
+
+
+## 1-9
+
+2023/01/28
+
+- discount for early payment
+- 3% might result in negative profit
+
+## 1-10
+
+2023/01/28
+
+- strategic advantage is the inventory
+- early payment to the suppliers
+- get financing from the bank pay the supplier in cash in the beginning
+
+## 1-11
+
+2023/01/28
+
+- all loan required needs a collertal
+- shift the bar, but not changing the slope
+- increase the profit P&L, because the chain
+
+
+## 1-12
+
+2023/01/28
+
+- COGS, bargaining power
+- increase price
+- unique product increasse 15%, common product 1 2 %
+- if don't increae profitability, can't grow that much 25%
+- sustainable growth
+
+
+## 1-13
+
+2023/01/28
+
+- parallel or getting close is a sustainable growth
+- NFO as a percentage of sales
+- NFO as percentage of sales
+- WC increase is net income
+- ROSt times Salest
+- thus calculate the sustainable growth
+- increase the price, it would tripple the profit
+- grow without financing, you need make enough money
+- margin to different industry
+- walmart margin of 15%
+- small retailer 25% 30%
+- manufacturer 40$
+- growth is not for free
+
+## 1-14
+
+2023/01/28
+
+- giving better term to customer, create a crocodile NFO
