@@ -566,3 +566,39 @@
 2023/01/28
 
 - giving better term to customer, create a crocodile NFO
+
+# Week4
+
+## 1-2
+
+2023/01/28
+
+## 1-3
+
+2023/01/28
+
+- sensitivity analysis
+- seasonal companies
+- working capital is stable
+
+## 1-4
+
+2023/01/28
+
+- action plan, realistic, effective, efficient
+- increase the price, push up the sustainable growth rate, push down the real growth rate, making the mouth of the crocdile closwer
+
+## 1-5
+
+2023/01/28
+
+- how sensitve the results are to some external factors
+- new competition
+- angry supplier
+- truck
+- rent goes to overheads
+- truck affect gross margin
+- take the divendend away lead to equity doesn't grow
+- increase margin doesn't change NFO, it improves WC because the NI increase, NFO depends on operational policies
+- both lower price and increase COGS would end up with gross margin increase, and it can doesn't affect the sales, both result in increaseing in COGS
+
