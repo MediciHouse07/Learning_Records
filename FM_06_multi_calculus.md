@@ -140,6 +140,18 @@
 
 ### Lecture 12
 
+2023/01/29
+
+3100<->4600
+
+- value change move graph reflect in the u
+- z graph, u is vector plane
+- s is arc length, arc length is distance along the line
+- how does the value w change when he move on the graph in the direction of u
+- position vector r
+- directional derivative
+- TBR
+
 2023/01/28
 
 3400<->End
