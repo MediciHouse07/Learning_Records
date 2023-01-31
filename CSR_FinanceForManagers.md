@@ -602,3 +602,84 @@
 - increase margin doesn't change NFO, it improves WC because the NI increase, NFO depends on operational policies
 - both lower price and increase COGS would end up with gross margin increase, and it can doesn't affect the sales, both result in increaseing in COGS
 
+## 1-6
+
+2023/01/29
+
+- improve the opex
+
+## 1-7
+
+2023/01/29
+
+## 1-8
+
+2023/01/29
+
+- minimum cash for operations
+- days of cash, minimum cash / daily expenses
+- sales - NI
+- precautionary reasons
+- tax goes to minus NFO
+
+## 1-9
+
+2023/01/29
+
+- seasonal companies
+- take 2 months, max cash, max credit
+
+## 1-10
+
+2023/01/29
+
+- ROE
+- risk premium
+- infer strategy of company by looking at its ROE
+
+## 1-11
+
+2023/01/29
+
+- ROE = ROS times SALES/ASSETS(turnover ice cream) times ASSETS/EQUITY(leverage) = NI/EQUITY
+
+## 1-12
+
+2023/01/29
+
+- private equity
+- annual meeting in the shareholder
+- ROS is difficult to change
+
+## 1-13
+
+2023/01/29
+
+- blind statement
+
+## 1-14
+
+2023/01/29
+
+- intangible patents
+- good will, merge
+- cheap materials but expensive research
+
+## 1-15
+
+2023/01/29
+
+- retailer negative NFO
+- pay supplier late, and collect money earlier
+- days of inventory
+- leverage low internet company because they have less colletral
+- foxxon sansum
+- apple leave the inventory to foxxon
+
+## 1-16
+
+2023/01/29
+
+## 1-17
+
+2023/01/29
