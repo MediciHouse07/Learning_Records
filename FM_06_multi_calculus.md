@@ -140,6 +140,14 @@
 
 ### Lecture 12
 
+2023/01/30
+
+0000<->1500
+
+- gradient vector is perpendicular level surface, w = constant
+- gradient points towards higher value of w
+- velocity vector is tangent to the level surface
+
 2023/01/29
 
 3100<->4600
