@@ -140,6 +140,18 @@
 
 ### Lecture 12
 
+2023/01/31
+
+1500<->3000
+
+- velocity vector is like x y z, and it contributes to the moving of w
+- velocity vector can be any motion on w=c
+- tangent plane to any surface level
+- level set w=4
+- approximation formula 2700 mins
+- moving on the tangent plane, replace the function by its tangent of approximation, is 3 D approximation
+- delta x = x-x0
+
 2023/01/30
 
 0000<->1500
