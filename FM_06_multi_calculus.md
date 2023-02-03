@@ -140,6 +140,19 @@
 
 ### Lecture 12
 
+2023/02/01
+
+3000<->4500
+
+- directional derivatives
+- i hat, j hat is the axis
+- position vector is r, x y
+- u is unit vector
+- how is the value change, move on the graph, on the direction of u
+- 3600 mins, explaination
+- dw/ds|u hat vector
+- component of gradient in dir^n of u
+
 2023/01/31
 
 1500<->3000
