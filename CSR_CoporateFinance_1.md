@@ -34,3 +34,25 @@
 - only the rate are the same AM=GM, otherwise AM>GM
 - 100 bases point is 1%
 - lie to you without lieing to you
+
+## 1-6
+
+2023/02/01
+
+- volatility
+- more way to calculate mean return, and more way to calculate risk
+- std of return
+- beta
+- dispersion
+- beta-w
+
+## 1-7
+
+2023/02/01
+
+- CAMP, beta
+- asset fluctuate against market
+- beta greater 1 magnify fluctuate more than market
+- 45% of the world market, US
+- yahoo fianance
+- defensive company pharmaceutical
