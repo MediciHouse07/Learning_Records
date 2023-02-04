@@ -140,6 +140,18 @@
 
 ### Lecture 12
 
+3500<->End
+
+2023/02/02
+
+- directional derivative is dw/ds, s is t the minimum layer of variable
+- u points directions and length
+- s is length
+- verticle plane parallel to the direction u
+- component of gradient in direction of u
+- direction of gradient is the direction of the fastest increase
+- 90 degree or level curve
+
 2023/02/01
 
 3000<->4500
