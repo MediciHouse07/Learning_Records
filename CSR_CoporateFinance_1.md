@@ -56,3 +56,78 @@
 - 45% of the world market, US
 - yahoo fianance
 - defensive company pharmaceutical
+
+# Week2
+
+## 1-End
+
+2023/02/02
+
+- periodic returns
+- return, aggregate a mean return, evidence, volatility, 
+
+# Week3
+
+## 1-2
+
+2023/02/02
+
+- expose your invest in one return, you want to expose yourself in that risk
+- risk averse, risk inverse
+- bear all the risks in that asset
+- risk of a portofolio is not the same as the average risk of the asset in the portofolio
+
+## 1-3
+
+2023/02/02
+
+- proportion of your money
+- weighted return of each individual investment
+- correlation coefficient
+
+## 1-4
+
+2023/02/02
+
+- direction and strength
+- it is not covariance
+- deterministic
+- market factor pull the correlation to be positive
+- in practice, it is almost always positive
+- Rho-W
+- Beta-W
+- not talking about causality
+
+## 1-5
+
+- correlation matrix
+- whether the product in your portofolio correlate
+- important from practical sense
+
+## 1-6
+
+- at heart the diversification is correlation
+- scrap risk can't be diversified
+- bond default
+- the cost is lowering the return of the asset
+- a bond
+- a share of stock
+- best possible combination of risk and returns
+- for a given level of risk
+- risk adjusted return
+
+## 1-7
+
+- draw 2 d scatter plot
+- soley spain and soley chn, and all the combination
+- the last free lunch you can find in market
+- expecting lower return, occurs for one side of the investor
+- RAR
+- return/risk risk adjusted return
+
+## 1-8
+
+- the lower correlation, the better the diversification
+- correlation across the developed country is high
+- developed emerging and frontier markets
+- CAPM
