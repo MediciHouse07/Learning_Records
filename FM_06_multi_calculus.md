@@ -262,6 +262,21 @@
 - TBRT
 - it linked 3 variables to 1 t variable
 
+# Lecture 13
+
+0000<->1500
+
+2023/02/03
+
+- lagrange multipliers
+- min a function, where x y z are not independent
+- hyperbola xy=3
+- smallest value of f which will be realized by the function of hyperbola
+- observe, at the minimum, level curve of f is tangent to the hyperbola
+- gradient curve of the 2 level curve should be parallel
+- when at minimum, the gradient should be parallel, by looking at the visual chart
+- 3 equation with 3 variables
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
