@@ -156,3 +156,24 @@
 - hurdle rate WACC
 - hurdle rate the least requested return
 - discrounted return is cost of capital
+
+## 1-4
+
+2023/02/03
+
+- R wacc, require return in the capital
+- R require return
+- cost on debt, require on debt
+- tc corporate tax rate
+- pay dividend
+- tax break
+- after-tax cost of debt
+- D/D+E
+
+## 1-5
+
+2023/02/03
+
+- tax shield makes you pay less taxes
+- tax saving
+- RD is before tax, 1-tc times RD is after tax
