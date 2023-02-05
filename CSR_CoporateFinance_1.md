@@ -177,3 +177,20 @@
 - tax shield makes you pay less taxes
 - tax saving
 - RD is before tax, 1-tc times RD is after tax
+
+## 1-6
+
+2023/02/03
+
+- 1000 severs 2 purposes, annual payment, final payment
+- it is third to the last class
+- it is next to the last class
+- require return, risk
+- chain that chains things, statistics
+- more risk to the company
+- the more risk you perceive, the less money you want to pay
+- 939 doesn't mean the principle is 939
+- the risk of the company go down, the price of the bond increase
+- yield, interest rate
+- y is mean annual return
+- what does change is the willingness that people want to pay
