@@ -131,3 +131,28 @@
 - correlation across the developed country is high
 - developed emerging and frontier markets
 - CAPM
+
+# Week 4
+
+## 1-2
+
+2023/02/03
+
+- how investor evaluate in terms of return, evaluate in terms of risk
+- cost of capital, D most essential variable
+- WACC weighted average cost of capital
+- cost of capital is more related to risk
+- fourth decimal
+- fully financed by equity
+- cost of debt, cost of equity together is cost of capital, it may have more terms involved in the calculation
+
+## 1-3
+
+2023/02/03
+
+- require return on debt or return on equity
+- what investor expect is WACC
+- the cost of raising capital is related with risk not cash flow
+- hurdle rate WACC
+- hurdle rate the least requested return
+- discrounted return is cost of capital
