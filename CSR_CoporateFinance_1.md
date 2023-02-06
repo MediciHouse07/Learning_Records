@@ -194,3 +194,29 @@
 - yield, interest rate
 - y is mean annual return
 - what does change is the willingness that people want to pay
+
+## 1-7
+
+2023/02/04
+
+- y is an indicator, yield to maturity, cost of debt
+- Red date
+- bid price, bid yield
+- observable, objective
+- subjective, the cost of equity, not observable and must be estimated
+- CAPM
+
+## 1-8
+
+2023/02/04
+
+0000<->0500
+
+- market risk premium
+- Rf risk free rate
+- Rei, risk of a specific enterprise
+- return on equity - return on goverment debt
+- averge the deviation
+- magnify, mitigate
+- only beta is going to change
+- the other 2 are common to all the companies
