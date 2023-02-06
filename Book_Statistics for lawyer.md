@@ -2,3 +2,10 @@
 
 - the first page of the book, it is a map
 - correlation coefficient
+
+## 35/682 Page 2
+
+- the extend of variation, described probabilistically using r.v.
+- realize a r.v.
+- r.v. is capital letter X, realization is lower case x
+- X denote a characteristic in the miu case
