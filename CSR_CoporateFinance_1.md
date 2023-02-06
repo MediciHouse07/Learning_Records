@@ -210,6 +210,18 @@
 
 2023/02/04
 
+- bearing risk
+- not everybody agree what number to put to CAMP
+- risk free rate along the time
+- best estimated beta period
+- best estimated MRP
+- 1900 tele deregulate
+- 1995 tele business changed 
+- 3 variables may change
+- book value market value proportion
+
+2023/02/04
+
 0000<->0500
 
 - market risk premium
