@@ -264,6 +264,16 @@
 
 # Lecture 13
 
+2023/02/04
+
+1500<->3000
+
+- gradient is perpenducular to the level and pointing to the higher value of the graph
+- use matrix to solve the system
+- blue gradient is twice as big as the yellow gradient
+- determinant to a 2 by 2 matrix
+- 2500 mins TBRT
+
 0000<->1500
 
 2023/02/03
