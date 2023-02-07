@@ -232,3 +232,15 @@
 - magnify, mitigate
 - only beta is going to change
 - the other 2 are common to all the companies
+
+# Week 5
+
+## 1-2
+
+2023/02/05
+
+- invest in anything less then minimum required return is burning money
+- ltd corporation finance
+- tranquility
+- market value, not book value
+- current, not historical
