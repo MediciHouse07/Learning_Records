@@ -264,6 +264,21 @@
 
 # Lecture 13
 
+2500<->End
+
+2023/02/05
+
+- at max min, point to the same direction
+- lambda is multiplier, f = lambda g
+- in any direction along the level curve g=c, rate of change f must be 0
+- df/ds|u=0
+- gradient f times u
+- u is perpendicular to gradient f
+- level set of g
+- TBRT still not certain about the first 10 mins
+- g is a tool, f is the function need to detect
+- base is constraint
+
 2023/02/04
 
 1500<->3000
