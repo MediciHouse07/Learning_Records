@@ -244,3 +244,18 @@
 - tranquility
 - market value, not book value
 - current, not historical
+
+## 1-3
+
+2023/02/06
+
+- market value
+
+## 1-4
+
+2023/02/06
+
+- shouldn't invest anything return is less than 7.2%
+- minimum required return
+- WACC change over time, or region
+- how to minimize cost of capital
