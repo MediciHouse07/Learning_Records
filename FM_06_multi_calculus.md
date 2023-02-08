@@ -264,6 +264,14 @@
 
 # Lecture 13
 
+2023/02/06
+
+2500<->4000
+
+- why is this method valid
+- directional second derivatives
+- compare various solutions to langrange equations
+
 2500<->End
 
 2023/02/05
