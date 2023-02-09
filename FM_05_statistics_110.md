@@ -599,6 +599,17 @@ End mins
 2022/03/31: 2230/5010, 1026 minutes, add 2 functions = compute 2 function and add the result; ends at negative nomial distribution <br>
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
+
+2023/02/07
+
+- confuse with r.v. and its distribution
+- word is not the thing, the map is not territory
+- r.v. is a house, distribution is blueprint of the house
+- valid
+- #emails in an hour
+- empirical, but this is an approximation
+- #choclate chip in choclate cookie
+
 2022/04/01: finished, around 21 minutes, by linearity, binomial converge to poisson, e^x = 1 + e/1 + e^2/2 + ... e^n/n! ; need to check calculus, rate of change, law of lopital <br>
 2022/04/26: finished, 0500 mins, random variable - house, distribution - blue print;
 0750 mins, poisson, P(X=k), k=0,1,2 lambda>0;
