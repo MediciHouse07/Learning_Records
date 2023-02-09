@@ -259,3 +259,19 @@
 - minimum required return
 - WACC change over time, or region
 - how to minimize cost of capital
+
+# Week 6
+
+## 1-2
+
+2023/02/07
+
+- private value, social value
+- competitive project
+- net present value, internal rate of return
+
+## 1-3
+
+2023/02/07
+
+- expected cash flow
