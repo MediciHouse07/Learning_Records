@@ -295,3 +295,12 @@
 - shortcomings of IRR
 - IRR rule and NPV rule pointing to different directions
 - scale problem, minus 2 project get a project E, then calculate IRR and see whether to invest more than project C
+
+## 1-7
+
+2023/02/08
+
+- scale problem
+- IRR lean towards less capital
+- bias of IRR
+- an application of how to calculate NPV and IRR
