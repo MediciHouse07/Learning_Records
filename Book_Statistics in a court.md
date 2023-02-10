@@ -31,3 +31,10 @@
 - y is reim bursement for the parts exceed z
 - i is number of failures
 - prepared a model that can be utilized in tool
+
+## 381/453
+
+2023/02/08
+
+- revisit the buyer's model
+- seems buyer's expectated reimbursement is the same as seller's liability
