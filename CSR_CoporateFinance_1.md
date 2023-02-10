@@ -304,3 +304,13 @@
 - IRR lean towards less capital
 - bias of IRR
 - an application of how to calculate NPV and IRR
+
+## 1-8
+
+2023/02/08
+
+- country manager, commit the return
+- boen
+- defense division is more stable
+- discount for different divisions
+- more specific, more assumption, more fishy
