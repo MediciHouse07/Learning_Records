@@ -21,3 +21,13 @@
 2023/02/06
 
 - it has been shown that a strict adherence to the calculus of probability ensures the avoidance of a dutch book
+
+# 380/453
+
+2023/02/08
+
+- c is cost
+- x is pay per unit
+- y is reim bursement for the parts exceed z
+- i is number of failures
+- prepared a model that can be utilized in tool
