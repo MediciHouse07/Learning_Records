@@ -600,6 +600,18 @@ End mins
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
 
+1500<->3000
+
+2023/02/08
+
+- pois paradiagm
+- pois approximation
+- weekly independence
+- TBRT
+- n choose k
+
+0000<->1500
+
 2023/02/07
 
 - confuse with r.v. and its distribution
