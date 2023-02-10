@@ -275,3 +275,15 @@
 2023/02/07
 
 - expected cash flow
+
+# 1-4
+
+2023/02/08
+
+- PV NPV, going out money, coming in money
+
+# 1-5
+
+2023/02/08
+
+- IRR
