@@ -287,3 +287,11 @@
 2023/02/08
 
 - IRR
+
+## 1-6
+
+2023/02/08
+
+- shortcomings of IRR
+- IRR rule and NPV rule pointing to different directions
+- scale problem, minus 2 project get a project E, then calculate IRR and see whether to invest more than project C
