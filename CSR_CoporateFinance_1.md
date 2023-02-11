@@ -314,3 +314,10 @@
 - defense division is more stable
 - discount for different divisions
 - more specific, more assumption, more fishy
+
+## 1-9
+
+2023/02/09
+
+- Eli lilly and company
+- internal rate of return, discount rate
