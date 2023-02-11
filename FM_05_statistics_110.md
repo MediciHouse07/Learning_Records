@@ -600,6 +600,16 @@ End mins
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
 
+2023/02/09
+
+1000<->2200
+
+- independent, weakly dependent
+- binomial np converge to pois
+- small prob of success, large number of trial
+- linearity doesn't care dependency
+- need to check pois book
+
 1500<->3000
 
 2023/02/08
