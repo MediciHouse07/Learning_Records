@@ -34,6 +34,18 @@
 
 ## 381/453
 
+2023/02/09
+
+- loss suffered by B is a decreasing function of time
+- disutility
+- don't consider reimbursement at the beginning
+- exponential distribution
+- failure times
+- failure before latin word
+- downward curve, PDF
+- ft is a PDF
+- loss in terms of money times the probability of the loss
+
 2023/02/08
 
 - revisit the buyer's model
