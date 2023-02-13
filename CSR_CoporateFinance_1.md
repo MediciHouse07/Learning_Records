@@ -321,3 +321,18 @@
 
 - Eli lilly and company
 - internal rate of return, discount rate
+
+# Week7
+
+## 1-2
+
+2023/02/11
+
+- shareholder value creation, stakeholder value creation
+- stakeholder, has a role to play in the value creation of the company
+- shareholder is one of stakeholder
+- far-reaching influence
+- shareholder owner, stakeholder broader concept
+- shareholder value, stakeholder value
+- detriment
+- process of value creation
