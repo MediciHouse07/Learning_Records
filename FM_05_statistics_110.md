@@ -600,6 +600,21 @@ End mins
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
 
+1000<->2500
+
+2023/02/11
+
+- discrete model most often used in practice
+- large trial, small chance of success
+- there are a lot of them
+- pois, some cases there is upper bound
+- #of Aj's occur is approx pois, lambda is sum of pj
+- P(lambda), lambda is sum of pj
+- limit kick in
+- 2400 starting setup
+- E(binomial) is np, set lambda =np, constant
+- try to explore the connection between them
+
 2023/02/09
 
 1000<->2200
