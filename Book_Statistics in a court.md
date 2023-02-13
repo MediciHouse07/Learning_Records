@@ -50,3 +50,16 @@
 
 - revisit the buyer's model
 - seems buyer's expectated reimbursement is the same as seller's liability
+
+
+## 382/453
+
+2023/02/11
+
+# Week7
+
+## 1-2
+
+2023/02/11
+
+- integration of tf(t)
