@@ -56,10 +56,10 @@
 
 2023/02/11
 
-# Week7
-
-## 1-2
-
-2023/02/11
-
 - integration of tf(t)
+
+## 382/453
+
+2023/02/12
+
+- derived the E loss function nx minus nx/lamnda xxx
