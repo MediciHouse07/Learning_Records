@@ -600,6 +600,18 @@ End mins
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
 
+2500<->4000
+
+2023/02/12
+
+- see how the converge
+- the definition of e^x
+- show binomial converge to poisson
+- even though n is 23, n choose 3 is large
+- triplet
+- in increasing order
+- exact expectation
+
 1000<->2500
 
 2023/02/11
