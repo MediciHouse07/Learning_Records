@@ -336,3 +336,16 @@
 - shareholder value, stakeholder value
 - detriment
 - process of value creation
+
+## 1-3
+
+2023/02/12
+
+- pervasive
+- do something that is bad for the long term in order to have a good short term result
+- connomation
+- return is higher than needs of fund
+- growing for the sake of growing
+- focus on the first term; growth just for the sake of growth
+- principle agent problem
+- VBM
