@@ -600,6 +600,21 @@ End mins
 2022/04/01: finished, round 29 minutes negative binomial distribution, first success distribution; 39 minutes, indication + linearity + symetry, and pubble world
 ### Lecture 11 <br>
 
+2700<->End
+
+2023/02/13
+
+- how many rain drop hit this piece of paper in a minute
+- small probability and big number of trials
+- he said rain might not be exactly independent
+- 2 rain might fall in one small cell
+- 1000 factorial is hard for computer to manage
+- 3 people birthday problem is difficult to handle in the old way
+- 3900 understand the probability and expectation
+- n choose 3 is big number number of trial is large, each trail is a small group of people, the indicator reflect the same birthday is unlikely
+- not independent, 123 and 124
+- the last discrete distribution
+
 2500<->4000
 
 2023/02/12
