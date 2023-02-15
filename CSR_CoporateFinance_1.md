@@ -349,3 +349,19 @@
 - focus on the first term; growth just for the sake of growth
 - principle agent problem
 - VBM
+
+## 1-4
+
+2023/02/13
+
+- EVA is a measure of profitability
+- economic profit, accounting profit
+- force manager
+- economic value added
+- NOPAT dirty cash flow
+- capital times WACC, charge of the capital
+- capital is debt+equity+other
+- from accounting profit to economic profit
+- take the capital out from the negative return object
+- 4 way to improve the EVA
+- minimize capital structure
