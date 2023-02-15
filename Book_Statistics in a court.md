@@ -54,12 +54,16 @@
 
 ## 382/453
 
-2023/02/11
+2023/02/13
 
-- integration of tf(t)
-
-## 382/453
+- piB(p) B's personal probability for the unknown p
+- just, if the equilibrium probability coincide with the propensity of failure
+- End
 
 2023/02/12
 
 - derived the E loss function nx minus nx/lamnda xxx
+
+2023/02/11
+
+- integration of tf(t)
