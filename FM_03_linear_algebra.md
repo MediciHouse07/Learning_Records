@@ -621,6 +621,21 @@ finished,
 - TBRT from 1000 mins
 
 ### Lecture 14 <br>
+
+2023/02/14
+
+0000<->1500
+
+- orthognal
+- basis orthognal, vector orthognal
+- orthognal vectors
+- length square is xTx
+- length square is the same x square + y square with x plus y square
+- when the angle is right angle
+- proof of pythagerian
+- subspace S is orthognal to subspace T
+- black board example
+
 2022/03/24: 💫 finished why when m>n, which means by which m equations and n unknown there is no solution?
 
 ### Lecture 15 <br>
