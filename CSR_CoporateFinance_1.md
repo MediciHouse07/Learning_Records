@@ -365,3 +365,12 @@
 - take the capital out from the negative return object
 - 4 way to improve the EVA
 - minimize capital structure
+
+## 1-5
+
+2023/02/14
+
+- EVA
+- compensite the capital provider
+- ROA-WACC times capital
+- apple vs yahoo
