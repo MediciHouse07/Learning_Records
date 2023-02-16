@@ -54,6 +54,10 @@
 
 ## 382/453
 
+2023/02/14
+
+- 5 contracts in equilibrium
+
 2023/02/13
 
 - piB(p) B's personal probability for the unknown p
@@ -67,3 +71,19 @@
 2023/02/11
 
 - integration of tf(t)
+
+## 383/453
+
+2023/02/14
+
+- it is often the case that the third party referred
+to before is the public at large
+- monotone
+- monotone graph
+
+## 384/453
+
+2023/02/14
+
+- don't get the formula, it should be w>2x
+- but by intuition it is w>x because if there is no failure product, then there is no reimbursement and loss
