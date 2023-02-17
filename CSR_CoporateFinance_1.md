@@ -374,3 +374,21 @@
 - compensite the capital provider
 - ROA-WACC times capital
 - apple vs yahoo
+
+## 1-6
+
+2023/02/15
+
+- EVA
+- endowment
+- do nothing, the environment would give you money, if compensate by EVA level
+- EVA level, EVA change
+- bonus alpha times level of EVA plus beta times change in EVA
+
+## 1-7
+
+2023/02/15
+
+- maximize the combination of risk and return
+- not to misuse capital
+
