@@ -87,3 +87,11 @@ to before is the public at large
 
 - don't get the formula, it should be w>2x
 - but by intuition it is w>x because if there is no failure product, then there is no reimbursement and loss
+
+## 384/453
+
+2023/02/15
+
+- hatch
+- apply L'p rule, shows that it is nx not 2nx, question, does L'p rule still work if it is to infinity
+- translate the seller's gain graph and buyer's gain graph to x y hatch region
