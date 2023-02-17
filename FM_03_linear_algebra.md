@@ -622,6 +622,23 @@ finished,
 
 ### Lecture 14 <br>
 
+2023/02/15
+
+1500<->3000
+
+- 2 subspace orthogonal
+- every vector in S is orthogonal to every vector in T
+- 0 vector
+- a line through the origin
+- the whole plain
+- why row space is orthogonal to null space
+- x is orthogonal to one row of A
+- x is orthogonal to all the rows
+- multiply some c1 and c2 to it
+- carve up
+- null space has different dimension with the row space
+- r=1 it is a line dimNA=2 it is a plain
+
 2023/02/14
 
 0000<->1500
