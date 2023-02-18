@@ -622,6 +622,18 @@ finished,
 
 ### Lecture 14 <br>
 
+3000<->4500
+
+2023/02/16
+
+- normal vector
+- normal vector times a plain gives 0, that's why coefficient is normal vector
+- orthogonal complements in Rn
+- null space contains all vectors perpendicular to row space
+- solve Ax=b when there is no solution
+- m>n
+- solving 3 equation with 2 unknown is impossible, but why...
+
 2023/02/15
 
 1500<->3000
