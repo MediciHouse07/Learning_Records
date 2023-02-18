@@ -622,6 +622,12 @@ finished,
 
 ### Lecture 14 <br>
 
+3000<->4500 Study the why
+
+2023/02/16
+
+- the solution is to any b1 b2 b3, when m=n and independent, there is one solution, when m>n there are only n pivot, resulted in 0=b, but b can be anything
+
 3000<->4500
 
 2023/02/16
