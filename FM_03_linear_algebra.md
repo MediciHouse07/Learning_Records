@@ -622,6 +622,18 @@ finished,
 
 ### Lecture 14 <br>
 
+3400<->End
+
+2023/02/17
+
+- a lot of right hand side with no solution
+- questionaire, meausring things, a lot of m but less n parameters
+- if it is invertible, if not what is its null space
+- more unknown is helpful in finding solution
+- rank of ATA equal rank of A
+- null space of ATA equal N A
+- ATA is invertible if A has independent columns
+
 3000<->4500 Study the why
 
 2023/02/16
