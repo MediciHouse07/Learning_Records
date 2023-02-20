@@ -288,6 +288,22 @@ minf'<=MVT=f'<=maxf';
 2022/03/23:💫 finished done, need to check anti derivative, go to previous lecture, maybe Lecture 15
 ### Lecture 18
 
+2023/02/18
+
+0000<->1500
+
+- fundamental theorem of calculus
+- FTC1
+- Fx is an indefinite integral of fx
+- area under one hump of sinx
+- surperfluous
+- intuitive interpretation
+- xt is position at time t
+- x't=dx/dt is vt
+- odometer
+- speedometer
+- obssesive
+
 2023/01/23
 
 3200<->End
