@@ -201,6 +201,21 @@ haha, math phobe
 10000 mins, the most important game in the world
 
 # Lecture 4
+
+2023/02/18
+
+0000<->1500
+
+- penalty pick game
+- smash
+- goalie
+- shooter
+- look at the extreme case
+- M is not a BR to any belief
+- shoot to middle
+- do not choose a strategy that is not a BR to any belief
+- I was thinking is it because that shooting the middle doesn't have a BR is because there is no payoff showed for the goalie for selecting the middle; but seems the shooter can choose the middle, and if his payoff is higher than 6 6, then there might be a place for him to believe shooting to the middle has more chance to win the game
+
 2022/05/08:
 0000<->3000
 0114 mins, penalty kick in soccer game;
