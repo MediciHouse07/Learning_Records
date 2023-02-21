@@ -202,6 +202,15 @@ haha, math phobe
 
 # Lecture 4
 
+2023/02/19
+
+1500<->3000
+
+- some aspects missing, for example, left hand right hand
+- nobody knows what the other side would do as if instantaneously
+- natural direction
+- for all payoff, or for expected payoff
+
 2023/02/18
 
 0000<->1500
