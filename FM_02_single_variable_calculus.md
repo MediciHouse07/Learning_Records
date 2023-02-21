@@ -353,6 +353,16 @@ minf'<=MVT=f'<=maxf';
 #### REX 2 2022/10/25
 #### REX 1 2022/05/07
 
+2023/02/19
+
+1500<->3000
+
+- reman sum approximate to integral
+- total distance, net distance
+- for type setting reason, the integral sign was stregthed
+- property of integral
+- not nec
+
 2022/10/27
 
 3000<->End
