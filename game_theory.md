@@ -202,6 +202,19 @@ haha, math phobe
 
 # Lecture 4
 
+2023/02/20
+
+3000<->4500
+
+- partnership game
+- 2 agent own firm jointly, share 50% of profit each
+- each agent choose her effort level to put into firm
+- continuous of strategies
+- firm profit is given by
+- effort cost
+- second derivative, to know whether it is maximum or minimum
+- after taking a derivative towards s1, then the BR function of s1 become a function of s2
+
 2023/02/19
 
 1500<->3000
