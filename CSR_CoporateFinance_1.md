@@ -180,6 +180,11 @@
 
 ## 1-6
 
+2023/02/20
+
+- cost of debt, bond
+- interest rate is different with return
+
 2023/02/03
 
 - 1000 severs 2 purposes, annual payment, final payment
