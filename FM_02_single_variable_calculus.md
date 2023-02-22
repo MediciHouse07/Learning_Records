@@ -337,6 +337,18 @@ minf'<=MVT=f'<=maxf';
 #### REX 2 2022/10/25
 #### REX 1 2022/05/07
 
+2023/02/20
+
+3000<->End
+
+- taylor series
+- example of estimation of integration
+- change of variables
+- change of variable only works if u' does not change sign
+- which variable is involved in the integration
+- x^2 is an example when u' change sign
+- plus and minus square root of u
+
 2023/02/19
 
 1500<->3000
