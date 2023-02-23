@@ -1,5 +1,12 @@
 ### Lecture 1:
 
+2023/02/21
+
+0000<->1500
+
+- first order ODEs
+- understand analytic solution and geometric solution
+
 2022/10/17
 
 3000<->End
