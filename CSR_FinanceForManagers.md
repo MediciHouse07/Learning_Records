@@ -330,6 +330,10 @@
 
 ## 1-8
 
+2023/02/21
+
+- DOI, how many days to sell all the inventory
+
 2023/01/25
 
 - DOI
@@ -338,6 +342,14 @@
 - inventory/daily cost
 
 ## 1-9
+
+2023/02/21
+
+- the first year stock too much
+- delay in DOI need extra financing
+- DOI is inverse of turnover
+- whose problem it is, is it a problem of inventory manager
+- financing implication
 
 2023/01/25
 
