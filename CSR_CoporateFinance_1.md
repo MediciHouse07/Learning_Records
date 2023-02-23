@@ -184,6 +184,16 @@
 
 - cost of debt, bond
 - interest rate is different with return
+- once bond is issued to the market, people can buy and sell, and the price will that people will to pay may change
+- cash flow of the bond doesn't change, but you are willing to pay more
+- mean annual return 10%
+- Yield 10%
+- base case
+
+2023/02/20
+
+- cost of debt, bond
+- interest rate is different with return
 
 2023/02/03
 
@@ -202,6 +212,17 @@
 
 ## 1-7
 
+2023/02/20
+
+- return, yield is measure of debt
+- Red date, expires date
+- bid yield
+- if that is your board statistics, accept it is the most wise thing
+- cost of debt, yield to maturity
+- borrow money from the bank is another source
+- borrow from the bank is also observable at least to the company itself
+- maybe bank rate will incline to the bank rate
+
 2023/02/04
 
 - y is an indicator, yield to maturity, cost of debt
@@ -212,6 +233,26 @@
 - CAPM
 
 ## 1-8
+
+2023/02/20
+
+- MRP market risk premium
+- compensate the lost of purchasing power
+- MRP historical difference between return on euqity between return on gov debt
+- MRP is the same for all the company in one country
+- beta is different for different company
+- beta magnify or mitigate market fluctuation
+- not losing purchasing power and bearing risk of buying equity
+- arguable issue on how to choose Rf MRP and beta
+- risk free rate, 10 years GOV bond has the highest propotion in terms of the vote
+- MRP, very different between the country, for US, 5-6%
+- euity market risk premium
+- beta 5 years majority
+- early 90s, telecom europe deregulate
+- 1-2 years is to short a period
+- debt, only looking at long term debt
+- market value reflect everthing we know about the company today
+
 
 2023/02/04
 
