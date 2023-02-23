@@ -301,6 +301,10 @@
 
 ## 1-6
 
+2023/02/21
+
+- the days they don't pay you make you have to finance those payment
+
 2023/01/25
 
 - days of collection
@@ -308,6 +312,14 @@
 - evolution of DOC
 
 ## 1-7
+
+2023/02/21
+
+- fulfill the policy correctly, what would change
+- shrink the size of receivable, result in shrink the size of liability side
+- it goes directly to the credit we need
+- is it a problem of management
+- is it a problem of customer
 
 2023/01/25
 
