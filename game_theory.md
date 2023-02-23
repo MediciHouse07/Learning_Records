@@ -202,6 +202,17 @@ haha, math phobe
 
 # Lecture 4
 
+# Lecture 4
+
+2023/02/21
+
+4500<->6000
+
+- there are some strategies are never a best response
+- iteration of BR
+- some were BR but after the iteration they were not BR anymore
+- analytic solution, graph solution
+
 2023/02/20
 
 3000<->4500
