@@ -1,5 +1,18 @@
 ### Lecture 1:
 
+2023/02/22
+
+1500<->3000
+
+- ISO cline
+- ISO cline is f(x,y)=c
+- ISO cline is dash line
+- line elements
+- inlcude of c=0
+- use iso cline to generate integral curve
+- typical solution has a limited domain
+- you don't know the domain of the solution until you calculate it
+
 2023/02/21
 
 0000<->1500
