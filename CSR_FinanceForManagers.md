@@ -360,6 +360,17 @@
 
 ## 1-10
 
+2023/02/22
+
+- days of payment
+- payable are related purchases
+- have bought and haven't paid
+- payables/daily purchases
+- promissory notes should be included in the amount of payable
+- read payable policy
+- stock initial + purchases-cogs=final stock
+- purcahse assume to be cogs
+
 2023/01/25
 
 - DOP
