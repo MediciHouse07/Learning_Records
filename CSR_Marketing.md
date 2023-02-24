@@ -29,3 +29,16 @@
 - 2001 no online business
 - mortgages, saving accounts, credit cards, check account
 - TBRT
+
+## 2-5
+
+2023/02/22
+
+- 2/3 of customer has not been penetrated
+
+## 2-6
+
+2023/02/22
+
+- no differentiate difference in terms of interest rate
+- objectives, short term, long term
