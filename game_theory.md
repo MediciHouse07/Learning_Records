@@ -202,7 +202,20 @@ haha, math phobe
 
 # Lecture 4
 
-# Lecture 4
+2023/02/22
+
+5700<->End
+
+- MCK consultant's skill
+- end up working not hard enough
+- cost, margin
+- full cost, half of the profit
+- externality
+- synergy
+- NE
+- at NE, neither payer has incentive to deviate
+- they are playing BR to each other
+- play the game repeatedly, it would end up in NE
 
 2023/02/21
 
