@@ -37,3 +37,20 @@
 - auctions, rewards, advertisement
 - how the court interpret the above 3 types of offers
 - counter offer, reject; revocation; operation of law
+
+
+## 6-1
+
+2023/02/23
+
+- acceptance of a offer
+- unequivical
+- yes, I accept is equivical
+- can't change the term of offer
+- make a term as a counter offer
+- properly communicated
+- widgets
+- mailbox rule
+- the moment you deposit the offer, the minute you hit the send, as long as you haven't receive that revoke information
+- mirror image rule
+- a piece of equipment, the equipment, the later are equivalant with the former
