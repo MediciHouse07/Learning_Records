@@ -1,5 +1,20 @@
 ### Lecture 1:
 
+2023/02/23
+
+3000<->End
+
+- slanty
+- carder
+- escapa either of side
+- solution can't escape
+- can't have 2 slopes
+- all the solutions behave, as x goes to infinity, x=y
+- 2 integral curve can't be tangent
+- otherwise curve can join, curve can escape
+- exist and uniqueness therom
+- a differential equation has one and only one solution through x0y0
+
 2023/02/22
 
 1500<->3000
