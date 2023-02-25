@@ -1,5 +1,13 @@
 # Week1
 
+## 3-1
+
+2023/02/23
+
+- different way of calculating return, different way of thinking about return and risk
+- risk:volatility the main way of evaluating the risk
+- risk:beta, non systematric are removed
+
 2023/02/16
 
 - cost of debt, yield to maturity
