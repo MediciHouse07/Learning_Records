@@ -102,6 +102,21 @@
 - have people to not to eat potatoes today to have investment
 - shady character
 
+# Lecture 13
+
+2023/02/23
+
+0000<->1500
+
+- no prices, only aggregate demand, AD and aggregate supply
+- macro economy
+- marginal utility, substitution effect
+- income effect
+- macro economy, when say price increase, all the price increase
+- aggregate expenditure
+- when do investment, spending increases
+- AE=C+I+G+X-M
+
 
 ## Lecture 18
 2022/03/13: 1446/4737
