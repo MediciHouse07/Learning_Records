@@ -381,6 +381,11 @@
 
 ## 1-11
 
+2023/02/23
+
+- DOC, does they know their performance, the actual underneath
+- bank line of credit, is the focus
+
 2023/01/25
 
 - all the section has deterioration
