@@ -69,3 +69,25 @@
 - consider the background that today it only has 6% market share
 - confusion<>adoption, that means not to launch too many products
 - existing customer base
+
+## 2-8
+
+2023/02/24
+
+- main sources of income
+- main sources of expenses
+- flexible way of financing, that's the reason people would pay the rate???
+- for different reasons,  there are outstanding portfolio
+- deliquency, customer attrition, revolving customer
+
+## 2-9
+
+2023/02/24
+
+- needs and wants
+- low initial cost, low maintiance cost car
+- service
+- unstated needs
+- strategic asset
+- social demographic
+- behaviour basis
