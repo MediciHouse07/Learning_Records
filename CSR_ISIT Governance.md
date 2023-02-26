@@ -65,3 +65,10 @@
 - data integration required, processes
 - coperate level, local application level BU level
 - serving business goals
+
+# 2-2
+
+2023/02/24:
+
+- organization chart and CIO, how would it affect a company
+- IT governance spetrum, mostly are centralized, 40% around
