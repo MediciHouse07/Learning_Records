@@ -104,6 +104,24 @@
 
 # Lecture 13
 
+2023/02/24
+
+1500<->End
+
+- consumption depends on income
+- value of production = wages rents interests profits
+- total income, total production
+- transfers, unemployment insurances, retirement benefits
+- the point of GDP is production
+- T-TR net taxes
+- C=a+bDI
+- marginal change
+- small change in income, how would it affect production, GDP
+- GDP is a measure of production
+- marginal propensity of consumption
+- how to decide the consumption with respect to DI, it is a linear function of DI, a+bDI
+- marginal propensity of consumption, if you don't consume, you save
+
 2023/02/23
 
 0000<->1500
