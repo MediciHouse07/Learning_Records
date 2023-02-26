@@ -83,15 +83,25 @@ to before is the public at large
 
 ## 384/453
 
-2023/02/14
+2023/02/24
 
-- don't get the formula, it should be w>2x
-- but by intuition it is w>x because if there is no failure product, then there is no reimbursement and loss
-
-## 384/453
+- admissible
+- boldface
+- be careful, it is not 3nx it is nx when PB=0, please don't miss the negative sign
 
 2023/02/15
 
 - hatch
 - apply L'p rule, shows that it is nx not 2nx, question, does L'p rule still work if it is to infinity
 - translate the seller's gain graph and buyer's gain graph to x y hatch region
+
+2023/02/14
+
+- don't get the formula, it should be w>2x
+- but by intuition it is w>x because if there is no failure product, then there is no reimbursement and loss
+
+## 385/453
+
+2023/02/24
+
+- inadmissible region for equilibrium probabilities
