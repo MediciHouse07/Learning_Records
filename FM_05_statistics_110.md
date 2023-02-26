@@ -682,6 +682,17 @@ End mins
 2900 mins, e^x = (1+x/n)^n, compound annual ?interest?;
 3700 mins, Iijk indicator R.V.
 ### Lecture 12 <br>
+
+2023/02/24
+
+- PMF PDF
+- probability per something, PDF probability density function
+- defn, r.v X has PDF fx if P(a<=X<=b), integrate this PDF you get probability
+- to be valid, fx>=0 integrate to be 1
+- in a very small interval, the integral can be function times a constant
+- continuous in this case means x can take continuous variable
+- F is CDF, P is PDF PMF
+
 2022/04/02: finished, around 1616 minutes FTC from calculus; 3803 minutes, take a function of R.V. is a R.V. ; law of the unconsicious stastician, LOTUS E(g(x))=accumulate from -infinite to +infinite g(x)fX(x)dx; uniform can be everything, just like a indicator I, 4907 minutes, P(F-1(u)<=x)=P(u<=F(x)) because CDF is continously increasing <br>
 2022/04/27: finished, 0300 mins, fX(x) specific for PDF, P(X=x) is PMF, f(x) is not probability but it is PDF, intergral is probability;
 1500 mins, FTC;
