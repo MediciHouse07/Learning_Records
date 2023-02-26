@@ -394,6 +394,14 @@
 
 ## 1-12 Video 9 Forecast of the P&L
 
+2023/02/24
+
+- forecast of balance sheet start with forecast of P&L
+- history growth of sales
+- future reference other company
+- economic growth environment
+- ebitda is the difference between the gross margin and opex
+
 2023/01/26
 
 - sales is the first thing
