@@ -72,3 +72,16 @@
 
 - organization chart and CIO, how would it affect a company
 - IT governance spetrum, mostly are centralized, 40% around
+
+# 2-3
+
+2023/02/25
+
+- decision making structure, decision making processes
+- different decision making structure
+- Business/IT Relationship managers are boundary spanners who understand IT affordances as well as business processes. They are used to define business process requirements. Review starting at 1:25.
+- IT investment approval process
+- business goals, IT governance approach
+- IT profitability, growth, balance of the 2
+- synergy, autonomy, tradeoff
+- business application considered in federal way
