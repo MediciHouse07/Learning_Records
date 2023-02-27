@@ -91,3 +91,48 @@
 - strategic asset
 - social demographic
 - behaviour basis
+
+## 2-10
+
+2023/02/25
+
+- air-line segment customer
+- position different product even brand
+- how much money to invest in each segment
+- design a unique value proposition
+- customer, force
+
+## 2-11
+
+2023/02/25
+
+- demographic segmentation
+- behaviour segmentation
+- loyal to their original product, easy to change
+- customer that churn or rotate, alternative segmentations
+- involuntary rotation
+- niche product
+
+## 2-12
+
+2023/02/25
+
+- industrial market segmentation
+- purchase process, purchase decision, company variables
+- size location
+- techonology
+- level of impact you would have in P&L
+- industrial markets, consumer market
+
+## 2-13
+
+2023/02/25
+
+- design
+- monitor the environment, political, legal, global...
+- eyes and ears of the corporation
+- marketing research
+- problem idenfication, problem solving
+- exploratory research design
+- conclusive research design
+- descriptive causal
