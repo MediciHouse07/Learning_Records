@@ -290,6 +290,21 @@ externality, my benefit not only benefit me, but also you
 10940 mins, on Nash Equilibrium, player 1 and player 2 neither of them have incentive to deviate their behaviour, and they are plaing a best response to each other;
 
 # Lecture 5
+
+2023/02/25:
+
+0000<->1500
+
+- everyone's choice is a best response to everyone's choice
+- it is not always the game people always play NE
+- no regrets
+- has no incentive to deviate
+- no one can do strictly better by deviating holding others fixed
+- NE self fulfilling belief
+- everyone believe
+- only NE point everyone no regret
+- self fulfilling belief
+
 2022/05/09:
 0000<->3000
 0048 mins, profile is a collection a strategy each player choose; One strategy for each players;
