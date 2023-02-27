@@ -418,6 +418,11 @@
 
 ## 1-13 Video 10
 
+2023/02/25:
+
+- theory, how to do forecast of balance sheet
+- Receivable t+1, use DOCt times daily sales t+1, which was calculated from sales t+1
+
 2023/01/26
 
 - financial expense thing is related to the B/S
@@ -432,6 +437,11 @@
 - forecast to the BS
 
 ## 1-14
+
+2023/02/25
+
+- non current asset
+- NI is net income and net income doesn't contain expenses
 
 2023/01/26
 
