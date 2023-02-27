@@ -683,7 +683,23 @@ End mins
 3700 mins, Iijk indicator R.V.
 ### Lecture 12 <br>
 
+2023/02/25:
+
+1500<->3000
+
+- FTC version 2
+- foundamental therom of calculus
+- F is assumed to be always differentiable
+- one number of summary
+- absolute value, V shape, not differentiable
+- mile, square of mile
+- EX is a constant
+- Variance inequality
+- uniform distribution
+
 2023/02/24
+
+0000<->1500
 
 - PMF PDF
 - probability per something, PDF probability density function
