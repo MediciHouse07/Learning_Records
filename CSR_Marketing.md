@@ -145,3 +145,16 @@
 - country growth potential
 - focus groups
 - procter & gamble
+
+## 2-15
+
+2023/02/26
+
+- capsule
+- quantify the demand
+- travelling to space
+- Bloon
+- what is the demand, who is the people who is going to pay
+- some times it is diffult to narrow down the uncertainty
+- to reduce uncertainty
+- decision aid
