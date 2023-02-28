@@ -291,6 +291,14 @@ externality, my benefit not only benefit me, but also you
 
 # Lecture 5
 
+2023/02/26
+
+- BR coincide to one point, analogos
+- C and R are tied
+- relate NE to dominance
+- strictly dominanted strategy is never a BR to anything
+- no one has a strict incentive to deviate
+
 2023/02/25:
 
 0000<->1500
