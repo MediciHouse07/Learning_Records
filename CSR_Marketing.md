@@ -136,3 +136,12 @@
 - exploratory research design
 - conclusive research design
 - descriptive causal
+
+## 2-14
+
+2023/02/26
+
+- does the research know the question, yes, problem solving; if no, problem idenfication
+- country growth potential
+- focus groups
+- procter & gamble
