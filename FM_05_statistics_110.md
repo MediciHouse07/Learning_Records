@@ -683,6 +683,17 @@ End mins
 3700 mins, Iijk indicator R.V.
 ### Lecture 12 <br>
 
+2023/02/26
+
+- uniform distribution
+- completely random, the probability for all the points are the same
+- uniform probabity is propotional to length
+- F(x) increases linearly
+- Law of the unconscious statistician, LOTUS
+- variance of unif(0,1)
+- from uniform you can simulate any distribution no matter how complicated it is
+- universality of uniform
+
 2023/02/25:
 
 1500<->3000
