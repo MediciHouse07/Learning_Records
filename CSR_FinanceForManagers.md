@@ -465,6 +465,11 @@
 
 ## 1-15
 
+2023/02/26
+
+- other can be put into 0 or 10 or something
+- liability is small, give it 0
+
 2023/01/27
 
 - other, put to 10 or 0
