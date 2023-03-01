@@ -176,3 +176,24 @@
 
 - value proposition
 - emotional and intangible proposation
+
+# Week 2
+
+## 1-3
+
+2023/02/27
+
+- distribution
+- channel design
+- demand
+
+## 1-4
+
+2023/02/27
+
+- product, pricing, channel
+- a bundle of attributes capable of exchange or use
+- augmented product, additional attributes
+- turn wheel
+- augmented, warranty, maintainence, channel of distribution
+- itunes makes ipod became the blockbuster
