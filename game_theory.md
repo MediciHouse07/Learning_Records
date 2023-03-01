@@ -291,6 +291,19 @@ externality, my benefit not only benefit me, but also you
 
 # Lecture 5
 
+2023/02/27
+
+3000<->4500
+
+- invest 0 or invest 10
+- payoffs
+- if you do not invest, then 0
+- if you invest
+- similarity of the 2 games
+- guess and check
+- when a lot of players, not too much choices
+- interation of experiments converge to an equalibrium
+
 2023/02/26
 
 - BR coincide to one point, analogos
