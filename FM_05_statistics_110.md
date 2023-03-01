@@ -681,7 +681,18 @@ End mins
 2200 mins, poisson can have different Pj, events can be dependent;
 2900 mins, e^x = (1+x/n)^n, compound annual ?interest?;
 3700 mins, Iijk indicator R.V.
+
 ### Lecture 12 <br>
+
+2023/02/27
+
+-15mins<->End
+
+- VAR X
+- need PDF of Y
+- traditional way is to find out distribution of gx first, then calculate the expectation
+- by LOTUS, you can use the distribution of x
+- strictly increasing makes inverse of it still hold inequality, and continuous
 
 2023/02/26
 
