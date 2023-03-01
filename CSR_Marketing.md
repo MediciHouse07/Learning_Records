@@ -158,3 +158,21 @@
 - some times it is diffult to narrow down the uncertainty
 - to reduce uncertainty
 - decision aid
+
+## 2-16
+
+2023/02/27
+
+- target market, positioning
+- the marketing process
+- differential
+- concentrate resources
+- gain value from different types of customers
+- how to propose different proposal with same asset
+
+## 2-17
+
+2023/02/27
+
+- value proposition
+- emotional and intangible proposation
