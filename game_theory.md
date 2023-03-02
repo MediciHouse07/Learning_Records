@@ -291,6 +291,20 @@ externality, my benefit not only benefit me, but also you
 
 # Lecture 5
 
+2023/02/28
+
+4500<->6000
+
+- converge rapidly to a bad equalibrium
+- bad porato dominated bad
+- if the number of people invested in the first time is larger than threshold, than it would converge to another way
+- self fulfilling prediction
+- this is not prisoner delima
+- this is a coordination game
+- party is a coordination game
+- chant
+- entirety
+
 2023/02/27
 
 3000<->4500
