@@ -484,6 +484,8 @@
 
 ## 1-16
 
+2023/02/28
+
 2023/01/27
 
 - poly panel needs more and more cash year by year
@@ -496,6 +498,11 @@
 
 ## 1-17
 
+2023/02/28
+
+- receviable increase; sales increase or DOC change
+- DOC change, is it because customer, is it because management
+
 2023/01/27
 
 - AR increase, sales increase, DOC increase
@@ -504,6 +511,7 @@
 2023/01/25
 
 - anyway in every year they need more finance is not something good
+
 
 # Week3
 
