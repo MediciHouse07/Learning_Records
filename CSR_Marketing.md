@@ -197,3 +197,9 @@
 - turn wheel
 - augmented, warranty, maintainence, channel of distribution
 - itunes makes ipod became the blockbuster
+
+## 1-5
+
+2023/02/28
+
+- augmented
