@@ -690,6 +690,14 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2023/02/28
+
+0000<->1500
+
+- column space, any vector times column space always land in the column space
+- column times a row, rank 1 matrix
+- after it is projected to the column space, it can't escape
+
 2022/10/13
 
 3300<->End
