@@ -203,3 +203,15 @@
 2023/02/28
 
 - augmented
+
+## 1-6
+
+2023/03/01
+
+- estimate product demand
+- volume, number of buyer times quantity per buyer
+- value, volume times average unit price
+- adoption, volume, value
+- level of penetration
+- level of penetration after one two three years
+- reference the adoption curve for other unit
