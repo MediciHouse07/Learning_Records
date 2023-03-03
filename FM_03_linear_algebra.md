@@ -690,6 +690,16 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2023/03/01
+
+1500<->3000
+
+- Ax is always in the column space, b may not be in the column space, but we can find the x hat that makes the closest b'
+- plane of column space of a1 a2 matrix
+- turn a pair of formulas to quation
+- error vector is in the subspace, e is null space of A transpose
+- e is in the null space of A transpose, e is perpendicular to column space of A
+
 2023/02/28
 
 0000<->1500
