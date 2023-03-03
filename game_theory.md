@@ -291,6 +291,20 @@ externality, my benefit not only benefit me, but also you
 
 # Lecture 5
 
+5400<->End
+
+2023/03/01
+
+- bank run example
+- FDIC, it resolves the bank run problem
+- a speech makes the equalibrium to the good equalibrium
+- that speech is a job, and it is a good job
+- by just point out the good side
+- but it doesn't work in prisoner's dilima case
+- the reason it works because it the bank run game is not strictly dominated strategy
+- coordination problem, communication can help, contract doesn't need exist, it can be self enforcing agreements, because of NE
+- prisoner dilema needs an agreement, there are no 2 NEs
+
 2023/02/28
 
 4500<->6000
