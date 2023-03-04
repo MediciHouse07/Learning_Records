@@ -215,3 +215,20 @@
 - level of penetration
 - level of penetration after one two three years
 - reference the adoption curve for other unit
+
+## 1-7
+
+2023/03/02
+
+- estimating demand for innovative product
+- preferences are unknown and undtable
+
+## 1-8
+
+2023/03/02
+
+- introduction, growth, maturity, decline
+- low sales high costs no profits, increasing sales reducing costs some profits, constant sales reducing costs increasing profits, reducing sales constant costs reducing profits
+- because the product is going to drop, so no investment will be made, a constant cost makes sense
+- grow your product portofolio to diversify the risks
+- portofolio of products, analogos to stock
