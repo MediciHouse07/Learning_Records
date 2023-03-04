@@ -29,6 +29,15 @@
 
 ## 1-5
 
+2023/03/02
+
+- when yearly return are the same on every year, AM=GM
+- volatility, variability
+- the higher the fluctionation, the larger the AM-GM
+- 1 year US t bills
+- 100 basis point is 1 percent
+- AM-GM is important
+
 2023/01/31
 
 - only the rate are the same AM=GM, otherwise AM>GM
