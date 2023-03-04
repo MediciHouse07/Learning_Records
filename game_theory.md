@@ -389,6 +389,14 @@ finished, 10000<->End,
 10640 mins, after a speech, in this case, he is not trying to persuade you to play a dominated strategy, he persuade you to play a NE; contract is mentioned; NE can be self enforcing agreement;
 
 # Lecture 6
+
+2023/03/02
+
+- coordination game, try to coordinate to a NE
+- coordination game, has a scope for leadership
+- game of strategic complements, the more your partner are going to do, the more you are going to do
+- it is harder to get communication game
+
 2022/05/12:
 0000<->4109
 0000 mins, coordination game, investment game, coordination game can be changed by a speech;
