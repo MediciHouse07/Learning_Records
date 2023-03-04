@@ -690,6 +690,12 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2023/03/02
+
+- if A square matrix that has inverse, than the column space of A is the whole space, so the projection to the b is still b itself
+- projecting the whole space, it won't project, it project it to a sub space, than there is a projection
+- understand PT=P???
+
 2023/03/01
 
 1500<->3000
