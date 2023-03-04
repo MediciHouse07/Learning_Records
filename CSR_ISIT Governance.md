@@ -1,6 +1,6 @@
 ## Week 1
 
-#1-3 1.1-1
+# 1-3 1.1-1
 
 2022/11/24
 
@@ -8,7 +8,7 @@
 - MIS quarterly, Information Systems Research, Journal of Management Information Systems
 - Strategic information technology management
 
-#1-4 1.1-2
+# 1-4 1.1-2
 
 2022/11/24
 
@@ -18,7 +18,7 @@
 - overrun budget, behind schedule, fail expectation
 - operational, tactical, strategic
 
-#1-5 Video 1-3 
+# 1-5 Video 1-3 
 
 2022/11/12
 
@@ -29,7 +29,7 @@
 - short benefit
 - IT governance is a response to these problems
 
-#1-6 1-4 Video
+# 1-6 1-4 Video
 
 2022/11/13
 
@@ -39,7 +39,7 @@
 - what if they are failed to perform a role
 - sterring committee, IT investment prioritization process
 
-#1-7 1-5 Video
+# 1-7 1-5 Video
 
 2022/11/18
 
@@ -85,3 +85,12 @@
 - IT profitability, growth, balance of the 2
 - synergy, autonomy, tradeoff
 - business application considered in federal way
+
+## 3-1
+
+2023/03/02
+
+- operating model
+- standardization reduce the variance of the company's
+- the degree to which a company want to centralize its data
+- shared process, shared data, not equivalent
