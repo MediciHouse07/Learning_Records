@@ -517,11 +517,23 @@
 
 ## 1-3
 
+2023/03/02
+
+- DOC, number of days
+- DOI, number of days I take to sell my inventory
+- DOP
+
+
 2023/01/27
 
 - recap
 
 ## 1-4
+
+2023/03/02
+
+- every day of delay of payment has a financial impact
+- think in sustainable growth way, they grow too much the slope of NOF is much higher than the slope of WC
 
 2023/01/27
 
