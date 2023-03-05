@@ -542,6 +542,13 @@
 
 ## 1-5
 
+2023/03/03
+
+- assume they can manage DOC well
+- what if not to use deteriorated ratios
+- even in the good policy, the problem won't be solved as well
+- as we grow, the NOF grows faster than WC
+
 2023/01/27
 
 - suppose to use another ratios to do the forecast
