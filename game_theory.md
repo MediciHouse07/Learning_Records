@@ -390,7 +390,35 @@ finished, 10000<->End,
 
 # Lecture 6
 
+## REX 2 2023/03/03
+
+2023/03/03
+
+1500<->End
+
+- battle of the sexes
+- cournot
+- it lies in between perfect competition and monopoly
+- constant marginal cost
+- differentiate the revenue function and get a BR function for firm 1 and firm 2
+- player firm 1's best response as a function of q2
+- monopoly quantity
+- MR=MC has the monopoly quantity
+- perfect competition quantity
+- cournot quantity
+- in the partnership game, the slope is up
+- not a strategic complement, it is strategic substitues
+- total industry profit is maximized at the monopoly quantity
+- monopoly quantity in between also maximize the profit
+- it is ilegal to sign a contract
+- a verbal agreement, but both has incentive to cheat
+- another firm is going to join the market and break the contract that the companies signed
+- opec was created to restrict the quantity
+- the battle between buyer and seller
+
 2023/03/02
+
+0000<->1500
 
 - coordination game, try to coordinate to a NE
 - coordination game, has a scope for leadership
