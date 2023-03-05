@@ -690,6 +690,12 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2023/03/03
+
+3300<->End
+
+- construct the formula, and translate it to a matrix problem
+
 2023/03/02
 
 - if A square matrix that has inverse, than the column space of A is the whole space, so the projection to the b is still b itself
