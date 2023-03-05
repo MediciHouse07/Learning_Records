@@ -44,7 +44,15 @@
 - 100 bases point is 1%
 - lie to you without lieing to you
 
-## 1-6
+## 1-6 Week 2
+
+2023/03/03
+
+- summarizing mean return
+- return calculate the same, risk has different measures
+- SD standard deviation of returns
+- Beta-W country market relative to the world market
+- 17%-20% US hist equity volitity, 8%-11% US hist bond volatility
 
 2023/02/01
 
