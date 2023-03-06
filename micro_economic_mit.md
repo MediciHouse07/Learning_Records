@@ -1,5 +1,19 @@
 # Lecture 1
 
+2023/03/04
+
+0000<->1500
+
+- upfront
+- scarcity, constrained optimization, tradeoffs, opportunity cost, every action has a cost of you could have been done otherwise(next best alternative)
+- dismal science
+- engineering has constrained optimization
+- description between 2 or more subjection
+- hard science, social science
+- can't think supply and demand in isolation
+- macro supply and demand curve
+- Fx FTC in statistics
+
 2022/11/18
 
 1935<->End
