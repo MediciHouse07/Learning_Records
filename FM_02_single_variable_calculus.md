@@ -422,6 +422,16 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2023/03/04
+
+0000<->1500
+
+- FTC1 compare with MVT
+- think about average, continuous case and discrete case
+- MVT is more simple mind, use FTC1
+- minF' maxF'
+- pay attention to inequality in the test example
+
 2022/11/07
 
 3425<->End
