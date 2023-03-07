@@ -591,6 +591,13 @@
 
 ## 1-7
 
+2023/03/05
+
+- credit line is extra piece outside of NFO and WC, it is on the liability side
+- because 5 is not enough to finance 10
+- WC another definition current asset minus current liability
+- not current, not asset
+
 2023/01/28
 
 - simplified structure to BS
@@ -598,6 +605,13 @@
 
 
 ## 1-8
+
+2023/03/05
+
+- NOF for operations, WC capital left after financing the fixed asset
+- growth of NFO is bigger than growth of WC, derivative
+- difference between the 2 is credit
+- concise, concrete, clear, complete; it has to be relavant to the topic
 
 2023/01/28
 
