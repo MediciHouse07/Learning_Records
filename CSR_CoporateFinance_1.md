@@ -82,6 +82,16 @@
 - yahoo fianance
 - defensive company pharmaceutical
 
+## 1-8
+
+2023/03/05
+
+- risk is in the eyes of beholders
+- periodic returns
+- difference is increasing with the volatility of the market
+- the risk can't diversify away, beta
+- individual asset, SD; portofolio beta
+
 # Week2
 
 ## 1-End
