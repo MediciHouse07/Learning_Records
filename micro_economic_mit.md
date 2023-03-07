@@ -1,5 +1,19 @@
 # Lecture 1
 
+2023/03/05
+
+1500<->3000
+
+- market equalibrium
+- positive vs normative
+- market failures, it doesn't work as economic think it should, fraud, imperfect info(people don't bear the needed knowledge of something)
+- equity, faireness, only rich people get
+- bahaviour econ, people make mistakes
+- right wing science, no intervention
+- capitalist economy
+- captalist nature of the nature
+- command economy, 1989
+
 2023/03/04
 
 0000<->1500
