@@ -565,9 +565,17 @@
 - rotate the slice
 - u tangent to level, angle is 90 degree
 
-# Week3
 
-## 1-6
+## 1-6 Week 3
+
+2023/03/05
+
+- inventory need finance, because you don't directly sell the things you purchase
+- AR needs finance, because you didn't receive
+- and part of the operation are financed by payable
+- NFOs are use of funds
+- NFO depends on sales, sales growth, NFO growth
+- the part that long term finance the operation
 
 2023/01/28
 
