@@ -63,7 +63,15 @@
 - dispersion
 - beta-w
 
-## 1-7
+## 1-7 Week2
+
+2023/03/05
+
+- expected require of return of asset
+- beta measure of relative risk
+- SD relative in terms of comparison
+- beta is fluctuation to market
+- emerging market with high beta
 
 2023/02/01
 
