@@ -422,6 +422,18 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2023/03/05
+
+1500<->3000
+
+- graph way of interpreting it
+- Riemann sum with one rectangle
+- lower R.S is less than integral and less than upper Riemn sum
+- MVT boundary are irrelavant
+- FTC2
+- if Gx=integral ft, then G'=fx
+- Gx solves the differential equation
+
 2023/03/04
 
 0000<->1500
