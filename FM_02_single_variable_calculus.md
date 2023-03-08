@@ -422,6 +422,19 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2023/03/06
+
+3000<->4500
+
+- proof of FTC2
+- graph way of proving it
+- proof of (from a to x)G'=f
+- proof of FTC1 assuming f is continuous
+- start with F'=f, derive FTC1 through FTC2 and MVT, F is unknown in the calculation
+- using derivative of F to understand F
+- solve differential equation
+- start from polynomial to transcendental function
+
 2023/03/05
 
 1500<->3000
