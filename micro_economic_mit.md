@@ -1,5 +1,17 @@
 # Lecture 1
 
+2023/03/06
+
+2000<->End
+
+- sell fake, market failure
+- fraud not legitemate
+- imperfect information, we don't know
+- model the nature of those mistakes
+- take their factor out
+- two extreams, capitalist economy, command economy
+- allocation problem is an art
+
 2023/03/05
 
 1500<->3000
