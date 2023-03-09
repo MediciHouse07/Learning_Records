@@ -422,6 +422,16 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 4152 mins, the reason for using dx or du;
 ### Lecture 20
 
+2023/03/07
+
+3400<->End
+
+- because F' times delta x equals to F delta
+- so Fx=Gx+C
+- proof of FTC1
+- not with rationale coefficient
+- log transendental, pi, transendental
+
 2023/03/06
 
 3000<->4500
