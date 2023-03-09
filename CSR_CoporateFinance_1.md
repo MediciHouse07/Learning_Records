@@ -82,7 +82,7 @@
 - yahoo fianance
 - defensive company pharmaceutical
 
-## 1-8
+## 1-8 Week2
 
 2023/03/05
 
@@ -92,10 +92,6 @@
 - the risk can't diversify away, beta
 - individual asset, SD; portofolio beta
 
-# Week2
-
-## 1-End
-
 2023/02/02
 
 - periodic returns
@@ -104,6 +100,12 @@
 # Week3
 
 ## 1-2
+
+2023/03/07
+
+- mean return assessing risk, SD beta assessing risk
+- expose to more risk, would like to get a higher level of return
+- a typical investor is risk averse
 
 2023/02/02
 
