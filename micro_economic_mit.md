@@ -114,6 +114,20 @@ finished,
 ## REX 2 2022/05/19
 ## REX 1 2022/05/14
 
+2023/03/07
+
+0000<->1500
+
+- how firm decide production decisions
+- preferences, budget constraint
+- unconstrained choice
+- preference assumptions
+- completeness, can't say I don't know
+- transitivity
+- non satiation, more is better
+- Indifference curve
+- 4 properties
+
 2022/05/13:
 begin<->1500 how to use indifference curve to make decision
 0127 mins, this course is about model of constraint and maximization;
