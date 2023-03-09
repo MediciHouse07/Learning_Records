@@ -620,7 +620,14 @@
 - concise, concrete, clear, complete
 
 
-## 1-9
+## 1-9 Week3
+
+2023/03/07
+
+- it needs more financing than the company could generates
+- offer discount to pay cash
+- but how much, this is a policy
+- but small percent of discount is not attractive, but this is a part where you can simulate
 
 2023/01/28
 
