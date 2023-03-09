@@ -232,3 +232,13 @@
 - because the product is going to drop, so no investment will be made, a constant cost makes sense
 - grow your product portofolio to diversify the risks
 - portofolio of products, analogos to stock
+
+## 1-9
+
+2023/03/07
+
+- ansoff matrix
+- existing market new market, existing product, new product
+- new product into existing market ABInbev
+- new product new market, nespresso
+- riskiness, they didn't talk about opportunity
