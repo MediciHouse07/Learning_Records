@@ -741,6 +741,21 @@ End mins
 4423 mins, unif(0,1) can generate all distribution;
 4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
+
+2023/03/08
+
+0000<->1500
+
+- garbage in garbage out in bayes rule
+- any function has the property of the CDF then it is a CDF
+- self referential
+- TBRT
+- take one example exponential distribution
+- 1100 mins simulation example, and universality example
+- solve the inverse equation in terms of another variable
+- symmetry of uniform
+- linear of uniform is uniform, non linear is not uniform
+
 2022/04/02: finished, 0039 minutes court UK, can't use bayes to defends; 0701 take a function of R.V. is still R.V.; 1200 minutes, simulation; 1455 minutes, linear uniform -> uniform, non-linear uniform -> non-uniform; 1640 independent R.V. and independent event; 3508 double intergral; 3743 handout, jacobian, math about integration <br>
 2022/05/02: finished, 0300 mins, universality of universe, CDF, right continus, <- = 0, -> = 1, strictly increase;
 1-1/e^x, exponential distribution;
