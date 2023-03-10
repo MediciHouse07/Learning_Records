@@ -636,6 +636,15 @@
 
 ## 1-10
 
+2023/03/08
+
+- inventory is a competitive advantage of the company in the example
+- payable
+- days of XXX is about policy of company
+- payable, we pay in cash, 2% discount if we pay in cash
+- get financing from the bank, and pay supplier in cash in the beginning
+- discount to pay early means charging us for not paying cash
+
 2023/01/28
 
 - strategic advantage is the inventory
