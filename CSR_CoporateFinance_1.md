@@ -183,7 +183,13 @@
 - fully financed by equity
 - cost of debt, cost of equity together is cost of capital, it may have more terms involved in the calculation
 
-## 1-3
+## 1-3 Week 3
+
+2023/03/08
+
+- portofolio, propotion of managing capital
+- constant 21.7%
+- the critical role of correlation
 
 2023/02/03
 
