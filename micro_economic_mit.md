@@ -114,6 +114,24 @@ finished,
 ## REX 2 2022/05/19
 ## REX 1 2022/05/14
 
+2023/03/08
+
+1500<->3000
+
+- graphically mathematically intuitively
+- what is your utility function
+- from preference curve to utility function
+- utility is ordinal, not cardinal
+- Mu
+- marginal utility of cookie, is utility you gain for the next cookie
+- holding costant pizza, utility function of cookie
+- Mu function is always positive
+- slope of indifference curve MRS marginal rate of substitution
+- delta P/ delta C
+- diminishing of Mu cause MRS diminishing
+- MRS 2 form, -muc/mup
+- understand diminishing Mu cause diminishing MRS
+
 2023/03/07
 
 0000<->1500
