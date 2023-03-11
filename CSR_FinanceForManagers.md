@@ -651,7 +651,16 @@
 - early payment to the suppliers
 - get financing from the bank pay the supplier in cash in the beginning
 
-## 1-11
+## 1-11 Week3
+
+2023/03/09
+
+2600<->End
+
+- working on NFO can shift the angle
+- working on WC can only shift the curve
+- the company in the course doesn't hold collateral, it is hard for them to get LTD
+- connection between the P&L and BS is profit
 
 2023/01/28
 
