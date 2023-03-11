@@ -114,6 +114,14 @@ finished,
 ## REX 2 2022/05/19
 ## REX 1 2022/05/14
 
+2023/03/09
+
+2600<->End
+
+- MRS's absolute value diminishing
+- convex to origin
+- if it is concave, then it violates diminishing marginal utility, diminishing MRS
+
 2023/03/08
 
 1500<->3000
