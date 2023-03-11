@@ -94,3 +94,12 @@
 - standardization reduce the variance of the company's
 - the degree to which a company want to centralize its data
 - shared process, shared data, not equivalent
+
+
+## 3-2
+
+2023/03/09
+
+- city plan
+- architecture plan, the similar
+- IT architecture evolution
