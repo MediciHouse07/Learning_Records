@@ -742,6 +742,15 @@ End mins
 4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
 
+2023/03/09
+
+0000<->1500
+
+- start with a CDF, not to start with a random variable
+- rewrite the formula in terms of u
+- the value of inverse function and simulation
+- linear is uniform, u square is not uniform
+
 2023/03/08
 
 0000<->1500
