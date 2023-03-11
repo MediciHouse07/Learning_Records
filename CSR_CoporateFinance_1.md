@@ -116,6 +116,12 @@
 
 ## 1-3
 
+2023/03/09
+
+0000<->0500
+
+- correlation, identify one variable so that some info of another variable are detected
+
 2023/02/02
 
 - proportion of your money
