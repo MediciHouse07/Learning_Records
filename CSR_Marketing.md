@@ -250,3 +250,15 @@
 - 38 units generate profit, the business exist
 - different goal, eliminate competition, trial
 - utilize spare factory
+
+## 1-13
+
+2023/03/10
+
+- bottom up approach, cost
+- value to consumers
+- top down approach
+- value pricing
+- perceived value
+- cost+value captured<=price<=WTP<=perceived value<=value to consumers
+- marketing,maximized perceived value
