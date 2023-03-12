@@ -130,6 +130,13 @@
 
 ## 1-4
 
+2023/03/10
+
+0500<->End
+
+- determinestic evaluation
+- market factor pull the return of all the company in the same direction, on average and over time
+
 2023/02/02
 
 - direction and strength
