@@ -742,6 +742,22 @@ End mins
 4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
 
+1500<->4000
+
+2023/03/10
+
+- independence, joint PMFs, joint CDFs
+- fully independence
+- pair wise independence is not enough to claim independence
+- give him credit
+- adding a large number of r.v. the result is going to be in the same shape, bell shape curve
+- dding a lot of iid looks normal
+- c is whatever constant we need to make function to be one
+- write the same thing twice
+- understand how to rearrange the order of elements in a formula
+- jacobian, read math review
+- transform in more than one dimension, times it by jacobian
+
 2023/03/09
 
 0000<->1500
