@@ -250,6 +250,15 @@ End
 ## REX 2 2022/07/22
 ## REX 1 2022/05/21
 
+2023/03/10
+
+0000<->1500
+
+- MRT, marginal rate of transformation
+- -pc/pp
+- people like to have choice
+- opportunity set
+
 2022/07/22
 
 3400<->End
