@@ -669,7 +669,14 @@
 - increase the profit P&L, because the chain
 
 
-## 1-12
+## 1-12 Week3
+
+2023/03/10
+
+- margin, gross, COGS
+- increase te price for products that have low references
+- if the profitability can be improved, the grow can be maintained at 25%
+- if not, assign a small target
 
 2023/01/28
 
