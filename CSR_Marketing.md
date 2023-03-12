@@ -242,3 +242,11 @@
 - new product into existing market ABInbev
 - new product new market, nespresso
 - riskiness, they didn't talk about opportunity
+
+## 1-12
+
+2023/03/10
+
+- 38 units generate profit, the business exist
+- different goal, eliminate competition, trial
+- utilize spare factory
