@@ -64,3 +64,12 @@
 - fraud in the inducement, fraud in inception
 - duress
 - uncounsciounability
+
+## 8-1
+
+2023/03/11
+
+- bargain for exchange
+- legal value
+- consideration can be a promise
+- can be an action
