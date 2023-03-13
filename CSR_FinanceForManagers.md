@@ -689,6 +689,15 @@
 
 ## 1-13
 
+2023/03/11
+
+- bank grow, bank take the risk for the growth of the bank
+- sustainable growth, growth rate equal between NFO and WC
+- gNFO<=gWC
+- NFO is a percentage of sales
+- change in NFO is change in sales
+- ROS times sales
+
 2023/01/28
 
 - parallel or getting close is a sustainable growth
