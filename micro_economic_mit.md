@@ -250,6 +250,17 @@ End
 ## REX 2 2022/07/22
 ## REX 1 2022/05/21
 
+2023/03/11
+
+1500<->3000
+
+- point D dominate point A
+- fundamental equation of consumer choice, MRS=MRT
+- the ratio of benefits equal to the ratio of costs
+- point A where MRS bigger than MRT
+- where at that point, the market charge you less than what you expect to pay, you should do the transaction
+- MB=MC the core idea of the whole course
+
 2023/03/10
 
 0000<->1500
