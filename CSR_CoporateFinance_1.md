@@ -150,6 +150,12 @@
 
 ## 1-5
 
+2023/03/11
+
+- practical lesson
+
+before
+
 - correlation matrix
 - whether the product in your portofolio correlate
 - important from practical sense
