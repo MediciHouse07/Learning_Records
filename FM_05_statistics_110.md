@@ -742,6 +742,17 @@ End mins
 4800 mins, proof of uniform is universal, condition of inverse, 1. strictly increase, 2. continuous, to prove this THM you need to know what is CDF, P(X<=x)=F(X)
 ### Lecture 13 <br>
 
+2023/03/11
+
+3600<->End
+
+- infinite integral and finite integral
+- odd function, by symmetry
+- integrate by part, one piece easy to integrate, another piece easy to differentiate
+- infinite integral and finite integral and integral by part
+- var of normal distribution
+- standard normal = 1-standard normal, by symmetry
+
 1500<->4000
 
 2023/03/10
