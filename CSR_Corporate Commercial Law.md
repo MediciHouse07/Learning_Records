@@ -54,3 +54,13 @@
 - the moment you deposit the offer, the minute you hit the send, as long as you haven't receive that revoke information
 - mirror image rule
 - a piece of equipment, the equipment, the later are equivalant with the former
+
+## 7-1
+
+2023/03/11
+
+- mitakes in value, in fact
+- rescind
+- fraud in the inducement, fraud in inception
+- duress
+- uncounsciounability
