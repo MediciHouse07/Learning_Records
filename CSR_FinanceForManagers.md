@@ -716,6 +716,15 @@
 
 ## 1-14
 
+2023/03/12
+
+- real growth, losing customers
+- grow without financing, you need to make enough money
+- big sales margin 15%
+- small retailer 25-30%
+- maufacturer 40%
+- compare with industry
+
 2023/01/28
 
 - giving better term to customer, create a crocodile NFO
