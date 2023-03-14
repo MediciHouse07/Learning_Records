@@ -250,6 +250,16 @@ End
 ## REX 2 2022/07/22
 ## REX 1 2022/05/21
 
+2023/03/12
+
+- SNAP program
+- debit card
+- example of positive analysis
+- kinked line
+- person y can re-allocate their money, because they are indifferent
+- what makes them happier may not be what makes them best
+- paternalistic
+
 2023/03/11
 
 1500<->3000
