@@ -162,6 +162,13 @@ before
 
 ## 1-6
 
+2023/03/12
+
+- risk of portofolio must think about diversification
+- minimize risk is not right, because you can always minize the risk in the way to put your money in bank, so what you should do is to find the best risk return combination
+
+before
+
 - at heart the diversification is correlation
 - scrap risk can't be diversified
 - bond default
