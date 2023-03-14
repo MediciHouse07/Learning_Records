@@ -803,6 +803,15 @@ REW
 
 ### Lecture 16 <br>
 
+2023/03/12
+
+0000<->1500
+
+- b in the column space, b=Ax Pb=Ax again
+- TBRT, understand I-P
+- minimize error
+- fitting a straight line
+
 2022/11/02
 
 3000<->End
