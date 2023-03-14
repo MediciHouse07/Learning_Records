@@ -20,3 +20,11 @@
 - different types of glass
 - content oriented, process oriented, outcome oriented
 - content theories, process theories, outcome theories
+
+## 2-5
+
+2023/03/12
+
+- personal needs, nature of the job, goal want to achieve
+- maslow's pyramid
+- physiological, safety, social, esteem, self actualization
