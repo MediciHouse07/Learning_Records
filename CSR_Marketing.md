@@ -262,3 +262,13 @@
 - perceived value
 - cost+value captured<=price<=WTP<=perceived value<=value to consumers
 - marketing,maximized perceived value
+
+## 1-14
+
+2023/03/12
+
+- competitor would influence the price as well
+- reference points
+- hot beach and a cold beer, fair price
+- objective skim, or penetrative
+- steps to set price, set objectives, demand and elasticity, estimate costs, analyze market and competitive, select approach
