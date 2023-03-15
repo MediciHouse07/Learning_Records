@@ -250,6 +250,14 @@ End
 ## REX 2 2022/07/22
 ## REX 1 2022/05/21
 
+2023/03/13
+
+3300<->End
+
+- forcing them not to spend 500 SNAP, making them worse off
+- people don't know best, that is the reason for parentalism
+- experiment, developing country, giving money makes better result
+
 2023/03/12
 
 - SNAP program
