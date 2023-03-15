@@ -800,8 +800,18 @@ REW
 
 - look at the P, if A is invertible square matrix, then the C(A) is the whole Rn, then projection matrix is I
 
-
 ### Lecture 16 <br>
+
+2023/03/13
+
+1500<->3000
+
+- one point has giant error
+- Least quare over compensate outlier
+- 2 pictures, one is vectors e.g. vector b; another is point picture
+- ATA expect it to be symmtric and inversible
+- positive definite
+- calculus way of finding minimum, another picture other than linear equation way of doing it
 
 2023/03/12
 
