@@ -729,6 +729,15 @@
 
 - giving better term to customer, create a crocodile NFO
 
+## 1-15 End
+
+2023/03/13
+
+- diagnosis NFO>WC, action plan work on NFO or WC e.g. best way is to increase price, the final problem is the company grow too much
+- approach a problem in an ordered way
+- finance versus marketing sales guy
+- negative NFO company???
+
 # Week4
 
 ## 1-2
