@@ -181,6 +181,19 @@ before
 
 ## 1-7
 
+2023/03/13
+
+- risk adjusted return
+- y return, x volitatity
+- 0.6 correlation
+- feasible portofolios
+- diversification is the last free lunch you can find from the market
+- RAR return/risk, risk ajdusted return
+- measure what is the good combination of risk and return in a portofolio
+- optimal RAR is always in between
+
+before
+
 - draw 2 d scatter plot
 - soley spain and soley chn, and all the combination
 - the last free lunch you can find in market
