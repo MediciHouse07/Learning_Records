@@ -742,9 +742,15 @@
 
 ## 1-2
 
+2023/03/14
+
 2023/01/28
 
 ## 1-3
+
+2023/03/14
+
+- current assets minus current liability is a different formula for WC
 
 2023/01/28
 
