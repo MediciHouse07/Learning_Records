@@ -802,6 +802,19 @@ REW
 
 ### Lecture 16 <br>
 
+2023/03/14
+
+- e component plus p component will return b
+- b is perpendicular to e
+- and e is perpendicular to all the vectors in the column space of A
+- if A has independent columns
+- if a matrix is invertible if its null space only contain the zero vector
+- trick likes dumb idea
+- length of Ax square
+- set ATAx=0, to check the null space of ATA
+- if they are perpendicular unit vectors, columns are definitely independent
+- orthonormal vectors
+
 2023/03/13
 
 1500<->3000
