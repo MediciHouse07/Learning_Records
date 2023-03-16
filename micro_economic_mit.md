@@ -388,6 +388,17 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
+2023/03/14
+
+0000<->1500
+
+- demand curve is relationship between price and quantity
+- elasticity of demand determines the shape of demand curve
+- epsilon delta q/q0 / delta p/p0 <=0
+- perfect inelastic epsilon = 0
+- no matter the price, still want the same quantity
+- with no substitute determines whether it will be imperfect inelasticity
+
 3000<->End
 
 - substitution effect is always negative, income effect can go the other way
