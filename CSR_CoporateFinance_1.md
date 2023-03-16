@@ -203,6 +203,16 @@ before
 
 ## 1-8
 
+2023/03/14
+
+- developed market, emerging markets
+- developed, emerging, frontier
+- liquidity decrease
+- think in individual way, as well as in correlation way
+- from practical point of view
+
+before
+
 - the lower correlation, the better the diversification
 - correlation across the developed country is high
 - developed emerging and frontier markets
