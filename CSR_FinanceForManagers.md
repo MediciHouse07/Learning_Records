@@ -760,6 +760,10 @@
 
 ## 1-4
 
+2023/03/15
+
+- increase price, increase profitability, another angle is by doing this you reduce some customer thus you reduce the growth rate
+
 2023/01/28
 
 - action plan, realistic, effective, efficient
