@@ -222,6 +222,13 @@ before
 
 ## 1-2
 
+2023/03/15
+
+0000<->0500
+
+- component of cost of capital
+- cost of capital is not related to cash flow, it is related to risk
+
 2023/02/03
 
 - how investor evaluate in terms of return, evaluate in terms of risk
