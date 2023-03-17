@@ -388,6 +388,20 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
+2023/03/15
+
+1500<->3000
+
+- things have very good of substitute
+- a little less than other offers, you have the whole market
+- the more substitute the good are, the more it is substitute
+- engle curve relationship between income and quantity
+- income elasticity of demand
+- linear constant elasticity curve
+- normal goods, inferior goods more income you want less, potatoe and tick
+- luxury >1, necessity <1
+- response to price change, 2 effects
+
 2023/03/14
 
 0000<->1500
