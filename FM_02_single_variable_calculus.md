@@ -555,8 +555,18 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 ### Lecture 21
 
-2022/05/29:
+2023/03/15
 
+0000<->1500
+
+- definition of log
+- solve, y'=1/x
+- sketch of graph
+- definition of e
+- 2 ways of understanding why is Lx<0 for x<1
+- the next topic is normal equation
+
+2022/05/29:
 
 0000<->1500
 
