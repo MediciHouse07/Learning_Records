@@ -771,6 +771,16 @@
 
 ## 1-5
 
+2023/03/16
+
+- sensitivity analysis
+- new competition in, push price down
+- angry suppliers
+- truck are not enough anymore
+- economic outlook change, interest
+- rent wont affect gross margin
+- truck salaries rent opex
+
 2023/01/28
 
 - how sensitve the results are to some external factors
