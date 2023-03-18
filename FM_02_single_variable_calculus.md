@@ -555,6 +555,16 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 ### Lecture 21
 
+2023/03/16
+
+1500<->3000
+
+- integrate the bell shape curve
+- sqrt pi over 2
+- erf x
+- fourier analysis
+- Li x is roughly equal to primes less than x
+
 2023/03/15
 
 0000<->1500
