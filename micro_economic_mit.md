@@ -388,6 +388,13 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
+2023/03/16
+
+- compensate demand
+- substitution always negative, income effect may be different
+- inferior goods, income elasticity negative, the less income you have, the more you want them
+- when price change 2 things happen, one is your relative price, another is your actual income you are getting poorer
+
 2023/03/15
 
 1500<->3000
