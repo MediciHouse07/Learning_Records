@@ -313,7 +313,7 @@ XXXX<->End
 - model and event log agree on footprint matrix
 - set??? 1000 mins
 
-## 4-2
+## 4-2 Week 2
 
 2023/01/13
 
@@ -380,6 +380,15 @@ XXXX<->End
 
 # Week 3
 ## 1-1 
+
+2023/03/16
+
+0000<->0400
+
+- different angle in measuring the quality of a process model
+- venn diagram
+- recall TP/TP+FN
+- precision TP/TP+FP
 
 2023/01/16
 
