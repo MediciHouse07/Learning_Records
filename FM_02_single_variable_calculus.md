@@ -555,6 +555,14 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 ### Lecture 21
 
+2023/03/17
+
+3000<->4500
+
+- integrand, limits, base
+- numerical procedure, analytic procedure
+- area between curves, it is not simply using one function minus another function and integrate
+
 2023/03/16
 
 1500<->3000
