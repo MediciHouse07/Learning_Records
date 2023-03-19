@@ -795,6 +795,11 @@
 
 ## 1-6
 
+2023/03/17
+
+- a study that can enable a better opex
+- evaluate how much money does that study worth
+
 2023/01/29
 
 - improve the opex
