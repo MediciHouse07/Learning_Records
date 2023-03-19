@@ -388,6 +388,16 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
+2023/03/17
+
+3400<->End
+
+- due to the Muc/Mup=Pc/Pp, price increase in cookie will lead to the left side, either you have less cookie or more pizza, thus the Muc increase, so substitution effect always negative, effectively
+- different utility curve makes the goods inferior goods
+- relative desirability
+- Giffin good, upward sloping demand curve
+- if they spend a part of their income to buy inferior, versus they spend all of their income to buy inferior, that might cause a upward slopping
+
 2023/03/16
 
 - compensate demand
