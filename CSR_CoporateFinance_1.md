@@ -114,13 +114,19 @@
 - bear all the risks in that asset
 - risk of a portofolio is not the same as the average risk of the asset in the portofolio
 
-## 1-3
+## 1-3 Week 3
 
 2023/03/09
 
 0000<->0500
 
 - correlation, identify one variable so that some info of another variable are detected
+
+2023/03/08
+
+- portofolio, propotion of managing capital
+- constant 21.7%
+- the critical role of correlation
 
 2023/02/02
 
@@ -222,6 +228,14 @@ before
 
 ## 1-2
 
+2023/03/17
+
+0500<->End
+
+- arguable versus undisputable issues
+- fourth decimal of the WACC
+- ballpark figure
+
 2023/03/15
 
 0000<->0500
@@ -239,13 +253,7 @@ before
 - fully financed by equity
 - cost of debt, cost of equity together is cost of capital, it may have more terms involved in the calculation
 
-## 1-3 Week 3
-
-2023/03/08
-
-- portofolio, propotion of managing capital
-- constant 21.7%
-- the critical role of correlation
+## 1-3 
 
 2023/02/03
 
