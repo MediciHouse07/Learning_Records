@@ -272,3 +272,15 @@
 - hot beach and a cold beer, fair price
 - objective skim, or penetrative
 - steps to set price, set objectives, demand and elasticity, estimate costs, analyze market and competitive, select approach
+
+## 1-15
+
+2023/03/17
+
+- gross margin for the retailer
+- markup pricing
+- gross margin versus markup pricing
+- selling price-cogs divide selling price
+- VC
+- contribution margin
+- gross margin in retalier, gross margin in manufactuer
