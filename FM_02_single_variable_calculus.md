@@ -555,6 +555,12 @@ other properties of integral; c can be factoring out if it doesn't depend on x;
 
 ### Lecture 21
 
+2023/03/18
+
+3500<->End
+
+- right minus left
+
 2023/03/17
 
 3000<->4500
