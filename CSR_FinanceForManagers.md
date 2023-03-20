@@ -806,6 +806,10 @@
 
 ## 1-7
 
+2023/03/18
+
+- improve the profitability is essential
+
 2023/01/29
 
 ## 1-8
