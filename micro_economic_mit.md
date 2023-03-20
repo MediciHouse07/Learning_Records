@@ -553,6 +553,22 @@ REW
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
 
+2023/03/18
+
+0000<->1500
+
+- utility function vs production function
+- max utility vs max profit=R-C
+- q=f(L,K), q is firm production, Q is market production
+- VC, FC
+- Variable input, fixed input
+- in the short run some fixed some vairable, in the long run all are variable
+- MUc vs MPl=delta q/delta L
+- diminishing MP is true because we are considering SR with a fixed capital
+- trade off workers and machines
+- Isoquants
+- perfectly substitutable inputs
+
 2022/09/02
 
 3000<->End
