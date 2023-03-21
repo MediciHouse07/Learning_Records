@@ -388,6 +388,16 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
+2023/03/19
+
+1500<->3000
+
+- leontieff production function
+- MRTs=delta K/delta L
+- next unit of labour times how productive that labour is plus next unit of capital times how productive that extra capital = 0 when you moving along the isoquant
+- CRS, constant return to scale function
+- a compnay has a foever >1 return to scale, then its industry will become monopoly
+
 2023/03/17
 
 3400<->End
