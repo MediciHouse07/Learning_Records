@@ -814,6 +814,18 @@
 
 ## 1-8
 
+2023/03/19
+
+- why there is needed to have cash when the credit is needed in the mean time
+- minimum cash for operations
+- minimum cash + AR + Inventry - Payables
+- days of cash
+- expenses= sales-NI
+- daily expenses, minimum cash/daily expenses
+- precautionary reasons
+- enough ability to enter a merger
+- there are some other things need to go to NFO, other short term fund like deffered tax and people owes money to the company
+
 2023/01/29
 
 - minimum cash for operations
