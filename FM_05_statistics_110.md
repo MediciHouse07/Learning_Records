@@ -805,6 +805,19 @@ participating;
 3900 mins, intergral e^-u du = 1;
 4800 mins, integral by part
 ### Lecture 14 <br>
+
+2023/03/19
+
+0000<->1500
+
+- EZ first moment, EZ^2 second moment
+- EZ^3 thrid moment
+- -Z is standard normal as well
+- rescaling things
+- variance is not in the linear world
+- x is not iid with itself, x is strictly dependent with itself
+- standarization
+
 2022/04/02: finished, 131 minutes 1st moment, 2nd moment; 🌟 idea mind flow, key ord and their reason; 1030 minutes, var; 1856 minutes, sum of iid, normal X1-X2~(u1-u2, sigma1^2+sigma2^2); 4458 minutes, prove LOTUS
 
 2022/05/09:
