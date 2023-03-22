@@ -806,6 +806,16 @@ participating;
 4800 mins, integral by part
 ### Lecture 14 <br>
 
+2023/03/20
+
+1500<->3000
+
+- the relationship between CDF P and phi
+- understand what does capital phi mean
+- even though you have negative number, LOTUS says the flavor still work
+- replennish
+- from expectation of poisson to variance of poisson
+
 2023/03/19
 
 0000<->1500
