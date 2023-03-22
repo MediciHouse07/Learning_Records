@@ -381,6 +381,22 @@ XXXX<->End
 # Week 3
 ## 1-1 
 
+2023/03/20
+
+0400<->End
+
+- no false positive, precision is 1; no false negative, recall is 1
+- challenges for applying recall and precision in measuing the model
+- 4 forces
+- different example of evaluating the quality of a model
+- underfitting model, too general
+- precision and read the precision from the petri net
+- no unobserved event will happen in the results model predicted, that is good precision
+- generalization can be analogied by recall
+- modeling language provides a bias
+- the challenge comes from you only know what has happened, and the result model predicted
+- replay_fitness=TP'/TP'+FN', comformance checking, if recall is 1 then replay_fitness is 1, model captured everything in the event log
+
 2023/03/16
 
 0000<->0400
