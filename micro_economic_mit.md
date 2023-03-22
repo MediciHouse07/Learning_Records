@@ -388,16 +388,6 @@ End mins
 ## REX 2 2022/07/25
 ## REX 1 2022/05/23
 
-2023/03/19
-
-1500<->3000
-
-- leontieff production function
-- MRTs=delta K/delta L
-- next unit of labour times how productive that labour is plus next unit of capital times how productive that extra capital = 0 when you moving along the isoquant
-- CRS, constant return to scale function
-- a compnay has a foever >1 return to scale, then its industry will become monopoly
-
 2023/03/17
 
 3400<->End
@@ -562,6 +552,34 @@ REW
 ## REX 3 2022/09/02
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
+
+2023/03/20
+
+3000<->4500
+
+- eventually the return to scale must decrease
+- Malthus
+- q=Atf(L,K)
+- food comsumption is up 40%
+- Ford introduce mass production
+- cut the cost for building a car half
+- 2500 dollar NANO car
+- standard of living is determined by productivity
+- Total factor productivity
+- 1973 productivity drop
+- one reason saving less, then K drop
+- KA
+- how to measure productivity
+
+2023/03/19
+
+1500<->3000
+
+- leontieff production function
+- MRTs=delta K/delta L
+- next unit of labour times how productive that labour is plus next unit of capital times how productive that extra capital = 0 when you moving along the isoquant
+- CRS, constant return to scale function
+- a compnay has a foever >1 return to scale, then its industry will become monopoly
 
 2023/03/18
 
