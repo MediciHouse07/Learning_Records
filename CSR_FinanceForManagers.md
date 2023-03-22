@@ -836,6 +836,16 @@
 
 ## 1-9
 
+2023/03/20
+
+- seasonal company
+- constant sales over the year
+- if it is seasonal, watch their financial report is OK
+- look at their NI for different period
+- one month have max cash, one month have max credit
+- can't use the same formula for opertional ratios
+- seasonal business, how to think about days of collection given AR in account, and reverse thinking practice
+
 2023/01/29
 
 - seasonal companies
