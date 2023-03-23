@@ -290,3 +290,15 @@
 - VC
 - contribution margin
 - gross margin in retalier, gross margin in manufactuer
+
+## 1-16
+
+2023/03/21
+
+- Channels
+- optimal way to reach market
+- sales force
+- after sale service, distribution, demand generation
+- 4Cs, how close is the channel design to target needs
+- what percentage of the target market will I reach
+- best design in efficiency and cost, cost
