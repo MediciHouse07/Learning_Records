@@ -425,6 +425,19 @@ XXXX<->End
 
 ## 1-2
 
+2023/03/21
+
+0000<->0800
+
+- metaphor
+- desire line
+- representational bias
+- suppose modeling language is not circle
+- it impact the search space
+- transition system difficult to capture concurrency
+- worklow nets, transition system, BPMN, petri nets
+- a notation that allows concurrency
+
 2023/01/18
 
 0938<->End
