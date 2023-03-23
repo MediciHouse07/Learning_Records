@@ -275,6 +275,12 @@
 
 ## 1-15
 
+2023/03/21
+
+- absorbent product
+- contribution measure per unit
+- Price VAT P retailer GM retailer P manufacturer GM manufacturer VC
+
 2023/03/17
 
 - gross margin for the retailer
