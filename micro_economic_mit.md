@@ -553,6 +553,16 @@ REW
 ## REX 2 2022/08/06
 ## REX 1 2022/06/03
 
+2023/03/21
+
+3400<->End
+
+- how much way save, how much we are innovative, given a certain amount of labour, it determines how much we produce, condition on all the factors other than labour, TFP
+- TFP need to consider to control the amount of labour, just like nomial GDP
+- productivity goes up, income goes up a little
+- 2009, 2016, money went to top 1 percent
+- productivity can be spent in more products or leisure, it can be distributed in different ways
+
 2023/03/20
 
 3000<->4500
