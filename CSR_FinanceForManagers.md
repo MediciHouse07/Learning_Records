@@ -853,6 +853,16 @@
 
 ## 1-10
 
+2023/03/21
+
+- ROE
+- shareholder cares more of ROE
+- ROS how much sales we can convert to profits
+- how much they get if they invest money
+- risk premium vs MRP
+- can we infer the strategy of a company
+- dupound
+
 2023/01/29
 
 - ROE
