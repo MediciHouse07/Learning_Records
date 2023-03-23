@@ -806,6 +806,17 @@ participating;
 4800 mins, integral by part
 ### Lecture 14 <br>
 
+2023/03/21
+
+3000<->4500
+
+- derive variance of poisson
+- get cross terms
+- I1 times I2 is indicator of success on both trials
+- second moment of binomial
+- hyper geometric, geommetric
+- prove LOTUS for discrete sample space
+
 2023/03/20
 
 1500<->3000
