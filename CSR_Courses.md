@@ -1,4 +1,3 @@
-
 # Negotiation
 
 # Week 1
