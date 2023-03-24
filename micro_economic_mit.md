@@ -768,6 +768,19 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2023/03/22
+
+0000<->1500
+
+- profit maximization, cost minimization
+- price for capital, r rent
+- price for worker, w wage
+- K bar, L labour
+- total cost, average cost=total cost/q
+- average cost has a different behaviour with marginal cost
+- large company with a high q make AFC turn to 0
+- take the derivative with respect to q to the function c=Kr+Lw
+
 2022/09/29
 
 4500<->End
