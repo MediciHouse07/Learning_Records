@@ -871,6 +871,12 @@
 
 ## 1-11
 
+2023/03/22
+
+- ROS times Sales/Asset times Asset/Equity=ROE
+- ROS turnover leverage
+- think about in this example, ROS and turnover which one drives which one
+
 2023/01/29
 
 - ROE = ROS times SALES/ASSETS(turnover ice cream) times ASSETS/EQUITY(leverage) = NI/EQUITY
