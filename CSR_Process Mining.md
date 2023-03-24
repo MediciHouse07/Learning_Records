@@ -425,6 +425,13 @@ XXXX<->End
 
 ## 1-2
 
+2023/03/22
+
+0800<->0900
+
+- optional, how to read it, something can be skipped
+- silent, duplicate steps, need to go back to review the previous chapters
+
 2023/03/21
 
 0000<->0800
