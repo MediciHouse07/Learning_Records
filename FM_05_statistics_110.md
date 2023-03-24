@@ -806,6 +806,15 @@ participating;
 4800 mins, integral by part
 ### Lecture 14 <br>
 
+3400<->End
+
+2023/03/22
+
+- if 2 variables are independent, var x+y is varx + y
+- prove LOTUS for discrete sample space
+- S:X(s)=x
+- seems he didn't say why the probability of gx is the same as x
+
 2023/03/21
 
 3000<->4500
