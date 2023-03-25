@@ -883,6 +883,12 @@
 
 ## 1-12
 
+2023/03/23
+
+- private equity
+- which one do you buy
+- leverage asset/equity
+
 2023/01/29
 
 - private equity
