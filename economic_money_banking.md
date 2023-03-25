@@ -135,9 +135,23 @@
 - think on a bigger picture
 - thin reed
 
-## Lecture 3 Week1
+## Lecture 3 Week2
 
-### 1-1 Week2 Lecture 3
+### 1-1 Week2 Lecture 3 1/9
+
+1-1
+
+2023/03/23
+
+- went through
+- move weigh on the dollar
+- expectation theory of the term structure
+- another solution is to enter the market and buy long bond
+- impetus
+- in the back foot
+- bode, bide
+- ocean liner, queen elizabeth
+- why does entering a market and buying long bond would decrease the long term interest rate?
 
 2023/03/10
 
