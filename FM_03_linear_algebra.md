@@ -924,6 +924,16 @@ finished
 #### REX 2 2022/06/18
 #### REX 1 2022/03/28
 
+2023/03/23
+
+0000<->1500
+
+- orthonormal vector, qiTqj=0
+- orthonormal matrix Q
+- good property of square Q, QT=Q-1
+- 1300 mins, example of orthonormal matrices
+- example of rectangular orthonormal matrices
+
 2022/03/28: finished, A=QR, a projection R is right upper triangle matrix, R links A and Q, Q is a orthonormal matrix; vector in the column space of A, projection of A is I
 
 2022/06/13
