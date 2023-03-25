@@ -171,6 +171,13 @@
 
 ### 1-2 2/9
 
+2023/03/23
+
+- 1924 Allyn young
+- position at a controvertial questions
+- jevons
+- convertable to gold is where Allyn young's position at
+
 2022/10/22
 
 - reading in this week Allyn young
