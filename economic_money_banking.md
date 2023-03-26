@@ -193,11 +193,31 @@
 
 ### 1-3 3/9
 
+2023/03/24
+
+- fiat standard
+- lawful money in bank
+
 2022/10/22
 
 - hierachy in the table form
 
 ### 1-4 Lecture 3 4/9
+
+2023/03/24
+
+- war finance
+- mobalize materials to win a war
+- consription, giving labour for free
+- selling bond
+- private sector
+- transfer ownership of deposit
+- buying war good from private sectors
+- worry private sector require too much of interest
+- another approach, selling to bank
+- 150 MM dollar, 1861 Aug
+- Salmon P chase
+- south do the barter to get war materials using cotton
 
 2022/10/23
 
