@@ -768,6 +768,16 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2023/03/24
+
+1500<->3000
+
+- LR cost
+- iso cost curve, like budget constraint
+- thus derive a formula as MUc/MUp=Pc/Pp, you get MPl/MPk=w/r
+- and then get the efficient combination of capital and labour
+- firstly decide the best combination between L and K then apply that relation in the 5 step approach to get the cost function with respect to the quantity vary
+
 2023/03/22
 
 0000<->1500
