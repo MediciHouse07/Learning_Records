@@ -897,11 +897,24 @@
 
 ## 1-13
 
+2023/03/24
+
+- Intangible
+- DOR
+
 2023/01/29
 
 - blind statement
 
 ## 1-14
+
+2023/03/24
+
+- brand, a little bit intangible, brand
+- pharmerthetical, intangible, patents
+- goodwill, companies merge
+- M&A triggers high goodwill, and phar company has a high good will
+- opex includes R&D
 
 2023/01/29
 
