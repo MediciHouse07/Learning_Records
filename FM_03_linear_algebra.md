@@ -924,6 +924,16 @@ finished
 #### REX 2 2022/06/18
 #### REX 1 2022/03/28
 
+2023/03/24
+
+1500<->3000
+
+- projection matrix for Q
+- QQT
+- if the Q is square matrix, QQT is I
+- Gram-Schmidt
+- the big A in the example is a vector
+
 2023/03/23
 
 0000<->1500
