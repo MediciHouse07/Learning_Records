@@ -768,6 +768,17 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2023/03/25
+
+3000<->4500
+
+- w, r, production function, you get q
+- keep utility unchange, change the price, substitution effect
+- minimum wage, substitute to more machines
+- keep your production fixed, but the price is changed, thus you need to pay more
+- LR expansion path
+- 2 cases, labour become less productive or capital become less productive
+
 2023/03/24
 
 1500<->3000
