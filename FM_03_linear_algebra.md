@@ -924,6 +924,16 @@ finished
 #### REX 2 2022/06/18
 #### REX 1 2022/03/28
 
+2023/03/25
+
+3000<->4500
+
+- how to apply gram schemit to 3 elements, using c minus its component at A direction then subtract its component in the B direction
+- gram schemit orthonomal basis
+- column space of Q is the same as column space of A
+- elimination, A=LU
+- A=QR
+
 2023/03/24
 
 1500<->3000
