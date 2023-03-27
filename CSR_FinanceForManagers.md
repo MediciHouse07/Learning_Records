@@ -924,6 +924,13 @@
 
 ## 1-15
 
+2023/03/25
+
+- negative NFO, AR low retailer, low ROS, retailer competing price with each other
+- half a trillion dollar in sales, Warmalt
+- internet bank has less collateral thus it has lower leverage
+- ROS high, means it sells premium things
+
 2023/01/29
 
 - retailer negative NFO
