@@ -636,6 +636,14 @@ End mins
 ### Lecture 22
 #### REX 1 2022/06/20
 
+2023/03/27
+
+0000<->1500
+
+- integral slicing
+- a loaf of bread
+- qualititive analysis
+
 2022/06/18:
 0000<->1500
 
