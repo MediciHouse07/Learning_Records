@@ -67,6 +67,18 @@
 
 ## 8-1
 
+2023/03/26
+
+- consideration
+- constitute a consideration
+- gratuitous promises is not a consideration
+- consideration is about new value
+- preexisting duty
+- legality
+- illusory promises
+- in reliance to
+- estopel
+
 2023/03/11
 
 - bargain for exchange
