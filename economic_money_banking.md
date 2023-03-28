@@ -229,6 +229,17 @@
 
 ### 2-1 Lecture 3 5/9
 
+2023/03/26 
+
+- 1863 green back act
+- after go off the gold standard
+- legal tender was to buy domestic war goods
+- legal tender keep falling
+- buying something without making someone else buying less
+- domestic inflation
+- if use legal tender to buy foreign goods, the value of legal tender against gold would fall
+- Salmon P chase insert a layer which is legal tender in between gold and deposit
+
 2022/10/23
 
 - second thing that salmon P chase did
