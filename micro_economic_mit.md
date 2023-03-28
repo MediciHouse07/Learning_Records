@@ -768,6 +768,14 @@ End mins
 ## REX 2 2022/08/17
 ## REX 1 2022/06/05
 
+2023/03/26
+
+3500<->End
+
+- LR expansion path is LR cost curve
+- because it always choose the best combination
+- extra degree of freedom
+
 2023/03/25
 
 3000<->4500
