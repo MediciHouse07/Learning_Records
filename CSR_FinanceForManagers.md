@@ -942,6 +942,10 @@
 
 ## 1-16
 
+2023/03/26
+
+- spoutaneous fund and minimum cash go to NFO
+
 2023/01/29
 
 ## 1-17
