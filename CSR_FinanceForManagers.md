@@ -950,6 +950,10 @@
 
 ## 1-17
 
+2023/03/26
+
+- analysis is action oriented
+
 2023/01/29
 
 ## Exam
