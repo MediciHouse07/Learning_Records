@@ -924,6 +924,13 @@ finished
 #### REX 2 2022/06/18
 #### REX 1 2022/03/28
 
+2023/03/26
+
+3400<->End
+
+- the reason that Q and A are the same column space is because Q was constructed from linear combination of elements in A
+- R is upper triangular
+
 2023/03/25
 
 3000<->4500
