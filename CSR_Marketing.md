@@ -302,3 +302,14 @@
 - 4Cs, how close is the channel design to target needs
 - what percentage of the target market will I reach
 - best design in efficiency and cost, cost
+
+## 1-17
+
+2023/03/26
+
+0000<->0200
+
+- snake graph
+- yes, do they know that, you need sales and marketing
+- large account vs small account
+- identify the needs then decide channel partner
