@@ -247,7 +247,17 @@
 - insert legal tender between gold and deposit layer
 - GOV is buying things without making others buying things less
 
-## 2-2 Week 2 Lecture 3 7/9
+## 2-2 Week 2 Lecture 3 6/9
+
+2023/03/27
+
+- 1863, Salmon P chase tries something else
+- give up on legal tender, and go back to bonds
+- give to banking system and issue bond
+- bank issue bank note(bank note is not green back)
+- this is version 3 of balance sheet of the case of Salmon P chase
+- GOV allow bank to issue money
+- lawful money in bank is bank note, and it is a fixed money supply, it doesn't expand and contrast very much
 
 2022/10/24
 
@@ -266,7 +276,20 @@
 - then Fed
 
 
-### 2-4
+### 2-4 7/9
+
+2023/03/27
+
+- the consequence of that is financial instability
+- at this time the US economy is agricuture, and it brings seasonality to the economy
+- country bank pull money from the NY
+- withdraw of 50 M
+- calling in call loan(over night loan) to speculators, stocks fall, interest rise
+- raising reserve from London
+- US as a child
+- 1907 JP Morgon, get out of this themselves
+- clearing house was created since then
+- Paul Wallberg
 
 2022/10/25
 
@@ -274,6 +297,21 @@
 - elastic reserve
 - discount loans, rediscount, FR reserve, FR notes
 - the idea that this would work is because they see that ther e is loan that can be discounted
+
+### 2-4 8/9
+
+2023/03/27
+
+- WWI
+- US CB is a history of war finance
+- member banks, reserve banks, central bank
+- main street bank, expanding their balance sheet
+- discount, replenish their reserve
+- use loan as colleteral to replenish reserve
+- reserve bank can create reserve, not like national banking system(origins)
+- if in notes, rediscount, FR prints money
+- rediscount the loans
+
 
 ### 2-5 Lecture 3 9/9
 
