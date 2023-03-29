@@ -280,6 +280,18 @@
 
 2023/03/27
 
+- WWI
+- US CB is a history of war finance
+- member banks, reserve banks, central bank
+- main street bank, expanding their balance sheet
+- discount, replenish their reserve
+- use loan as colleteral to replenish reserve
+- reserve bank can create reserve, not like national banking system(origins)
+- if in notes, rediscount, FR prints money
+- rediscount the loans
+
+2023/03/27
+
 - the consequence of that is financial instability
 - at this time the US economy is agricuture, and it brings seasonality to the economy
 - country bank pull money from the NY
@@ -298,22 +310,22 @@
 - discount loans, rediscount, FR reserve, FR notes
 - the idea that this would work is because they see that ther e is loan that can be discounted
 
-### 2-4 8/9
 
-2023/03/27
-
-- WWI
-- US CB is a history of war finance
-- member banks, reserve banks, central bank
-- main street bank, expanding their balance sheet
-- discount, replenish their reserve
-- use loan as colleteral to replenish reserve
-- reserve bank can create reserve, not like national banking system(origins)
-- if in notes, rediscount, FR prints money
-- rediscount the loans
 
 
 ### 2-5 Lecture 3 9/9
+
+2023/03/27
+
+- Fed was not acting as they intended
+- all of these didn't happen
+- open market operations is an accident, Benjamin strong
+- buy T bill, sell T bill to change price
+- they didn't want to lend it to GOV
+- Chrysler
+- perversion
+- private money, state money
+- the actual is hybrid
 
 2022/10/25
 
