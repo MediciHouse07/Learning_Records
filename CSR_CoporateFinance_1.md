@@ -255,6 +255,16 @@ before
 
 ## 1-3 
 
+2023/03/27
+
+0000<->0200
+
+- WACC weighted average cost of capital
+- what proportion
+- capital is scarced
+- 
+
+
 2023/02/03
 
 - require return on debt or return on equity
