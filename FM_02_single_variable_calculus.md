@@ -636,6 +636,16 @@ End mins
 ### Lecture 22
 #### REX 1 2022/06/20
 
+2023/03/28
+
+1500<->3000
+
+- through a into a formula, it is propotional to the value of x
+- method of slicing, method of shell
+- cauldron
+- circonference
+- TBRT
+
 2023/03/27
 
 0000<->1500
