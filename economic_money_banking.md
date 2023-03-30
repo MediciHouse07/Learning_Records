@@ -337,12 +337,24 @@
 
 ### 3-1 Lecture 4 1/11
 
+2023/03/28 1/11
+
+- Wolfgang Muchaou columnist
+- it is not only about influencing people's feeling
+- uncharted territory
+- CB is trying to hold the system together, not to depend upon GOV
+
 2022/12/06
 
 - MBS
 - physical authority, CB authority
 
-### 3-2
+### 3-2 2/11
+
+2023/03/28
+
+- hyman minsky
+- MV=PT
 
 2022/12/07
 
