@@ -255,6 +255,12 @@ before
 
 ## 1-3 
 
+2023/03/28
+
+- from the viewpoint of investors, from viewpoint of company
+- hurdle rate, WACC, the minimum required return
+- compare IRR and WACC, to decide if to invest in a project
+
 2023/03/27
 
 0000<->0200
