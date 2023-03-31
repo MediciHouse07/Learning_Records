@@ -636,6 +636,12 @@ End mins
 ### Lecture 22
 #### REX 1 2022/06/20
 
+2023/03/29
+
+1500<->3000
+
+- shell, revolve around the y axis, but with the same slicing method
+
 2023/03/28
 
 1500<->3000
