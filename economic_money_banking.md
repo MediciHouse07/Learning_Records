@@ -367,6 +367,16 @@
 
 ### 3-3
 
+2023/03/29
+
+- goods services; financial asset, financial liabilities, money
+- this is not t account, this is flow money
+- dishoarding, horading
+- repayment, borrowing
+- accumulation, decumulation
+- expenditure
+- I getting a receit is somebody's expenditure
+
 2022/12/06
 
 - uses and sources
@@ -381,14 +391,26 @@
 - rule 1 every use has corresponding source
 - rule 2 every agents use is some other agents source
 
-### 3-4
+### 3-4 3/11 Lecture 4
+
+2023/03/29
+
+- credit rely on external energy
+- thus it expand has a cost
 
 2022/12/07
 
 - when write IOU, existing of money doesn't change, but existing of credit changes
 - bank accept IOU and issue money, expansion of money and expansion of credit
 
-### 3-5
+### 3-5 4/11 Lecture
+
+2023/03/29
+
+- if there are not that much os money
+- shifting versus contraction and expantion
+- the payment system is credit system
+- mutually advantages sysetm
 
 2022/12/07
 
