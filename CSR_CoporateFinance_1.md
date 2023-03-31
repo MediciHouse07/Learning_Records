@@ -280,7 +280,15 @@ before
 - hurdle rate the least requested return
 - discrounted return is cost of capital
 
-## 1-4
+## 1-4 Week 4
+
+2023/03/29
+
+- R WACC
+- require return on x, cost of x
+- coporate tax rate
+- tax shield on the cost of debt
+- tax break
 
 2023/02/03
 
