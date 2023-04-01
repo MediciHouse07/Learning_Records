@@ -425,6 +425,16 @@ XXXX<->End
 
 ## 1-2
 
+2023/03/30
+
+- TBR transition system vs petri net
+- Workflow nets, BPMN
+- choose(m,n), factorial(n)
+- discover process is guided by bias
+- WF-nets with unique labels
+- TBR WF-nets
+- no indirect dependencies
+
 2023/03/22
 
 0800<->0900
