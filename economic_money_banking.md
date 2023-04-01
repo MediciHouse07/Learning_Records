@@ -421,6 +421,15 @@
 
 ### 3-6
 
+2023/03/30
+
+- think every unit as a bank
+- copeland
+- survival constraint
+- reserve constraint
+- not liquid can't survive you in one day
+- survival constraint is inflow - commitment >=0
+
 2022/12/07 
 
 - a little passages
@@ -447,6 +456,15 @@
 - he was a socialist, and his dream is a world like Utopia
 
 ### 4-1 7/11
+
+2023/03/30
+
+- receipt of coffee is on the right side, because in this sense it is a source of fund
+- AP are less than AR for master card
+- it comes from trust, and the temptation of chasing convinience
+- decumulating financial asset, to hoarding cash
+- repayment vs borrowing IOU
+- decumulating financial asset, repay a debt
 
 2022/12/11
 
