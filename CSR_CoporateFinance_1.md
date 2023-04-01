@@ -319,6 +319,15 @@ before
 
 ## 1-6
 
+2023/03/31
+
+- principle determines 1 annual payment, 2 final payment
+- interest rate determines
+- when trading a bond
+- require return, willingness to pay
+- require more return, willing to pay less
+- this example use the price to calculate yield, take the price as given
+
 2023/02/20
 
 - cost of debt, bond
