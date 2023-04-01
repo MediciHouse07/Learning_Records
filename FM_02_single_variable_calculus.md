@@ -636,6 +636,15 @@ End mins
 ### Lecture 22
 #### REX 1 2022/06/20
 
+2023/03/30
+
+3000<->4500
+
+- litter
+- different unit can make the quadron different
+- y=x square violate scaling rule
+- the formula is not consistent in unit, it violates scaling rule
+
 2023/03/29
 
 1500<->3000
