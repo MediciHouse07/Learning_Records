@@ -303,6 +303,14 @@ before
 
 ## 1-5
 
+2023/03/30
+
+- 2.8 less, but 8 more interest
+- 5.2 NI less
+- 5.2 is what actually paid to interest
+- after tax, pay 5.2 interest rate
+- 1-tc times Rd is after tax cost of debt
+
 2023/02/03
 
 - tax shield makes you pay less taxes
