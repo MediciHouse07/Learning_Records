@@ -480,6 +480,14 @@
 
 ### 4-2 8/11
 
+2023/03/31
+
+- rows shoud sum to 0, for those that are not sumed to 0 means it has some issues
+- Keaynisian C I G X M Y doesn't include selling financial assets, derivatives
+- M Copeland 1952
+- !M!V=PT, monetary
+- discrepancies
+
 2022/12/11
 
 - account as framework of macroeconomics analysis
@@ -491,7 +499,14 @@
 - All transaction are made by money assumption
 - GM is sort of a bank
 
-## 4-3 9/11
+## 4-3 9/11 Week 2
+
+2023/03/31
+
+- dishoard is about cash, only this one is an unilateral activity, this is why reserve are important
+- borrow is about cash
+- decululation is about selling something, e.g. financial assets
+- borrow put off the constraint to the future
 
 2022/12/12
 
