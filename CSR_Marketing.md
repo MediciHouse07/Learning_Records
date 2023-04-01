@@ -305,6 +305,16 @@
 
 ## 1-17
 
+2023/03/30
+
+- complimentary products
+- customer proximity
+- strategic fit
+- product fit
+- channel economics
+- motorcycle is not applicable in the web channel
+- value added reseller
+
 2023/03/26
 
 0000<->0200
@@ -313,3 +323,23 @@
 - yes, do they know that, you need sales and marketing
 - large account vs small account
 - identify the needs then decide channel partner
+
+## 1-18
+
+2023/03/30
+
+- conflicts between manufacturer and distributor
+- exclusive territories
+- profit potential
+- boundaries changes
+- introduction growth decline
+- techonology adoption lifecycle
+- laggards
+- conflict can't be eliminated
+- evaluate bargaining position
+
+## 1-19
+
+2023/03/30
+
+- next week, branding
