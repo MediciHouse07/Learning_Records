@@ -636,6 +636,14 @@ End mins
 ### Lecture 22
 #### REX 1 2022/06/20
 
+2023/03/31
+
+3400<->End
+
+- units
+- celcis
+- vertical case in solving the boiling wither's quadron
+
 2023/03/30
 
 3000<->4500
