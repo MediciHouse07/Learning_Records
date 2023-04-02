@@ -85,3 +85,16 @@
 - legal value
 - consideration can be a promise
 - can be an action
+
+## 9-1
+
+2023/03/31
+
+- oral contract are enforceble
+- statute of fraud
+- MYLEGS
+- Marriage, year, land, executor, goods, suretyship
+- parol
+- integration, express or implied integration
+- merger clause
+- start performing you have to finish the performing
