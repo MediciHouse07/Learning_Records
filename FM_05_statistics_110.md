@@ -876,6 +876,19 @@ geometric dist is an analogous of exponential dist;
 4458 mins, r.v. is a function that map sample to x;
 
 
+### Lecture 15
+
+2023/04/01
+
+0000<->1500
+
+- coupon collector
+- geometric
+- linearity hold under both independent and dependent case
+- TBR Geometric
+- 1200 mis universality of the universe
+- logistic distribution
+
 ### Lecture 16 <br>
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 
