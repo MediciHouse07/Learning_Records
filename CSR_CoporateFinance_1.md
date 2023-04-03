@@ -358,7 +358,15 @@ before
 - y is mean annual return
 - what does change is the willingness that people want to pay
 
-## 1-7
+## 1-7 Week 4
+
+2023/04/01
+
+0000<->0500
+
+- cost of equity bond, interest rate doesn't change, coupon payment doesn't change
+- mean annual return change
+- mean annual return, yield to maturity
 
 2023/02/20
 
