@@ -513,7 +513,14 @@
 - dishoard, borrow, decumulation for meeting liquidity constraint
 - borrow is just shift constraint to tomorrow
 
-## 4-4
+## 4-4 10/11
+
+2023/04/01
+
+- Morris copeland, alignment of cash flow + commitment in time
+- minsky
+- dishoard cash, borrow, decumulate financial asset
+- a rise in the short term interest means a lot of bank met constraint problem
 
 2022/12/12
 
@@ -521,6 +528,14 @@
 - alignment of cash flows and commitment in time
 
 ## 4-5 11/11
+
+2023/04/01
+
+- balance of cash flow and commitment determines the short term money market rate
+- inadequate
+- minsky moment
+- translate T account to cash flow
+- the same t account can have different cashflow
 
 2022/12/12
 
