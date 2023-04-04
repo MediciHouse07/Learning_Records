@@ -1,6 +1,11 @@
 # Week 2
 ## 1-2
 
+2023/04/02
+
+- project evaluation
+- coporate value creation
+
 2023/01/30
 
 - coporate fiance, investor, coporation-bond,debt, how to finance itself through issue bond
