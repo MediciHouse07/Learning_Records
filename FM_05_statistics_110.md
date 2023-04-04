@@ -434,6 +434,17 @@ finished,
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 
+2023/04/02
+
+3000<->4500
+
+- the single most useful thing in expectation
+- even X Y dependent, linearity is still true
+- this part is not about geometric itself, it is an application of linearity
+- fundamental bridge
+- OK the next part is geometric
+- Geom P count number of failures before the first success
+
 2022/12/16
 
 XX<->End
