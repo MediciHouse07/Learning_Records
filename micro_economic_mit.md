@@ -949,6 +949,20 @@ End mins
 
 # Lecture 7
 
+2023/04/02
+
+0000<->1500
+
+- competition
+- sunk cost is a long run cost, the investment once it is made, it can never be changed
+- ticket, not to think about its original cost, think about how much are you willing to use the ticket go to that cert, as long as people willing to pay more than that, sell it
+- perfect competition
+- price taker
+- perfect elastic demand
+- shift of the supply curve doesn't affect price only affect quantity
+- identical products, full information, low transaction cost, search cost
+- Firm vs market demand
+
 2022/06/06:
 
 finished
