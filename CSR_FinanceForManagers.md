@@ -2,6 +2,10 @@
 
 ## 1-6
 
+2023/04/02
+
+- see those buildings as financial report, BS IS CF
+
 2023/01/22
 
 ## 1-7
