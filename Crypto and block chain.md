@@ -132,3 +132,20 @@ Of course without losing the quality of the study
 - 0420 mins, ICO video
 - 28B USD raised, 20 months
 - 150 B adventure capital
+
+# Lecture 22
+
+2023/04/03
+
+0000<->1000
+
+- trade finance
+- multiple stakeholder, transfer of data
+- a lot of paper work
+- a lot of regulatory regime
+- fraud, double spend
+- 17 T dollar export
+- finance international trade
+- documentary collection
+- forfaiting
+- international trade
