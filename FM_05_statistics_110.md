@@ -434,6 +434,17 @@ finished,
 2022/03/31: finished, around 2857 minutes by independence, knowing A gives no information about B, vandermonte sigma j=0 to k(m choose k-j times n choose k)=m plus n choose k, 10/100000 will make the difference between with replacement and without replacement sort of the same
 ### Lecture 9 <br>
 
+2023/04/03
+
+3500<->End
+
+- hyper geometric is n choose k without replacement
+- geometric is number of faiures before the first success
+- binomial is n choose k with replacement, holding n fixed
+- q to the fifth
+- p times q to the kth is the formula of the PMF of geometric distribution
+- story proof of expected value of a geometric distribution
+
 2023/04/02
 
 3000<->4500
