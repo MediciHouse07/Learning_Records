@@ -949,6 +949,20 @@ End mins
 
 # Lecture 7
 
+2023/04/03
+
+1500<->3000
+
+- demand function of market, it is Q of p
+- qp=Qp-S0p, residual supply
+- derivative of one firm is less than derivative of market
+- TBRT
+- firm in perfect competition market, they are price taker
+- in the SR no firm entry or exit
+- economic also consider opportunity cost, cash cost when calculating profit
+- opportunity cost of your time
+- the reason that maximum price is achieved when MR=MC is because the formula, pi=r-c, take the derivative and set the derivative to 0, you get derivative of pi = derivative of r - derivative of c which is MR-MC
+
 2023/04/02
 
 0000<->1500
