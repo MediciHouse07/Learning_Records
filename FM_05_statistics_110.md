@@ -900,6 +900,15 @@ geometric dist is an analogous of exponential dist;
 
 ### Lecture 15
 
+2023/04/04
+
+0000<->1500
+
+- harmonic series
+- TBRT why use T2-1 T3-1
+- Fx can have domain on everywhere, Fx have a range of 0 1
+- 1300 mins, a good practice in thinking universality
+
 2023/04/01
 
 0000<->1500
