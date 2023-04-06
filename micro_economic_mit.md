@@ -949,6 +949,16 @@ End mins
 
 # Lecture 7
 
+2023/04/04
+
+1500<->3000
+
+- TBR market supply elasticity
+- watch him saying what is the totoal cost for the software company owner to start his company
+- the change in cost with respect to incremental quantity
+- MR for perfect competitive market is price, because company are prie taker, so R=qp dR/dq=p
+- true cost 121K, 40K L, 80K your time 1K computer
+
 2023/04/03
 
 1500<->3000
