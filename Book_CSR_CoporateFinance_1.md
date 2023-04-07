@@ -23,8 +23,20 @@
 
 ## 4/10
 
+2023/04/05
+
+- residual income, is also called economic profit
+
 2023/04/04
 
 - NOPAT should compare with WACC times total capital
 - profitable from accounting poing of view debtor, not profitable from economic point of view shareholder; thus it doesn't create shareholder value
 - Both net income and NOPAT are not a good measure to measure the shareholder value creation, thus we have residual income
+
+## 5/10
+
+2023/04/05
+
+- residual income is either NI-equity time cost of equity or NOPAT-capital times cost of capital
+- define ROC=NOPAT/Capital
+- economic profit=accounting profit - required by providers
