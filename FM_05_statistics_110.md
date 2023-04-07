@@ -900,6 +900,13 @@ geometric dist is an analogous of exponential dist;
 
 ### Lecture 15
 
+2023/04/05
+
+1500<->3000
+
+- 2000 mins, understand symmetry and linearity
+- CDF take a derivative is fx, fx is PDF
+
 2023/04/04
 
 0000<->1500
