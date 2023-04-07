@@ -949,6 +949,18 @@ End mins
 
 # Lecture 7
 
+2023/04/05
+
+3000<->4500
+
+- hill climbing exercise
+- pin down q first, then pin down L and K because they are function of q
+- average profit=p-AC
+- add 10 usd tax per unit
+- think about how to draw the graph
+- think about marginal, think about average
+- flat tax, same amount but less profit
+
 2023/04/04
 
 1500<->3000
