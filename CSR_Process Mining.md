@@ -600,3 +600,15 @@ XXXX<->End
 - multiset abstraction
 - TBRT
 - alpha algorithm has a lot of limits, so this week is about what other advanced algorithm that can be used that don't have those limits
+
+## 3-2
+
+2023/04/05
+
+0000<->0500
+
+- transition system, convert it to petri net
+- then concurrency is discovered
+- state based region
+- one initial state, one final state can be constructed artificially
+- combination of region is a region
