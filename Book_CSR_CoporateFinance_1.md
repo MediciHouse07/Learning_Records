@@ -40,3 +40,10 @@
 - residual income is either NI-equity time cost of equity or NOPAT-capital times cost of capital
 - define ROC=NOPAT/Capital
 - economic profit=accounting profit - required by providers
+
+## 6/10
+
+2023/04/06
+
+- another concept, EVA, NOPAT*-CAPITAL*times COC
+- 1980s Stern Stewart
