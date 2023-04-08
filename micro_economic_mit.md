@@ -949,6 +949,13 @@ End mins
 
 # Lecture 7
 
+2023/04/06
+
+3300<->End
+
+- produce less horizontal and profit per unit shrink vertical
+- shutdown happens when exiting market cost you less than staying in the market
+
 2023/04/05
 
 3000<->4500
