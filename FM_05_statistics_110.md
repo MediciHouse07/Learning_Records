@@ -900,6 +900,17 @@ geometric dist is an analogous of exponential dist;
 
 ### Lecture 15
 
+2023/04/06
+
+2200<->End
+
+- change the variable used in LOTUS, make the problem easier
+- swapping success and failure
+- number of emails getting in time t
+- find PDF of T, time of first email
+- 3700 mins derive a exponential distribution
+- R.V. is a random house, distribution and CDF is the blue print
+
 2023/04/05
 
 1500<->3000
