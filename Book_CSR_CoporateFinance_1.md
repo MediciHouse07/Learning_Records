@@ -47,3 +47,18 @@
 
 - another concept, EVA, NOPAT*-CAPITAL*times COC
 - 1980s Stern Stewart
+
+## 7/10
+
+2023/04/07
+
+- similar RI doesn't mean anything, it can have a very big spread times small amount of capital and it can also have a small amount of spread times a very big amount of capital
+
+## 8/10
+
+2023/04/07
+
+- R&D expense or, capital investment
+- MVA, market value added
+- magnitude
+- TBRT
