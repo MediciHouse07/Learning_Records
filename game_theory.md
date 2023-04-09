@@ -484,6 +484,16 @@ REW
 
 # Lecture 7
 
+2023/04/07
+
+0000<->1500
+
+- Bertrand competition
+- it is let firm can set price
+- cournot is let price constant and firm decide quantity
+- discontinuous
+- undercut it a little bit
+
 2022/05/14:
 0000<->1800
 0100 mins, cownot;
