@@ -1,3 +1,17 @@
+2023/04/07
+
+0000<->2550
+
+- self enforced, external enforced
+- extensive form game is firstly one player move then another player moves, there is a sequence of order
+- 0500 mins, Pareto, the most Pareto optimal II
+- complete contract, contract tell party what the payoff will be in every different circumstances
+- prove the other side cheating
+- fully verifiable by the judge
+- if the punishment are the same to different strategic profile, it is not verifiable
+- under this condition, number of variable reduce to one, restriction is added, and alpha might not exist
+- 
+
 1900<->End
 
 2023/04/07
