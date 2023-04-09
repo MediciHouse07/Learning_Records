@@ -1007,6 +1007,19 @@ finished,
 - look at the book to see how to complete QR
 
 ### Lecture 18 <br>
+
+2023/04/07
+
+0000<->1500
+
+- matrix is invertible, when determinant is not 0
+- matrix is singular, when determinant is 0
+- determinant and eigen value
+- exchange 2 rows, reverse the sign of determinant
+- determinant of permutation matrix derived from identity matrix and exchange row
+- determinant behaves like a linear function
+- elimination of a determinant
+
 2022/03/29: finished, property of determinant 9-10, |AB|=|A||B|, |AT|=|A|, they are at the end of the lecture, need to practice
 
 ### Lecture 19
