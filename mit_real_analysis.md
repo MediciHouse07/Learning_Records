@@ -2,6 +2,13 @@
 
 2023/04/08
 
+2400<->3500
+
+- WTS: want to show
+- let x in ...
+
+2023/04/08
+
 1500<->2500
 
 - number system
