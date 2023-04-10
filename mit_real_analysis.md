@@ -1,5 +1,17 @@
 # Lecture 1
 
+2023/04/08
+
+1500<->2500
+
+- number system
+- union, intersection
+- wrt, with respect to
+- A\B, x in A and x not in B
+- Ac complement
+- complement 2100 lectuer can't distinguish
+- 2300 mins, first real analysis proof
+
 2023/04/07
 
 0000<->1500
