@@ -484,6 +484,16 @@ REW
 
 # Lecture 7
 
+2023/04/08
+
+1500<->3000
+
+- if competitor is so high that it is beyond monopoly price, we take monopoly price
+- NE:p1=c,p2=c
+- same setting in cournot but get a different result
+- different strategy set let to different outcome
+- preference, product are not identical, differentiated
+
 2023/04/07
 
 0000<->1500
