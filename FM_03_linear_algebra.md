@@ -1008,6 +1008,14 @@ finished,
 
 ### Lecture 18 <br>
 
+2023/04/08
+
+1500<->3000
+
+- subtract l times row i from row k, DET doesn't change
+- det U = product of pivots
+- singular vs invertible
+
 2023/04/07
 
 0000<->1500
