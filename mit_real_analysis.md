@@ -2,6 +2,15 @@
 
 2023/04/09
 
+5400<->End
+
+- use induction therom to prove some other things
+- base case, inductive step
+- algebric, inequality can be used
+- calculus things can't be used
+
+2023/04/09
+
 3500<->5400
 
 - Induction
