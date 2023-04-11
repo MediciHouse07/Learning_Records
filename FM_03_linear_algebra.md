@@ -1008,6 +1008,19 @@ finished,
 
 ### Lecture 18 <br>
 
+2023/04/09
+
+3000<->End
+
+- even in 2 by 2 matrix, the determinant is also from the multiply of diagnal
+- det AB = det A times det B
+- det A squre, is det squared
+- 2 times a matrix then all the rows are multiplied with 2
+- det AT = det A
+- reverse column change the sign also, because of the property 10
+- trangular matrixes
+- A=LU
+
 2023/04/08
 
 1500<->3000
