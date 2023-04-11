@@ -1,5 +1,21 @@
 # Lecture 1
 
+2023/04/09
+
+3500<->5400
+
+- Induction
+- Axiom, well ordering property of N
+- principle
+- Pascal
+- proof by contradiction
+- assume negation of the proof
+- from that derive a false statement
+- from a true statement can't derive a false statement
+- rules of logic
+- 4800 mins proof by contradiction
+- -><- contradiction sign
+
 2023/04/08
 
 2400<->3500
