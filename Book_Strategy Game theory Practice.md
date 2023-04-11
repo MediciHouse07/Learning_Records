@@ -48,3 +48,9 @@
 - understand the word, refrain
 - stab the cartel in the back
 - conservation effort
+
+## 294/507
+
+2023/04/09
+
+- Qx,Qy read the first element represents demand is high, second element represents demand is low
