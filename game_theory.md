@@ -484,6 +484,20 @@ REW
 
 # Lecture 7
 
+2023/04/09
+
+3000<->4500
+
+- Middle west
+- linear city model
+- assume each consumer only buy one product
+- assume each consumer choose the product
+- p plus transport price
+- the range could be some other things
+- flavor of beer
+- poland spring
+- left wing, right wing
+
 2023/04/08
 
 1500<->3000
