@@ -1,3 +1,14 @@
+2023/04/10
+
+0000<->1300
+
+- contract 2 definitions
+- check proper definition for NE
+- most efficient pareto optimal, II
+- it is the most efficient outcome and it is NE
+- If I believe my opponent is going to play I, then I can't play N, and vice versa 1100 mins
+- but why do they believe each other
+
 2023/04/07
 
 0000<->2550
