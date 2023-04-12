@@ -484,6 +484,16 @@ REW
 
 # Lecture 7
 
+2023/04/10
+
+4500<->6000
+
+- one over seventeenth
+- this is not a NE because other people have incentive to deviate, and has regret
+- if anybody on either side stands would lose
+- 2 rows, only one sitting on the left would get the left votes from the 2 rows left wing voters
+- making the winner much more away from her
+
 2023/04/09
 
 3000<->4500
