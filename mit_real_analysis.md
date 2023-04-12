@@ -53,3 +53,43 @@
 - propoer subset of B
 - inclusion
 - N<Z<Q<R<C, the post equation was introduced when peole can't solve the prior equation, for example people can't solve x^2+1=0, then people introduce the set C, and x^2+1=3 in Q, people introduced R
+
+# Lecture 2
+
+Lecture 2
+
+0000<->3900
+
+2023/04/10
+
+- does R and N have the same set
+- when do 2 sets A and B have the same size?
+- Cantor
+- when the elements of the 2 size can be paired off
+- Theory of cardinality
+- review termnology function
+- A B are set, f A->B
+- naive definition
+- injective
+- surjective or onto
+- st, so that
+- bijective, 1-1 and onto
+- surjection is a map of surjective
+- composition of function
+- inverse only defined for bijective function
+- inverse of function, inverse of set
+- inverse image of a set
+- bijection, bijective function
+- have the same cardinality, if bijection, or bijective function from A to B
+- set have the same cardinality
+- |A|=|B|, shorthand for saying the 2 sets have the same cardinality
+- Cantoz-Schrodu-Bxxxx
+- statement about cardinality
+- pair off with natural number, countable set
+- countably infinite
+- if A is finite or countably infinite
+- countable
+- otherwise we say A is uncountable
+- 3400 mins even integer, odd integer are countable
+- Richard feyman
+- bijective function from one set to another
