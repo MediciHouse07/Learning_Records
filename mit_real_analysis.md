@@ -1,5 +1,17 @@
 # Lecture 1
 
+2023/04/10
+
+4300<->5500
+
+- review prove by contradiction, review prove induction
+- assumption about statement p
+- want to assume negation of the conclusion is true, then reach out to a false statement
+- rules of logic
+- you can't derive a wrong statement from a right statement
+- start from a true asumption, derive a false statement
+- from the assumption, we derive 2 statements, it has a least element in S, and the element is not in S
+
 2023/04/09
 
 5400<->End
