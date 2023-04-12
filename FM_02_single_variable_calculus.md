@@ -705,6 +705,19 @@ finished,
 - 100 and 70 degree, max y =1 
 
 ### Lecture 23 <br>
+
+2023/04/10
+
+0000<->1500
+
+- average value
+- one of the most important examples
+- semi circle
+- average with respect to arc length theta
+- d theta is longer than dx
+- thus the average with respect to theta is smaller
+- length of arc is alpha r, think about 2 pi r
+
 2022/03/26:💫 0444/4835, curious of the title of the course, pre content might be reman sum
 
 ### Lecture 24
