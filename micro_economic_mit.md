@@ -1077,6 +1077,22 @@ finished
 # Lecture 8
 ## REX 1 2022/06/10
 
+2023/04/11
+
+0000<->1500
+
+- P=MC give you q*
+- then calculate AC
+- shut down decision
+- in the SR you can't quit the market
+- SR shut down decision
+- p<AVC shutdown
+- supply curve, marginal cost curve
+- production, input prices->take a derivative
+- only under perfect competition
+- firm's supply curve
+- TBRT
+
 2022/06/10:
 
 finished,
