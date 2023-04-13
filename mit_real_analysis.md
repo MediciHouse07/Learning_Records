@@ -68,7 +68,16 @@
 
 # Lecture 2
 
-Lecture 2
+2023/04/11
+
+3900<->4900
+
+- bijection from A to B, bijection from B to A is the inverse
+- bijection f A to B, bijection g B to C
+- 3 gets mapped to
+- prove a constructed function is a bijection
+- because g is 1-1, thus f is 1 to 1
+- injective and surjetive
 
 0000<->3900
 
