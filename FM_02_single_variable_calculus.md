@@ -706,6 +706,16 @@ finished,
 
 ### Lecture 23 <br>
 
+2023/04/11
+
+1500<->3000
+
+- importance given by
+- compensate for the length
+- weighted average
+- degrees
+- volume times degree = energy
+
 2023/04/10
 
 0000<->1500
