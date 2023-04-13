@@ -310,6 +310,18 @@
 - when at minimum, the gradient should be parallel, by looking at the visual chart
 - 3 equation with 3 variables
 
+### Lecture 14
+
+2023/04/11
+
+0000<->1500
+
+- non-independent variable
+- how to calculate dz by taking differential of g
+- calculate partial, set dy=0 which is y constant
+- from dz to partial z partial x
+- total differential of z in terms of x and y
+
 ### Lecture 15
 2022/04/15: finished, 0240 mins, gradient vector, inverse triangle f, approximation triangle F;
 0356 mins, tangent plane;
