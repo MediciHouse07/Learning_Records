@@ -68,6 +68,26 @@
 
 # Lecture 2
 
+2023/04/12
+
+4900<->End
+
+- injection, if fn1=fn2 then n1=n2
+- is onto
+- injection + onto is bijection
+- by the definition
+- 2 sets have the same cardinality
+- |Z|=|N|
+- FTArithmatric
+- prime number
+- 10700 mins, rational number example
+- countably infinite
+- |N|<|A|? A is uncountable
+- power set of A
+- empty set has no member, power set of empty set has 1 member
+- 12200 mins, Candor
+- continuum hypothesis
+
 2023/04/11
 
 3900<->4900
