@@ -706,6 +706,15 @@ finished,
 
 ### Lecture 23 <br>
 
+2023/04/12
+
+3000<->4500
+
+- 1cal/deg times cm^3
+- true average, weighted average
+- probability , ratio of area
+- the chance of winning
+
 2023/04/11
 
 1500<->3000
