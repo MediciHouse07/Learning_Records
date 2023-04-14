@@ -312,6 +312,16 @@
 
 ### Lecture 14
 
+2023/04/12
+
+1500<->3000
+
+- x=u but partial x is not equal to partual u
+- keep something constant and change another variable
+- new notation introduced
+- constraint of right triangle
+- lose the right angle, imagine some variable are fixed
+
 2023/04/11
 
 0000<->1500
