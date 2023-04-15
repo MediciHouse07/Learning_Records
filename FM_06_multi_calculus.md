@@ -312,6 +312,15 @@
 
 ### Lecture 14
 
+2023/04/13
+
+3000<->End
+
+- 2 systematic methods
+- apply multiply rule to a=costheta times b
+- chain rules can be applied to dependent values
+- use constraint, use da=0 you get the partial A partial theta with keeping a constant
+
 2023/04/12
 
 1500<->3000
