@@ -62,3 +62,21 @@
 - MVA, market value added
 - magnitude
 - TBRT
+
+2023/04/13
+
+- EVA and compensation
+- changing the mindset of the whole corporation
+- MVA market value of capital minus book value of capital
+- executive compensation can be linked to one measurement
+
+
+## 9/10
+
+2023/04/13
+
+## 10/10
+
+2023/04/13
+
+- incentive
