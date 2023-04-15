@@ -1148,6 +1148,22 @@ finished,
 End mins
 
 # Lecture 9
+  
+2023/04/13
+
+0000<->1500
+
+- willingness to pay and willingness to buy curve
+- if the price didn't change, you have excess demand
+- produce more, MC more, so they need to charge more
+- MC go up, charge higher price
+- in both case, end up with excess demand
+- movie and baby siters are complementary
+- substitutable
+- change in complementary / substitutable can afect demand curve
+- change in market size
+- expectation to the future drives the demand today
+- exercise corset, wrong ad, demand shaped, company enter, profit driven to 0
 
 2022/06/11
 
