@@ -580,6 +580,14 @@ REW
 
 ## REX 1 2022/05/20
 
+2023/04/13
+
+0000<->1500
+
+- different equalibirum in voting game
+- voter-candidate model
+- next is location model
+
 2022/05/17:
 0000<->1500
 1440 mins, location model;
