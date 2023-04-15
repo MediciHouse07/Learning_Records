@@ -706,6 +706,16 @@ finished,
 
 ### Lecture 23 <br>
 
+2023/04/13
+
+3300<->End
+
+- 1 cal = increase 1 degree in 1 cm^3
+- cooler water are with higher volume and they are on the top
+- probability, set the target 1 the rest 0
+- how much it is relavtively important and how much it is not
+- PART / WHOLE
+
 2023/04/12
 
 3000<->4500
