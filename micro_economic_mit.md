@@ -1149,6 +1149,24 @@ End mins
 
 # Lecture 9
   
+2023/04/14
+
+1500<->3000
+
+- demand inelastic
+- since this course, it turns to normative economic
+- welfare economic
+- welfare economic is a tool in normative analysis
+- compensating variation
+- how much would you pay to be better off, how much would you pay to not to be worse off
+- consumer surplus, how much you get
+- price and willingness to pay
+- consumer surplus is in between price and the highest price, the area selected
+- willing to pay a high price but the market charge less, the difference is surplus
+- infinite surplus and 0 surplus
+- deadweight lost
+- person who giving gift shared a piece of the surplus
+  
 2023/04/13
 
 0000<->1500
