@@ -357,3 +357,11 @@
 2022/03/28: 2603/4759
 2022/03/28: finished, switch intergral sign
 
+### Lecture 17
+
+2023/04/14
+
+0000<->1500
+
+- quarter of a disk
+- r delta theta
