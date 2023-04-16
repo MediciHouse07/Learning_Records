@@ -29,7 +29,21 @@
 
 2023/04/14
 
-0000<->1500
+1800<->End
+
+- common features of economic models
+- the ceteris paribus assumption
+- all other things being the same
+- statistical method to apply economic research
+- variables
+- exogenous variables, external variables, determined ouside of the model
+- endogenous variables, internal variables, can be controlled
+- pool player
+- though thy don't know optimization, but they behave as optimization thoery said
+
+2023/04/14
+
+0000<->1800
 
 - how to check the validity of our models
 - direct approach
