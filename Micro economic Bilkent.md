@@ -1,4 +1,4 @@
-# Lecture
+# Lecture 1
 
 2023/04/11
 
@@ -24,3 +24,25 @@
 - quota, quantity limited by some entity
 - assume firm are identical
 - hypothesis + test
+
+# Lecture 2
+
+2023/04/14
+
+0000<->1500
+
+- how to check the validity of our models
+- direct approach
+- implications
+- go ahead and test implications, indirect approach
+- test assumption vs test implication
+- LR is about maximize profit
+- ignores gaining reputation, obtaining power, prestige
+- principle agent problem
+- fly business class
+- fly economic class
+- milton feyman
+- if p then q 1500 mins
+- take these implication to data to check
+- empirical analysis vs theory
+- applied micro economist
