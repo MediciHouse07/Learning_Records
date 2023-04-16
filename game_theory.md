@@ -580,6 +580,14 @@ REW
 
 ## REX 1 2022/05/20
 
+2023/04/14
+
+1500<->3000
+
+- complete information is about each one knows each other's utility function, thus they know the gain
+- with a series of repetition, people end up with segregation
+- and the rate to the segregation depends on the initial position
+
 2023/04/13
 
 0000<->1500
