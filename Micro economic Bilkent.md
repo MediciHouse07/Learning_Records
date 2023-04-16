@@ -60,3 +60,20 @@
 - take these implication to data to check
 - empirical analysis vs theory
 - applied micro economist
+
+# Lecture 3
+
+2023/04/14
+
+0000<->1500
+
+- model -> simplified version of real world -> assumptions
+- ceteris paribus assumption, optimization assumption
+- dual problem, maximize utility <-> minimaze utility, kind of identical problem
+- suppose a firm can sell all the output it wishes to sell at price p per unit
+- PI=TR-TC
+- concave is a hill, and reverse is convex
+- profit max, where MC is increasing
+- 2 points one is to maximize lost another is to minimize lost
+- q star is a function of p
+- testable implication
