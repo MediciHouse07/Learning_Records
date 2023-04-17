@@ -359,6 +359,20 @@
 
 ### Lecture 17
 
+2023/04/15
+
+1500<->3000
+
+- double integral to integral a area in a plane
+- double integral is not only about volume
+- get mass of a flat object with density delta=mass per unit area
+- varing density
+- constant density
+- sum of f everwhere divided by sum of points everywhere
+- average is related with center of mass
+- center of mass by x and by y seperately
+- dA can be dxdy dydx drdtheta
+
 2023/04/14
 
 0000<->1500
