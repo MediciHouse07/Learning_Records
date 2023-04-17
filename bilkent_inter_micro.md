@@ -82,6 +82,24 @@
 
 2023/04/15
 
+1000<->3200
+
+- compare different bundles
+- equivalent bundles on the same curve
+- specicy a relation between 2 elements in X
+- reflexivity
+- equally happy, indifferent
+- completeness = can't say I don't know, if the 2 are not equal, then there is completeness
+- strictly perfer
+- is preferred to
+- ~this is equal
+- individual should be able to say something
+- internally consistent
+- rational agent, rationality
+- definition of preference relation, its assumptions and the statement
+
+2023/04/15
+
 0000<->1500
 
 - model of consumer behaviour, consumer theory
