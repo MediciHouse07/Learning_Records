@@ -65,7 +65,7 @@
 
 2023/04/14
 
-0000<->1500
+0000<->End
 
 - model -> simplified version of real world -> assumptions
 - ceteris paribus assumption, optimization assumption
@@ -77,3 +77,19 @@
 - 2 points one is to maximize lost another is to minimize lost
 - q star is a function of p
 - testable implication
+
+# Lecture 4
+
+2023/04/15
+
+0000<->1500
+
+- model of consumer behaviour, consumer theory
+- firm theory
+- bring the 2 theory together
+- suleiman the magnificent
+- whole set of alternative
+- bundle of goods
+- a preference relation is a binary relation
+- completeness, reflexivity, transivity properties
+- TBRT from set of alternative
