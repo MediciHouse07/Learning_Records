@@ -30,6 +30,19 @@
 
 # Lecture 2
 
+2023/04/15
+
+0800<->2100
+
+- xi i can be dropped, where i is consumer
+- in the graph the x is X
+- axioms of rational choice
+- continuity
+- preference can be represented by continuous utility function is rational
+- bliss point
+- ISO utility curve
+- transitivity
+
 2023/04/14
 
 0500<->1000
