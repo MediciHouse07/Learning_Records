@@ -1149,6 +1149,18 @@ End mins
 
 # Lecture 9
   
+2023/04/16
+
+3000<->4500
+
+- less people buy, and people who buy it buy less
+- and the later one are the big loser
+- the flatter, the consumer is more indifferent to the product
+- one lecture after
+- producer surplus
+- in the LR MC=AC??? 4300 mins
+- producer are not identical
+  
 2023/04/14
 
 1500<->3000
