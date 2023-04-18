@@ -359,6 +359,17 @@
 
 ### Lecture 17
 
+2023/04/16
+
+3000<->4500
+
+- in polar coordinate you can't get the center of mass by taking the average of r and average of theta
+- moment of inertia
+- mass = how hard it is to impart translation motion
+- Kinetic energy
+- angular velocity dtheta dt
+- 3600 mins, how the moment of inertia is defined
+
 2023/04/15
 
 1500<->3000
