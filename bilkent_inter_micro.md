@@ -80,6 +80,20 @@
 
 # Lecture 4
 
+2023/04/16
+
+3200<->End
+
+- internal consistency
+- so that math can be used
+- relation to rationality
+- maximizing a preference relation
+- continuity enables derivative
+- suitably close to y
+- no sudden reversal, no sudden jump
+- {y^n} converges to y
+- sequence of bundles, any element in that sequence
+
 2023/04/15
 
 1000<->3200
