@@ -130,6 +130,17 @@
 
 2023/04/16
 
+1600<->3000
+
+- x1 x2 xn are the quantities of n-goods that might be consumed
+- all that matters is order
+- bundle->element is quantity of goods
+- and they are goods, not bads
+- any more of xi and no less of the others is preferred to less of xi
+- monotonicity
+
+2023/04/16
+
 0000<->1600
 
 - represent statement by using language
