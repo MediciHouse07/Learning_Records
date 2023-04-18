@@ -125,3 +125,16 @@
 - a preference relation is a binary relation
 - completeness, reflexivity, transivity properties
 - TBRT from set of alternative
+
+# Lecture 5
+
+2023/04/16
+
+0000<->1600
+
+- represent statement by using language
+- map bundles with utility
+- given completeness, reflexinity, transivity, continuity
+- ordinal, order is matter, the actual number is not important
+- from less desirable to most desirable one
+- differentiable, derivable
