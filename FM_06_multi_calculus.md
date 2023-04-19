@@ -397,3 +397,14 @@
 
 - quarter of a disk
 - r delta theta
+
+
+### Lecture 18
+
+2023/04/17
+
+0000<->0900
+
+- use substitution to calculate area of elippse
+- integrand or bound
+- linear change of axis
