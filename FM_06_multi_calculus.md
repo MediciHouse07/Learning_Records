@@ -359,6 +359,13 @@
 
 ### Lecture 17
 
+2023/04/17
+
+4500<->End 5100
+
+- change coordinate
+- moment if inertia
+
 2023/04/16
 
 3000<->4500
