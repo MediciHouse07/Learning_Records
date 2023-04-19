@@ -128,6 +128,14 @@
 
 # Lecture 5
 
+2023/04/17
+
+2500<->End
+
+- preferred to x* y*
+- worse than
+- indifference curve can be in different forms if there is no non-satiation rule
+
 2023/04/16
 
 1600<->3000
