@@ -157,3 +157,15 @@
 - ordinal, order is matter, the actual number is not important
 - from less desirable to most desirable one
 - differentiable, derivable
+
+# Lecture 6
+
+2023/04/17
+
+0000<->1500
+
+- Demand->Preference->Preference relation
+- completeness reflexinity transivity enables preference relation
+- continuity enables utility
+- no sudden jump or reverse
+- prefered set, worse than set
