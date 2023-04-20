@@ -1148,6 +1148,24 @@ finished,
 End mins
 
 # Lecture 9
+
+2023/04/18
+  
+3700<->End
+
+- 2 different demand curve
+- the steeper has a higher mark up
+- perfect competition, price taker
+- perfect elasticity
+- willingness to supply, supply curve
+- they build a refinement, the first volume of gas is cheap
+- producer surplus is profit
+- LR, 
+- individual supply curve is not always flat, indivisual demand curve is always flat
+- hetergeneous firms, different efficiency
+- barriers to entry
+- upward sloping input supply
+- charge higher prices as you produce more
   
 20223/04/18
 
