@@ -1149,6 +1149,15 @@ End mins
 
 # Lecture 9
   
+20223/04/18
+
+3300<->3700
+
+- perfect substitution enables perfect elastic
+- getting no surplus in getting one type of canddy
+- marginal rate of transformation, marginal rate of substitution
+- reading 2 groups of peole from graph
+  
 2023/04/16
 
 3000<->4500
