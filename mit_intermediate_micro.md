@@ -30,6 +30,15 @@
 
 # Lecture 2
 
+2023/04/18
+
+2100<->2600
+
+- marginal rate of transformation
+- marginal rate of substitution doesn't need to be diminishing
+- Cobb-Douglas, senetor of Illinoi
+- definition for convex
+
 2023/04/15
 
 0800<->2100
