@@ -1,5 +1,13 @@
 # Lecture 1
 
+2023/04/18
+
+2500<->3500
+
+- therom, if P then Q
+- trace what this mean
+- set thinking, boolean thinking, word thinking, venn thinking, hold the proof target in mind
+
 2023/04/10
 
 4300<->5500
