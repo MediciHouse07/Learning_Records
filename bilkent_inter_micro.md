@@ -160,6 +160,14 @@
 
 # Lecture 6
 
+2023/04/18
+
+1500<->3000
+
+- indifference curve and level curve
+- indifference surface
+- MRS
+
 2023/04/17
 
 0000<->1500
