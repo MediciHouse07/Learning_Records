@@ -162,6 +162,20 @@
 
 2023/04/18
 
+3000<->End
+
+- diminishing MRS
+- strictly convex curve
+- a strict line also a convex curve
+- diminishing MRS, strict convexity
+- more is good enables the direction of expanion
+- indifference map
+- 3500 mins, frist proof
+- by transitivity
+- an example, can indifference curves intersect
+
+2023/04/18
+
 1500<->3000
 
 - indifference curve and level curve
