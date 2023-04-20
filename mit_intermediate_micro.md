@@ -32,6 +32,15 @@
 
 2023/04/18
 
+2600<->3000
+
+- formal definition for convex, x' means another point
+- quasi convex
+- it says x' belongs to X
+- quasi is weaker
+
+2023/04/18
+
 2100<->2600
 
 - marginal rate of transformation
