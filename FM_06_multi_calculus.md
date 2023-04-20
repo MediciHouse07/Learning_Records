@@ -401,6 +401,14 @@
 
 ### Lecture 18
 
+2023/04/18
+
+0900<->2400
+
+- after a transformation, parrallel is still parrallel
+- area scaling factor
+- transformation multiply area by xx
+
 2023/04/17
 
 0000<->0900
