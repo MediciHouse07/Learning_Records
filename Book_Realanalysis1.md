@@ -28,3 +28,13 @@
 
 - he introduced therom, proposition, lemma ...
 - DeMorgan therom
+
+# 12/282
+
+2023/04/19
+
+- natrual number ordered in a natural way
+- principle of induction, proof by contradiction
+- induction hypothesis
+- did an excerse for example 0.3.7
+
