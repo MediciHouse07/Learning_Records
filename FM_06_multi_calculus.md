@@ -401,6 +401,14 @@
 
 ### Lecture 18
 
+2023/04/19
+
+2400<->3900
+
+- show you why the area is a matrix times a vector
+- Jacobian
+- area is always positive
+
 2023/04/18
 
 0900<->2400
