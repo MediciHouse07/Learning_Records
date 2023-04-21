@@ -191,3 +191,16 @@
 - continuity enables utility
 - no sudden jump or reverse
 - prefered set, worse than set
+
+# Lecture 7
+
+2023/04/19
+
+0000<->1700
+
+- strict convexity
+- straight line is convex, but not strictly convex
+- derivative increase function
+- Defn of convex set
+- at least as good as set
+- strictly convex enables diminishing MRS
