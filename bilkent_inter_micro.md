@@ -194,6 +194,21 @@
 
 # Lecture 7
 
+2023/04/20
+
+2600<->End
+
+- convex and concave utility function and strictness
+- indifference curve convex
+- utility function concave or convex
+- strictly quasi concave utility function
+- 3300 mins, how to visualize quasi concave utility function
+- quasi-concave function
+- f is quasi concave iff superior sets are convex sets
+- quasi concave quasi convex
+- Diminishing MRS<=>at least as good sets are convex<=>strict convexity of indifference curves<=>strictly quasi concave utility function
+- f is concave => quasi concave
+
 1700<->End
 
 2023/04/20
