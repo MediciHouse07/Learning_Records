@@ -194,6 +194,20 @@
 
 # Lecture 7
 
+1700<->End
+
+2023/04/20
+
+- concave function
+- strict concave should remove the boundaries for t
+- dim MRS <-> strictly convex <-> utility function quasi concave utility func
+- doom violates more is better
+- remove the upper portion would solve
+- pinch cone
+- doom is strong
+- pinch cone is quasi
+- superior set
+
 2023/04/19
 
 0000<->1700
