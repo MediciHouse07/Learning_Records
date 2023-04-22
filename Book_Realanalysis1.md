@@ -38,3 +38,8 @@
 - induction hypothesis
 - did an excerse for example 0.3.7
 
+# 13/282
+
+2023/04/20
+
+- Practiced 0.3.8
