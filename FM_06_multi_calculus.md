@@ -401,6 +401,17 @@
 
 ### Lecture 18
 
+2023/04/20
+
+3400<->End
+
+- determinant of inverse matrix is inverse of determinant
+- find the limit, TBRT
+- understand integral
+- u is increasing can be found from its function, the reason that it can't be expressed in x is because it has dependency with y
+- look at the hypobola, you can think about the value of v
+- where you enter where you leave
+
 2023/04/19
 
 2400<->3900
