@@ -233,3 +233,13 @@
 - Defn of convex set
 - at least as good as set
 - strictly convex enables diminishing MRS
+
+# Lecture 8
+
+2023/04/21
+
+0000<->1500
+
+- think about superior set
+- all convex combinations are preferred to both sets itselves
+- individual perfer combination
