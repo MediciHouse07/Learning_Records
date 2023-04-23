@@ -435,3 +435,16 @@
 - use substitution to calculate area of elippse
 - integrand or bound
 - linear change of axis
+
+### Lecture 19
+
+2023/04/21
+
+0000<->1500
+
+- vector fields
+- gravititional field
+- force field
+- its magnitude increase with the distantce from the origin
+- perpendicular vectors
+- unit angular velocity
