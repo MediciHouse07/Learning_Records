@@ -40,6 +40,23 @@
 
 # 13/282
 
+2023/04/21
+
+- understand what is the difference between strong induction and normal induction
+- strong induction is equivalent to the normal induction, but it is easier to use
+- functions
+- a function can be defined individually
+- spits out
+- use cartesian product to define a function rigorously
+- cartesian product and cartesian plane
+- vertice
+
 2023/04/20
 
 - Practiced 0.3.8
+
+# 14/282
+
+2023/04/21
+
+- understand function, a function is a set as well, there are some cartetian product might not satisfy the mapping defined in the function, and set f is called the graph of the function sometimes
