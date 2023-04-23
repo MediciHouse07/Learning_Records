@@ -238,6 +238,19 @@
 
 2023/04/21
 
+1500<->End
+
+- divisible
+- raise utility function to a power, it doesn't change the order
+- monotune function must be secured
+- and positive
+- positive monotune
+- taking an non change positive monotune transformation
+- positive monotune transformation
+- MRS for mirror points at the indifference curve, caluculate it using -dy/dx|u=u bar
+
+2023/04/21
+
 0000<->1500
 
 - think about superior set
