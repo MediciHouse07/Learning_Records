@@ -59,4 +59,17 @@
 
 2023/04/21
 
+- understand image and inverse image
+
+2023/04/21
+
 - understand function, a function is a set as well, there are some cartetian product might not satisfy the mapping defined in the function, and set f is called the graph of the function sometimes
+
+# 15/282
+
+2023/04/21
+
+- direct image, image
+- reverse image
+- hold for reverse image but not direct image
+- try to prove 0.3.15 proposition, but didn't get it
