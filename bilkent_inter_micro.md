@@ -259,6 +259,21 @@
 
 # Lecture 9
 
+2023/04/22
+
+1500<->End
+
+- partial derivative of u with respect to x
+- how to show that they represent the same information
+- H function to make a transformation
+- partial d H/ partial d U >0 , if it is true, then it is postive monotune transformation of U
+- normally we assume U is positive
+- partial H / partial u times partial u times partial x
+- understand MRS, why a monotone transformation of MRS makes sense, because MRS is equal to delta y/ delta x
+- Definition in book for utility to be quasi concave
+- diminishing MU doesn't mean quasi concave, thus it doesn't mean MRS diminishing
+- check indifference curve, check definition of quasi concave utility, check MRS and transformation H
+
 2023/04/22 quick refresh
 
 - MRS=MU/MU is from implicity function therom, d constant = 0 think about y=5 and dy
