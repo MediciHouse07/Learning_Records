@@ -256,3 +256,15 @@
 - think about superior set
 - all convex combinations are preferred to both sets itselves
 - individual perfer combination
+
+# Lecture 9
+
+2023/04/22
+
+0000<->1500
+
+- understand quasi concave
+- implicity function thm
+- dy/dx=negative partial derivative x/partial derivative y
+- get MRS from implicity function them
+- this is why MRS= devition of marginal utility of both variables
