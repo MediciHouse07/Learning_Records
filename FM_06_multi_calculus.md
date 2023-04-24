@@ -438,6 +438,12 @@
 
 ### Lecture 19
 
+3500<->End
+
+2023/04/23
+
+- direction T hat, times magnitude/magnitude speed
+
 2023/04/22
 
 1500<->3000
