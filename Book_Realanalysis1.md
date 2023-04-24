@@ -67,6 +67,10 @@
 
 # 15/282
 
+2023/04/22
+
+- tried to prove proposition 0.3.16, seems transform it to words might help with the proof
+
 2023/04/21
 
 - direct image, image
