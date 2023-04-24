@@ -114,6 +114,10 @@ finished,
 ## REX 2 2022/05/19
 ## REX 1 2022/05/14
 
+2023/04/22 quick refresh
+
+- 2800 mins, MRS=MU/MU in this lecture he bring it as definition and use reasoning to persuade
+
 2023/03/09
 
 2600<->End
