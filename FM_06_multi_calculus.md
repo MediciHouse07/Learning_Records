@@ -438,6 +438,22 @@
 
 ### Lecture 19
 
+2023/04/22
+
+1500<->3000
+
+- apply a force on a particle
+- displacement vector
+- work and line integral
+- W=force times distance=Fvector times displacement vector, change in vector, take the dot product
+- energy provided by the force
+- kinetic energy
+- random trajectory, sum small pieces of work
+- velocity dr dt
+- understand force times velocity
+- position vector, displacement vector
+- the work depends on the curve you choose
+
 2023/04/21
 
 0000<->1500
