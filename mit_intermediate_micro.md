@@ -30,6 +30,17 @@
 
 # Lecture 2
 
+3000<->3400
+
+2023/04/22
+
+- dU doesn't change because we hold utility unchanged
+- homothetic preference, MRS depends on ration of the goods not depends on the quantity
+- radio blow up
+- neccessary condition for aggregation of micro data
+- quasilinear preferences money good, MRS depends only on x2
+- for some purposes of
+
 2023/04/18
 
 2600<->3000
