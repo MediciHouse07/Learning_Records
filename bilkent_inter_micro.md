@@ -259,6 +259,10 @@
 
 # Lecture 9
 
+2023/04/22 quick refresh
+
+- MRS=MU/MU is from implicity function therom, d constant = 0 think about y=5 and dy
+
 2023/04/22
 
 0000<->1500
