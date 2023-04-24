@@ -287,3 +287,14 @@
 - dy/dx=negative partial derivative x/partial derivative y
 - get MRS from implicity function them
 - this is why MRS= devition of marginal utility of both variables
+
+# Lecture 10
+
+0000<->1500
+
+2023/04/23
+
+- positive monotune transformation
+- these convexity doesn't related with rationality
+- interior solution, conner solution
+- inferior solution
