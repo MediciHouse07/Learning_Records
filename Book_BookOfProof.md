@@ -1,3 +1,16 @@
+# 15/313
+
+2023/04/23
+
+- analogy set as a box, empty set is an empty box
+
+# 27/313
+
+2023/04/23
+
+- by definition, you can also prove a thing
+
+
 # 60/313
 
 2023/04/18
