@@ -4,6 +4,21 @@
 
 - esoteric world
 
+
+# 9/313
+
+2023/04/24
+
+- logic allow us to understand the meaning of statements
+
+
+# 10/313
+
+2023/04/24
+
+- the condition for equality of 2 sets
+- how to express one element is an element of a set
+
 # 15/313
 
 2023/04/23
@@ -43,3 +58,4 @@
 - contemplation
 - 7|-14=-2, but P is false because -2 doesn't belong to N
 - don't understand the P notation
+
