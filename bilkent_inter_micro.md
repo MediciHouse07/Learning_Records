@@ -290,6 +290,20 @@
 
 # Lecture 10
 
+1500<->3000
+
+2023/04/23
+
+- dMRS/dx | keep U constant, by that it is y is a function of x
+- diminishig MRS, indifference curve are strictly convex
+- 2200 mins example of increasing MRS
+- concave indifference curve, no interior solution
+- cobb-douglas utility, the nice shape indifference curve
+- x^alpha times y^beta alpha and beta are positive
+- L K production function, it fits the function well
+- alpha and beta show the relative relation between the 2 goods
+- how does alpha and beta affect the curve
+
 0000<->1500
 
 2023/04/23
