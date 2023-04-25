@@ -142,3 +142,18 @@
 - 3400 mins even integer, odd integer are countable
 - Richard feyman
 - bijective function from one set to another
+
+# Lecture 3
+
+0000<->1500
+
+2023/04/23
+
+- power set of A is the set of sub set
+- Cantor
+- mind buggling
+- 2 sets are equal when their element are equal
+- 1 to 1
+- injective implies ||<=||
+- 1 to 1 is different things in that to different thing in another that
+- with the assumption, a strange set will be generated, thus the assumption is false
