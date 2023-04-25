@@ -15,6 +15,10 @@
 
 # 142/313
 
+2023/04/23
+
+- the P notation means power set || means size of a set
+
 2023/04/22
 
 - contemplation
