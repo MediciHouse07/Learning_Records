@@ -290,6 +290,18 @@
 
 # Lecture 10
 
+2023/04/24
+
+2800<->End
+
+- cob doglas MRS
+- linear indifference curves
+- MRS is absolute value
+- 2 approach in getting MRS
+- MRS to get one more piece of alpha, how much beta do I need
+- linear indifference curve, perfect substitutes
+- perfect doesn't mean one one, perfect means you can always substitute them at the same rate
+
 1500<->3000
 
 2023/04/23
