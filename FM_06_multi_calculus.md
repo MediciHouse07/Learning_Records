@@ -470,3 +470,17 @@
 - its magnitude increase with the distantce from the origin
 - perpendicular vectors
 - unit angular velocity
+
+### Lecture 20
+
+0000<->1500
+
+203/04/24
+
+- in coordinate
+- calculate work done by direction field in coordinate
+- limit is an area and it is negative
+- TBRT
+- f is called potential
+- electrical potential, gravi potential
+- physic potential is on the opposite of the mathmatical potential
