@@ -19,7 +19,25 @@
 - the condition for equality of 2 sets
 - how to express one element is an element of a set
 
+# 13/313
+
+2023/04/24
+
+# 14/313
+
+2023/04/24
+
+- cardinality, size of a set is the elements the set has
+- empty set and {}
+- empty set is the only set whose cardinality is zero
+
 # 15/313
+
+2023/04/24
+
+- first brace "the set of all thing of form" := such that
+- x is an element of SET
+- different way of reading a set
 
 2023/04/23
 
