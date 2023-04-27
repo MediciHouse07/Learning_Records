@@ -43,6 +43,13 @@
 
 - analogy set as a box, empty set is an empty box
 
+# 16/313
+
+2023/04/25
+
+- notation conflict, (a,b), interval or an point on a plain
+- || notation conflict, absolute value and cardinality
+
 # 27/313
 
 2023/04/23
