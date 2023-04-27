@@ -324,3 +324,17 @@
 - these convexity doesn't related with rationality
 - interior solution, conner solution
 - inferior solution
+
+# Lecture 11
+
+2023/04/25
+
+0000<->1500
+
+- perfect complements
+- fixed proportion, vs not fixed proportion
+- min alpha x , beta y
+- think about derivative of leontiff cuve 100 mins
+- consumer concumes at the kink
+- constant elasticity of substitution funciton, CES utility function
+- CES
