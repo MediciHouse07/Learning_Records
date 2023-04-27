@@ -473,6 +473,17 @@
 
 ### Lecture 20
 
+2023/04/25
+
+0000<->1500
+
+- find the work done along the curve by the vector field
+- M N are component of vector field
+- integral of y dx + x dy what is that???
+- it may come from the formula of the vector field
+- understand that as integral of (y dx + x dy)
+- F vector is x,y; F vector can be the gradient of function
+
 0000<->1500
 
 203/04/24
