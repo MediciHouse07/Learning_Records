@@ -473,6 +473,16 @@
 
 ### Lecture 20
 
+1500<->3000
+
+2023/04/26
+
+- understand how to decide if it is a gradient
+- proof of line integral fundamental theorom
+- a lot of fields are not gradient
+- path independence
+- TBR previous lectures
+
 2023/04/25
 
 0000<->1500
