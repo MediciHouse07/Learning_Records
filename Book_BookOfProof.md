@@ -66,6 +66,18 @@
 - factor
 - review set, set is a collection of things, Let A be set
 
+# 20/313
+
+2023/04/26
+
+- 2 by 3 matrices are not the same thign as sequences of six numbers, because it holds some properties
+
+# 21/313
+
+2023/04/26
+
+- subset
+
 # 27/313
 
 2023/04/23
