@@ -327,6 +327,19 @@
 
 # Lecture 11
 
+1500<->End
+
+2023/04/26
+
+- degree of substitubility
+- when rou goes one, it becomes perfect substitutes
+- rou minus infinity, perfect compliment
+- suppose A= alpha
+- proof of rou goes to minus infinity, and min x and y become leontiff
+- 1 to the infinite
+- when continuous, you can change the order between exponential and limit sign
+- CES is a general form
+
 2023/04/25
 
 0000<->1500
