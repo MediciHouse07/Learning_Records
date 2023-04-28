@@ -50,6 +50,22 @@
 - notation conflict, (a,b), interval or an point on a plain
 - || notation conflict, absolute value and cardinality
 
+# 18/313
+
+2023/04/26
+
+- definition of ordered pair
+- lay denfinition of 1.1 and lay another definition of 1.2 based on 1.1
+
+
+# 19/313
+
+2023/04/26
+
+- visualize cartesian product
+- factor
+- review set, set is a collection of things, Let A be set
+
 # 27/313
 
 2023/04/23
