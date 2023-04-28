@@ -351,3 +351,19 @@
 - consumer concumes at the kink
 - constant elasticity of substitution funciton, CES utility function
 - CES
+
+# Lecture 12
+
+0000<->1500
+
+2023/04/26
+
+- constant elasticity of substitution
+- rou 1 perfect substitution
+- rou minus infi leontiff
+- rou 0 cob duglass
+- defn of elasticity of substitution, sigma
+- percent change in CES
+- CES is quasi concave
+- rou 1 minus 0 they are all quasi concave
+- sigma for CES =1/1-rou
