@@ -354,6 +354,22 @@
 
 # Lecture 12
 
+1500<->End
+
+2023/04/27
+
+- CES utility funcition is quasi concave
+- homognecity
+- homogenous function
+- defn
+- hod 1 hod 0
+- income and price homogenous function 0
+- if f is hod k, then is partial derivative is hod k-1
+- homothetic function
+- is formed by taking a positive monotune transformation of a homogenous function
+- all homogenous function are homothetic, but the reverse might not be the true
+- homogenous is homothetic, homethetic might not be homogenous
+
 0000<->1500
 
 2023/04/26
