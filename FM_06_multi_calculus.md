@@ -438,6 +438,13 @@
 
 ### Lecture 19
 
+0000<->1500
+
+2023/04/27
+
+- vector field, F= Mi plus Nj
+- vector field depends on x and y
+
 3500<->End
 
 2023/04/23
