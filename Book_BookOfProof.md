@@ -93,6 +93,10 @@
 
 2023/04/27
 
+- understand subsets
+
+2023/04/27
+
 - understand the set definition when set has element of set
 
 # 27/313
