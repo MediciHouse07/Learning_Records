@@ -74,9 +74,26 @@
 
 # 21/313
 
+2023/04/27
+
+- another way to think about subset, select things from B
+
 2023/04/26
 
 - subset
+
+# 22/313
+
+2023/04/27
+
+- tree way to understand subset
+- from this idea derie for a set |B|=n, it has 2^n subsets
+
+# 23/313
+
+2023/04/27
+
+- understand the set definition when set has element of set
 
 # 27/313
 
