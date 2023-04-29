@@ -383,3 +383,11 @@
 - CES is quasi concave
 - rou 1 minus 0 they are all quasi concave
 - sigma for CES =1/1-rou
+
+# Lecture 13
+
+2023/04/27
+
+0000<->1500
+
+- if utility function is homothetic, it will have a nice property that MRS will depend only on the ratio of the goods y/x, not on total quantities of the good
