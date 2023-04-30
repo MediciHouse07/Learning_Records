@@ -386,6 +386,19 @@
 
 # Lecture 13
 
+1500<->3000
+
+2023/04/28
+
+- on the same indifference curve, the MRS change as y/x change, homothetic
+- for homothetic indifference curve, MRS are the same for the same y/x combination
+- looking at the slope when drawing a curve
+- a preference relation is homothetic, if
+- blow up
+- x^1>x^2 means each element in x1 is higher than x2
+- homotheticity
+- strictly monotonic
+
 2023/04/27
 
 0000<->1500
