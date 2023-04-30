@@ -99,6 +99,20 @@
 
 - understand the set definition when set has element of set
 
+# 24/313
+
+2023/04/28
+
+- power set
+
+# 25/313
+
+2023/04/28
+
+- power set fact 1.4
+- proof of fact 1.4 with the help from AI
+- Let A be a finite set with n elements, construct a object that fits the assumption
+
 # 27/313
 
 2023/04/23
