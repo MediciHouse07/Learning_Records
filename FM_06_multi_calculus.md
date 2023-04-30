@@ -438,6 +438,17 @@
 
 ### Lecture 19
 
+1500<->3000
+
+2023/04/28
+
+- angular velocity
+- line integral is about integrate a force
+- energy you provided to the particle
+- velocity vector is dr/dt, r is distance, and it is x and y, dx dt, dy dt
+- r is not scalar quantity, r is position and direction
+- energy would change as things change
+
 0000<->1500
 
 2023/04/27
