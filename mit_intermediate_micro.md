@@ -30,6 +30,12 @@
 
 # Lecture 2
 
+2023/04/29
+
+REFRESH
+
+- quick refresh of x1+lnx2 utility function
+
 3400<->4100
 
 2023/04/24
