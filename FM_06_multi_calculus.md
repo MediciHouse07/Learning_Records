@@ -438,6 +438,14 @@
 
 ### Lecture 19
 
+2023/04/29
+
+3000<->End
+
+- express x and y in terms of one variable
+- integral depends on the trajectory, but not on parameterization
+- 2 ways of computing the energy done on a circle
+
 1500<->3000
 
 2023/04/28
