@@ -386,6 +386,21 @@
 
 # Lecture 13
 
+2023/04/29
+
+3000<->End
+
+- if it is homothetic, then you can aggregate individual's indifference curve then get a indifference curve of entire economy
+- quasi linear utility function
+- not homothetic
+- depends on actual value of x, not homothetic
+- convex, quasi concave
+- diminishing MRS doesn't mean dinimishing MUx or MUy
+- lnx + y is also quasi linear, it is mentioned in this lecture
+- change x or y, how to change MRS
+- change x doesn't change MRS
+- keep consuming x will give you less, so you spend the left on y
+
 1500<->3000
 
 2023/04/28
