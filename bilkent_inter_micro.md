@@ -419,3 +419,13 @@
 0000<->1500
 
 - if utility function is homothetic, it will have a nice property that MRS will depend only on the ratio of the goods y/x, not on total quantities of the good
+
+# Lecture 14
+
+2023/04/30
+
+0000<->1500
+
+- you will make choices in such a way that given your budget set/constraint, you would like to achieve the maximum utility/maximize utility
+- utility maximizer is also an assumption
+- use I to denote income
