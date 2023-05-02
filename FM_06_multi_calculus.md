@@ -499,6 +499,12 @@
 
 ### Lecture 20
 
+2023/04/30
+
+0000<->1500
+
+- reverse the trace, the energy becomes the negation of the previous energy
+
 1500<->3000
 
 2023/04/26
