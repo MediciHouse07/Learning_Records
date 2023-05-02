@@ -499,6 +499,17 @@
 
 ### Lecture 20
 
+2023/05/01
+
+1500<->3000
+
+- f is potential, delta f is gradient field
+- FTC for line integral
+- whether a vector field is gradient
+- understand FTC for line integral, f=xy is an example of F
+- not every vector field are gradient, magnetic field is not gradient
+- property, path-independence
+
 2023/04/30
 
 0000<->1500
