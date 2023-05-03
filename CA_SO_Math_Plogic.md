@@ -1,5 +1,13 @@
 # 1
 
+2023/05/01
+
+- basic atomac sentences
+- reasoning
+- declarative sentences, true or false
+- P equavalent to
+- P->Q can't be true and false
+
 2023/04/07
 
 - basic atomic sentences
