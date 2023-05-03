@@ -119,6 +119,12 @@
 
 - by definition, you can also prove a thing
 
+# 53/313
+
+2023/05/01
+
+- equvalent way of putting P=>Q
+
 
 # 60/313
 
