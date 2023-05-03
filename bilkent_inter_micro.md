@@ -422,6 +422,22 @@
 
 # Lecture 14
 
+1500<->End
+
+2023/05/01
+
+- 2 conditions for illustrating
+- and assumption for the indifference curve
+- sufficient condition
+- 2500 mins, neccessary condition, tangency, budget line
+- sufficient condition, convex curve
+- diminishing vs no increasing
+- tangency condition is both neccessary and sufficient
+- understand MRS, the rate you are willing to trade
+- understand Px/Py, the market is willing to trade one good to another
+- corner solution, only consume x
+- interior solution
+
 2023/04/30
 
 0000<->1500
