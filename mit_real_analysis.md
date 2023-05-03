@@ -76,6 +76,16 @@
 
 # Lecture 2
 
+2023/05/01
+
+0000<->1100
+
+- paired off
+- when elements of the two sets can be paired off
+- therom of cardinality
+- function match x belongs A to a unique element in B fx belongs to B
+- inverse image always exist, inverse function may not exist
+
 2023/04/12
 
 4900<->End
