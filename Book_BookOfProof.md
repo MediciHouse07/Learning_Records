@@ -119,7 +119,29 @@
 
 - by definition, you can also prove a thing
 
+# 43/313
+
+2023/05/01
+
+- computing area of a circle is logic
+- logic is correct, but the conclusion can be untrue
+- distinction between correct logic and correct information
+
+# 44/313
+
+2023/05/01
+
+- statements
+- apply logic to information that is considered obviously true
+- Let x be a statement, then it is either true or false
+- isoceles
+- some sentences are not statement, but it can be rephrased to be a statement
+
 # 53/313
+
+2023/05/01
+
+- the wording can be tricky
 
 2023/05/01
 
