@@ -68,6 +68,12 @@ Thanks to his cunning plan, Ulysses and his crew were able to safely pass by the
 
 # 20/987
 
+2023/05/01
+
+- if a preference want to be represented by utility function, then it must be bounded by completeness and transivity
+- utility representitive infers rational, but the reverse is not true
+- choice structure
+
 2023/04/30
 
 - invariant and ordinal, strictly increasing transformation
