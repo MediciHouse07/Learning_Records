@@ -85,3 +85,16 @@ Thanks to his cunning plan, Ulysses and his crew were able to safely pass by the
 
 In this case, the antecedent "a preference relation can be represented by a utility function" is the "if" part or the "p" part of the statement, and the consequent "it is rational" is the "then" part or the "q" part of the statement.
 - antecident versus consequent
+
+# 21/987
+
+2023/05/02
+
+- weak axiom of revealed preference
+- observed choices will display a certain amount of consistency
+- proclivity
+- among the alternatives in B
+- alternative, alternatives
+- evolutionary process
+- revealed preference
+- >=* revealed preference relation
