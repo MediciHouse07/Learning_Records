@@ -76,6 +76,21 @@
 
 # Lecture 2
 
+2023/05/02
+
+1100<->2600
+
+- f is injective or 1-1
+- understand surjective
+- definition for injective, surjective, bijective
+- map that is surjective is sujection
+- respectively
+- inverse function exist only for bijective function
+- inverse image always exist
+- bijection, bijective function, when we mean paired off
+- have the same cardinality if exist bijection from A to B
+- synomy, map, function
+
 2023/05/01
 
 0000<->1100
