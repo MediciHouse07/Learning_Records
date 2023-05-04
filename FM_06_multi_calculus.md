@@ -499,6 +499,21 @@
 
 ### Lecture 20
 
+2023/05/02
+
+3000<->4500
+
+- path independence
+- for gradient field
+- if c1 and c2 have the same start and end points
+- gradient field is conservative
+- an example of vector field that is not conservative
+- not it doesn't have the same answer for the same starting point and ending point
+- force F
+- potential f
+- gradient of f = F
+- conservativeness means no energy can be extracted from the field for free
+
 2023/05/01
 
 1500<->3000
