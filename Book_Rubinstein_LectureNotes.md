@@ -37,4 +37,3 @@
 - condition star
 - sufficient condition for a choice function to be formulated as if decision maker is maximizing some preference relation
 - what is second best procedure
-- 
