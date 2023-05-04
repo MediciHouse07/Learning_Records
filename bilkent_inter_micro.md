@@ -445,3 +445,18 @@
 - you will make choices in such a way that given your budget set/constraint, you would like to achieve the maximum utility/maximize utility
 - utility maximizer is also an assumption
 - use I to denote income
+
+# Lecture 15
+
+0000<->1500
+
+2023/05/02
+
+- perfectly complement
+- this lecture is lecture 16
+- leontiff utility function
+- can't take derivative on leontiff
+- solve it by making argument
+- get a relation between all good x and y
+- income expantion path
+- y star putted at the very end
