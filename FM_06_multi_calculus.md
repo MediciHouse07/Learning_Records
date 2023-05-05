@@ -499,6 +499,15 @@
 
 ### Lecture 20
 
+4500<->End
+
+2023/05/03
+
+- conservative and path independent are equivalent
+- a different way of thinking about the situation
+- and it is equivalent to say F is a gradient field
+- equivalent Mdx+Ndy, an exact differential=df
+
 2023/05/02
 
 3000<->4500
@@ -563,3 +572,13 @@
 - f is called potential
 - electrical potential, gravi potential
 - physic potential is on the opposite of the mathmatical potential
+
+# Lecture 21
+
+0000<->1000
+
+2023/05/03
+
+- partial derivative and gradient field
+- differentiable in everywhere and My=Mx
+- how to check whether a vector field is a gradient field
