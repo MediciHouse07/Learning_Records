@@ -448,6 +448,18 @@
 
 # Lecture 15
 
+1500<->3000
+
+2023/05/03
+
+- through expantion, derive demand function
+- demand functions are introduced
+- maximizer
+- value function, indirect utility function
+- indirectly as if you were getting utility from price and income
+- tax on goods or on income, parentalism
+- lump sum principle
+
 0000<->1500
 
 2023/05/02
