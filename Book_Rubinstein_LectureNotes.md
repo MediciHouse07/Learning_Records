@@ -1,3 +1,24 @@
+# 14/162
+
+2023/05/03
+
+- economic agent
+- facade
+- primitive
+
+# 15/162
+
+2023/05/03
+
+- deliberation process, rational choice
+- what is desired, what is feasible, what are best possible allocation
+
+# 19/162
+
+2023/05/03
+
+- preference
+
 # 20/162
 
 2023/05/02
