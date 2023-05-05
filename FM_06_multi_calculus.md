@@ -575,6 +575,15 @@
 
 # Lecture 21
 
+2023/05/04
+
+1000<->2500
+
+- exercise on what value a should have to make F a gradient
+- then is to find potential
+- plus a constant
+- find potential only if Nx=My
+
 0000<->1000
 
 2023/05/03
