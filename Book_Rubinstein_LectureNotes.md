@@ -64,12 +64,33 @@
 
 2023/05/04
 
+- position and structure doesn't change at a continuous space
+- topological space: a space which has an associated family of subsets that constitute a topology. The relationships between members of the space are mathematically analogous to those between points in ordinary two- and three-dimensional space.
+- vector space, topological space
+- https://www.youtube.com/watch?v=7ZQH89KLrU0
+- things with the same property live inside a space
+- vector space, metric space(lose addability), topological space(only set theory)
+- x and tao
+- tao is all the subsets of x
+- indiscrete topology
+- discrete topology
+- power set is discrete topology
+- in the middle
+
+2023/05/04
+
 - understand it in a questionaire way
 - n nary relation
 - unary
 - 3-nary
 - isomorphism
 - topological space
+
+# 25/162
+
+2023/05/04
+
+- correspondence
 
 # 42/162
 
