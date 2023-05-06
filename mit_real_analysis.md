@@ -76,6 +76,19 @@
 
 # Lecture 2
 
+2600<->3600
+
+2023/05/04
+
+- absolute value looking
+- A is finite
+- Cantoz-Schrod-Bernstein
+- statement about cardinality
+- process of counting
+- countable set, pair element in a set A with N, if A has the same size as N, then it is countably infinite
+- if A is finite or ctbly infinite we say A is countable
+- if not countable, then A is uncountable
+
 2023/05/02
 
 1100<->2600
