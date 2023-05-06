@@ -100,3 +100,10 @@ In this case, the antecedent "a preference relation can be represented by a util
 - evolutionary process
 - revealed preference
 - >=* revealed preference relation
+
+# 22/987
+
+2023/05/04
+
+- practice Example 1.C.2
+- relation between the weak axiom and rationality for preference relations
