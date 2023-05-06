@@ -575,6 +575,16 @@
 
 # Lecture 21
 
+2500<->4000
+
+2023/05/05
+
+- it is tempting
+- new notation, closed curve
+- converse
+- sumply connected region
+- definition of curl, Nx-My, physic
+
 2023/05/04
 
 1000<->2500
