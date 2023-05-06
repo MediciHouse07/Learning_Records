@@ -60,6 +60,17 @@
 
 2023/05/03
 
+# 24/162
+
+2023/05/04
+
+- understand it in a questionaire way
+- n nary relation
+- unary
+- 3-nary
+- isomorphism
+- topological space
+
 # 42/162
 
 2023/05/02
