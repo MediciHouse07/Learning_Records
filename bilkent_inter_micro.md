@@ -448,6 +448,18 @@
 
 # Lecture 15
 
+2023/05/04
+
+3000<->End
+
+- lump-sum principle
+- analyse the effect after impose a tax
+- how much money collected
+- TL turkish lera
+- tax tx1 on either cigar or on total income, the effect are sort of equivalent
+- but the shape of the new budget line are different
+- collect the same tax, but disort the choice in a different way
+
 1500<->3000
 
 2023/05/03
