@@ -496,4 +496,4 @@
 - x with tax on good
 - put tax on the good, people are worse off
 - GOV is indifferent on taxing what
-- why the x star and y star has I in it
+- why the x star and y star has I in it, substitute the optimal back to the budget line equation, you get the formula
