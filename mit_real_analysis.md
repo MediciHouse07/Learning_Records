@@ -76,6 +76,13 @@
 
 # Lecture 2
 
+3600<->5100
+
+2023/05/05
+
+- when there is bijection
+- bijection, and inverse of bijection, this he left as exercise
+
 2600<->3600
 
 2023/05/04
