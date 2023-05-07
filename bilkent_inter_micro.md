@@ -487,6 +487,18 @@
 
 # Lecture 16
 
+1800<->3300
+
+2023/05/05
+
+- lose purchasing power + artificially push people to consume more
+- vs only losing purchasing power
+- distort
+- for leontiff, people are indifferent on what the GOV tax
+- perfect complement
+- preference is rigid, it doesn't have flexibility
+- lump sum principle
+
 0000<->1800
 
 2023/05/05
