@@ -484,3 +484,16 @@
 - get a relation between all good x and y
 - income expantion path
 - y star putted at the very end
+
+# Lecture 16
+
+0000<->1800
+
+2023/05/05
+
+- based on your preference, you prefer different policy
+- indirect utility function v Px Py I
+- x with tax on good
+- put tax on the good, people are worse off
+- GOV is indifferent on taxing what
+- why the x star and y star has I in it
