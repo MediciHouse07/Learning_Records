@@ -1,5 +1,3 @@
-Micro.md
-
 # I Choice and Preference
 
 ## Choice and Preference 1
@@ -15,6 +13,17 @@ Micro.md
 - 
 
 ## 2
+
+0500<->End
+
+2023/05/06
+
+- it is a very nice condition
+- robot, preference relation, individual, behave the same way
+- consistent way of choice
+- Ariel Rubinstein
+- standard money pumping game, such living wouldn't exist
+- think about small amount of money to select an alternative
 
 2023/05/06
 
