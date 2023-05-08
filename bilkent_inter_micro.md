@@ -487,6 +487,12 @@
 
 # Lecture 16
 
+2023/05/06
+
+3300<->End
+
+- perfect substitution and how tax change would result in a cornersolution
+
 1800<->3300
 
 2023/05/05
@@ -509,3 +515,16 @@
 - put tax on the good, people are worse off
 - GOV is indifferent on taxing what
 - why the x star and y star has I in it, substitute the optimal back to the budget line equation, you get the formula
+
+# Lecture 17
+
+2023/05/06
+
+0000<->1000
+
+- obejective function, constraint
+- marshallian demand the formula of it
+- indirectly utility function
+- expenditure
+- minimal expenditure but get the maximum utility
+- primary problem, dual problem
