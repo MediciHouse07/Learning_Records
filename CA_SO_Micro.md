@@ -34,6 +34,18 @@
 - is at least as good as y, XRy
 - binary tanstivity property was introduced in the math review
 
+## 3
+
+2023/05/06
+
+- all = every
+- there are relaxation
+- all definition are if and only if statement
+- corollary
+- >=-minimal
+- >=maximal
+- if >= X finite, then >= has utility representation
+
 
 ----
 Pareto efficiency
