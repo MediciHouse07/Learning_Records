@@ -575,6 +575,15 @@
 
 # Lecture 21
 
+4000<->End
+
+2023/05/06
+
+- curl measure rotation of a curve
+- different curve
+- curl meaure 2x angular velocity of rotation component of velocity field
+- torque
+
 2500<->4000
 
 2023/05/05
@@ -601,3 +610,12 @@
 - partial derivative and gradient field
 - differentiable in everywhere and My=Mx
 - how to check whether a vector field is a gradient field
+
+# Lecture 22
+
+0000<->0500
+
+2023/05/06
+
+- if curl is 0 and F is defined everywhere
+- green's therom
