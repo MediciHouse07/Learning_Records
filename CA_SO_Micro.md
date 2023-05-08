@@ -72,6 +72,20 @@
 - x1 is nonempty
 - |x| is less than infinity
 
+## 5
+
+2023/05/06
+
+0000<->End
+
+- rational choice
+- 2 to the X, all subset of X
+- induced choice function always pick the best
+- choice only choose one element from A
+- it takes subset as input and return one element from the set
+- condition alpha
+- AS IF
+
 ----
 Pareto efficiency
 
