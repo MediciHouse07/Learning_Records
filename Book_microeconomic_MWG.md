@@ -107,3 +107,10 @@ In this case, the antecedent "a preference relation can be represented by a util
 
 - practice Example 1.C.2
 - relation between the weak axiom and rationality for preference relations
+
+# 23/987
+
+2023/05/06
+
+- preference sign is a choice function, it can be putted into choice structure, as the second parameter
+- proposition 1.D.1 where does z come from
