@@ -46,6 +46,16 @@
 - >=maximal
 - if >= X finite, then >= has utility representation
 
+## 4
+
+0000<->0830
+
+2023/05/06
+
+- lexicponaphic preference
+- continuous preference
+- x1 is nonempty
+- |x| is less than infinity
 
 ----
 Pareto efficiency
