@@ -48,6 +48,21 @@
 
 ## 4
 
+0800<->End
+
+2023/05/06
+
+- lexicgonaphic preferences
+- dictionary analogy
+- can't be represented by utility function
+- remaining set is not compact
+- bounded but not closed
+- preference continuous preference, and X is metric space
+- thus it has continuous utility
+- what does continuous preference mean is
+- Debreu's theorom
+- continuous preference, no jump, all of a sudden there will not be reverse
+
 0000<->0830
 
 2023/05/06
