@@ -86,6 +86,25 @@
 - condition alpha
 - AS IF
 
+## 6
+
+2023/05/07
+
+- rational vs rationalizable
+- want to be distractive
+- leave a space here
+- look at the story as if Bob is maximizing
+- rational doesn't mean the literal meaning of rational
+
+## 7
+
+0000<->0400
+
+2023/05/07
+
+- alternatives
+- walking distance
+
 ----
 Pareto efficiency
 
