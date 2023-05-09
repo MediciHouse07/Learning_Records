@@ -21,6 +21,18 @@
 
 ## Logic 2
 
+2023/05/05
+
+0000<->0500
+
+- argument, ordered list sentences
+- premises, proposition
+- valid arguments with false premises and false conclusion
+- Miami is not is not the capital of Kansas, Miami is not in Canada
+- argument doesn't have to be true, it should be valid
+- sentence can't be valid, it can only be either true or false
+- TBRT review premises defn, true argument x and valid sentence x
+
 2023/05/01
 
 - argument order list of sentences, conclusion, premises
@@ -31,6 +43,25 @@
 - valid argument: one where if premises are true then conclusion is also true
 - truth table
 - P->Q, only TF is false
+
+## Logic 3
+
+2023/05/07
+
+- atomic sentence
+- -> => equivalent
+- both premises are true, valid argument
+- premise and conclusion
+- if sometimes premises are true but conclusion are falise, it is an invald argument
+
+## Logic 4
+
+2023/05/07
+
+- valid argument or not
+- all premises are true, conclusion must be true
+- when not are premises are true, that row we don't care
+- 
 
 # IV_Real_Analysis
 
