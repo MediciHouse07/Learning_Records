@@ -61,7 +61,28 @@
 - valid argument or not
 - all premises are true, conclusion must be true
 - when not are premises are true, that row we don't care
-- 
+
+## 5
+
+2023/05/08
+
+- PQ and QP is it valid
+- all premises are true, the conclusion must be true
+
+## 6
+
+2023/05/08
+
+- PQ and not Q not P
+
+## 7
+
+2023/05/08
+
+- proving an argument = valid argument
+- inference rules
+- modus ponens modus tollens double negation
+- if XX is true
 
 # IV_Real_Analysis
 
