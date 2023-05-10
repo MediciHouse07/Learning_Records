@@ -116,6 +116,12 @@
 
 2023/05/08
 
+- in definition, it is iff
+- if and only if means <=>
+- any 2 real number are comparable
+
+2023/05/08
+
 0000<->0600
 
 - criteria, jump to the next step by step
