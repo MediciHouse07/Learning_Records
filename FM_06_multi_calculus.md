@@ -613,6 +613,17 @@
 
 # Lecture 22
 
+2023/05/08
+
+0000<->1500
+
+- counterclock wise match with Nx-Ny
+- green's theorom only apply to closed curve
+- dA is the small area
+- turn a hard line integral into an easy double integral
+- area R times x bar(center of mass)
+- formula for calculating center of mass
+
 0000<->0500
 
 2023/05/06
