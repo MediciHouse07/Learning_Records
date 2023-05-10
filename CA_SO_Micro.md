@@ -98,12 +98,27 @@
 
 ## 7
 
+2023/05/08
+
+- continuous preference
+- 0600 mins alternative and bundles
+- in consumer theory, price are excluded
+- only quantity of goods are included
+
 0000<->0400
 
 2023/05/07
 
 - alternatives
 - walking distance
+
+## 8
+
+2023/05/08
+
+0000<->0600
+
+- criteria, jump to the next step by step
 
 ----
 Pareto efficiency
