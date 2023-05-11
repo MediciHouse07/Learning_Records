@@ -126,6 +126,25 @@
 
 - criteria, jump to the next step by step
 
+## 9
+
+2023/05/09
+
+- you can fix notation
+- you can't fix value
+- exhanstive cases
+- these 4 cases cover everything
+
+## 10
+
+0000<->0400
+
+2023/05/09
+
+- define continuity
+- X is metric space with proper property
+- continuity can only be defined on metric space
+
 ----
 Pareto efficiency
 
