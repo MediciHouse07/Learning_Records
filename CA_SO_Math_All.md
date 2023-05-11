@@ -84,6 +84,29 @@
 - modus ponens modus tollens double negation
 - if XX is true
 
+## 8
+
+2023/05/10
+
+- assume premise are true
+- inter
+
+## 9
+
+2023/05/10
+
+- direct proof
+
+## 10
+
+2023/05/10
+
+- conjection
+- different phrase may serve the same role as and
+- sometimes it is called and but it is not a conjection
+- inference 4 and 5
+- conjection rule
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
