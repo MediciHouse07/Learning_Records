@@ -137,6 +137,13 @@
 
 ## 10
 
+2023/05/10
+
+- it is strictly better
+- to the right of it
+- lexicographical peference
+- lexicography
+
 0000<->0400
 
 2023/05/09
