@@ -156,6 +156,12 @@
 - x belong to Set X = X is true, x doesn't belong to X, means X is false
 - another approach is to use truth table or list all the possible combination then the answer is clear
 
+# 67/313
+
+2023/05/09
+
+- negating
+
 # 141/313
 
 2023/04/22
