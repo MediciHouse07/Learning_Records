@@ -110,6 +110,10 @@ In this case, the antecedent "a preference relation can be represented by a util
 
 # 23/987
 
+2023/05/10
+
+- choice function return one element, but it may also return more than one element
+
 2023/05/06
 
 - preference sign is a choice function, it can be putted into choice structure, as the second parameter
