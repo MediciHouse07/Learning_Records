@@ -107,6 +107,30 @@
 - inference 4 and 5
 - conjection rule
 
+## 11
+
+2023/05/11
+
+- Simplification rule
+
+## 12
+
+2023/05/11
+
+- Conditional derivations
+- assumption for conditional derivation
+- statements in the box are not necessarily true
+- can't repeat line 3
+
+## 13
+
+2023/05/11
+
+- location of the bracket
+- ACD CD
+- conditional derivation
+- assumption for conditional derivation
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
