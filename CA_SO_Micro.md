@@ -152,6 +152,19 @@
 - X is metric space with proper property
 - continuity can only be defined on metric space
 
+# 11
+
+2023/05/11
+
+- >= is defined on reals
+- at least as good as can be defined on anything
+- 0340 mins define when a vector is greater than or equal to another vector
+- define a choice behaviour that satisfies condition alpha
+- to prove this statement "at least as good sign iff one vector is greater than or equal to another vector"
+- hunch
+- either this or this is equivalent to either this is true or this is true
+- define a preference relation in a random way
+
 ----
 Pareto efficiency
 
