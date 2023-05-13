@@ -132,3 +132,10 @@ In this case, the antecedent "a preference relation can be represented by a util
 2023/05/11
 
 - read it through
+
+# 26/987
+
+2023/05/11
+
+- practice the exercise 1.B.1
+- if the truth table are the same, then the 2 statement/argument are the same
