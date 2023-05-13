@@ -172,6 +172,14 @@
 - assume for conditional derivation
 - by definition
 
+## 13
+
+2023/05/11
+
+- cobdaglass
+- monotonic transformation
+- >= is complete transitive and reflex binary relation on R
+
 ----
 Pareto efficiency
 
