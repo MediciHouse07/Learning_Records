@@ -131,6 +131,16 @@
 - conditional derivation
 - assumption for conditional derivation
 
+## 14
+
+2023/05/11
+
+- no premise, only conclusion
+- assuming the first part is true
+- by essence of the truth table
+- assumption conditional derivation
+- how to prove a therom
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
