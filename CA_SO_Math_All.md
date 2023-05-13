@@ -141,6 +141,20 @@
 - assumption conditional derivation
 - how to prove a therom
 
+## 15
+
+2023/05/12
+
+- statement and therom
+
+## 16
+
+2023/05/12
+
+- disjunction OR
+- modus tollendo ponens
+- rule addition
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
