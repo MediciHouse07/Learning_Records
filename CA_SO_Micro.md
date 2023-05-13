@@ -180,6 +180,30 @@
 - monotonic transformation
 - >= is complete transitive and reflex binary relation on R
 
+## 14
+
+2023/05/12
+
+- prove or disprove an invented function might not represent a preference
+
+## 15
+
+2023/05/12
+
+- for any nonempty set
+- function vs correspondence
+- mathmath function
+- choice function, choice correspondence
+- condition alpha and choice function
+
+# II Utility
+
+## 1
+
+2023/05/12
+
+0000<->0000
+
 ----
 Pareto efficiency
 
