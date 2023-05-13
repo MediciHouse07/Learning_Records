@@ -165,6 +165,13 @@
 - either this or this is equivalent to either this is true or this is true
 - define a preference relation in a random way
 
+## 12
+
+2023/05/11
+
+- assume for conditional derivation
+- by definition
+
 ----
 Pareto efficiency
 
