@@ -202,6 +202,19 @@
 
 2023/05/12
 
+- indifference curve
+- the set is defined for a
+- at least as good as set of a belongs to X
+- not a finite set needs continuity
+- find utility function representing preference
+- 2 ways of writting I indifference set
+- and Ra, at least as good as set of a
+- indifference curve is {a}
+- R+ vs R++
+- level set
+
+2023/05/12
+
 0000<->0000
 
 ----
