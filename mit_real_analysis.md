@@ -76,6 +76,15 @@
 
 # Lecture 2
 
+5100<->5700
+
+2023/05/12
+
+- changing letter doesn't change the set
+- inconsequential
+- simply by definition
+- then there exist
+
 3600<->5100
 
 2023/05/05
