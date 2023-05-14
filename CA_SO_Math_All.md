@@ -155,6 +155,25 @@
 - modus tollendo ponens
 - rule addition
 
+## 17
+
+2023/05/13
+
+- conditional derivation
+- when conclusion is P->S
+
+## 18
+
+2023/05/13
+
+- reductio and absurdum
+- proof by contradiction
+- deny of conclusion, get contradiction due to deny of conclusion
+- assumption for contradiction
+- repeat line x
+- use the rule correctly or from premise
+- indirect derivation 4-8
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
