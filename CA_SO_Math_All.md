@@ -181,6 +181,19 @@
 - De Morgon's Theorem
 - A.I.D D.N.
 
+## 20
+
+2023/05/14
+
+- no premises is therom
+
+## 21
+
+2023/05/14
+
+- new conclusion
+- condition on
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
