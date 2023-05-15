@@ -217,6 +217,22 @@
 
 0000<->0000
 
+## 2
+
+2023/05/13
+
+0000<->1500
+
+- set of alternatives will be Rn
+- comsumption bundles, each x and y are bundles
+- first quadron't of the space
+- not bounded set
+- change in utility per unit consumption
+- unit depends on the setup
+- distinct
+- perfectly divisible
+- talking about utility out of consuming something
+
 ----
 Pareto efficiency
 
