@@ -219,6 +219,14 @@
 
 ## 2
 
+0500<->End
+
+2023/05/13
+
+- continuity preference
+- be careful about changing of notation
+- 5-deltax/dx,5+deltay/dy
+
 2023/05/13
 
 0000<->1500
