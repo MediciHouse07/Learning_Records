@@ -241,6 +241,17 @@
 - perfectly divisible
 - talking about utility out of consuming something
 
+## 3
+
+2023/05/14
+
+0000<->1500
+
+- total derivative
+- MRSij= minus partial U partial i/ partial U partial j
+- diminishing marginal utility
+- absolute value of MRS is decreasing
+
 ----
 Pareto efficiency
 
