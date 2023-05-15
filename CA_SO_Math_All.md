@@ -174,6 +174,13 @@
 - use the rule correctly or from premise
 - indirect derivation 4-8
 
+## 19
+
+2023/05/13
+
+- De Morgon's Theorem
+- A.I.D D.N.
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
