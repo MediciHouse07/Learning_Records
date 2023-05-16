@@ -76,6 +76,15 @@
 
 # Lecture 2
 
+10200<->10900
+
+2023/05/14
+
+- |positive rational number|=|N|
+- forgo
+- Rk
+- prime number divided by another prime number, unique
+
 5700<->10200
 
 2023/05/13
