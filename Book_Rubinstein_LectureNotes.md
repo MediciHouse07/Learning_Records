@@ -92,6 +92,25 @@
 
 - correspondence
 
+# 30/162
+
+2023/05/14
+
+# 31/162
+
+2023/05/14
+
+- it is talking about the meaning of the value of a utility function is not that meaningful, only order is meaningful
+- grant a license to use utility function
+- with no loss of generality
+- also investigate how to carry additional meaning
+
+# 32/162
+
+2023/05/14
+
+- proof of finite set has minimal element and maximal element
+
 # 42/162
 
 2023/05/02
