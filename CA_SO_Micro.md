@@ -243,6 +243,20 @@
 
 ## 3
 
+1000<->End
+
+2023/05/14
+
+- preferences are convex
+- Ra
+- preference convex, at least as good as set convex set
+- or Ra is convex set
+- preference a set
+- in math review there is the concept convex set
+- multiple vector with scalar and add them
+- convex preference enables exchange goods
+- more balanced bundle are more prefereable in a convex set
+
 2023/05/14
 
 0000<->1500
