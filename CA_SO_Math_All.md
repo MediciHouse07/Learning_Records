@@ -194,6 +194,24 @@
 - new conclusion
 - condition on
 
+## 22
+
+2023/05/15
+
+- if and only if
+- bicondition
+- truth value are the same, equivalent
+
+## 23
+
+2023/05/15
+
+0000<->1100
+
+- inference performed by using basic inference rule
+- 0800 mins prove by using basic inference rule, might be easier
+- have proven
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
