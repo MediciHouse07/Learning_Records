@@ -109,6 +109,10 @@
 
 2023/05/14
 
+- proof of finite set X and utility representation
+
+2023/05/14
+
 - proof of finite set has minimal element and maximal element
 
 # 42/162
