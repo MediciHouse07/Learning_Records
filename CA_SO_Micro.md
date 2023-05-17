@@ -266,6 +266,24 @@
 - diminishing marginal utility
 - absolute value of MRS is decreasing
 
+## 4
+
+2023/05/17
+
+0000<->1500
+
+- cobb douglas
+- perfect substitute
+- langrangeen doesn't work on perfect substitutes
+- perfect compliments
+- min ( or min {
+- drawing the curve for perfect compliments
+- MRS undefined
+- 1200 mins, not defferentiable
+- f' times dx <> dy
+- CES utility
+- monotonic transformation
+
 ----
 Pareto efficiency
 
