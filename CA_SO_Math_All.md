@@ -204,6 +204,14 @@
 
 ## 23
 
+1100<->End
+
+2023/05/15
+
+- proof is not over
+- MTP, from or relation and not P derive Q
+- bicondition
+
 2023/05/15
 
 0000<->1100
