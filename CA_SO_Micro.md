@@ -268,7 +268,19 @@
 
 ## 4
 
-2023/05/17
+1200<->End
+
+2023/05/15
+
+- homothetic preferences
+- MRS is same at all points on the same array
+- array means y=kx
+- transitivity of preference and indifference curve
+- preference monetonicity, and transitivity
+- logical deduction
+- preference is monotonic, more x and more y should be preferred
+
+2023/05/15
 
 0000<->1500
 
