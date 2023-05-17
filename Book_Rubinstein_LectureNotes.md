@@ -115,6 +115,12 @@
 
 - proof of finite set has minimal element and maximal element
 
+# 33/162
+
+2023/05/15
+
+- -1 and 1 are the bound of the range, it is not closed set
+
 # 42/162
 
 2023/05/02
