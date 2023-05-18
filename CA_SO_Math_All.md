@@ -227,6 +227,19 @@
 - nothing in xx, is not usable
 - a bridge between imply and and
 
+## 25
+
+2023/05/17
+
+- without any further due
+- proposition logic, automic sentences
+- premises and conclusion = argument
+- valid argument, are premises are true, then conclusion must be true
+- proof is a short cut for truth table
+- automic sentence
+- invalid argument
+- derive modus tolen by using truth table
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
