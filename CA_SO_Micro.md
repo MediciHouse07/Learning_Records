@@ -304,6 +304,17 @@
 - then formally write down it
 - some preference relation doesn't have indifference
 
+## 6
+
+2023/05/17
+
+- >= and < he say it is obvious
+- also assume transitivity, maybe because it is real number
+- find the indifference curve
+- def of ~, def of preference we are using
+- another way to write the set of indifference curve
+- 00 should be ignored
+
 ----
 Pareto efficiency
 
