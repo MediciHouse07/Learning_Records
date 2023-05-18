@@ -220,6 +220,13 @@
 - 0800 mins prove by using basic inference rule, might be easier
 - have proven
 
+## 24
+
+2023/05/16
+
+- nothing in xx, is not usable
+- a bridge between imply and and
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
