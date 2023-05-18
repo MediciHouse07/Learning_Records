@@ -296,6 +296,14 @@
 - CES utility
 - monotonic transformation
 
+## 5
+
+2023/05/16
+
+- prove something needs hunch, or intuition
+- then formally write down it
+- some preference relation doesn't have indifference
+
 ----
 Pareto efficiency
 
