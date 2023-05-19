@@ -240,6 +240,23 @@
 - invalid argument
 - derive modus tolen by using truth table
 
+## 26
+
+2023/05/18
+
+- conditional conclusion
+- rules can be constructed from the truth table, such as modus ponens
+- conjection
+- therom is an argument without premises
+
+## 27
+
+0000<->0300
+
+2023/05/18
+
+- can't be cause of this contradiction
+
 # IV_Real_Analysis
 
 ## Real_Analysis 1
