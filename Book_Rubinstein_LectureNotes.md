@@ -117,6 +117,10 @@
 
 # 33/162
 
+2023/05/17
+
+- different sub index can have the same utility, this is what it said
+
 2023/05/15
 
 - -1 and 1 are the bound of the range, it is not closed set
