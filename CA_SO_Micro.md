@@ -327,6 +327,14 @@
 - draw indifference curve
 - undefined MRS
 
+## 8
+
+2023/05/18
+
+0000<->1500
+
+- MRS at a point
+
 ----
 Pareto efficiency
 
