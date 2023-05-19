@@ -76,6 +76,16 @@
 
 # Lecture 2
 
+10900<->11600
+
+2023/05/17
+
+- |Q|=|N|
+- proof sketch
+- not to use the same letter
+- another set has bijection to the natural number, thus it is countable
+- prove the above through Z
+
 10200<->10900
 
 2023/05/14
