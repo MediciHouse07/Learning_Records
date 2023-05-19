@@ -139,3 +139,11 @@ In this case, the antecedent "a preference relation can be represented by a util
 
 - practice the exercise 1.B.1
 - if the truth table are the same, then the 2 statement/argument are the same
+
+# 28/987
+
+2023/05/17
+
+# 29/987
+
+2023/05/17
