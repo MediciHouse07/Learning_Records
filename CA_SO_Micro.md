@@ -315,6 +315,18 @@
 - another way to write the set of indifference curve
 - 00 should be ignored
 
+## 7
+
+2023/05/17
+
+- manage min utility arg1 arg2
+- straight line where 2 arguments make no difference
+- a regiion one is greater than another and vice versa
+- divide R square world into 2 world
+- one solution means unique
+- draw indifference curve
+- undefined MRS
+
 ----
 Pareto efficiency
 
