@@ -10,3 +10,13 @@
 - one to one correspondence
 - assumption 2.6
 - finite individual natural number consists of a infinite set, and its element never reaches the infinity
+
+# 44/366
+
+2023/05/18
+
+# 45/366
+
+2023/05/18
+
+- practice of Trichotomy or order for natural numbers
