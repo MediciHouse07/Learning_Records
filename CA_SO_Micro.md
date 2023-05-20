@@ -337,12 +337,35 @@
 
 ## 1
 
+2100<->End
+
+2023/05/19
+
+- necessary condition
+- interior solution vs conner solution
+
 2023/05/18
 
 0000<->2100
 
 - utility function is 3d, but level set, indifference curve can be lied on 2d
 - equation enables an unique point
+
+## 2
+
+2023/05/19
+
+- lagrangee
+- assume some good property in the utility function to avoid calculating S O C
+
+## 3
+
+2023/05/19
+
+0000<->0200
+
+- lambda = benefit / cost for all the goods
+- otherwise there is room for improvement
 
 ----
 Pareto efficiency
