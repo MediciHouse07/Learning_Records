@@ -76,6 +76,13 @@
 
 # Lecture 2
 
+11600<->End
+
+2023/05/19
+
+- cantor
+- continum hypothesis
+
 10900<->11600
 
 2023/05/17
