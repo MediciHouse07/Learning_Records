@@ -331,9 +331,18 @@
 
 2023/05/18
 
-0000<->1500
-
 - MRS at a point
+
+# III Utility maximization and choice
+
+## 1
+
+2023/05/18
+
+0000<->2100
+
+- utility function is 3d, but level set, indifference curve can be lied on 2d
+- equation enables an unique point
 
 ----
 Pareto efficiency
