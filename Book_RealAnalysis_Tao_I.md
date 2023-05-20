@@ -19,4 +19,8 @@
 
 2023/05/18
 
+- practice induction step
+
+2023/05/18
+
 - practice of Trichotomy or order for natural numbers
