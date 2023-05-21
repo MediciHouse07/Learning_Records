@@ -251,6 +251,13 @@
 
 ## 27
 
+2100<->End
+
+2023/05/20
+
+- Biconditional
+- 2 arrows to prove to
+
 0300<->2100
 
 2023/05/19
@@ -260,6 +267,12 @@
 2023/05/18
 
 - can't be cause of this contradiction
+
+## 28
+
+0000<->0800
+
+- 20 steps afterwardss
 
 # IV_Real_Analysis
 
