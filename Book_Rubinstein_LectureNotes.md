@@ -119,6 +119,8 @@
 
 2023/05/19
 
+- k must be less than n, n is a enumeration
+
 2023/05/17
 
 - different sub index can have the same utility, this is what it said
