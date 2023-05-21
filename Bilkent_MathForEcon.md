@@ -14,6 +14,15 @@
 
 # Lecture 2
 
+3200<->4900
+
+2023/05/19
+
+- Supremum principle
+- for empty set, because it has no element, false statement followed by anything can enable a true statement
+- infimum principle
+- practice the proof for 20 mins
+
 0200<->4000
 
 2023/05/18
