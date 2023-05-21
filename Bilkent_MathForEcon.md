@@ -14,6 +14,22 @@
 
 # Lecture 2
 
+2023/05/19
+
+4900<->10100
+
+- order structure, algebraic structure
+- S at most one supremum, at most one infimum
+- unique
+- if unique, we can write SupS, it can be reffered as a real number
+- max, min, supremum and infimum
+- max, supremum of S and belongs to S
+- S feasible bundles, there is supremum but no maximum
+- another PROP
+- yardstick
+- y is arbitrarity close to the set
+- epsilon example
+
 3200<->4900
 
 2023/05/19
