@@ -65,3 +65,24 @@
 - has a upper bound, will have a least upper bound
 - least upper bound, greatest lower bound
 - it has lower bound, but does it have greatest lower bound
+
+# Lecture 3
+
+2023/05/20
+
+2000<->2500
+
+- no ambiguity in theta
+- if x' is unique
+- addictive inverse
+
+2023/05/20
+
+0000<->2000
+
+- Set R'=R define Rn+1=Rn cross R
+- Rn the set all ordered n tuple of real numbers
+- Defn let x x1 xn y y1 yn belongs to Rn and c belongs to R
+- Define plus and scalar mutiliplication
+- binary operation from RR and cR to R
+- SM1 means scalar multiplication
