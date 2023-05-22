@@ -70,6 +70,16 @@
 
 2023/05/20
 
+2500<->3500
+
+- subspace of a vector space might not be a vector space
+- restriction of addition and scalar multiplication
+- R has a unique subspace which is 0
+- R3 itself is a subspace of R3
+- subspace doesn't need to satisfies to the definition of vector space
+
+2023/05/20
+
 2000<->2500
 
 - no ambiguity in theta
