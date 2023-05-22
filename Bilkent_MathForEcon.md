@@ -68,6 +68,21 @@
 
 # Lecture 3
 
+2023/05/21
+
+3500<->5000
+
+- euclidean space and geometry
+- extend order structure of R to Rn
+- subset pf R2. for example sinx
+- is in Cap A, is in Cap B
+- x is related to y under R
+- xRy
+- xnotRy, xy not in R
+- related to itself
+- irreflexive
+- anti symmetric
+
 2023/05/20
 
 2500<->3500
