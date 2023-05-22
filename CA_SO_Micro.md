@@ -360,12 +360,24 @@
 
 ## 3
 
+2023/05/20
+
+- lambda is MR vs MC
+- when lamnda equal to all MR/MC then in 2 goods example, it is in the form of MRS=MRtS
+
 2023/05/19
 
 0000<->0200
 
 - lambda = benefit / cost for all the goods
 - otherwise there is room for improvement
+
+## 4
+
+2023/05/20
+
+- writing choice variable into a function of parameters, price alpha and beta
+- symetric
 
 ----
 Pareto efficiency
