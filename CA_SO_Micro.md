@@ -395,6 +395,14 @@
 
 - general form of x plus lny
 
+## 7
+
+2023/05/21
+
+- maximize a min function
+- min function is not differentiable
+- symmetrycially
+
 ----
 Pareto efficiency
 
