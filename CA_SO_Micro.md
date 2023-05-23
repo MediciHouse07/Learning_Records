@@ -379,6 +379,22 @@
 - writing choice variable into a function of parameters, price alpha and beta
 - symetric
 
+## 5
+
+2023/05/21
+
+- choice variable, fix variable
+- alpha beta, px py income fixed
+- x y not fixed
+- another approach for calculating it, substitution
+- the first one is lagrangeen
+
+## 6
+
+2023/05/21
+
+- general form of x plus lny
+
 ----
 Pareto efficiency
 
