@@ -403,6 +403,15 @@
 - min function is not differentiable
 - symmetrycially
 
+## 8
+
+2023/05/21
+
+- kink point moves on a straight line
+- 2 unknowns, 2 equations
+- in the case where lagerangee doesn't help, use substitution approach
+- using 2 property, both term equal give you the array where the kink point move
+
 ----
 Pareto efficiency
 
