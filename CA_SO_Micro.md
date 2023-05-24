@@ -412,6 +412,14 @@
 - in the case where lagerangee doesn't help, use substitution approach
 - using 2 property, both term equal give you the array where the kink point move
 
+## 9
+
+2023/05/22
+
+- max case, one equation 2 unknown
+- lagrangeen is necessary solution, is not sufficient
+- perfect substitution
+
 ----
 Pareto efficiency
 
