@@ -68,6 +68,17 @@
 
 # Lecture 3
 
+0000<->1500
+
+2023/05/21
+
+- algebric structure, order structure
+- inductive definition
+- (x,y) belongs to VxV
+- addition and scalar multiplication
+- real vector space is because scalar is real
+- member of it
+
 2023/05/21
 
 3500<->5000
