@@ -420,6 +420,18 @@
 - lagrangeen is necessary solution, is not sufficient
 - perfect substitution
 
+## 10
+
+2023/05/23
+
+- indirect utility function
+- change price and income regime
+- to check how utility would response
+- lump-sum principle
+- tax individual through income or goods
+- 30% tax rate
+- purchasing power, is deprived, understand the word
+
 ----
 Pareto efficiency
 
