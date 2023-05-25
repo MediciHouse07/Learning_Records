@@ -68,6 +68,34 @@
 
 # Lecture 3
 
+1500<->1800
+
+2023/05/23
+
+2500<->5500
+
+2023/05/23
+
+- binary relation must satisfy the condition
+- singleton
+- {m}+W
+- subspace vs sub set
+- special condition for subspace
+- binary operation, binary relation
+- relation can be represented as subset of R2
+- y=sinx is also a subset of R2
+- 4200 mins understand set and x is related to y
+- AxB a relation from A to B
+- set R is a relation from A to B
+- x,y in R we say x is related to y under R
+- xRy
+- x,y not in R
+- x not R y
+- refer a relation from A to A as relation on A
+- A can be a line segment
+- at most one of them can belong to the relation set R
+- complete, either xRy or yRx
+
 0000<->1500
 
 2023/05/21
