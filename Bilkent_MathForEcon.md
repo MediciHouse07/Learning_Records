@@ -68,6 +68,22 @@
 
 # Lecture 3
 
+2023/05/24
+
+5500<->End
+
+- order structure of Rn
+- pre order reflexive and transitive
+- partial order preorder and anti symmetric
+- linear order partial order and complete
+- x<>y at least for one component, x is not equal to y
+- x>>y iff all components xi>yi
+- x>y anti symmetric
+- because p is false always
+- >=>> when n=1
+- >= n>1 partial order, not complete
+- define generalized inner product in Rn
+
 1500<->1800
 
 2023/05/23
