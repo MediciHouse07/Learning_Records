@@ -432,6 +432,22 @@
 - 30% tax rate
 - purchasing power, is deprived, understand the word
 
+## 11
+
+2023/05/24
+
+- c vs constraints
+- quote and quote
+- envelope therom can help to skip one step for analysting the change of utility with respect to c
+
+## 12
+
+2023/05/24
+
+0000<->0300
+
+- constraint part is going to vanish when plugging in the optimal point
+
 ----
 Pareto efficiency
 
