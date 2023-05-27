@@ -166,3 +166,16 @@
 - Define plus and scalar mutiliplication
 - binary operation from RR and cR to R
 - SM1 means scalar multiplication
+
+# Lecture 4
+
+0000<->1500
+
+2023/05/28
+
+- define inner product for Rn
+- usual inner product
+- IP1 property of inner product, property 1
+- sum of non negative number is 0 if each of number is 0
+- Propentio of the xxx norm
+- TBRT
