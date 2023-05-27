@@ -231,6 +231,14 @@
 
 # Lecture 3
 
+1500<->3000
+
+2023/05/25
+
+- cantor therom and I am a lier vs I am not a lier
+- define less than relation by using N for Z and Q
+- relation and order
+
 2023/05/21
 
 0000<->1500
