@@ -442,11 +442,25 @@
 
 ## 12
 
+2023/05/25
+
+- reverse engineering
+
 2023/05/24
 
 0000<->0300
 
 - constraint part is going to vanish when plugging in the optimal point
+
+## 13
+
+2023/05/23
+
+0000<->0700
+
+- expenditure function
+- TBRT
+- next is example
 
 ----
 Pareto efficiency
