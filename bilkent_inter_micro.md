@@ -518,6 +518,15 @@
 
 # Lecture 17
 
+0000<->1000
+
+2023/05/25
+
+- minimum amount of expenditure that can give a utility U bar
+- take constraint find the best utility, take utility find the minimum expenditure
+- Primary problem
+- dual problem
+
 2023/05/06
 
 0000<->1000
