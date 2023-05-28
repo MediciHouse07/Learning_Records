@@ -442,6 +442,11 @@
 
 ## 12
 
+2023/05/28
+
+- subject to
+- through optimal quantity get indirect utility function, or reversely through indirect utility function get optimal quantity
+
 2023/05/25
 
 - reverse engineering
@@ -453,6 +458,14 @@
 - constraint part is going to vanish when plugging in the optimal point
 
 ## 13
+
+2023/05/28
+
+0000<->0700
+
+- both approach is based on x1 and x2
+- objective functions and constraint are changed
+- they are related problem
 
 2023/05/23
 
