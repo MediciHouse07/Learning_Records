@@ -171,7 +171,20 @@
 
 0000<->1500
 
-2023/05/28
+2023/05/26
+
+- the usual inner product, norm and distance in Rn
+- inner product allows a geometric structure
+- made the notion of angle possible
+- property of inner product itself and addition and scalar
+- finite
+- x dot x is length square
+- properties of the usual norm
+- the norm ||x||
+
+0000<->1500
+
+2023/05/25
 
 - define inner product for Rn
 - usual inner product
