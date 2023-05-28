@@ -231,6 +231,15 @@
 
 # Lecture 3
 
+3000<->4500
+
+2023/05/26
+
+- <= is < or =
+- E is bounded above
+- latin name infimum
+- the greatest
+
 1500<->3000
 
 2023/05/25
