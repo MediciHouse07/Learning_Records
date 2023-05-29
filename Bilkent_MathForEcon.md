@@ -169,6 +169,21 @@
 
 # Lecture 4
 
+2023/05/27
+
+1500<->3500
+
+- properties of the usual norm
+- N1
+- ||x||>=0
+- ||x||=0 if x is 0 vector
+- dot product is 0
+- intricate
+- triangle inequality
+- cauchy schwas inequality
+- CBS inequality
+- x is parallel to y means x is a scalar vector of y
+
 0000<->1500
 
 2023/05/26
