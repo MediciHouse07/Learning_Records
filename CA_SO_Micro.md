@@ -442,7 +442,7 @@
 
 ## 12
 
-2023/05/28
+2023/05/26
 
 - subject to
 - through optimal quantity get indirect utility function, or reversely through indirect utility function get optimal quantity
@@ -459,7 +459,14 @@
 
 ## 13
 
-2023/05/28
+2023/05/27
+
+0000<->1500
+
+- utility function is a increase function
+- 0900 mins understand constraint in dual problems
+
+2023/05/26
 
 0000<->0700
 
