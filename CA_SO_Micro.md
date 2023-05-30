@@ -459,6 +459,13 @@
 
 ## 13
 
+0500<->End
+
+2023/05/28
+
+- indirect expenditure function vs indirect utility function
+- given the other parameters, how much income you need
+
 2023/05/27
 
 0000<->1500
