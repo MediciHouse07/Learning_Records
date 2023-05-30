@@ -489,6 +489,15 @@
 - TBRT
 - next is example
 
+## Lecture 14
+
+2023/05/29
+
+0000<->0600
+
+- expenditure function, budget constraint
+- iso expenditure
+
 ----
 Pareto efficiency
 
