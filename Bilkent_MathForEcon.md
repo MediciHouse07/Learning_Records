@@ -221,6 +221,18 @@
 
 # Lecture 5
 
+2023/05/29
+
+1500<->3900 End
+
+- OK, if the sqrt is the formula for norm, because <> satisfies all the properties for usual inner product, so it must hold for sqrt to be a generalized norm
+- norm induced by the inner product
+- inner product space would induce a norm space
+- parallel identity
+- 3400 mins understand inequality
+- max norm not induced for any inner product on R2
+- parallelgram identity
+
 2023/05/28
 
 0000<->1500
