@@ -169,6 +169,17 @@
 
 # Lecture 4
 
+2023/05/28
+
+3500<->5500 End
+
+- define distance between to vector in Rn in general
+- 4420 mins, property of the usual distance
+- N1-N4 <-> D1-D4
+- Norm Rn->R
+- generalized inner product
+- D1-D4 doesn't rely on the property of the real vector space, that means it is possible to generalize
+
 2023/05/27
 
 1500<->3500
