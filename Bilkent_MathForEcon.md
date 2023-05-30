@@ -218,3 +218,21 @@
 - sum of non negative number is 0 if each of number is 0
 - Propentio of the xxx norm
 - TBRT
+
+# Lecture 5
+
+2023/05/28
+
+0000<->1500
+
+- inner product spaces
+- normed spaces
+- metric spaces
+- Rn x Rn is a possible combination
+- < , >
+- is called inner product
+- <,>(x,y)
+- V is a real vector space
+- addition of vector in real vector space
+- inner product space
+- define generalized norm
