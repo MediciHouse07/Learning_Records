@@ -248,3 +248,17 @@
 - addition of vector in real vector space
 - inner product space
 - define generalized norm
+
+## Lecture 6
+
+2023/05/30
+
+0000<->1700
+
+- A x A to R
+- general form of distance
+- m is a matrix on A, (A,m) metric space
+- norm of x-y in R
+- why that is a usual norm? 1700 mins
+- OK because there are in R1
+- that means 
