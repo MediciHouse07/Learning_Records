@@ -498,6 +498,17 @@
 - expenditure function, budget constraint
 - iso expenditure
 
+2023/05/30
+
+0600<->End
+
+- solve different systems
+- parameters are different
+- hicksion demand fix U bar
+- marshalian demand fix income I
+- expenditure function, e
+- indirect utility function, V
+
 ----
 Pareto efficiency
 
