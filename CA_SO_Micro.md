@@ -509,6 +509,22 @@
 - expenditure function, e
 - indirect utility function, V
 
+# IV Demand
+## 1
+
+2023/05/31
+
+0000<->1500
+
+- demand is optimal consumption bundle
+- marshallian demand vs heksian demand
+- normally they have different behaviour
+- homogeneity
+- normal good about I
+- inferior good about I
+- superior good most goods are superior good about price
+- giffen good about price
+
 ----
 Pareto efficiency
 
