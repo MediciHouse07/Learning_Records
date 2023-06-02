@@ -251,6 +251,16 @@
 
 ## Lecture 6
 
+1700<->3200
+
+2023/05/30
+
+- threshold , min M{}
+- formally to understand arbitrarily close to a set
+- define distance in different way
+- in R and in Rn or in other space
+- discrete metric on A
+
 2023/05/30
 
 0000<->1700
