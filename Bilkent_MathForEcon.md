@@ -251,9 +251,16 @@
 
 ## Lecture 6
 
+3200<->End
+
+2023/06/01
+
+- openness and closeness
+- pectorial vs openess
+
 1700<->3200
 
-2023/05/30
+2023/05/31
 
 - threshold , min M{}
 - formally to understand arbitrarily close to a set
