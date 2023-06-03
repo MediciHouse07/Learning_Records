@@ -279,3 +279,15 @@
 - why that is a usual norm? 1700 mins
 - OK because there are in R1
 - that means 
+
+## Lecture 7
+
+2023/06/02
+
+0000<->1500
+
+- has origin in reality
+- eucleandean space, to model the space we live
+- globe
+- ex post
+- decisive
