@@ -47,3 +47,9 @@
 2023/05/19
 
 - vacuous
+
+# 47/366
+
+2023/06/02
+
+- practice and convince myself that Lemma 2.3.2, as applying induction on n*0=0, applying the induction also on n*m++=n*m+n
