@@ -8,7 +8,7 @@
 - different at sequential game, strategy is more complicated
 - expected utility
 
-## 11 Mechanism Design
+# 11 Mechanism Design
 
 ## 4
 
