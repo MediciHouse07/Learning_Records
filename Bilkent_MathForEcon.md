@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+1500<->3000
+
+2023/06/02
+
+- let X,m be a metric space, y belongs to X and epsilon >0
+- epsilon ball
+
 2023/06/02
 
 0000<->1500
