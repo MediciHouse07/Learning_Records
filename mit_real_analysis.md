@@ -231,6 +231,14 @@
 
 # Lecture 3
 
+4500<->6000
+
+2023/06/02
+
+- there is no element in the set bigger than the supS
+- inf and sup exist in the universe set, is what is called least bound property
+- well ordering property of N
+
 3000<->4500
 
 2023/05/26
