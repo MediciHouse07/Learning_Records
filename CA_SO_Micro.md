@@ -512,6 +512,12 @@
 # IV Demand
 ## 1
 
+1500<->2100
+
+2023/06/02
+
+- extreme inferior goods, giffen good
+
 2023/05/31
 
 0000<->1500
@@ -524,6 +530,15 @@
 - inferior good about I
 - superior good most goods are superior good about price
 - giffen good about price
+
+## 2
+
+0000<->0900
+
+2023/06/02
+
+- demand curve is a function of one variable
+- hicksian demand curve
 
 ----
 Pareto efficiency
