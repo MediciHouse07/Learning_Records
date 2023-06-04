@@ -40,6 +40,10 @@
 
 # 13/282
 
+2023/06/02
+
+- When A and B are the same set we sometimes use a superscript 2 to denote such a product, RXR is equivalent as R^2, x,y belongs to R^2 simply means x is from R and y is from R
+
 2023/04/21
 
 - understand what is the difference between strong induction and normal induction
