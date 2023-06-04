@@ -1,3 +1,15 @@
+# 1 Strategic form games with complete information
+
+## 1
+
+2023/06/02
+
+- strategy set, action set
+- different at sequential game, strategy is more complicated
+- expected utility
+
+## 11 Mechanism Design
+
 ## 4
 
 2023/06/02
