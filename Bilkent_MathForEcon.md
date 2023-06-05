@@ -282,6 +282,16 @@
 
 ## Lecture 7
 
+2700<->4600
+
+2023/06/03
+
+- equality is excluded
+- draw a picture is useful, sometimes it is mis leading
+- wrt
+- define close, and using open concept
+- both open and closes, they are not negation to each other
+
 1500<->3000
 
 2023/06/02
