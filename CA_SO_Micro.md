@@ -533,6 +533,15 @@
 
 ## 2
 
+2023/06/03
+
+0900<->2100 End
+
+- 1500 mins where marshalian demand and hicksian demand intersects
+- marshalian demand, income and substitutes effect play role, more responsive, elastic, less steeper
+- hicksian no income effect
+- e stands for expenditure
+
 0000<->0900
 
 2023/06/02
