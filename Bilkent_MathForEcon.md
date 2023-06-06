@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+4600<->10100
+
+2023/06/04
+
+- singleton
+- decisive property as being an open set
+
 2700<->4600
 
 2023/06/03
