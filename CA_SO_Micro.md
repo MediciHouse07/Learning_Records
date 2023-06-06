@@ -549,6 +549,12 @@
 - demand curve is a function of one variable
 - hicksian demand curve
 
+## 3
+
+2023/06/04
+
+- try to practice
+
 ----
 Pareto efficiency
 
