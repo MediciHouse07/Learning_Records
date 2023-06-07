@@ -282,6 +282,15 @@
 
 ## Lecture 7
 
+10100<->End
+
+2023/06/05
+
+- open property perserved under union, intersection property perserved under intersection
+- finite intersection is open, finite union is closed
+- by definition of union, x belongs to XX for some
+- dmorgen's law
+
 4600<->10100
 
 2023/06/04
