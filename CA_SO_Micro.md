@@ -563,6 +563,15 @@
 - 1200 mins purchasing power the same, substitution effect
 - purchasing power is not about money, it is about quantity that you can buy
 
+## 5
+
+2023/06/06
+
+- monotonic transformation
+- substitution effect xm-xi
+- income effect xf-xm
+- total effect = substitution effect + income effect = xf-xi
+
 ----
 Pareto efficiency
 
