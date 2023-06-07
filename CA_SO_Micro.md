@@ -555,6 +555,14 @@
 
 - try to practice
 
+## 4
+
+2023/06/05
+
+- slutsky decomposition
+- 1200 mins purchasing power the same, substitution effect
+- purchasing power is not about money, it is about quantity that you can buy
+
 ----
 Pareto efficiency
 
