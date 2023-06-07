@@ -324,3 +324,12 @@
 - globe
 - ex post
 - decisive
+
+## Lecture 8
+
+2023/06/06
+
+0000<->1500
+
+- tao is a subset of 2X, 2X is all subset of X
+- TBRT
