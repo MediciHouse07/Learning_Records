@@ -572,6 +572,14 @@
 - income effect xf-xm
 - total effect = substitution effect + income effect = xf-xi
 
+## 6
+
+2023/06/07
+
+0000<->1500
+
+- hicksian decomposition
+
 ----
 Pareto efficiency
 
