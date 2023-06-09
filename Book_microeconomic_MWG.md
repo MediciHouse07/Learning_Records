@@ -149,3 +149,15 @@ In this case, the antecedent "a preference relation can be represented by a util
 2023/05/18
 
 2023/05/17
+
+## 30/987
+
+2023/06/07
+
+- convex set, combination is also in the set
+
+## 31/987
+
+2023/06/07
+
+- pollution as a product, where consumer need to pay producer, and it can be in the L commodities set
