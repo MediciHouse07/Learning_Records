@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+0000<->1500
+
+2023/06/07
+
+- knife function property
+- important, one point is it close enough to a set
+
 10100<->End
 
 2023/06/05
