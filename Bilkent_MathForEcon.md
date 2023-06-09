@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+1500<->3000
+
+2023/06/08
+
+- find a equalized way to describe 2 terms in one
+
 0000<->1500
 
 2023/06/07
