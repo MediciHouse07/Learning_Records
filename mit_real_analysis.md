@@ -231,6 +231,13 @@
 
 # Lecture 3
 
+2023/06/08
+
+6000<->End
+
+- Q doesn't have least upper bound
+- DNE in Q, doesn't exist in rational number
+
 4500<->6000
 
 2023/06/02
