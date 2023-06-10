@@ -574,11 +574,24 @@
 
 ## 6
 
+1500<->2100 End
+
+2023/06/08
+
 2023/06/07
 
 0000<->1500
 
 - hicksian decomposition
+
+## 7
+
+0000<->0900
+
+2023/06/08
+
+- shephard's lemma
+- partial derivative vs substitutin effect and income effect
 
 ----
 Pareto efficiency
