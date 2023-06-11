@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+2023/06/09
+
+3000<->4500
+
+- practice the proof epsilon ball are open set
+
 1500<->3000
 
 2023/06/08
