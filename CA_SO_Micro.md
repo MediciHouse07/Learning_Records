@@ -586,12 +586,32 @@
 
 ## 7
 
+0900<->1700
+
+2023/06/09
+
+- another way of putting substitution effect and income effect
+- normal good with positive partial derivative, inferior good with negative partial derivative
+- extream inferior good may lead to a giffen good, due to income effect is extreamly high
+- own price elasticity
+- propotionate change in price
+- price elasticity, income elasticity
+- cross price elasticity
+
 0000<->0900
 
 2023/06/08
 
 - shephard's lemma
 - partial derivative vs substitutin effect and income effect
+
+## 8
+
+2023/06/09
+
+0000<->0700
+
+- change in the consumer surplus
 
 ----
 Pareto efficiency
