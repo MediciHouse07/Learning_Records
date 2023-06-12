@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+2023/06/10
+
+4500<->6000
+
+- is open wrt to m
+- discrete metric on X, every set is open, every set is closed
+
 2023/06/09
 
 3000<->4500
