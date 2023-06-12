@@ -282,6 +282,17 @@
 
 ## Lecture 7
 
+2023/06/11
+
+6000<->11500
+
+- countable
+- uncountable
+- finite infinite
+- intersection of any nonempty finite set is collection of open sets is open
+- union of any nonempty finite collection of closed sets is closed
+- counter example, infinite collection of open sets whose intersection is closed example
+
 2023/06/10
 
 4500<->6000
