@@ -607,6 +607,13 @@
 
 ## 8
 
+2023/06/10
+
+0700<->2200
+
+- how much additional money to pay to customer to keep him/her the same utility level
+- CV compensating variation
+
 2023/06/09
 
 0000<->0700
