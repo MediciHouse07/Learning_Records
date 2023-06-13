@@ -607,6 +607,14 @@
 
 ## 8
 
+2023/06/11
+
+1400<->End
+
+- U bar hicksian demand, I marshalian demand
+- equivalent variation, EV
+- how much to pay to go back to initial utility level
+
 2023/06/10
 
 0700<->2200
