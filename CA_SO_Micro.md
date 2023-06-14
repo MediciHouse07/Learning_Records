@@ -628,7 +628,7 @@
 
 - change in the consumer surplus
 
-# V
+# V Uncertainty
 
 ## 1
 
