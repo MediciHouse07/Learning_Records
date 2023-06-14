@@ -628,6 +628,19 @@
 
 - change in the consumer surplus
 
+# V
+
+## 1
+
+2023/06/12
+
+- deterministic world, action and outcome are the same thing
+- alternative action, outcomes realized
+- alternative is probability measure on Z
+- alternatives is element in L, p
+- outcome is the element in the set Z
+- simplex
+
 ----
 Pareto efficiency
 
