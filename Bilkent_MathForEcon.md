@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+2023/06/12
+
+11500<->11930 End
+
+- finite and infinite may referring number of sets
+
 2023/06/11
 
 6000<->11500
@@ -363,6 +369,10 @@
 - decisive
 
 ## Lecture 8
+
+2023/06/12
+
+0000<->1130
 
 2023/06/06
 
