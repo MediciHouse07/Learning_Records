@@ -641,6 +641,17 @@
 - outcome is the element in the set Z
 - simplex
 
+## 2
+
+0000<->1500
+
+2023/06/13
+
+- |Z|, norm of a set
+- risk preference
+- greatest likelihood
+- expected utility
+
 ----
 Pareto efficiency
 
