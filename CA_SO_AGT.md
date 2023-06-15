@@ -8,6 +8,22 @@
 - different at sequential game, strategy is more complicated
 - expected utility
 
+# 8 Voting
+
+## 1
+
+2023/06/14
+
+- voting rule is a function F preference X is a subset of X
+
+## 2
+
+2023/06/14
+
+- strategic vs truthfully reveal
+- likelihood of tie
+- tie breaking rule
+
 # 11 Mechanism Design
 
 ## 4
