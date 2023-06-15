@@ -370,6 +370,14 @@
 
 ## Lecture 8
 
+0000<->1500
+
+2023/06/13
+
+- finite collection
+- set
+- indiscrete
+
 2023/06/12
 
 0000<->1130
