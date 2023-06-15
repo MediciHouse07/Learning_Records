@@ -370,6 +370,13 @@
 
 ## Lecture 8
 
+2023/06/14
+
+0400<->End
+
+- refer a set in tao as being open wrt tao
+- metricible
+
 0000<->1500
 
 2023/06/13
