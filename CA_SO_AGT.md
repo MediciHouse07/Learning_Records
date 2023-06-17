@@ -24,6 +24,28 @@
 - likelihood of tie
 - tie breaking rule
 
+## 3 
+
+2023/06/15
+
+- strategic interaction
+- majority winner
+- total rality is not majority
+
+## 7
+
+2023/06/15
+
+- ordernal vs cardinal is lager than ordernal
+- voting rule is correspondence maybe more than one value, not function one value return
+- ballot
+
+## 8
+
+2023/06/15
+
+- Pareto principle
+
 # 11 Mechanism Design
 
 ## 4
