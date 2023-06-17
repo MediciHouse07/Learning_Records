@@ -370,6 +370,14 @@
 
 ## Lecture 8
 
+0000<->1500
+
+2023/06/15
+
+- tao contains open sets
+- metric space of collection of open sets are topology
+- whether X yield a topology
+
 2023/06/14
 
 0400<->End
