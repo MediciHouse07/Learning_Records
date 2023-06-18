@@ -282,6 +282,15 @@
 
 ## Lecture 7
 
+4800<->End
+
+2023/06/16
+
+- every set is open, every subset of X is open, every complement set of the subset is open
+- sub collection of open sets
+- openess preserved under union, closeness preserved under intersection
+- finite open intersection is open, finite close union is close
+
 2023/06/12
 
 11500<->11930 End
