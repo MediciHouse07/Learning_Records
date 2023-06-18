@@ -46,6 +46,54 @@
 
 - Pareto principle
 
+## 9
+
+2023/06/16
+
+- anonymity
+- permutation
+- fix any permutation of electorate
+- permute
+- identity of the voters is not important
+
+## 10
+
+2023/06/16
+
+- neutrality
+
+## 11
+
+2023/06/16
+
+- independence of irrelevant alternatives
+- use U to represent preference profile
+- vote splitting
+- condersen loser
+
+## 12
+
+2023/06/16
+
+- ordinality
+- utility for, utility of
+
+## 13
+
+2023/06/16
+
+- decisiveness
+- single valued function F
+
+## 14
+
+2023/06/16
+
+0000<->0100
+
+- 1951 Arrow impossibility therom |X| at least 3 candidates, all preference profiles U
+- no voting rule satisfying P(Pareto principle) A(anonymity) N(neutrality) IIA(drop candidates) D(decisive) O(ordernality)
+
 # 11 Mechanism Design
 
 ## 4
