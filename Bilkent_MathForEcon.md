@@ -381,6 +381,15 @@
 
 0000<->1500
 
+2023/06/17
+
+- review
+- smallest topology candidates
+-  indiscrete top on X
+- tao 2 equal to power set of X
+
+0000<->1500
+
 2023/06/15
 
 - tao contains open sets
