@@ -94,6 +94,27 @@
 - 1951 Arrow impossibility therom |X| at least 3 candidates, all preference profiles U
 - no voting rule satisfying P(Pareto principle) A(anonymity) N(neutrality) IIA(drop candidates) D(decisive) O(ordernality)
 
+## 14
+
+2023/06/17
+
+- preference domain, single picked preferences
+- political spetrum
+- prefer those less and less
+- single peaked preferences
+- expected utility is mentioned
+- condorcet cycles
+- majority rules
+- condorcet paradox
+
+## 15
+
+0000<->0400
+
+2023/06/17
+
+- manipulable
+
 # 11 Mechanism Design
 
 ## 4
