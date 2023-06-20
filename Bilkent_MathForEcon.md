@@ -379,6 +379,15 @@
 
 ## Lecture 8
 
+1200<->1930
+
+2023/06/18
+
+- singleton and inducible
+- topology, metricible
+- m induce tao
+- tao m = tao
+
 0000<->1500
 
 2023/06/17
@@ -421,3 +430,15 @@
 
 - tao is a subset of 2X, 2X is all subset of X
 - TBRT
+
+## 9
+
+2023/06/18
+
+0000<->1230
+
+- indiscrete top, discrete top
+- when m is discrete metric on X
+- domain of metric is singleton
+- produce something that is other than elements in tao 1
+- basically episilon ball belong to tao m but not tao 1
