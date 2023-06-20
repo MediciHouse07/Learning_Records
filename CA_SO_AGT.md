@@ -115,6 +115,16 @@
 
 - manipulable
 
+## 16
+
+2023/06/18
+
+- SP(no incentvie to deviate) and D
+- strategy proofness
+- Fc majority rule, condorset rule
+- all those except
+- play with
+
 # 11 Mechanism Design
 
 ## 4
@@ -148,3 +158,11 @@
 
 - strategy proof, voting theory
 - impossibility therom
+
+## 9
+
+0000<->0300
+
+2023/06/18
+
+- voter i, dectator
