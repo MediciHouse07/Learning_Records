@@ -140,6 +140,13 @@
 - decision could be d 1 d' 0
 - anouncement of information theta
 
+## 5
+
+2023/06/20
+
+- social choice function
+- what is declared preference?
+
 ## 7
 
 2023/06/01
@@ -160,6 +167,12 @@
 - impossibility therom
 
 ## 9
+
+2023/06/20
+
+- ordinal preference
+- no transfer, no price between voters
+- dictatorial voter
 
 0000<->0300
 
