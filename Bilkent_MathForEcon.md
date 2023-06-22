@@ -433,6 +433,14 @@
 
 ## 9
 
+2023/06/21
+
+1400<->2900
+
+- and so should also xxx xx
+- tao is not an open set, but tao is a topology on X
+- conjecture
+
 0000<->1500
 
 2023/06/20
