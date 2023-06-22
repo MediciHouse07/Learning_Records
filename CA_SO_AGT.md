@@ -129,6 +129,17 @@
 
 ## 4
 
+2023/06/21
+
+- type of individual i
+- for individual type, there is one possible type, there is all type
+- pareto
+- ex-post
+- ex-ante
+- some environment allow transferatble utilities
+- matching theory next
+- for that reason we xx
+
 2023/06/02
 
 - preference depends only on his own type
