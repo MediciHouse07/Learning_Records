@@ -433,6 +433,16 @@
 
 ## 9
 
+0000<->1500
+
+2023/06/20
+
+- consistency properties
+-  tao m is a topology on X
+- tao m stands for the set of all open subsets of X
+- when m is discrete metic on X, tao 2 is topology
+- singleton set, tao 1 tao 2 coincide
+
 2023/06/18
 
 0000<->1230
