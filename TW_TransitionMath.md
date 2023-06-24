@@ -4,6 +4,10 @@
 
 2023/06/22
 
+1700<->End
+
+2023/06/22
+
 0000<->1700
 
 - propositions and connectives
