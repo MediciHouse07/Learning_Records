@@ -433,6 +433,14 @@
 
 ## 9
 
+2500<->4000
+
+2023/06/23
+
+- produce something in tao m but not in tao
+- there exist topological space that can't be expressed by metric space
+- equivalent metric structure
+
 1300<->2800
 
 2023/06/22
