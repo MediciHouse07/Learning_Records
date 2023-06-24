@@ -1,5 +1,16 @@
 # 1
 
+## 1
+
+2023/06/22
+
+0000<->1700
+
+- propositions and connectives
+- some statement is proposition, even though you don't know the answer now
+- conjunction
+- disjunction
+
 ## 4
 
 0000<->1500
