@@ -433,6 +433,13 @@
 
 ## 9
 
+1300<->2800
+
+2023/06/22
+
+- notion of open and close can be changed
+- open epsilon ball but not in tall, metricible open vs open wrt tao
+
 2023/06/21
 
 1400<->2900
