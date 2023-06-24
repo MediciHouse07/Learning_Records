@@ -8,6 +8,27 @@
 - different at sequential game, strategy is more complicated
 - expected utility
 
+# 7
+
+## 1
+
+2023/06/22
+
+- product/service, supply side willingness, demand side willingness
+- centraolized vs decentralized market
+- market clearing price
+- stock exchange market is decentralized market
+- schooling
+- colleague admission
+
+## 2
+
+2023/06/22
+
+0000<->0700
+
+- Gale & shapley
+
 # 8 Voting
 
 ## 1
