@@ -23,11 +23,25 @@
 
 ## 2
 
+0600<->1400
+
+2023/06/23
+
+- anti symmetric
+- is this related with functional analysis
+
 2023/06/22
 
 0000<->0700
 
 - Gale & shapley
+
+## 3
+
+2023/06/23
+
+- collision
+- coalition and matching
 
 # 8 Voting
 
