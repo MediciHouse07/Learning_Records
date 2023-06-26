@@ -628,6 +628,14 @@
 
 - change in the consumer surplus
 
+## 9
+
+0000<->1500
+
+2023/06/25
+
+- Roy's identity
+
 # V Uncertainty
 
 ## 1
