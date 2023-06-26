@@ -170,6 +170,10 @@ In this case, the antecedent "a preference relation can be represented by a util
 
 ## 949/987
 
+2023/06/25
+
+- definition for continuous function
+
 2023/06/24
 
 - sequence converge instead of xm itself converge
