@@ -161,3 +161,15 @@ In this case, the antecedent "a preference relation can be represented by a util
 2023/06/07
 
 - pollution as a product, where consumer need to pay producer, and it can be in the L commodities set
+
+## 934/987
+
+2023/06/23
+
+- homogeneous function part
+
+## 949/987
+
+2023/06/24
+
+- sequence converge instead of xm itself converge
