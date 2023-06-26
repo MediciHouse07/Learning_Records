@@ -433,6 +433,14 @@
 
 ## 9
 
+3500<->End
+
+2023/06/24
+
+- equivalent is not equal
+- epsilon ball vs neighborhood
+- pictorially
+
 2500<->4000
 
 2023/06/23
