@@ -645,6 +645,14 @@
 
 0000<->1500
 
+2023/06/24
+
+- less dispersed lottery
+- preference for greatest likelihood
+- DM decision maker
+
+0000<->1500
+
 2023/06/13
 
 - |Z|, norm of a set
