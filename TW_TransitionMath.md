@@ -53,6 +53,11 @@
 
 ## 4
 
+0000<->1900
+
+- for all P=>Q is about subset relation of truth set
+- exist P^Q is about intersection relation of truth set
+
 0000<->1500
 
 2023/06/22
