@@ -282,6 +282,17 @@
 
 ## Lecture 7
 
+0000<->1500
+
+2023/06/27
+
+- knife, function, property
+- relationship pertaining objective reality
+- causality relation
+- rough origin
+- generalization of the same notion
+- conceptually important
+
 4800<->End
 
 2023/06/16
