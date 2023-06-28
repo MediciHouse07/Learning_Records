@@ -379,6 +379,20 @@
 
 ## Lecture 8
 
+0000<->End
+
+2023/06/26
+
+- definition of topology
+- implies
+- more general statement follows from A B
+- considering metric space, open w r t give metric
+- 0900 topology induced by m
+- the smallest tao is a topology space
+- the biggest tao is a topology space
+- discrete metric induce the tao 2
+- 1800 metricibility
+
 1200<->1930
 
 2023/06/18
