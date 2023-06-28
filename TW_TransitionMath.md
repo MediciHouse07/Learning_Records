@@ -53,6 +53,12 @@
 
 ## 4
 
+1500<->3000
+
+2023/06/26
+
+- understand for all and exist
+
 0000<->1900
 
 - for all P=>Q is about subset relation of truth set
