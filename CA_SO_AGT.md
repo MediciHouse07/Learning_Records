@@ -8,6 +8,23 @@
 - different at sequential game, strategy is more complicated
 - expected utility
 
+# 5
+
+## 1
+
+0000<->End
+
+2023/06/26
+
+- NE bargainning problem
+- egalitarian
+- rubinstein
+- payoff profile
+- disagreement point
+- S,d topo like structure
+- S is a convex(combinition are feasible), closed(boundary included), bounded(don't need to go to infinity) set
+- define greater sign for vector
+
 # 7
 
 ## 1
