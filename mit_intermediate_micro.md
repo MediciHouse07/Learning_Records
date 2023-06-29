@@ -30,6 +30,15 @@
 
 # Lecture 2
 
+3200<->4700
+
+2023/06/27
+
+- homogeneous of degree zero
+- homogeneity
+- general recipe for constrained optimization
+- complementary slackness condition
+
 2023/04/29
 
 REFRESH
