@@ -101,3 +101,13 @@ REFRESH
 - quasi experiment
 - partial equalibrium, exgonernous
 - consumption set
+
+# Lecture 11
+
+2023/06/27
+
+0000<->0800
+
+- rental with unobserved outputs
+- it goes back with the course in lecture 10, household financial accounts
+- it is a common ledger but it was not held by an authority
