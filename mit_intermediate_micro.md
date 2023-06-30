@@ -104,6 +104,12 @@ REFRESH
 
 # Lecture 11
 
+0800<->2300
+
+2023/06/28
+
+- message space, rains or not or something else
+
 2023/06/27
 
 0000<->0800
