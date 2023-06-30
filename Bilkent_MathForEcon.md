@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+1500<->3000
+
+2023/06/28
+
+- epsilon needs to be arbitrarily small
+
 0000<->1500
 
 2023/06/27
