@@ -104,6 +104,15 @@ REFRESH
 
 # Lecture 11
 
+1400<->2400
+
+2023/06/29
+
+- epsilon only seen by agent 1, yield of crop
+- e1 agent one's endowment
+- stand-in
+- TBR shock xx allocation in previous lectures
+
 0800<->2300
 
 2023/06/28
