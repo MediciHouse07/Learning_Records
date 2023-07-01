@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+3000<->4600
+
+2023/06/29
+
+- discrete metric converge too fast in this case
+
 1500<->3000
 
 2023/06/28
