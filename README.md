@@ -6,6 +6,8 @@ Learning_Records-main.zip is the zip file that will be downloaded<br>
 Learning_Records-main is the first folder within the zip<br>
 
 # Notes
+2023/06/30
+One possible approach, math+CCS as regular, econ as hobby as econ requires some math which has not been fulfilled yet
 2rd rule should be noticed <br>
 2022/03/25: Adjustment about the rule: If you always jump video from one to another you use this 💫, other wise you don't need, for example, you jump to the next ten, then you learn the lesson after that course, you don't need to put a 💫 on it <br>
 ## Plan for the study 
