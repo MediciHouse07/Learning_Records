@@ -282,6 +282,12 @@
 
 ## Lecture 7
 
+3000<->4500
+
+2023/06/30
+
+- practice all the epsilon ball are open
+
 3000<->4600
 
 2023/06/29
