@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+4500<->6000
+
+2023/07/01
+
+- decisive properties
+- what properties that open set and closed set satisfies in a matrix space
+
 3000<->4500
 
 2023/06/30
