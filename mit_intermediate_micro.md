@@ -104,6 +104,13 @@ REFRESH
 
 # Lecture 11
 
+1400<->3500
+
+2023/06/30
+
+- paranoid
+- counterfactul
+
 1400<->2400
 
 2023/06/29
