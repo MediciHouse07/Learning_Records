@@ -282,6 +282,13 @@
 
 ## Lecture 7
 
+2023/07/02
+
+6000<->7500
+
+- irrespectively
+- will be confined to xx respectively
+
 4500<->6000
 
 2023/07/01
