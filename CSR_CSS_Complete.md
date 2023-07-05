@@ -56,3 +56,11 @@
 - reproductive curve
 - natural order
 - law of nature
+
+### 1-7
+
+2023/07/03
+
+### 1-8
+
+2023/07/03
