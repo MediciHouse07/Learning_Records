@@ -282,6 +282,16 @@
 
 ## Lecture 7
 
+10400<->End
+
+2023/07/03
+
+- for some
+- can't be discarded
+- reciprocal
+- use open set as depature point
+- we can also use closed set as depature point as well depends one which you choose
+
 2023/07/02
 
 6000<->7500
