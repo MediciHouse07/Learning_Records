@@ -64,3 +64,25 @@
 ### 1-8
 
 2023/07/03
+
+### 1-10
+
+2023/07/04
+
+### 1-11
+
+2023/07/04
+
+### Week3 1-2
+
+2023/07/04
+
+- safe bet, long shot
+- craigslist
+
+1-3
+
+- complicated problem
+- urn
+- analytic solution, numerical solution
+- hypodermic needle model, magic bullet model
