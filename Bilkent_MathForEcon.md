@@ -432,6 +432,16 @@
 
 ## Lecture 8
 
+0000<->1500
+
+2023/07/04
+
+- refer to tao as a topology of X
+- if
+- A and B are in tao
+- topology induced by
+- sub collection vs open set
+
 0000<->End
 
 2023/06/26
