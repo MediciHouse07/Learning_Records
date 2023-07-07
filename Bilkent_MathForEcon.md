@@ -518,6 +518,14 @@
 
 2023/07/06
 
+1500<->2500
+
+- exercise O2, why need to check supS and union of G alpha
+- the reason to check it is to check whether it is in the form of 0,y
+- topology does of course satisfy the O2, but 0,y may not be
+
+2023/07/06
+
 0000<->1500
 
 - taom is the topology induced by m, all open sets w.r.t. m
