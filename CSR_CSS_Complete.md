@@ -86,3 +86,13 @@
 - urn
 - analytic solution, numerical solution
 - hypodermic needle model, magic bullet model
+
+### Week3-2-1
+
+2023/07/05
+
+### Week3-2-2
+
+2023/07/05
+
+- firewall
