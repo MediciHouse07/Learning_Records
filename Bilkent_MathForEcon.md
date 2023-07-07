@@ -432,6 +432,12 @@
 
 ## Lecture 8
 
+1500<->2000
+
+2023/07/05
+
+- discrete metric induce tao 2, thus tao 2 is named as discrete topology
+
 0000<->1500
 
 2023/07/04
@@ -509,6 +515,12 @@
 - TBRT
 
 ## 9
+
+0000<->1000
+
+2023/07/05
+
+- a list of subsets
 
 0000<->1500
 
