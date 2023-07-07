@@ -516,6 +516,13 @@
 
 ## 9
 
+2023/07/06
+
+0000<->1500
+
+- taom is the topology induced by m, all open sets w.r.t. m
+- tao1 is a topology but it was not induced by metric
+
 0000<->1000
 
 2023/07/05
