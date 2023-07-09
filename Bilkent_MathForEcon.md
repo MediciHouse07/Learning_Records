@@ -516,6 +516,18 @@
 
 ## 9
 
+2500<->4000
+
+2023/07/07
+
+- pictorially
+- metric space
+- properties of metric space
+- in tao m, but not in tao
+- proof that 0,1) is not metricible
+- proof by contradiction
+- equivalent metric, not equal, but equivalent
+
 2023/07/06
 
 1500<->2500
