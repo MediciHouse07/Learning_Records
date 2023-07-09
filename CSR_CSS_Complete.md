@@ -109,3 +109,19 @@
 
 2023/07/06
 
+### Week3-2-7
+
+2023/07/07
+
+- history only needs once
+- ramification
+- disregard
+- ballpark
+- shed away
+- how consultant work
+
+### Week4-1-1
+
+2023/07/07
+
+- skeptical
