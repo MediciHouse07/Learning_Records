@@ -516,6 +516,14 @@
 
 ## 9
 
+2023/07/08
+
+4000<->5000 End
+
+- m1 x,a + m2 y,b + 1
+- counter part of epsilon ball in topological space
+- neighbor U contain x, and an open set in U must contain x
+
 2500<->4000
 
 2023/07/07
@@ -605,3 +613,12 @@
 - domain of metric is singleton
 - produce something that is other than elements in tao 1
 - basically episilon ball belong to tao m but not tao 1
+
+## 10
+
+2023/07/08
+
+0000<->0500
+
+- U
+- containment, proper containment
