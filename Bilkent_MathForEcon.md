@@ -616,6 +616,18 @@
 
 ## 10
 
+2023/07/10
+
+1500<->3000
+
+- clustered point, isolated point
+- neighborhood
+- U intersect A, X\A is non empty
+- 156.7
+- interior of A, closure of A
+- boundary of A
+- set of all interior point, interior, limit point, closure, boundary point, boundary of A
+- cluster point + isolated point = limit point
 
 2023/07/09
 
