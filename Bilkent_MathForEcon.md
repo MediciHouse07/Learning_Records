@@ -616,6 +616,16 @@
 
 ## 10
 
+1500<->3000
+
+2023/07/11
+
+- boundary contains points belong to this set and points do not belong to this set
+- A o interior
+- A bar, Cl A closure
+- del A Bd A, boundary
+- another direction
+
 2023/07/10
 
 1500<->3000
