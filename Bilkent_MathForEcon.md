@@ -616,6 +616,12 @@
 
 ## 10
 
+2023/07/12
+
+0000<->1500
+
+- interior pt vs interior set and others
+
 1500<->3000
 
 2023/07/11
