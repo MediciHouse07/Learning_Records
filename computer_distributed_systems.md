@@ -1,5 +1,11 @@
 # Lecture 1
 
+10000<->11500
+
+2023/07/12
+
+- lots of network communication
+
 4500<->6000
 
 2023/07/11
