@@ -41,6 +41,13 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+2023/07/13
+
+2000<->3500
+
+- wanky notation
+- game designer knows what is the return
+
 2022/10/28
 
 5000<->End
