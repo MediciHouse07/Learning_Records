@@ -616,6 +616,16 @@
 
 ## 10
 
+1500<->3200
+
+2023/07/14
+
+- boundary
+- the set itself, and its complement
+- include all the set, the set become closed
+- Take any neighborhood of x
+- limit point can denote a set is arbitrarily close to a set
+
 2023/07/13
 
 0000<->1500
