@@ -41,6 +41,17 @@ this course is more close to computer science, I can still learn it when I tend 
 ## JMP 2 2022/09/10
 ## JMP 1 2022/08/23
 
+3600<->4600
+
+2023/07/15
+
+- maximize social surplus
+- linearly time auction
+- single item auction
+- other auction as good as above
+- lots of goods, not identical
+- can we have those properties simultaneously
+
 2023/07/13
 
 2000<->3500
