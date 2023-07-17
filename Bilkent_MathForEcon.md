@@ -616,6 +616,13 @@
 
 ## 10
 
+3200<->4600 End
+
+2023/07/15
+
+- example for interior point and other point in metric space
+- (-1,0) is also a cluster
+
 1500<->3200
 
 2023/07/14
