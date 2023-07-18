@@ -679,6 +679,13 @@
 
 # 11
 
+0000<->1500
+
+2023/07/17
+
+- this is not contained in Q
+- interior, cluster, isolated, closure, boundary
+
 2023/07/16
 
 0000<->1500
