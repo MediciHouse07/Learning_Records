@@ -1,5 +1,7 @@
 # Week1
 
+
+
 ## 1-2
 
 2023/03/22
@@ -9,7 +11,12 @@
 - compiler, VM translator
 - high level language is writting on a system
 
-### 2-2 Unit 0.0 Module 0 
+### 2-2 Unit 0.0 Module 0 # Week1-2-2 Unit0.0
+2023/07/17
+
+- delicate handshake
+- substance
+- subject
 
 
 2022/12/23
