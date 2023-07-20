@@ -679,6 +679,16 @@
 
 # 11
 
+2023/07/18
+
+1500<->3000
+
+- proper subset
+- interior point belongs to A
+- limit point doesn't
+- limit point, closure
+- pictorically isolated
+
 0000<->1500
 
 2023/07/17
