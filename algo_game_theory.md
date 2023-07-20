@@ -240,6 +240,15 @@ this course is more close to computer science, I can still learn it when I tend 
 ## REX 1 2022/09/10
 ## JMP 2 2022/09/02
 
+0500<->1000
+
+2023/07/18
+
+- simgple parameter, only thing don't know is private evaluation vi
+- xi is the amount of stuff you give to bidder i
+- and that is allocation rule
+- xi alpha j
+
 2022/11/06
 
 6500<->End
