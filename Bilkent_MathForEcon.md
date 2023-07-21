@@ -679,6 +679,13 @@
 
 # 11
 
+1500<->3000
+
+2023/07/19
+
+- boundary of X is impty, cause X intersect with its complement is empty
+- understand discrete topology
+
 2023/07/18
 
 1500<->3000
