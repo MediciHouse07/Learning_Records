@@ -37,3 +37,14 @@
 
 2023/07/14
 
+# Week1-1-(-1) Guiding principles
+
+2023/07/19
+
+- average case
+- bench marks
+- worst case analysis
+- require domain knowledge
+- asymtotic analysis
+- paradigm
+- sweet spot
