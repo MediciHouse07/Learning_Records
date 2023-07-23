@@ -719,3 +719,16 @@
 2023/07/16
 
 0000<->1500
+
+# Lecture 12
+
+2023/07/22
+
+0000<->1500
+
+- every point interior, open
+- every close point are included, close
+- closure of A, limit point?
+- intermediate, containing, contained in
+- sequence, function, domain is N
+- don't need limit the sequence as real number, it can be anything
