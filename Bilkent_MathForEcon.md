@@ -679,6 +679,13 @@
 
 # 11
 
+3200<->End
+
+2023/07/21
+
+- new characterazation of openess and closeness
+- TFAE, the following are equivalent
+
 2023/07/20
 
 3000<->End
