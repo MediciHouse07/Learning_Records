@@ -722,6 +722,12 @@
 
 # Lecture 12
 
+0000<->1500
+
+2023/07/23
+
+- the smallest close set which contains A
+
 2023/07/22
 
 0000<->1500
