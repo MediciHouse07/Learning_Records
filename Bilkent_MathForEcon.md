@@ -750,3 +750,11 @@
 - intermediate, containing, contained in
 - sequence, function, domain is N
 - don't need limit the sequence as real number, it can be anything
+
+# 13
+
+2023/07/27
+
+0000<->1500
+
+- cluster point needs more focus, because it doesn't belong to the set but it is close to the set
