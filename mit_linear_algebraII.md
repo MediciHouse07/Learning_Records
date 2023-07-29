@@ -19,6 +19,13 @@
 
 ## 2
 
+2023/07/28
+
+2100<->3600
+
+- LU understand it in columns times rows and recursive
+- FTC for linear algebra
+
 2023/07/27
 
 0000<->1500
