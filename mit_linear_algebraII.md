@@ -19,6 +19,13 @@
 
 ## 2
 
+3600<->4800 end
+
+2023/07/29
+
+- m dimensional space
+- pieces in row spaces, pieces in column space
+
 2023/07/28
 
 2100<->3600
@@ -31,3 +38,11 @@
 0000<->1500
 
 - spectrum therom
+
+
+
+## Lecture 3
+
+0000<->1800
+
+2023/07/29
