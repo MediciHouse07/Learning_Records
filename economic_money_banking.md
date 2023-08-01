@@ -570,9 +570,15 @@
 - notes with 0 interest, p notes has interest
 
 2022/05/03: finished, bank talke liquidity risk turn something from without interest to with interest
-### 1-5 Video
+### 1-5 Video 4/9
+
+2023/07/31
+
 2022/05/03: finished, bank can use deposit to achieve above target as well
-### 1-6 Video
+### 1-6 Video 5/9
+
+2023/07/31
+
 2022/05/03: finished, quoting rate increase, to refuse when you worry about your own balance sheet, when you sort of running out of notes
 ## Lec 2
 ### 2-1 Video
