@@ -545,12 +545,30 @@
 # Lecture Week5
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
+
+2023/07/30 1/9
+
+- rio
+
 2022/04/27: finished
 ### 1-2 Video
+
+2023/07/30 2/9
+
 2022/04/27: finished
 ### 1-3 Reading
 2022/04/27: need to read
-### 1-4 Video
+### 1-4 Video 3/9
+
+2023/07/30
+
+- bill receivable
+
+2023/07/30
+
+- a means a payment, not a means of payment
+- notes with 0 interest, p notes has interest
+
 2022/05/03: finished, bank talke liquidity risk turn something from without interest to with interest
 ### 1-5 Video
 2022/05/03: finished, bank can use deposit to achieve above target as well
