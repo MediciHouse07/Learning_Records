@@ -43,6 +43,15 @@
 
 ## Lecture 3
 
+1500<->3000
+
+2023/07/30
+
+- householder reflections
+- a bunch of orthognal matrix
+- A times A transpose is identity
+- hadamard
+
 0000<->1800
 
 2023/07/29
