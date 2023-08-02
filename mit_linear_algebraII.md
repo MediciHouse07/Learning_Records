@@ -43,6 +43,14 @@
 
 ## Lecture 3
 
+2000<->3000
+
+2023/07/31
+
+- conjecture
+- eigenvectors of symmetric matrix, auto orthorgnal
+- Haar Wavelet
+
 1500<->2000
 
 2023/07/31
