@@ -43,6 +43,13 @@
 
 ## Lecture 3
 
+2023/08/02
+
+0000<->1500
+
+- eigenvector and inverse
+- similar matrix have the same eigenvalues
+
 3000<->4900 End
 
 2023/08/01
