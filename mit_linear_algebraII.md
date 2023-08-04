@@ -43,12 +43,14 @@
 
 ## Lecture 3
 
-2023/08/02
-
 0000<->1500
 
-- eigenvector and inverse
-- similar matrix have the same eigenvalues
+2023/08/03
+
+- orthornormal
+- ortho part, normal part
+- orthognal matrix don't change length
+- it never occur to
 
 3000<->4900 End
 
@@ -78,3 +80,12 @@
 0000<->1800
 
 2023/07/29
+
+## Lecture 4
+
+2023/08/02
+
+0000<->1500
+
+- eigenvector and inverse
+- similar matrix have the same eigenvalues
