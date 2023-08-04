@@ -598,10 +598,29 @@
 1844 peel's act, seperate it to issuing department, and banking department;
 Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is doing business like a bank, discount business and something related
 
-### 2-3
+### 2-3 8/9
+
+2023/08/02
+
+- once bank of England, set a rate, they decided to do monetary policy
+- give CB an influence to economy
+
 2022/05/31:
 - lend freely at a high rate, badget
-### 2-4
+
+### 2-4 9/9
+
+2023/08/02
+
+- internal drain
+- external drain
+- notes, gold
+- measure gold in gold out
+- bill discount and repayment in the world
+- don't come to me
+- note will covert to gold later
+- CB has its own binding constraint, it would force the CB to have to rise interest even though the consequence is to crush all the mini banks below
+
 2022/05/31:
 - internal drain
 - external drain
