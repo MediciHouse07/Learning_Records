@@ -43,6 +43,17 @@
 
 - average case
 - bench marks
+
+# Week1-2-2
+
+2023/08/03
+
+- n0 quantify sufficiently large
+- costant means they are independent of n
+
+# Week1-2-3
+
+2023/08/03
 - worst case analysis
 - require domain knowledge
 - asymtotic analysis
