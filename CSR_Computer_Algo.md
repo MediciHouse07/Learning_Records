@@ -59,3 +59,16 @@
 - asymtotic analysis
 - paradigm
 - sweet spot
+
+# Week1-2-4
+
+2023/08/04
+
+- big o, big omega, big theta
+- big omega lower bounded
+- theta equal
+- both big o and big omega
+
+# Week1-2-5
+
+2023/08/04
