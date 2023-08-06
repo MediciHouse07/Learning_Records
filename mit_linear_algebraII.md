@@ -83,6 +83,15 @@
 
 ## Lecture 4
 
+2023/08/04
+
+0000<->1500
+
+- when A is not invertible, A is a singular matrix, x is in the null space of A
+- TBR eigen vector, e to the At; TBR eigen vector as a basis for any vector
+- difference equation
+- you can also pass through anyway
+
 2023/08/02
 
 0000<->1500
