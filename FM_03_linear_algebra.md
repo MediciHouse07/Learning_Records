@@ -1105,6 +1105,17 @@ finished,
 End mins
 
 ### Lecture 22
+
+2023/08/06
+
+0000<->1500
+
+- diagnalization
+- value in A is based on original basis
+- n independent eigenvectors
+- QR from gram schemete
+- looking at
+
 2022/03/31: finished, the application of eigen value and eigen vector, difference equation, eigen value can describe how fast a series like fabonacci series evolves<br>
 2022/04/01: ② reviewed, 0412 minutes, how to derive A=S LAMBDA S^-1
 
