@@ -43,6 +43,18 @@
 
 ## Lecture 3
 
+3300<->End 4900
+
+2023/08/08
+
+- eigenvector of symmetric metric or orthorgnal matrix
+- orthorgnal vs orthornormal
+- eigenvector of permutation
+- fourier
+- complex and conjugate
+- dot product for complex vectors
+- Q is the matrix where QTQ is I
+
 0000<->1500
 
 2023/08/03
