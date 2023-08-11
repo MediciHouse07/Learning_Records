@@ -622,6 +622,15 @@
 
 1500<->3000
 
+- angular velocity
+- radios times angle
+- displacement vector = change of position vector
+- integral the dot product
+- take derivative on a vector
+- we don't know hot to integrate on r
+
+1500<->3000
+
 2023/05/09
 
 - TBRT
