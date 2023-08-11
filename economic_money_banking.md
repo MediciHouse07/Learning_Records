@@ -5,6 +5,8 @@
 
 ## 1-1 
 
+
+
 - is a reading material
 
 ## 1-2
@@ -635,6 +637,16 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-1 1/7
 
+2023/08/09
+
+- taking eurodollar deplosit
+- borrowing short, deposit
+- lending long
+- fluctionaction absorb by interest rate
+- pay interest on share
+- share is not deposit, but it is like deposit
+- there is deposit insurance on all MM
+
 2023/08/08
 
 - borrow long term, lend short term
@@ -642,6 +654,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - RegQ, 1969
 
 # 1-2 2/7
+
+2023/08/09
 
 2023/08/08
 
@@ -651,6 +665,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - let's back up
 
 # 1-3 3/7
+
+2023/08/09
+
+0000<->0500
+
+- repo borrowing money use security as collateral
+- reverse is the another side
 
 0000<->0500
 
