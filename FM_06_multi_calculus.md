@@ -438,6 +438,13 @@
 
 ### Lecture 19
 
+2023/08/09
+
+0000<->1500
+
+- vector fields and line integrals
+- velocity field for uniform rotation
+
 2023/04/29
 
 3000<->End
