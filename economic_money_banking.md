@@ -666,6 +666,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-3 3/7
 
+2023/08/10
+
+- long position at bonds
+- net financing
+- dealer
+- matched book + liquidity risk + price risk speculative dealer
+
 2023/08/09
 
 0000<->0500
@@ -679,7 +686,11 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - matched book dealer, speculative dealer
 
-### 1-4
+### 1-4 4/7
+
+2023/08/10
+
+- treynor model
 2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
 
 # Lecture Week8
