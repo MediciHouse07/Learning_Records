@@ -693,6 +693,27 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - treynor model
 2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
 
+### 2-1 5/7
+
+2023/08/11
+
+- reserve vs capital to a bank
+- commercial paper market vs loan
+- death of loan(commercial paper market), death of deposit(mutual fund)
+- finance company, MMMF replace traditioinal banking system
+- above is like the second step
+- price is determined in dealer market
+- capital based system
+
+### 2-2 6/7
+
+0000<->0400
+
+2023/08/11
+
+- IOER, interest on excess reserve
+- 
+
 # Lecture Week8
 ## Lec 1
 ### 1-1
