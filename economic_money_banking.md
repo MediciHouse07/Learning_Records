@@ -707,12 +707,20 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-2 6/7
 
+2023/08/12
+
+- bracket it, unbracket it
+- fed fund market, outside spread
+- trillion dollor on the IOER side
+- repo, simultaneously purchase and sell
+- temporary open market operation
+
 0000<->0400
 
 2023/08/11
 
 - IOER, interest on excess reserve
-- 
+
 
 # Lecture Week8
 ## Lec 1
