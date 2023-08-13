@@ -438,6 +438,26 @@
 
 ### Lecture 19
 
+3000<->4500
+
+2023/08/11
+
+- line integral depends on the trajectory c but not an parameterization
+- arc length element
+- T
+- ds/dt, speed
+
+2023/08/10
+
+1500<->3000
+
+- angular velocity
+- radios times angle
+- displacement vector = change of position vector
+- integral the dot product
+- take derivative on a vector
+- we don't know hot to integrate on r
+
 2023/08/09
 
 0000<->1500
@@ -619,15 +639,6 @@
 - how to check whether a vector field is a gradient field
 
 # Lecture 22
-
-1500<->3000
-
-- angular velocity
-- radios times angle
-- displacement vector = change of position vector
-- integral the dot product
-- take derivative on a vector
-- we don't know hot to integrate on r
 
 1500<->3000
 
