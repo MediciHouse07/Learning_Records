@@ -438,6 +438,14 @@
 
 ### Lecture 19
 
+3600<->5100 End
+
+- he simply change C to t in the part of integral sign
+- take a small shortcut
+- unit tangent vector T
+- arc length along the trajectory, delta s
+- length of c
+
 3000<->4500
 
 2023/08/11
