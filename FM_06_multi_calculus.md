@@ -534,6 +534,12 @@
 
 ### Lecture 20
 
+2023/08/13
+
+0000<->1500
+
+- the oppositie vs negative of it
+
 4500<->End
 
 2023/05/03
