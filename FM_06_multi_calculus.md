@@ -534,6 +534,13 @@
 
 ### Lecture 20
 
+2023/08/14
+
+1500<->3000
+
+- choose a parameter and express things in that parameter
+- magnetic field is not a gradient
+
 2023/08/13
 
 0000<->1500
