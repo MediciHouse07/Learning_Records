@@ -1106,6 +1106,18 @@ End mins
 
 ### Lecture 22
 
+2023/08/16
+
+1500<->3000
+
+- absolute value <1
+- what matrix are not diagnalizible
+- if all lambda are different, A is sure to have n independent variables
+- in repeated eigen values, may or may not have n indep eigen vectors
+- counter example is identity matrix
+- difference equation uk+1 = Auk
+- axis transformation based on eigen vectors
+
 2023/08/15
 
 0000<->1500
