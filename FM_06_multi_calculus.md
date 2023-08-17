@@ -534,6 +534,13 @@
 
 ### Lecture 20
 
+2023/08/15
+
+0000<->1500
+
+- when F is a gradient of some function f
+- f xy is called potential
+
 2023/08/14
 
 1500<->3000
