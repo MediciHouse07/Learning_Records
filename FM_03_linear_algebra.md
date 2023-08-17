@@ -1106,6 +1106,15 @@ End mins
 
 ### Lecture 22
 
+2023/08/15
+
+0000<->1500
+
+- n independent eigenvectors enables invertible
+- some matrix don't have n independent eigenvectors
+- A to the k approach to 0 as k goes to infinity
+- if lambda is less than 1, this is because A is assumed can be factorized as S^S
+
 2023/08/06
 
 0000<->1500
