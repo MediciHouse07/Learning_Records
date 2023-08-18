@@ -534,6 +534,14 @@
 
 ### Lecture 20
 
+1500<->3000
+
+2023/08/16
+
+- change of potential from A to B
+- work that gravity did
+- not all vector field are gradient F
+
 2023/08/15
 
 0000<->1500
