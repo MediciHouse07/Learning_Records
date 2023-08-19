@@ -534,6 +534,14 @@
 
 ### Lecture 20
 
+3000<->4500
+
+2023/08/17
+
+- conservative, can't energy for free
+- eletrical field, gravatitional field, magnetric field
+- not path independence either
+
 1500<->3000
 
 2023/08/16
