@@ -1106,6 +1106,12 @@ End mins
 
 ### Lecture 22
 
+2023/08/17
+
+- symmetric matrix, eigen value is real, eigen vector is orthognal
+- trace is sum
+- lambda 1 times lambda 2 should be determinant
+
 2023/08/16
 
 1500<->3000
