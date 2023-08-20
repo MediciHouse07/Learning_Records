@@ -1106,6 +1106,10 @@ End mins
 
 ### Lecture 22
 
+3600<->5100
+
+2023/08/18
+
 2023/08/17
 
 - symmetric matrix, eigen value is real, eigen vector is orthognal
