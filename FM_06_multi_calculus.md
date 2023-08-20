@@ -534,6 +534,12 @@
 
 ### Lecture 20
 
+3500<->5000
+
+2023/08/18
+
+- length of F on the unit circle is 1, by its formula
+
 3000<->4500
 
 2023/08/17
