@@ -534,6 +534,15 @@
 
 ### Lecture 20
 
+0000<->1500
+
+2023/08/19
+
+- how to decide whether something is gradient field
+- things will work
+- TBRT
+- the idea is to have My Nx always equal, it is not about how to choose x or y
+
 3500<->5000
 
 2023/08/18
