@@ -1188,6 +1188,19 @@ finished,
 End mins:
 
 ### Lecture 23
+
+0000<->1500
+
+2023/08/19
+
+- singular matrix has 0 lambda
+- because determinant is product of eigen values
+- pure solution
+- to check some info about differential equation
+- 1. Separable differential equations - Khan Academy - this is for v(t)=exp(Lambda t) v(0)
+- 2. 2nd order linear homogeneous equations - Khan Academy - you need this if you want to understand one calculation in the next item on this list (quick to learn anyways)
+- 3. Systems of differential equations - MIT OCW 18.03, lectures 24 and 25 - basically does the first example in this lecture, but actually goes through the steps of explaining what is happening, highly recommended to watch both videos
+
 2022/03/31: 1653/5103, why resolve a differential equation has something to do with e^lambda t? <br>
 2022/04/01: finished
 
