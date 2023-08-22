@@ -1103,6 +1103,19 @@ finished,
 
 ### Lecture 22 <br>
 
+2023/08/21
+
+0000<->1500
+
+- generalized uniform distribution
+- bounded by 0 and 1
+- but not flat
+- c is to make the fx to be 1 after taking integral
+- asymtotic
+- uniform prior connect with Laplace sun rising
+- posterior reverse X|p to p|X
+- LOTP
+
 2023/08/20
 
 0000<->1500
