@@ -107,6 +107,16 @@
 
 ### Lecture 2:
 
+2023/08/21
+
+0000<->1500
+
+- IVP, initial value problem
+- Euler equations
+- step size has to be choosen
+- find state
+- pictorically, arithmatically
+
 2023/08/20
 
 0000<->1500
