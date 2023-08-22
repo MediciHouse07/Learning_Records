@@ -106,6 +106,14 @@
 4000 mins, exist and uniqueness
 
 ### Lecture 2:
+
+2023/08/20
+
+0000<->1500
+
+- step size
+- TBRT
+
 2022/04/23: finished, 0212 mins, numerical solutions, IVP initial value P;
 0600 mins, h, step size;
 0827 mins, Euler equations;
