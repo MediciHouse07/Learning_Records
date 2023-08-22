@@ -1102,6 +1102,17 @@ finished,
 - hyper geometric proof
 
 ### Lecture 22 <br>
+
+2023/08/20
+
+0000<->1500
+
+- beta is a family of distributions
+- often used as prior for a parameter in (0,1)
+- conjugate prior
+- posterior
+- integrate over on p, does not depend on p
+
 2022/04/06: finished, 
 100 mins, hyper geom(w,b,n), withoug replacement binomial;
 540 mins, finite population correction;
