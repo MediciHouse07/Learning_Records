@@ -1103,6 +1103,41 @@ finished,
 
 ### Lecture 22 <br>
 
+2022/04/06: finished, 
+100 mins, hyper geom(w,b,n), withoug replacement binomial;
+540 mins, finite population correction;
+1101 mins, transformation;
+1705 mins, log normal;
+2355 mins, jacobian;
+2600 mins, convolution - fancy name of sum;
+4000 mins +, shenon information theory;<br>
+
+2022/05/05: finished,
+0038 mins, hyper geometric;
+0220 mins, VAR and COV, expansion of VAR(SIGMA Xi);
+0535 mins, finite population correction;
+0736 mins, transformation, fY(y) = fX(x)dx/dy, y = g(x), x = g-1(y);
+1648 mins, log Normal, don't seperate dx/dy unless you interprete it right;
+2115 mins, random vector, n dimension transformation;
+2345 mins, Jacobian, TBR, matrix of all possible partial derivative, reciprocal;
+2746 mins, convolution, fancy word of sum of random variable;
+3212 mins, you can swap derivative and intergral, there is a theory proves that;
+3357 mins, probability can be used to prove existence of something that you can't exibht? TBRT (to be reviewed, this);
+3916 mins, shennon theory, TBRT;
+### Lecture 23 <br>
+
+2023/08/22
+
+0000<->1500
+
+- start with beta, end in beta
+- generalized laplace rule
+- reminiscent
+- billiards
+- endowment
+- miss out
+- twelve thirteen
+
 2023/08/21
 
 0000<->1500
@@ -1126,28 +1161,6 @@ finished,
 - posterior
 - integrate over on p, does not depend on p
 
-2022/04/06: finished, 
-100 mins, hyper geom(w,b,n), withoug replacement binomial;
-540 mins, finite population correction;
-1101 mins, transformation;
-1705 mins, log normal;
-2355 mins, jacobian;
-2600 mins, convolution - fancy name of sum;
-4000 mins +, shenon information theory;<br>
-
-2022/05/05: finished,
-0038 mins, hyper geometric;
-0220 mins, VAR and COV, expansion of VAR(SIGMA Xi);
-0535 mins, finite population correction;
-0736 mins, transformation, fY(y) = fX(x)dx/dy, y = g(x), x = g-1(y);
-1648 mins, log Normal, don't seperate dx/dy unless you interprete it right;
-2115 mins, random vector, n dimension transformation;
-2345 mins, Jacobian, TBR, matrix of all possible partial derivative, reciprocal;
-2746 mins, convolution, fancy word of sum of random variable;
-3212 mins, you can swap derivative and intergral, there is a theory proves that;
-3357 mins, probability can be used to prove existence of something that you can't exibht? TBRT (to be reviewed, this);
-3916 mins, shennon theory, TBRT;
-### Lecture 23 <br>
 2022/04/07: finished, 0830 mins conjugate prior;
 1049 mins, bayesian statistics;
 1620 mins, laplace therom;
@@ -1182,7 +1195,6 @@ nomalizing constant;
 - prior, posterior
 - TBR E calculation and COV calculation
 - propotionality, why propotionality can work, OK, because constant is just to make integration of PDF to be 1
-- 
 
 1500 mins
 
