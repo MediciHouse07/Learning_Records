@@ -107,6 +107,14 @@
 
 ### Lecture 2:
 
+2023/08/22
+
+1500<->3000
+
+- introduce a systematic error
+- error analysis, error depends on what
+- spot 3018
+
 2023/08/21
 
 0000<->1500
