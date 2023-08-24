@@ -107,6 +107,15 @@
 
 ### Lecture 2:
 
+3000<->4500
+
+2023/08/23
+
+- h is the step size
+- halve the step size, halve the error
+- first order and second order
+- error vary with the step size times h square
+
 2023/08/22
 
 1500<->3000
