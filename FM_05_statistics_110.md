@@ -1126,6 +1126,22 @@ finished,
 3916 mins, shennon theory, TBRT;
 ### Lecture 23 <br>
 
+3000<->4500
+
+2023/08/23
+
+- weather derivative
+- payoff is function of financial asset
+- St
+- g()
+- E()
+- choose RV correctly
+- bivariate distribution
+- start off
+- apreciate A to B
+- warrant
+- right is not obligation, is a option
+
 2023/08/22
 
 0000<->1500
