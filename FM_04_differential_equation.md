@@ -107,6 +107,15 @@
 
 ### Lecture 2:
 
+2400<->3900
+
+2023/08/24
+
+- first order method
+- halve the step size, halve the error
+- feed a cold starve a fever
+- analogy
+
 3000<->4500
 
 2023/08/23
