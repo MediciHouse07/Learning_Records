@@ -1126,6 +1126,10 @@ finished,
 3916 mins, shennon theory, TBRT;
 ### Lecture 23 <br>
 
+3400<->4900 End
+
+2023/08/24
+
 3000<->4500
 
 2023/08/23
