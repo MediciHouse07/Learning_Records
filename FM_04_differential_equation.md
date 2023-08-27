@@ -170,6 +170,21 @@
 5000 mins, singularity
 
 ### Lecture 3:
+
+2023/08/26
+
+0000<->1500
+
+- homogeneous
+- standard form first order equation
+- standard linear form
+- the course choose the standard form of linear equation
+- diffussion
+- conduction
+- Newton cooling law
+- convection
+- conductivity
+
 2022/05/01: finished, 0112 mins, seperation of variable, first order linear DE;
 0330 mins, c=0 homogeneous;
 0505 mins, standard linear form;
