@@ -107,6 +107,16 @@
 
 ### Lecture 2:
 
+3500<->5000 End
+
+2023/08/25
+
+- second order
+- evaluate the slope once, twice and so on
+- runge-kutta fourth order method
+- pitfall numerical computation
+- numerical approach is things like euler method
+
 2400<->3900
 
 2023/08/24
