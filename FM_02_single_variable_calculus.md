@@ -753,6 +753,13 @@ finished,
 
 #### REX 1 2022/07/05
 
+0000<->1500
+
+2023/08/25
+
+- the dart example looks like LOTUS
+- R2 rocket
+
 2022/07/02:
 
 0000<->1500
