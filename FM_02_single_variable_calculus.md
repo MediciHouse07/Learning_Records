@@ -1,5 +1,12 @@
 39 Lectures TTL
 ### Lecture 1 <br>
+
+0000<->1500
+
+2023/08/27
+
+- correspondence
+
 2022/3/12: finished Lecture 1 <br>
 ### Lecture 2 <br>
 2022/3/12:finished Lecture 2 quit at 30:55 <br>
