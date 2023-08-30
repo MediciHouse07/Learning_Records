@@ -5,6 +5,15 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+1500<->3000
+
+2023/08/28
+
+- think event as subset
+- number of favorable outcomes with respect to A
+- Naptune
+- naive definition with no justification
+
 2022/08/13
 
 3000<->End
