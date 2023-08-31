@@ -5,6 +5,13 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+2023/08/29
+
+3000<->End
+
+- ice cream, cone and flavor
+- replacement, order matters
+
 1500<->3000
 
 2023/08/28
