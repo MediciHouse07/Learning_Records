@@ -18,3 +18,11 @@
 
 - learn something and tried out
 - abstraction and modularity
+
+# Feynman
+
+## Lecture 1
+
+0000<->1500
+
+2023/09/03
