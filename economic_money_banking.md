@@ -721,6 +721,25 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - IOER, interest on excess reserve
 
+# Lecture Week7
+
+## 1-1
+
+2023/09/01
+
+- regulatory capital, look at book value, doesn't look at market value
+
+## 1-2
+
+2023/09/01
+
+## 1-3
+
+2023/09/01
+
+- may or may not be
+- doesn't neccessarily
+
 
 # Lecture Week8
 ## Lec 1
