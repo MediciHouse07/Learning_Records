@@ -95,6 +95,12 @@
 
 ## Lecture 4
 
+0000<->1500
+
+2023/09/01
+
+- if lambda is 0, A doesn't have an inverse
+
 2023/08/07
 
 1500<->3300
