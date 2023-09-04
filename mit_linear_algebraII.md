@@ -95,6 +95,12 @@
 
 ## Lecture 4
 
+1500<->3000
+
+2023/09/02
+
+- similar matrix pertain the same lambda
+
 0000<->1500
 
 2023/09/01
