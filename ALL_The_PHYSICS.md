@@ -23,6 +23,12 @@
 
 ## Lecture 1
 
+0700<->2200
+
+2023/09/02
+
+- the same area makes rate of moving differ
+
 0000<->1500
 
 2023/09/03
