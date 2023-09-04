@@ -725,11 +725,28 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-1
 
+2023/09/02
+
+- acceptances, if they don't pay I will pay
+- 1 B premium
+- regulatory capital, nominal value
+- 1/3 insurance is written by Atrodius
+- Benjamine strong invent market open operation
+
+2023/09/02
+
+- Atrodius, if they don't pay I will pay
+- other company receive goods without paying it
+- share is owned by XXX
+- if Atrodius go bankrupt it would go to GCO
+
 2023/09/01
 
 - regulatory capital, look at book value, doesn't look at market value
 
 ## 1-2
+
+2023/09/02
 
 2023/09/01
 
