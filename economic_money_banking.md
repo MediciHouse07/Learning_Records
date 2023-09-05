@@ -725,6 +725,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-1
 
+2023/09/03
+
+- come to a halt
+- insurance on the liability side
+- market value, nominal value
+
 2023/09/02
 
 - acceptances, if they don't pay I will pay
@@ -746,11 +752,18 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-2
 
+2023/09/03
+
 2023/09/02
 
 2023/09/01
 
 ## 1-3
+
+2023/09/03
+
+- money rate of interest
+- fed tend to step in ahead of things
 
 2023/09/01
 
