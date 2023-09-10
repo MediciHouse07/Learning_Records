@@ -725,6 +725,11 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-1
 
+2023/09/08
+
+- freeze of international trade
+- turn financial trouble to economic trouble
+
 2023/09/03
 
 - come to a halt
@@ -752,6 +757,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-2
 
+2023/09/08
+
 2023/09/03
 
 2023/09/02
@@ -759,6 +766,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2023/09/01
 
 ## 1-3
+
+2023/09/08
 
 2023/09/03
 
