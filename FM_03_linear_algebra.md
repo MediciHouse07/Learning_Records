@@ -1051,6 +1051,13 @@ finished,
 
 ### Lecture 21
 
+2023/09/09
+
+1500<->3000
+
+- special matrix have special eigen values
+- 2 by 2 case, trace is trace times lambda, constant is the determinant
+
 2023/09/08
 
 0000<->1500
