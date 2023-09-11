@@ -767,6 +767,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-3
 
+2023/09/09
+
+- increase rate can hold because that is about what they promised, decrease rate can't because that is about how much they are willing to borrow
+
 2023/09/08
 
 2023/09/03
@@ -779,6 +783,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - may or may not be
 - doesn't neccessarily
 
+1-4
+
+2023/09/09
+
+- make it easier for settlement
+- make it harder for settlement
+- FF rate -> term rate -> asset price MBS asset price is also bond price
+
+2023/09/09
 
 # Lecture Week8
 ## Lec 1
