@@ -690,6 +690,11 @@ finished,
 #### REX 2 2022/04/30
 #### REX 1 2022/03/25
 
+2023/09/14
+
+- eigen value will be timed, eiven vector will be enchanged
+- addition will also do, addition to the eigen value
+
 2023/03/03
 
 3300<->End
