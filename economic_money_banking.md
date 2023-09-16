@@ -544,7 +544,7 @@
 - cash flow and cash commitment determines interest rate, fragility
 - Fin asset, fin liabilities
 
-# Lecture Week5
+# Lecture Week5 
 ## Lec 1 The world that Badgehot knew
 ### 1-1 Video
 
@@ -630,7 +630,32 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - maintain par in the gold market
 - cooperation between banks or binding survival constraint to itself
 - holding notes or holding earning asset
-- 
+
+# Week5 Lecture 10
+
+## 3-1 1/7
+
+2023/09/14
+
+- loaning and growning
+
+## 3-2 2/7
+
+2023/09/14
+
+- where is market's liquidity come from
+- dealer institution
+
+## 3-3 3/7
+
+2023/09/14
+
+- security to money, money to security
+- 2 side dealer needs 2 side inventory
+- no dealer world have to find a counter party
+- smoother
+- continuous price, discountinuous price
+
 # Lecture Week6
 
 ## Lec 1
