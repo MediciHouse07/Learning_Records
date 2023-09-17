@@ -656,6 +656,19 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - smoother
 - continuous price, discountinuous price
 
+## 3-4 4/7
+
+2023/09/15
+
+0000<->0400	
+
+2023/09/15
+
+- treynor model first time I guess
+- outside spread
+- VB bid goes to 0
+- quote 2 prices, inside prices, outside spread can only be seen when hitted
+
 # Lecture Week6
 
 ## Lec 1
