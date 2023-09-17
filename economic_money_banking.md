@@ -660,6 +660,20 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2023/09/15
 
+- liquidity provide of last resort for dealers
+- if they were know they can't get rid of inventory they would not enter the market
+- 3 things about inside spread
+- volatility of price, wider bid ask spread
+- adverse selection
+- width is about volatility and adverse selection
+- make market if more inventory means lower price
+- financing constraint, outside spread, inside spread
+- market liquidity means buy and sell things doesn't move price very much
+- financing liquidity -> market liquidity
+- demands financing liquidty and supply market liquidity
+
+2023/09/15
+
 0000<->0400	
 
 2023/09/15
