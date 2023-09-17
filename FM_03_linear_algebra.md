@@ -1056,6 +1056,13 @@ finished,
 
 ### Lecture 21
 
+3000<->4500
+
+2023/09/15
+
+- complex number comes in eigen value when the matrix is rotation matrix
+- complex conjugate, switch the sign of imaginary part
+
 2023/09/09
 
 1500<->3000
