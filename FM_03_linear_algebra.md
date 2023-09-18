@@ -1056,6 +1056,14 @@ finished,
 
 ### Lecture 21
 
+3600<->5100 End
+
+2023/09/16
+
+- symmytric matrix have nice property
+- Q is total anti symmytric since QT is -Q
+- shortage of eigen vector
+
 3000<->4500
 
 2023/09/15
