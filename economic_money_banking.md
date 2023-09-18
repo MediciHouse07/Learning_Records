@@ -683,6 +683,23 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - VB bid goes to 0
 - quote 2 prices, inside prices, outside spread can only be seen when hitted
 
+## 4-1 5/7
+
+2023/09/16
+
+- use borrowed money to beat your competitor
+- because dealer market is a competitive market
+- capital funded dealer doesn't exist or capital funded dealer is VB
+
+2023/09/16
+
+- leveraged dealer
+- absorb price fluctuation by expanding or shrinking balance sheet
+- not depends on capital
+- dealer is a subsisdiary of a bank
+- volcker rule matched book try to stop that
+- to let bank not to expose to price risk
+
 # Lecture Week6
 
 ## Lec 1
