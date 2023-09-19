@@ -700,6 +700,19 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - volcker rule matched book try to stop that
 - to let bank not to expose to price risk
 
+## 4-2 6/7
+
+2023/09/17 
+
+2023/09/17
+
+- gross exposure, size of balance sheet
+- net exposure, long-short
+- treynor model is only about net exposure
+- expose to price risk
+- dealer have a good access to securities and to cash
+- let other hold securities and cash
+
 # Lecture Week6
 
 ## Lec 1
