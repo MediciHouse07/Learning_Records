@@ -1141,6 +1141,13 @@ End mins
 
 ### Lecture 22
 
+0000<->1500
+
+2023/09/17
+
+- eigen value tell you about the power of matrix
+- matrix stablize
+
 3600<->5100
 
 2023/08/18
