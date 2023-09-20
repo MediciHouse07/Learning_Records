@@ -702,6 +702,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 4-2 6/7
 
+2023/09/18
+
+- TBR expectation hypothesis to the term structure
+
 2023/09/17 
 
 2023/09/17
@@ -712,6 +716,22 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - expose to price risk
 - dealer have a good access to securities and to cash
 - let other hold securities and cash
+
+## 4-3 7/7
+
+2023/09/18
+
+- transporting liquidity from one market to another market
+- long bond and short bill
+- dedicated dealer
+- arbitrage link are the market
+- perfect arbitrage, perfect liquidity
+- price moving around depending on dealer's inventory, not depending on the fundimental value of the asset
+- 0 is FV, if dealer had more price they would move the price
+- another assumption where liquidity is a free good
+- an assumption where most asset pricing model based, or equlibrium theory based
+- 1983 Treynor, Fisher
+- within a factor of 2 fundamental value
 
 # Lecture Week6
 
