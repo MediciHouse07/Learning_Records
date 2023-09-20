@@ -1141,6 +1141,17 @@ End mins
 
 ### Lecture 22
 
+1500<->3000
+
+2023/09/118
+
+- if all lambdas are different, A is diagnalizible
+- repeated eigen values, may or may not have n independent eigen vectors
+- identity
+- matrix times vector makes it a system
+- from uk to uk+1 makes it first order
+- eigen vector and coefficient vector C
+
 0000<->1500
 
 2023/09/17
