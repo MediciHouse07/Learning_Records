@@ -1141,6 +1141,13 @@ End mins
 
 ### Lecture 22
 
+3600<->5100 End
+
+2023/09/20
+
+- scalar system second order Fk+2=Fk+1+Fk
+- envolving in time
+
 3000<->4500
 
 2023/09/19
