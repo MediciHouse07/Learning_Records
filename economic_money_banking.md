@@ -739,6 +739,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-1 1/7
 
+2023/09/19
+
+- share is from what MMMF hold
+- NAV
+- interest absorb the fluctuation
+- reg Q, forbid bank to pay interest to depo account
+
 2023/08/09
 
 - taking eurodollar deplosit
@@ -757,6 +764,11 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-2 2/7
 
+2023/09/19
+
+- deviation is what cost people to have the liquidity
+- bank, currency and deposit
+
 2023/08/09
 
 2023/08/08
@@ -767,6 +779,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - let's back up
 
 # 1-3 3/7
+
+2023/09/19
+
+- think long short as the oppositte of the borrow
 
 2023/08/10
 
