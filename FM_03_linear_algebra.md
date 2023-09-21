@@ -1141,9 +1141,16 @@ End mins
 
 ### Lecture 22
 
+3000<->4500
+
+2023/09/19
+
+- second order scalar problem to first order system
+- thinking in expressing a vector by the basis of its eigen vectors
+
 1500<->3000
 
-2023/09/118
+2023/09/18
 
 - if all lambdas are different, A is diagnalizible
 - repeated eigen values, may or may not have n independent eigen vectors
