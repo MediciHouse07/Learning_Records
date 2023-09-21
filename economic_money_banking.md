@@ -780,6 +780,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-3 3/7
 
+2023/09/20
+
+- liquidity risk, price risk
+
 2023/09/19
 
 - think long short as the oppositte of the borrow
@@ -805,6 +809,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - matched book dealer, speculative dealer
 
 ### 1-4 4/7
+
+2023/09/20
+
+- payment system, money market
 
 2023/08/10
 
