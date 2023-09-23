@@ -1258,6 +1258,16 @@ End mins:
 
 0000<->1500
 
+2023/09/21
+
+- steady state
+- pure solution
+- power of lambda in difference equation
+- exponential in differential equation
+- TBRT
+
+0000<->1500
+
 2023/08/19
 
 - singular matrix has 0 lambda
