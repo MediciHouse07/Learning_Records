@@ -821,6 +821,22 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-1 5/7
 
+2023/09/21
+
+- goverment security
+- whole sale market borrowing
+- finance companies issue commercial paper for the company and acquire loan
+- Households issue mortages
+- contract packed in the system (banks) which are money that seems as treasury but it is nothing but an agreement that you thought as something never would hit one creature of ignorance
+- MMMF price, is from term interest rate
+- RMBS price, is from treynor model
+
+2023/09/21
+
+- commercial paper market,  death of loan
+- MMMF, death of deposit
+- commercial paper's buyer of MMMF
+
 2023/08/11
 
 - reserve vs capital to a bank
