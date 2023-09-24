@@ -1258,6 +1258,14 @@ End mins:
 
 0000<->1500
 
+2023/09/22
+
+- get a steady state when one lambda=0
+- special solutions
+- general solution is combination of pure solutions
+
+0000<->1500
+
 2023/09/21
 
 - steady state
