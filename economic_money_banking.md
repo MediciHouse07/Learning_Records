@@ -849,6 +849,17 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-2 6/7
 
+2023/09/22
+
+- Fed create outside spread for fed fund market
+- some banks can't deposit at the Fed
+- yield and price
+- T dollars in .25
+- 4% 400 basis points
+- termporary open market operation
+- is a period
+- TBRT
+
 2023/08/12
 
 - bracket it, unbracket it
@@ -862,6 +873,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2023/08/11
 
 - IOER, interest on excess reserve
+
+### 2-3 7/7
+
+2023/09/22
+
+- bank money dealer, another way payment system
+- TBRT
 
 # Lecture Week7
 
