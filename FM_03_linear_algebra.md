@@ -1256,6 +1256,16 @@ End mins:
 
 ### Lecture 23
 
+1500<->3000
+
+2023/09/23
+
+- imaginary part
+- stability, steady state, blow up
+- real part
+- TBRT
+- blow up factor, and a decay one
+
 0000<->1500
 
 2023/09/22
