@@ -849,6 +849,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-2 6/7
 
+2023/09/23
+
+- over night market
+- buy bill is permanent
+- repo is temp of bill transction
+- dealer repay a loan to the bank
+- FF + 50
+
 2023/09/22
 
 - Fed create outside spread for fed fund market
@@ -875,6 +883,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - IOER, interest on excess reserve
 
 ### 2-3 7/7
+
+2023/09/23
 
 2023/09/22
 
