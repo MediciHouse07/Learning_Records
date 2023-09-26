@@ -1258,6 +1258,14 @@ End mins:
 
 1500<->3000
 
+2023/09/24
+
+- TBRT
+- TBRT Q complex conjugate
+- TBRT Q the second state(steady state?) why real OK, I guess I got the answer, one lambda=0 another lambda's real part <0, let's check
+
+1500<->3000
+
 2023/09/23
 
 - imaginary part
