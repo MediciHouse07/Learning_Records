@@ -895,6 +895,11 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-1
 
+2023/09/24
+
+- if Atradius go under, the debt goes to GCO
+- freeze of bank issueing trade credit, freeze of international trade
+
 2023/09/08
 
 - freeze of international trade
@@ -927,6 +932,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-2
 
+2023/09/24
+
 2023/09/08
 
 2023/09/03
@@ -936,6 +943,19 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2023/09/01
 
 ## 1-3
+
+2023/09/24
+
+- TBRT term interest market, did I watch it?
+- FF overnight interest rate, term interest rate, bond
+- it may will be
+- jump ahead of time
+- manipulate the profitibility
+- somebody must demand the credit
+- it depends wheather there are things profitable
+- you have to pay the bill when it comes due
+- you are not neccessarily to make promise about the future
+- asymetric
 
 2023/09/09
 
