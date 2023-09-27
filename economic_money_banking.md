@@ -882,6 +882,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - IOER, interest on excess reserve
 
+
+
 ### 2-3 7/7
 
 2023/09/23
@@ -890,6 +892,31 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - bank money dealer, another way payment system
 - TBRT
+
+## 3-1 1/9
+
+2023/09/25
+
+- citi bank leadership change
+- capital infusion
+- soverign
+- SIV structure investment vehicle
+- ABCP asset backed commercial paper
+- commercial paper 90 days paper
+- RMBS 30 years mortgage loan
+
+## 3-2 2/9
+
+2023/09/25
+
+- data source
+
+## 3-3 3/9
+
+2023/09/25
+
+- targeting strategies Fed used
+- mess with, negative
 
 # Lecture Week7
 
