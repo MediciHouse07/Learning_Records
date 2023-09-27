@@ -1256,6 +1256,15 @@ End mins:
 
 ### Lecture 23
 
+2023/09/25
+
+1500<->3000
+
+- stability case
+- steady state, 0 lambda and negative real part of other lambdas
+- no explaination on why imigineary part is negative, perhaps just to set it as conjugation
+- perhaps because conjugate will enable a case where complex lambda exist and steady state is also possible
+
 1500<->3000
 
 2023/09/24
