@@ -1256,6 +1256,17 @@ End mins:
 
 ### Lecture 23
 
+3000<->4500
+
+2023/09/26
+
+- matrix on the exponential
+- taylor series to understand matrix on the exponential position
+- TBR taylor series, TBRT euler's formula
+- does the formula always work
+- the diagnalizible assumption
+- TBRT
+
 2023/09/25
 
 1500<->3000
