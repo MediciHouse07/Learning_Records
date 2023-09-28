@@ -918,6 +918,32 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - targeting strategies Fed used
 - mess with, negative
 
+## 3-4 4/9
+
+2023/09/25
+
+- taylor rule that guides the Fed to move FF rate
+- return on capital on real capital goods
+- inflation, change of price in percentage number
+- error correction term
+- PIstar inflation target, YF output target
+- nominal interest rate = real interest rate + inflation
+- PIe is expectation on inflation
+
+## 4-1 5/9
+
+2023/09/25
+
+- FF market, term market, bond market, on a line
+- FF market, settlement risk
+- FF market payment system
+- borrow short lending long is liquidity risk
+- term is also upward sloping
+- monetary policy
+- remember expand and contract of balance sheet
+- bond end is still not at real economy yet
+- MBS influence loans
+
 # Lecture Week7
 
 ## 1-1
