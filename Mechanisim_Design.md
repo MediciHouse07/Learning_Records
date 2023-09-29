@@ -1,5 +1,13 @@
 ## Lecture 3
 
+3000<->4500
+
+2023/09/27
+
+- v1->v2 can also change the consequent of v2
+- some rules kill somebody but also guides something in
+- seems the sign matters...
+
 1500<->3000
 
 2023/09/27
