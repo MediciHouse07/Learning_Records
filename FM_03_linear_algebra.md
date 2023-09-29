@@ -1258,6 +1258,12 @@ End mins:
 
 3000<->4500
 
+2023/09/27
+
+- TBR why ut=something u0
+
+3000<->4500
+
 2023/09/26
 
 - matrix on the exponential
