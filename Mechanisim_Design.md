@@ -1,5 +1,12 @@
 ## Lecture 3
 
+4300<->5800
+
+2023/09/28
+
+- cohesion rule means you can't go back
+- TBRT
+
 3000<->4500
 
 2023/09/27
