@@ -2,6 +2,14 @@
 
 4300<->5800
 
+2023/09/29
+
+- impletable case bad guy can't solve the problem
+- good guy can solve by cheat, implentable, truth truthfully implementable
+- black hole, truthfully implementation
+
+4300<->5800
+
 2023/09/28
 
 - cohesion rule means you can't go back
