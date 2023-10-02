@@ -1,5 +1,17 @@
 ## Lecture 3
 
+5800<->7300
+
+2023/09/30
+
+- TBRT
+- K-1 must be truthful implementation, TBR
+- what does the R notation mean
+- R for rejection, R means bad guys
+- monotonic
+- only good student can say he is very good student
+- affirmation
+
 4300<->5800
 
 2023/09/29
