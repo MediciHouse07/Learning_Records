@@ -40,3 +40,9 @@
 - rational number, Q quotient
 - algebric completeness
 - analytical completeness
+
+## Lecture 2
+
+0000<->1500
+
+2023/10/02
