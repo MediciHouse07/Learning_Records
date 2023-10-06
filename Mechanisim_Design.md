@@ -1,5 +1,12 @@
 ## Lecture 1
 
+2023/10/04
+
+1300<->2800
+
+- announce true utility is a DS
+- direct revelation mechanism
+
 2023/10/03
 
 1300<->2800
