@@ -518,6 +518,14 @@
 
 # Lecture 17
 
+2023/10/04
+
+(it says it is lecture 17 missing Lecture 15)
+
+0000<->0600
+
+- TBR previous lectures
+
 0000<->1000
 
 2023/05/25
