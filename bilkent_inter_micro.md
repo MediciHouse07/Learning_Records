@@ -236,6 +236,14 @@
 
 # Lecture 8
 
+2023/10/05
+
+0000<->1500
+
+- convex, indifference curve
+- diminishing marginal utility function
+- dim MRS, at least as good as sets are convex, strict convexity of indifference curves, strictly quasi concave utility function
+
 2023/04/21
 
 1500<->End
