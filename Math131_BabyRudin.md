@@ -43,6 +43,14 @@
 
 ## Lecture 2
 
+2023/10/05
+
+4500<->6000
+
+- C is not an ordered field
+- 0 divisor
+- R contain Q as sub field, has LUB property
+
 2023/10/04
 
 3000<->4500
