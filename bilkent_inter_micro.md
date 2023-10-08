@@ -236,6 +236,15 @@
 
 # Lecture 8
 
+1500<->3000
+
+2023/10/06
+
+- what gurantees utility function will be unchanged by raising to a power of x
+- the order is the important thing
+- positive monotune transformation
+- compute MRS
+
 2023/10/05
 
 0000<->1500
