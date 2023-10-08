@@ -43,6 +43,13 @@
 
 ## Lecture 2
 
+5200<->6700 End
+
+2023/10/06
+
+- example is 2 times 2 return 0, that means there is 0 divisor
+- R property, archimedian property
+
 2023/10/05
 
 4500<->6000
