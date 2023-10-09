@@ -71,3 +71,12 @@
 0000<->1500
 
 2023/10/02
+
+## Lecture 3
+
+0000<->1500
+
+2023/10/07
+
+- complex number
+- analysis core idea, distance and size
