@@ -74,6 +74,16 @@
 
 ## Lecture 3
 
+1500<->3000
+
+2023/10/08
+
+- for real number a and a bar are the same
+- wzbar + zwbar
+- mins 2629 analysis
+- TBR first 15 mins
+- TBRT
+
 0000<->1500
 
 2023/10/07
