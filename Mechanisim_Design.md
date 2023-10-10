@@ -4,6 +4,7 @@
 
 2023/10/08
 
+- social choice function, collective decision making
 - in advance of 
 - general preferences
 
