@@ -1,5 +1,11 @@
 ## Lecture 1
 
+0600<->2700
+
+2023/10/09
+
+- DS, undemanding of players, don't need to know other's preference and so on
+
 1800<->2700
 
 2023/10/08
