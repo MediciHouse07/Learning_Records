@@ -74,6 +74,12 @@
 
 ## Lecture 3
 
+0000<->1500
+
+2023/10/09
+
+- Im(z) is a real number, Im(z)i is an imaginary number
+
 1500<->3000
 
 2023/10/08
