@@ -1,5 +1,12 @@
 ## Lecture 1
 
+3000<->4500
+
+2023/10/11
+
+- onto
+- preference profile and outcome at the bottom
+
 2023/10/10
 
 2700<->4200
