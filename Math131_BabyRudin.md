@@ -74,6 +74,12 @@
 
 ## Lecture 3
 
+2023/10/11
+
+3000<->4500
+
+- eucleden space, with direction, vect
+
 1500<->3000
 
 2023/10/10
