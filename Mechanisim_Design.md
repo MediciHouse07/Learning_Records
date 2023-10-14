@@ -1,5 +1,14 @@
 ## Lecture 1
 
+2023/10/12
+
+2700<->4500
+
+- 3150 mins pareto optimal, if a choice is preferred by everybody then it can't be an optimal
+- when A=2 the rule can be by majority
+- extend
+- dominate strategy to tell truth
+
 3000<->4500
 
 2023/10/11
