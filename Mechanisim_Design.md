@@ -1,5 +1,13 @@
 ## Lecture 1
 
+2023/10/13
+
+4500<->6000
+
+- monotonicity
+- monotonic
+- fEff
+
 2023/10/12
 
 2700<->4500
