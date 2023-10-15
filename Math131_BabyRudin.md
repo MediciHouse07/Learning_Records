@@ -74,6 +74,14 @@
 
 ## Lecture 3
 
+2023/10/13
+
+5900<->End
+
+- at most countable
+- uncountable, neither finite nor countable
+- sequence
+
 2023/10/12
 
 4500<->6000
