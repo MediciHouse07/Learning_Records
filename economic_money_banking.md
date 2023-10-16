@@ -944,6 +944,35 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - bond end is still not at real economy yet
 - MBS influence loans
 
+### 4-2 6/9 Week 6
+
+2023/10/14
+
+- dealer system absorb imbalance
+- household sector
+- dealer system
+- order imbalance
+- HH hasn't sold their securities
+- dealer and banking system
+- order book
+- asset price, price of security
+- more lending, more liquidity risk, increase IR
+- both bank and dealer has to be paid
+- shift their quote
+
+### 4-3 7/9 Week 6
+
+2023/10/14
+
+- normal money policy
+- normal fluctuation
+- backstop
+- liquidity risk, short position in the money
+- Fed, domestical money
+- short position in the money
+
+2023/10/14
+
 # Lecture Week7
 
 ## 1-1
