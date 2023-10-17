@@ -438,6 +438,17 @@
 
 ### Lecture 19
 
+2023/10/15
+
+0000<->1500
+
+- vector field
+- at each point x,y, F is a vector that depends on x and y
+- definition of vector field
+- distance from origin
+- length of vector is equal to distance from origin
+- angular velocity equal to theta times radius
+
 3600<->5100 End
 
 - he simply change C to t in the part of integral sign
