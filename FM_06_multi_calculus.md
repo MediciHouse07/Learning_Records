@@ -438,6 +438,15 @@
 
 ### Lecture 19
 
+2023/10/16
+
+1500<->3000
+
+- angle varies at unit speed
+- displacement vector, how the particle move
+- velocity vector
+- r is positional vector
+
 2023/10/15
 
 0000<->1500
