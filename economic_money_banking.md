@@ -973,6 +973,23 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2023/10/14
 
+### 5-1 8/9 Week 6
+
+2023/10/15
+
+- asset price, security
+- security as collateral
+- towards, away
+- a debt which never due
+- clear the system for those companies that make mistakes
+- hiccup
+
+2023/10/15
+
+- Fed backing banks
+- money market, capital market
+- some condition only happen in depression
+
 # Lecture Week7
 
 ## 1-1
