@@ -990,6 +990,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - money market, capital market
 - some condition only happen in depression
 
+### 5-2 9/9 Week 6 Lecture 11
+
+2023/10/16
+
+- CP is safer than RP
+- and the CP is also an unsecured CP
+- CB doesn't want to take any risk, that's why they have the best market
+- during the crisis, they move almost the whole balance sheet of others to themselves
+
 # Lecture Week7
 
 ## 1-1
