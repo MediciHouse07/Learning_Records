@@ -438,6 +438,14 @@
 
 ### Lecture 19
 
+3000<->4500
+
+2023/10/17
+
+- express things in one parameter
+- dr, Tds
+- force dot product with its tagent and integral on the trajectory
+
 2023/10/16
 
 1500<->3000
