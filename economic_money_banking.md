@@ -739,6 +739,26 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-1 1/7
 
+2023/10/17
+
+- chair of s exchange comission
+- some time of the next month
+- 1969
+- money market asset
+- interest paid on the NAV
+- regulation Q
+- forbid bank pay interest
+- 2008
+- prop up
+
+2023/10/17
+
+- doggedly, try to, struggle to
+- manuver the troop
+- MMMF only lost Lehman CP
+- Bruce Bent
+- warpath
+
 2023/09/19
 
 - share is from what MMMF hold
@@ -763,6 +783,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - RegQ, 1969
 
 # 1-2 2/7
+
+2023/10/17
+
+- security dealer is down from the best money in the world
+- intervenue
+- security dealer first
 
 2023/09/19
 
