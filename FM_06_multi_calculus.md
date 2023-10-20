@@ -438,6 +438,17 @@
 
 ### Lecture 19
 
+2023/10/18
+
+3600<->5100 End
+
+- line integral depends on the trajectory C but not parameterization
+- ds is length element
+- magnitude
+- think it geometrically
+- length of C
+- dr is change of point thus dx, dy
+
 3000<->4500
 
 2023/10/17
