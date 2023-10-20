@@ -806,6 +806,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # 1-3 3/7
 
+2023/10/18
+
+- dealer can long or short security
+- bond risk, price risk, term to security
+- liquidity risk, with something like demand deposit can be run a the bank
+
 2023/09/20
 
 - liquidity risk, price risk
@@ -835,6 +841,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - matched book dealer, speculative dealer
 
 ### 1-4 4/7
+
+2023/10/18
+
+- dealer quoting yield on the money market
+- bid ask switch in the interest graph
+- bank and payment system, bank and trade in money market
 
 2023/09/20
 
