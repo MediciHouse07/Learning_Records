@@ -121,3 +121,14 @@
 
 - complex number
 - analysis core idea, distance and size
+
+# Lecture 4
+
+0000<->1500
+
+2023/10/19
+
+- AXAXA..XA
+- cartision product
+- countable union of countable sets
+- infinite cartision product
