@@ -857,7 +857,21 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - treynor model
 2022/03/28:② treynor's model, quoting on yield instead of price will flip the bid ask/offer spread, if you quote on yield, bid is higher than ask. think in this way, if you quote on price, you would "bid" on lower price, offer/ask a higher price to earn money, this is like a recipical relation
 
-### 2-1 5/7
+### 2-1 5/7 Week6
+
+2023/10/19
+
+- wholesale market borrowing
+- have reserve to make payment
+- reserve is actually reserve
+- commercial paper market replace loan
+- finance comapnies
+- MMMF
+- households issue mortgage debt
+- CP ABCP RP
+- price of asset, earning money, treynor model, asset market
+- price of borrowing, term interest
+- price is determined in dealer market instead of traditional banking system
 
 2023/09/21
 
@@ -886,6 +900,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - capital based system
 
 ### 2-2 6/7
+
+2023/10/19
+
+0000<->0400
+
+- bracket something to see it clearly
+- Fed create outside spread in the Tbill market
+- 16 basis point, 0.16
 
 2023/09/23
 
