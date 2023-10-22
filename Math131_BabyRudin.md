@@ -124,6 +124,16 @@
 
 # Lecture 4
 
+1500<->3000
+
+2023/10/20
+
+- Cantor's diagonal process
+- space and distance, metric space
+- d a metric, (X,d) a metric space
+- taxicab metric
+- k cell
+
 0000<->1500
 
 2023/10/19
