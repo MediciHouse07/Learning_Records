@@ -901,6 +901,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-2 6/7
 
+2023/10/20
+
+- +reserve + repo temp open market operation
+- +reserve + tbill permanenet open market operation
+- 5 point above repo
+- FF market is one bank lending to another
+- TBRT
+
 2023/10/19
 
 0000<->0400
@@ -945,6 +953,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 
 ### 2-3 7/7
+
+2023/10/20
+
+- TBRT
+- operation in the money market
+- slack
+- gestalt switch
+- withdraw or deposit won't affect par, but it will affect bank's reserve and it will affect IR, so the effect is reflected in another place which was realized through dealer's market
 
 2023/09/23
 
