@@ -899,7 +899,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - price is determined in dealer market
 - capital based system
 
-### 2-2 6/7
+### 2-2 6/7 Week6
+
+2023/10/21
+
+- promise to sell a tbill back, repo
+- Fed moving around dealer's postion
 
 2023/10/20
 
@@ -950,9 +955,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - IOER, interest on excess reserve
 
+### 2-3 7/7 Week6
 
+2023/10/21
 
-### 2-3 7/7
+- Fed payment system
+- how to make par, how to make it to be profitable
 
 2023/10/20
 
