@@ -124,6 +124,16 @@
 
 # Lecture 4
 
+3000<->4500
+
+2023/10/21
+
+- open ball, epsilon ball?
+- HTL learn topology
+- neighboarhood
+- punctured neighborhood
+- limit point
+
 1500<->3000
 
 2023/10/20
