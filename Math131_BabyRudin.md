@@ -124,6 +124,17 @@
 
 # Lecture 4
 
+4500<->6000
+
+2023/10/22
+
+- isolated point
+- closed set
+- interior point of E
+- every point of E is interior, E is open
+- bounded set
+- dense
+
 3000<->4500
 
 2023/10/21
