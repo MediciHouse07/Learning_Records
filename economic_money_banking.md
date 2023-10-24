@@ -977,7 +977,9 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - bank money dealer, another way payment system
 - TBRT
 
-## 3-1 1/9
+## 3-1 1/9 Week 6 Lecture 12
+
+2023/10/22
 
 2023/09/25
 
@@ -989,13 +991,26 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - commercial paper 90 days paper
 - RMBS 30 years mortgage loan
 
-## 3-2 2/9
+## 3-2 2/9 Week 6 Lecture 12
+
+2023/10/22 
+
+- lender of first resort, dealer of last resort
+- 1932
 
 2023/09/25
 
 - data source
 
-## 3-3 3/9
+## 3-3 3/9 Lecture 12
+
+2023/10/22 
+
+- monetary policy is to prevent crisis lending at a high rate
+- MV=PT, M quantity of money
+- M is household money
+- quantititive control think from how Fed control it
+- messing with
 
 2023/09/25
 
