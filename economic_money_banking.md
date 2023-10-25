@@ -1017,7 +1017,19 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - targeting strategies Fed used
 - mess with, negative
 
-## 3-4 4/9
+## 3-4 4/9 Lecture 12
+
+2023/10/23
+
+- factor in
+- what market will do on its own
+- dissertation
+
+2023/10/23
+
+- in accordance with
+- great moderation
+- comes along
 
 2023/09/25
 
