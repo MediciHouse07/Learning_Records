@@ -170,3 +170,11 @@
 - cartision product
 - countable union of countable sets
 - infinite cartision product
+
+# Lecture 5
+
+0000<->1500
+
+2023/10/24
+
+- finite
