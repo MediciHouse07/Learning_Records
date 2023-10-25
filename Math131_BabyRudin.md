@@ -124,6 +124,13 @@
 
 # Lecture 4
 
+5400<->10900 End
+
+2023/10/23
+
+- finite, means there is n
+- puctured neighborhood
+
 4500<->6000
 
 2023/10/22
