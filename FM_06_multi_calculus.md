@@ -573,6 +573,13 @@
 
 ### Lecture 20
 
+2023/10/24
+
+0000<->0500
+
+- s arc length element
+- it consists
+
 2023/10/14
 
 0000<->1500
