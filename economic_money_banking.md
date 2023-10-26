@@ -1043,6 +1043,19 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 4-1 5/9
 
+2023/10/24
+
+- price risk, exposure to certain risk
+
+
+2023/10/24
+
+0000<->0500
+
+- term 3 month, bond market the far end
+- settlement risk
+- put off to tomorrow
+
 2023/09/25
 
 - FF market, term market, bond market, on a line
