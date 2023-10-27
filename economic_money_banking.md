@@ -1070,6 +1070,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 4-2 6/9 Week 6
 
+2023/10/25
+
+- order imbalance
+- security doesn't sell to the counter party
+- order flow imbalance absorbed by banking system
+- when flow reverse, imbalance will be eliminated
+
 2023/10/14
 
 - dealer system absorb imbalance
@@ -1086,6 +1093,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 4-3 7/9 Week 6
 
+2023/10/25
+
+- market on its own
+- borrow xx is short on xx
+- HH want money, all its counter party is short on money
+
 2023/10/14
 
 - normal money policy
@@ -1098,6 +1111,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2023/10/14
 
 ### 5-1 8/9 Week 6
+
+0000<->0300
+
+2023/10/25
+
+- in this pic no role is acting as value based investor as no counter party is presented
 
 2023/10/15
 
