@@ -1112,6 +1112,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 5-1 8/9 Week 6
 
+2023/10/26
+
+2023/10/26
+
+- mismatch of cash commitment and cash flow
+- recognize the mistake, the payoff is to sell stuff
+- kill the patience
+- wash out
+
 0000<->0300
 
 2023/10/25
