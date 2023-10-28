@@ -173,6 +173,14 @@
 
 # Lecture 5
 
+1500<->2400 REP
+
+2023/10/26
+
+- finitely many
+- how to define closure, E union its limit points set
+- E closure is the smallest set tht contaning E
+
 1500<->3000
 
 2023/10/25
