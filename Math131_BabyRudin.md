@@ -173,6 +173,13 @@
 
 # Lecture 5
 
+2400<->3000 REP
+
+2023/10/27
+
+- r over two neighborhood
+- STS that
+
 1500<->2400 REP
 
 2023/10/26
