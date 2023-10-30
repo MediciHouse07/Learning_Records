@@ -1144,6 +1144,20 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 5-2 9/9 Week 6 Lecture 11
 
+2023/10/28
+
+- inter bank, still term interest
+- recourse
+- CP is better than RP
+- recourse against
+- eudollar, paper issued by european company
+- there are various stages
+- tbill is from goverment
+- CB is CB
+- liquidity swap is also trading at the term market
+- normal money market policy, FF rate
+- market mechanism will be revoked if Fed put all on their balance sheet, but that require Fed to know what is the right price
+
 2023/10/16
 
 - CP is safer than RP
