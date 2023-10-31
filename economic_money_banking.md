@@ -1169,6 +1169,24 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-1
 
+2023/10/29
+
+- acceptances, they don't pay I will pay
+
+2023/10/29
+
+- the rating downgrade shakes trading credit insurers
+- bank say if they don't pay I will pay
+- Atradius
+- just 2 niches above junk
+- plummet
+
+2023/10/29
+
+- come into a halt
+- 1 billion premium
+- trade credit
+
 2023/09/24
 
 - if Atradius go under, the debt goes to GCO
