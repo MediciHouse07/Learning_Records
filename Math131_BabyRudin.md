@@ -173,6 +173,13 @@
 
 # Lecture 5
 
+4500<->6000
+
+2023/10/29
+
+- sub cover, finite sub collection of these sets
+- finite implies compact
+
 3000<->4500
 
 2023/10/28
