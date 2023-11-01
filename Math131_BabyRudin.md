@@ -173,6 +173,15 @@
 
 # Lecture 5
 
+5500<->End
+
+2023/10/30
+
+- finite collection of subset
+- quality of finiteness for infinite set
+- find a cover that doesn't have finite sub cover, then it is not compact
+- TBRT review the important argument introduced in several mins ago
+
 4500<->6000
 
 2023/10/29
