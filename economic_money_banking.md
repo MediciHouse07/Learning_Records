@@ -1224,6 +1224,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## 1-2
 
+2023/10/30
+
+- 1910
+- 1923
+- commence
+- 1930
+
 2023/09/24
 
 2023/09/08
@@ -1235,6 +1242,13 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2023/09/01
 
 ## 1-3
+
+2023/10/30
+
+- boom and crash
+- cost for putting the settlement off to tomorrow
+- expensive for them to hoarding bond or asset
+- jump off the economy
 
 2023/09/24
 
@@ -1266,6 +1280,8 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - doesn't neccessarily
 
 1-4
+
+2023/10/30
 
 2023/09/09
 
