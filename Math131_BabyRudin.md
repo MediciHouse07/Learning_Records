@@ -221,3 +221,13 @@
 2023/10/24
 
 - finite
+
+# Lecture 6
+
+0000<->1500
+
+2023/10/31
+
+- compact with respect to 
+- suffice to show
+- TBRT
