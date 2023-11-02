@@ -1279,7 +1279,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - may or may not be
 - doesn't neccessarily
 
-1-4
+# 1-4
 
 2023/10/30
 
@@ -1288,6 +1288,45 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - make it easier for settlement
 - make it harder for settlement
 - FF rate -> term rate -> asset price MBS asset price is also bond price
+
+# 1-5 5/10 Week7
+
+2023/10/31
+
+- hard to settling
+- persistent deficit agent
+- Fed doesn't neccessarily take average
+- Fed fund effective
+
+2023/10/31
+
+- upward pressure
+- put it off
+- FF effective
+
+# 1-6 5/10 Week7
+
+2023/10/31
+
+- 
+
+2023/10/31
+
+- standard coin, subordinate coin, less value medal
+- stamped on it
+
+# 2-1 7/10 Week7
+
+2023/10/31
+
+- suppose to use bill of exchange, replaced by tbill
+
+2023/10/31
+
+- war finance
+- Young, how war finance change the monetary system
+- war finance, crisis finance
+- sovergn, private sector
 
 2023/09/09
 
