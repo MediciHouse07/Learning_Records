@@ -1463,6 +1463,20 @@ XTAX>0 XTBX>0 XT(A+B)X>0;
 4100 mins, Jordan block; number of blocks = number of eigen vectors;
 
 ### Lecture 29
+
+0000<->1500
+
+2023/11/01
+
+- positive definite
+- ellipses, hyperbola
+- determinant, eigen value positive definite
+- positive semi definite
+- TBRT
+- quadradic form
+- non linear
+- it is changing to
+
 2022/04/10: finished,0036 mins SVD is a way of factorization, SLAMBDAS-1 -> QLAMBDAQT if A is symm;
 diagnoal matrices sigma, SVD orthognal times diagnal times orthognal;
 0400 mins, gran smith; ||ATA|| positive semi definite;
