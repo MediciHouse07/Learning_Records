@@ -173,6 +173,12 @@
 
 # Lecture 5
 
+0000<->1500
+
+2023/11/01
+
+- why infinite intersection of open G might not be open
+
 5500<->End
 
 2023/10/30
