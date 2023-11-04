@@ -1330,6 +1330,18 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2023/09/09
 
+# 2-2 8/10
+
+2023/11/02
+
+- 
+
+2023/11/02
+
+- forward forward, FRA side bid on what ir would be in 3 months, forward agreemnt, lend in 3 month
+- FIP
+- TBRT
+
 # Lecture Week8
 ## Lec 1
 ### 1-1
