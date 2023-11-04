@@ -1380,6 +1380,28 @@ fourier series, Fnij = w^ij
  
 
 ### Lecture 27
+
+2023/11/02
+
+0000<->1500
+
+- pivot only refers to non-zero number
+- quadratic is not linear
+- TBRT
+
+0000<->1500
+
+2023/11/01
+
+- positive definite
+- ellipses, hyperbola
+- determinant, eigen value positive definite
+- positive semi definite
+- TBRT
+- quadradic form
+- non linear
+- it is changing to
+
 #### REX 2 2022/07/14
 #### REX 1 2022/04/08
 2022/04/08: finished, ellipsoid=football, hyperbloic=double curve line, parabola=x^2;
@@ -1463,19 +1485,6 @@ XTAX>0 XTBX>0 XT(A+B)X>0;
 4100 mins, Jordan block; number of blocks = number of eigen vectors;
 
 ### Lecture 29
-
-0000<->1500
-
-2023/11/01
-
-- positive definite
-- ellipses, hyperbola
-- determinant, eigen value positive definite
-- positive semi definite
-- TBRT
-- quadradic form
-- non linear
-- it is changing to
 
 2022/04/10: finished,0036 mins SVD is a way of factorization, SLAMBDAS-1 -> QLAMBDAQT if A is symm;
 diagnoal matrices sigma, SVD orthognal times diagnal times orthognal;
