@@ -573,6 +573,17 @@
 
 ### Lecture 20
 
+1500<->3000
+
+2023/11/03
+
+- F force
+- fundamental theorom of calculus
+- FTC of line integrals
+- field is a grident
+- some force are gradient of potential
+- gradient field, magnetical field is not a gradient field
+
 0000<->1500
 
 2023/10/27
