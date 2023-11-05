@@ -1381,7 +1381,19 @@ fourier series, Fnij = w^ij
 
 ### Lecture 27
 
+1500<->3000
+
+2023/11/04
+
+- saddle points
+- connection between matrix and geometry
+- matrix of second derivatives is pos def
+- TBRT
+- ellipose
+
 2023/11/03
+
+0000<->1500
 
 - symmetric matrix, positive definite
 - product is determinant, determinant / one pivots is another determinant
