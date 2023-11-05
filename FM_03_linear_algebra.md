@@ -1381,6 +1381,11 @@ fourier series, Fnij = w^ij
 
 ### Lecture 27
 
+2023/11/03
+
+- symmetric matrix, positive definite
+- product is determinant, determinant / one pivots is another determinant
+
 2023/11/02
 
 0000<->1500
