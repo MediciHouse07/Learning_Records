@@ -573,6 +573,20 @@
 
 ### Lecture 20
 
+3000<->4500
+
+2023/11/04
+
+- path independence
+- it fails in general
+- gradient field, is conservative
+- TBRT
+- ele field, granatation field, mag field
+- check for a non conservative field
+- F = -y,x
+- to be studied, how to see if a function is a gradient
+- ele potential, voltage
+
 1500<->3000
 
 2023/11/03
