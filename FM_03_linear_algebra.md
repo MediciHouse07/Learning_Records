@@ -1383,6 +1383,13 @@ fourier series, Fnij = w^ij
 
 1500<->3000
 
+2023/11/05
+
+- overwhelm
+- second derivative positive become matrix of seccond derivative matrix is positive definite
+
+1500<->3000
+
 2023/11/04
 
 - saddle points
