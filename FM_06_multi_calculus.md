@@ -575,6 +575,15 @@
 
 3000<->4500
 
+2023/11/05
+
+- gradient field have path indepedent
+- gradient field gurantees the conservative
+- because gradient has path independence
+- force is gradient of a potential
+
+3000<->4500
+
 2023/11/04
 
 - path independence
