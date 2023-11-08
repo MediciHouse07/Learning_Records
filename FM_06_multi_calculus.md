@@ -573,6 +573,12 @@
 
 ### Lecture 20
 
+4500<->End
+
+2023/11/06
+
+- path independent = conservative
+
 3000<->4500
 
 2023/11/05
@@ -750,6 +756,15 @@
 - physic potential is on the opposite of the mathmatical potential
 
 # Lecture 21
+
+2023/11/06
+
+0000<->1000
+
+- change of potential is on higher level
+- TBRT, why second derivative is the same
+- conversely
+- check for a gradient field
 
 4000<->End
 
