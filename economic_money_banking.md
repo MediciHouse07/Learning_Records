@@ -1342,6 +1342,23 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - FIP
 - TBRT
 
+### 2-3 9/10 Week7
+
+2023/11/07
+
+0900<->End
+
+- payment system from credit
+
+2023/11/07
+
+- CHIPS vs Fedwire
+- Clearing house
+- due from A due to B, A make a payment to B
+- net payment
+- clearing on CHIPS
+- analogue
+
 # Lecture Week8
 ## Lec 1
 ### 1-1
