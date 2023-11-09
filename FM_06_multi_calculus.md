@@ -757,6 +757,14 @@
 
 # Lecture 21
 
+2023/11/07
+
+0000<->1500
+
+- differentiable and My=Mx then F is gradient field
+- it should be the same in everywhere
+- you can't assign x=0 to make it equal in everywhere
+
 2023/11/06
 
 0000<->1000
