@@ -173,6 +173,12 @@
 
 # Lecture 5
 
+2023/11/08
+
+0000<->1500
+
+- infinite intersection of open set might end up in a point, which is not open
+
 0000<->1500
 
 2023/11/01
