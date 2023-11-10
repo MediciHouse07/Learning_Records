@@ -1359,6 +1359,24 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - clearing on CHIPS
 - analogue
 
+### 2-4 10/10 Week7
+
+2023/11/08
+
+- discount loan as a source of fund
+- discount
+- Fed can intervene the market
+- market oriented
+- Tbill security for repo
+- buy Tbill is permenent intervention
+- high powered reserve
+
+2023/11/08
+
+0000<->0500
+
+- reverse vs discount loan
+
 # Lecture Week8
 ## Lec 1
 ### 1-1
