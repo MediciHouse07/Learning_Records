@@ -1379,9 +1379,35 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 # Lecture Week8
 ## Lec 1
-### 1-1
+### 1-1 week 8 1/11
+
+2023/11/09
+
+- part 2
+- exchange rate
+
 2022/06/28:finished
-### 1-2
+### 1-2 week 8 2/11
+
+2023/11/09
+
+0000<->0500
+
+- US dollars to one euro
+- TBRT
+- international dollar, world reserve currency
+- prices of gold in dollar
+- dollar against gold
+
+2023/11/09
+
+- Euro dollars, international dollars
+- ex rate, chartalism, metalism
+- international dollar, domestic dollar
+- yen
+- pound, euro
+- mostly traded currency
+
 2022/06/28:finished
 ### 1-3
 2022/06/28:finished, retial or purchase money, versus whole sale gold money; this is 1500s to 1800s, king pay sodier in foreign land, pure fiat money is useless, a gold is neccessary for paying wage
