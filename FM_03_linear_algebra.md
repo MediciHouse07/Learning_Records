@@ -1381,6 +1381,16 @@ fourier series, Fnij = w^ij
 
 ### Lecture 27
 
+3000<->4500
+
+2023/11/09
+
+- marginal case
+- completing the square is elimination
+- pivot outside, multiplier inside
+- n dimension second derivaive
+- TBRT
+
 1500<->3000
 
 2023/11/05
