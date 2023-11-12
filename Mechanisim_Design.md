@@ -1,5 +1,12 @@
 ## Lecture 1
 
+2023/11/10
+
+0000<->1500
+
+- 1980
+- uncertainty is captured by theta
+
 2023/10/13
 
 4500<->6000
