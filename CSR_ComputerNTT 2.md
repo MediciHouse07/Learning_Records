@@ -29,6 +29,18 @@
 
 - VM code to assembly code
 
+### Week1.2-3
+
+2023/11/11
+
+0000<->0300
+
+- one machine simulate all the other  machines
+
+2023/11/11
+
+- TBRT
+
 ### Unit 1.6
 2022/10/11
 1000<->End
