@@ -1381,6 +1381,14 @@ fourier series, Fnij = w^ij
 
 ### Lecture 27
 
+2023/11/11
+
+3000<->4500
+
+- completing the square is elimination
+- symmetric enables second cross derivaive is the same
+- cubic, degree 3 equation
+
 3000<->4500
 
 2023/11/09
