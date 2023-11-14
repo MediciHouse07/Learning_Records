@@ -133,6 +133,17 @@
 - independent variable
 - coherence
 - conflicting consequences
+
+# Lecture 10
+
+0000<->1500
+
+2023/11/12
+
+- transfer, threat
+- incentive, persuation
+- information is joint distribution of truth and data
+- function, correspondence
 - antecedent consequent
 - change of a truth value must be justified by a rule
 - there is some rule to change
