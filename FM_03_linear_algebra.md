@@ -1381,6 +1381,15 @@ fourier series, Fnij = w^ij
 
 ### Lecture 27
 
+2023/11/12
+
+4500<->End
+
+- elliposoid, ellipose
+- length of the is eigen vector
+- QlambdaQT
+- QT symmytric
+
 2023/11/11
 
 3000<->4500
@@ -1516,6 +1525,17 @@ fourier series, Fnij = w^ij
 - TBRT, why eigen vector tells you the axis and eigen value tells you the length, TBR A=QLAMBDAQT
 
 ### Lecture 28
+
+2023/11/12
+
+0000<->1000
+
+- similar matrices
+- symmetric built in definition
+- TBRT
+- symbol
+- put parenthesis in the right place
+
 2022/04/09: finished, 240 mins, a symetry has inverse;
 XTAX>0 XTBX>0 XT(A+B)X>0;
 0859 mins, ATAX=||AX||^2>=0;
