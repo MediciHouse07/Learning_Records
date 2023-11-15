@@ -1381,6 +1381,16 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 ## Lec 1
 ### 1-1 week 8 1/11
 
+2023/11/13
+
+- Yen more expensive in dollar term
+- CB's expansion or shrink will change ex rate
+- 
+
+2023/11/13
+
+- ex rate is a part of 4 prices of money
+
 2023/11/09
 
 - part 2
@@ -1388,6 +1398,12 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2022/06/28:finished
 ### 1-2 week 8 2/11
+
+2023/11/13
+
+- plural x unit euro, US convention
+- Reserve Fed funds Eurodollars
+- Domestic dollar trade in par with international dollar
 
 2023/11/09
 
@@ -1410,6 +1426,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2022/06/28:finished
 ### 1-3
+
+2023/11/13
+
+0000<->0300
+
+- history of economic thought
+- fiat
+- TBRT
+
 2022/06/28:finished, retial or purchase money, versus whole sale gold money; this is 1500s to 1800s, king pay sodier in foreign land, pure fiat money is useless, a gold is neccessary for paying wage
 ### 1-4
 2022/07/05: 
