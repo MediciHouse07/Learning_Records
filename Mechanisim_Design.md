@@ -136,6 +136,18 @@
 
 # Lecture 10
 
+2023/11/14
+
+0500<->2000
+
+- cheap dog/talk game
+- data is signal realization
+- truth and observed
+- prior posterior
+- upper semi continuous
+- calibrate
+- IC constraint
+
 0000<->1500
 
 2023/11/12
