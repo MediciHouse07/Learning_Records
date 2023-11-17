@@ -1615,3 +1615,12 @@ AT(AAT)-1;
 SIGMA SIGMA+ = (1100);
 A=uSIGMAVT
 A+=VSIGMA+uT, book sec7.4
+
+# Differential Equations and exp (At) | MIT 18.06SC Linear Algebra, Fall 2011
+
+https://www.youtube.com/watch?v=dZfdKXxhnTM
+
+2023/11/15
+
+0000<->1500
+
