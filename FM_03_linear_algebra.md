@@ -1256,6 +1256,12 @@ End mins:
 
 ### Lecture 23
 
+2023/11/15
+
+0000<->1500
+
+- solution elambdat roughly equal to lambda to the x power x
+
 2023/11/14
 
 0000<->1500
