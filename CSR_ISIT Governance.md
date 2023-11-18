@@ -1,6 +1,6 @@
-## Week 1
+# Week 1
 
-# 1-3 1.1-1
+## 1-3 1.1-1
 
 2022/11/24
 
@@ -8,7 +8,7 @@
 - MIS quarterly, Information Systems Research, Journal of Management Information Systems
 - Strategic information technology management
 
-# 1-4 1.1-2
+## 1-4 1.1-2
 
 2022/11/24
 
@@ -18,7 +18,7 @@
 - overrun budget, behind schedule, fail expectation
 - operational, tactical, strategic
 
-# 1-5 Video 1-3 
+## 1-5 Video 1-3 
 
 2022/11/12
 
@@ -29,7 +29,7 @@
 - short benefit
 - IT governance is a response to these problems
 
-# 1-6 1-4 Video
+## 1-6 1-4 Video
 
 2022/11/13
 
@@ -39,7 +39,7 @@
 - what if they are failed to perform a role
 - sterring committee, IT investment prioritization process
 
-# 1-7 1-5 Video
+## 1-7 1-5 Video
 
 2022/11/18
 
@@ -52,7 +52,7 @@
 - IT governance, strategic element, tatical element
 
 
-# 2-1
+## 2-1
 
 2022/12/15
 
@@ -66,14 +66,14 @@
 - coperate level, local application level BU level
 - serving business goals
 
-# 2-2
+## 2-2
 
 2023/02/24:
 
 - organization chart and CIO, how would it affect a company
 - IT governance spetrum, mostly are centralized, 40% around
 
-# 2-3
+## 2-3
 
 2023/02/25
 
@@ -98,8 +98,27 @@
 
 ## 3-2
 
+## 3-3
+
+2023/11/16
+
+- 4 stages of IT architecture pros and cons
+
+
 2023/03/09
 
 - city plan
 - architecture plan, the similar
 - IT architecture evolution
+
+#Course 2
+
+# Week1
+
+## 1-2
+
+2023/11/16
+
+- swim lane
+- overall
+- data flow diagram
