@@ -1141,6 +1141,14 @@ End mins
 
 ### Lecture 22
 
+2023/11/16
+
+0000<->1500
+
+- TBRT
+- provided by
+- provided x is inverse
+
 3600<->5100 End
 
 2023/09/20
