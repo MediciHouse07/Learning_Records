@@ -1141,6 +1141,12 @@ End mins
 
 ### Lecture 22
 
+0000<->1500
+
+2023/11/17
+
+- eigen vector are the same
+
 2023/11/16
 
 0000<->1500
