@@ -23,6 +23,14 @@
 
 ## Lecture 1
 
+2500<->4000
+
+2023/11/17
+
+- TBRT
+- not sure if gravitational law extend
+- contribution made by a rule
+
 2200<->2500
 
 2023/09/20
