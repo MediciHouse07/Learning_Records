@@ -60,6 +60,17 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2023/11/18
+
+0000<->1500
+
+- self annotating
+- TBRT
+- 2 teams of 5
+- have double counted it
+- choose 0 is 1
+- one way to do it, which is not to choose it
+
 2022/08/22
 
 3000<->End
