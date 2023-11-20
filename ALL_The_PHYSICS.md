@@ -23,6 +23,14 @@
 
 ## Lecture 1
 
+2023/11/18
+
+2500<->4000
+
+- instataneously
+- permits
+- atypical
+
 2500<->4000
 
 2023/11/17
