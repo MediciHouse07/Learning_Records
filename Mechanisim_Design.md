@@ -161,3 +161,20 @@
 - there is some rule to change
 - change simutaneously not sequencially
 - antecedent must be kept as constant
+
+# Supply chain
+
+https://www.youtube.com/watch?v=Sc2aFRJvvsU&t=1667s
+
+2023/11/19
+
+0000<->1500
+
+- brakes and computers
+- custom produced
+- exogenous
+- resin
+- cascade
+- product lines are increasingly customized
+- choreography
+- container and ship
