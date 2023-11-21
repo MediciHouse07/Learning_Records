@@ -60,6 +60,16 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2023/11/19
+
+0000<->1500
+
+- self annotating
+- labelling
+- circumstance
+- labelling vs 10 choose 5
+- naive definition, assume equally likely outcome
+
 2023/11/18
 
 0000<->1500
