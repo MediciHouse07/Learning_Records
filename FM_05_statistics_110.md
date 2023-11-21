@@ -60,6 +60,16 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2023/11/20
+
+1500<->3000
+
+- put indistinguishble particle into distinguishble box
+- TBRT
+- encode it in different ways
+- over counting
+- bizarre
+
 2023/11/19
 
 0000<->1500
