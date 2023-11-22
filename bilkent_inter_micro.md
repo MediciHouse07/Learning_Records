@@ -282,6 +282,17 @@
 
 # Lecture 9
 
+2023/11/20
+
+0000<->1500
+
+- pinched cone
+- 3 d object is utility function, 2 d object is indifference curve
+- concave dome lead to convex indifference curve
+- positive monotune transformation
+- implicit function thm
+- differentiate it with respect to x
+
 2023/04/22
 
 1500<->End
