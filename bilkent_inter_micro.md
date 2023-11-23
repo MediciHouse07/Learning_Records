@@ -284,6 +284,13 @@
 
 2023/11/20
 
+1500<->3000
+
+- implicit function therom
+- MUx marginal utility of x
+
+2023/11/20
+
 0000<->1500
 
 - pinched cone
