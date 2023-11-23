@@ -60,6 +60,16 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2023/11/21
+
+1500<->3000
+
+- nontrivial
+- equivalent expression
+- n=4 k=6
+- as a contrast to labelling
+- TBR This lecture
+
 2023/11/20
 
 1500<->3000
