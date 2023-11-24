@@ -282,6 +282,14 @@
 
 # Lecture 9
 
+2023/11/22
+
+3000<->4500
+
+- for uxt to be quasi concave
+- condition
+- puke
+
 2023/11/20
 
 1500<->3000
