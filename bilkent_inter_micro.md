@@ -345,6 +345,16 @@
 
 # Lecture 10
 
+1200<->2700
+
+2023/11/24
+
+- take transformation on U
+- unit circle
+- MRS = |slope of indifference curve|
+- interior solution, cornner solution
+- later portion of this course
+
 2023/11/23
 
 0000<->1200
