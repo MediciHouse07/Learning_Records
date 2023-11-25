@@ -1,5 +1,11 @@
 # Lecture 1
 
+5500<->End
+
+2023/11/24
+
+- algebraic property
+
 2023/11/23
 
 3500<->5300
