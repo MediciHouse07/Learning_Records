@@ -282,6 +282,12 @@
 
 # Lecture 9
 
+2023/11/23
+
+4500<->4800 End
+
+- two forces driving MRS down
+
 2023/11/22
 
 3000<->4500
@@ -338,6 +344,13 @@
 - this is why MRS= devition of marginal utility of both variables
 
 # Lecture 10
+
+2023/11/23
+
+0000<->1200
+
+- convexity has nothing to do with rationality
+- interior solution, corner solution, inferior solution
 
 2023/04/24
 
