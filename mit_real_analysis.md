@@ -1,5 +1,14 @@
 # Lecture 1
 
+2023/11/23
+
+3500<->5300
+
+- he would end a proof with
+- WOPoN
+- in particular
+- put arrows hitting each other
+
 3500<->5400
 
 2023/11/22
