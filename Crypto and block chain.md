@@ -30,6 +30,22 @@
 
 # Lecture 17
 
+0000<->1500
+
+2023/11/27
+
+- cost of verification
+- moving forward in time
+- disputes
+- how to ask Q
+- how does
+- membership club
+- exit before goverment get involved
+- intermediate access
+- have existed for
+- it feels to mem
+- how did you do it
+
 2022/10/19
 
 6500<->End
