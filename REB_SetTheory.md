@@ -1,4 +1,8 @@
-## 2
+## 1
+
+0000<->1500
+
+- why a collection of all sets still be a set
 
 0000<->1500
 
@@ -13,6 +17,8 @@
 - axiom of comprehension
 - TBRT
 - get to be a mess
+
+## 2
 
 2023/06/22
 
