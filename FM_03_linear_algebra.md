@@ -1143,6 +1143,12 @@ End mins
 
 0000<->1500
 
+2023/12/02
+
+- information can present in different places, pivots, eigen values ...
+
+0000<->1500
+
 2023/11/17
 
 - eigen vector are the same
