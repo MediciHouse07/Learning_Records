@@ -1427,6 +1427,14 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 2022/06/28:finished
 ### 1-3
 
+2023/12/02
+
+- chartalism metalism
+- schumpter
+- retail taxes
+- wholesale, international
+- come back to this
+
 2023/11/13
 
 0000<->0300
@@ -1437,12 +1445,23 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 2022/06/28:finished, retial or purchase money, versus whole sale gold money; this is 1500s to 1800s, king pay sodier in foreign land, pure fiat money is useless, a gold is neccessary for paying wage
 ### 1-4
+
+2023/12/02
+
+- taxing authority
+
 2022/07/05: 
 - treasure issue T bills 5%, CB loan it to the treasury 5%, and issuse currency 0 %. 
 - GOV like to arrogate this currency publish authority, it turns it to be a 0% rate of financing
 - authority espacially tax authority is an asset of GOV, enforce paying tax with their currency or jail, this is where fiat money get power, chartalist idea
 
 ### 1-5
+
+2023/12/02
+
+- quantity of money * velocity of money = price level * aggregate trasaction
+- MV=PT
+- you can't say what's it worth
 
 - 2022/07/09
 
