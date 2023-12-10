@@ -171,6 +171,16 @@
 
 ### Lecture 3:
 
+2023/12/08
+
+0000<->1500
+
+- is linear in y and y'
+- one side is zero makes it homogeneous
+- first coefficient is 1 makes it standard
+- trivial little change on the sign
+- motion of rocket being fired off
+
 2023/08/26
 
 0000<->1500
