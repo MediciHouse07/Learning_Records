@@ -612,3 +612,17 @@ XXXX<->End
 - state based region
 - one initial state, one final state can be constructed artificially
 - combination of region is a region
+
+# 3.3
+
+2023/12/08
+
+- OMG standard
+- UML EPCs
+- soundness
+- many potential deadlocks
+- and split and join
+- or split or join
+- potential deadlocks
+- acbe abce are all valid traces
+- vicious cycle paradox
