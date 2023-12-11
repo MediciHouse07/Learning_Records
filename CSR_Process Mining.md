@@ -626,3 +626,13 @@ XXXX<->End
 - potential deadlocks
 - acbe abce are all valid traces
 - vicious cycle paradox
+
+# 3.4
+
+2023/12/09
+
+- footprint
+- possible binding
+- only describe possible path
+- c net can be transformed to petri net
+- declarative semantic
