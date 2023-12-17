@@ -200,6 +200,22 @@
 - reachability graph
 - multiple arc
 
+## 2.5 Week2
+
+2023/12/15
+
+- to check deadlock, soundness
+- mass production 1863
+- EPCs SAP
+- petri net is subclass of workflow nets
+- WF-net
+- sound
+- one token at the same time
+- proper completion
+- option to complete
+- absence of dead parts
+- transaction is square
+- live and bounded TBC
 
 ## 3-1
 
