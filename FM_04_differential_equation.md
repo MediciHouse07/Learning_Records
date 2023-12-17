@@ -173,6 +173,13 @@
 
 0000<->1500
 
+- rectify
+- indicate
+- change is the name of the idea
+- on the inside
+
+0000<->1500
+
 2023/12/09
 
 - conductivity
