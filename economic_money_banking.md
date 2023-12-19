@@ -1465,13 +1465,35 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 - 2022/07/09
 
-### 1-6
+### 1-6 week 8
+
+2023/12/17
+
+- abstract money from the scene
+- EP=P*, long run relationship
+- bopping
 
 - 2022/07/09, PPP, EP = P star, quantity of money determines the price level in 2 different countries, then there is a PPP E
 
 ## Lec 2
 
-### 2-1
+### 2-1 week 8
+
+2023/12/17
+
+0300<->end
+
+- 
+
+2023/12/17
+
+- 
+
+2023/12/17
+
+- mint par, dollar = x oz of gold-
+- otherwise a arbitrage jump in force the exchange rate
+- fuzziness
 
 2022/08/07:
 
