@@ -171,6 +171,16 @@
 
 ### Lecture 3:
 
+2023/12/18
+
+1500<->3000
+
+- membrane
+- positivist
+- temporize
+
+2023/12/17
+
 0000<->1500
 
 - seperation of variable
