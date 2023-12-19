@@ -173,6 +173,12 @@
 
 0000<->1500
 
+- seperation of variable
+- first order linear equation
+- convection
+
+0000<->1500
+
 - rectify
 - indicate
 - change is the name of the idea
