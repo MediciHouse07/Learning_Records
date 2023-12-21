@@ -171,6 +171,15 @@
 
 ### Lecture 3:
 
+2023/12/19
+
+1500<->3000
+
+- jello
+- u is a factor
+- equality will take place
+- integrate then take derivative
+
 2023/12/18
 
 1500<->3000
