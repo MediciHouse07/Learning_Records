@@ -171,6 +171,13 @@
 
 ### Lecture 3:
 
+2023/12/20
+
+1500<->3000
+
+- with the single stroke
+- congealing
+
 2023/12/19
 
 1500<->3000
