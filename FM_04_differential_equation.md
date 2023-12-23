@@ -171,6 +171,18 @@
 
 ### Lecture 3:
 
+2023/12/21
+
+1500<->3000
+
+- salt solution
+- waterbath
+- concentration
+- on the other side
+- obviously must be very
+- osciolating
+- that's not very beautiful looking
+
 2023/12/20
 
 1500<->3000
