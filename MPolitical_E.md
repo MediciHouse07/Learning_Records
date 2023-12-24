@@ -46,6 +46,23 @@
 
 # Lecture 4
 
+2023/12/22
+
+- rationalism, enperisis
+- experiencism
+- rationalism
+
 2023/12/21
 
 0000<->0100
+
+# Lecture 5
+
+0000<->0800
+
+2023/12/22
+
+- dualism
+- TBRT
+- discourse
+- ascertain
