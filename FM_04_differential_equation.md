@@ -171,6 +171,17 @@
 
 ### Lecture 3:
 
+2023/12/22
+
+2000<->3500
+
+- general
+- disasterously
+- standard linear form
+- calc integrating factor
+- multiply both side by xx
+- integrate
+
 2023/12/21
 
 1500<->3000
