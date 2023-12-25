@@ -58,6 +58,12 @@
 
 # Lecture 5
 
+2023/12/23
+
+- everything is over determined
+- TBRT
+- demote
+
 0000<->0800
 
 2023/12/22
