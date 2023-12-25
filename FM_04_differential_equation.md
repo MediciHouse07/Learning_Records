@@ -171,6 +171,12 @@
 
 ### Lecture 3:
 
+2023/12/23
+
+3000<->4500
+
+- after intergrating there must be a C
+
 2023/12/22
 
 2000<->3500
