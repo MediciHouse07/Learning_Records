@@ -1508,7 +1508,15 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - forward interest parity, spot exchange rate is related of the forward exchange rate, cap and floor
 - so basically PPP, FIP(E=(1+R)/(1+Rstar)F),rewrite it will also help to understand it,mint par(E=x of gold/y of gold), they are different way of ideas of explaining the exchange rate
 
-### 2-2
+### 2-2 week8
+
+2023/12/24
+
+0600<->End
+
+- 
+
+2023/12/24
 
 2022/08/07:
 
