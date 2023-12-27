@@ -72,3 +72,11 @@
 - TBRT
 - discourse
 - ascertain
+
+Lecture 6
+
+2023/12/25
+
+Lecture 7
+
+2023/12/25
