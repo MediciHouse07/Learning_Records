@@ -285,6 +285,16 @@ concentration;
 4900 mins, steady state
 
 ### Lecture 4
+
+2023/12/25
+
+0000<->1500
+
+- scaling
+- make vars dimensionless
+- lumping constant
+- direct substitution, inverse
+
 2022/05/11:
 Beginning<->2655,
 0120 mins, turn a equation to we solved already; TBR intergration by part, substitution;
