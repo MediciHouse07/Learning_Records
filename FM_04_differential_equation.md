@@ -286,6 +286,14 @@ concentration;
 
 ### Lecture 4
 
+2023/12/26
+
+0000<->1500
+
+- one less constant
+- TSHIFT 5
+- direct substitute, inverse
+
 2023/12/25
 
 0000<->1500
