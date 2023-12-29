@@ -73,10 +73,23 @@
 - discourse
 - ascertain
 
-Lecture 6
+# Lecture 6
+
+2023/12/27
+
+- assert
+- knower
 
 2023/12/25
 
-Lecture 7
+# Lecture 7
+
+2023/12/27
+
+- trickery
+- discourse
+- relative to xx theory
+- invoke
+- oscillation
 
 2023/12/25
