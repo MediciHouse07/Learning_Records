@@ -286,6 +286,16 @@ concentration;
 
 ### Lecture 4
 
+2023/12/28
+
+0300<->1800
+
+- are dependent
+- less dependent
+- TSHIFT 0600
+- direct inverse substitution
+- on your homework
+
 0500<->2000
 
 2023/12/27
