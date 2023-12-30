@@ -93,3 +93,25 @@
 - oscillation
 
 2023/12/25
+
+# Lecture 8
+
+2023/12/27
+
+- modernism
+- despotism
+- demote
+- denounce
+- renounce
+- determination
+- site
+
+# Lecture 9
+
+0000<->0400
+
+- site to produce it
+- cutural
+- natural
+- what xx refers to is
+- how something exist
