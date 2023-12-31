@@ -132,3 +132,13 @@
 
 - eigenvector and inverse
 - similar matrix have the same eigenvalues
+
+
+#Assistant material
+
+## Differential equation cont
+### https://www.youtube.com/watch?v=FzncDO1eSNI&t=743s
+
+2023/12/29
+
+0000<->1500
