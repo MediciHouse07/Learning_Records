@@ -96,7 +96,7 @@
 
 # Lecture 8
 
-2023/12/27
+2023/12/28
 
 - modernism
 - despotism
@@ -107,6 +107,19 @@
 - site
 
 # Lecture 9
+
+2023/12/29
+
+0000<->0400
+
+- entry point
+
+0200<->End
+
+- site of determination
+- essence
+
+2023/12/28
 
 0000<->0400
 
