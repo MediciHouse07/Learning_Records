@@ -128,3 +128,27 @@
 - natural
 - what xx refers to is
 - how something exist
+
+# Lecture 10
+
+2023/12/30
+
+- SS super structure
+- relation of production, force of production
+- economic deterinism
+- economic determinism
+- paraphrasing
+- essentialism
+- concrete real
+- thought concrete, concrete real
+
+# Lecture 11
+
+2023/12/30
+
+0000<->0500
+
+- Hegel
+- thesis hegel
+- isness
+- TBRT
