@@ -286,6 +286,12 @@ concentration;
 
 ### Lecture 4
 
+2023/12/30
+
+0600<->2100
+
+- y to the negative n
+
 2023/12/28
 
 0300<->1800
