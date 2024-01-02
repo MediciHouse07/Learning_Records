@@ -286,6 +286,14 @@ concentration;
 
 ### Lecture 4
 
+2023/12/31
+
+1500<->3000
+
+- homogeneous ode'
+- fooling around
+- invariant under zoom
+
 2023/12/30
 
 0600<->2100
