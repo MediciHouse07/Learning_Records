@@ -152,3 +152,19 @@
 - thesis hegel
 - isness
 - TBRT
+
+# Lecture 12
+
+2023/12/31
+
+- designate
+
+# Lecture 13
+
+0000<->1135
+
+2023/12/31
+
+- neccessary, surplus
+- labourers?
+- contrast
