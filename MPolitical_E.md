@@ -161,6 +161,17 @@
 
 # Lecture 13
 
+1135<->1418
+
+2024/01/01
+
+2024/01/01
+
+- quantum
+- subsume
+- dissenminate
+- personify
+
 0000<->1135
 
 2023/12/31
