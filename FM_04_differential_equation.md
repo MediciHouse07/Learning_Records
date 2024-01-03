@@ -286,16 +286,12 @@ concentration;
 
 ### Lecture 4
 
-1135<->1418
-
 2024/01/01
 
-2024/01/01
+2500<->4000
 
-- quantum
-- subsume
-- dissenminate
-- personify
+- zoom, change the scale for all axies
+- beam light
 
 2023/12/31
 
