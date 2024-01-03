@@ -286,6 +286,17 @@ concentration;
 
 ### Lecture 4
 
+1135<->1418
+
+2024/01/01
+
+2024/01/01
+
+- quantum
+- subsume
+- dissenminate
+- personify
+
 2023/12/31
 
 1500<->3000
