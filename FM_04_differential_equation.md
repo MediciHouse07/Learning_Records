@@ -286,6 +286,15 @@ concentration;
 
 ### Lecture 4
 
+3000<->4500
+
+2024/01/02
+
+- homogeneous
+- invariant under zoom
+- identical equation
+- invariant zoom operation, does it has sth to do with constnat or even var
+
 2024/01/01
 
 2500<->4000
