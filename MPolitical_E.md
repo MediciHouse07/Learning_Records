@@ -179,3 +179,9 @@
 - neccessary, surplus
 - labourers?
 - contrast
+
+# Lecture 14
+
+2024/01/02
+
+- TBRT
