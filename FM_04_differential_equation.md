@@ -286,6 +286,14 @@ concentration;
 
 ### Lecture 4
 
+2024/01/03
+
+3300<->4800
+
+- a curve is a function
+- info we know to detect the function is slope
+- slope to function, is differential equ
+
 3000<->4500
 
 2024/01/02
