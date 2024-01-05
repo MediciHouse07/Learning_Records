@@ -161,6 +161,10 @@
 
 # Lecture 13
 
+2024/01/03
+
+- grows of joint capital company 18xx
+
 1135<->1418
 
 2024/01/01
