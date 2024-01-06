@@ -208,3 +208,11 @@
 -'Economics: Marxian Versus Neoclassical'. P 144-154
 
 - (texts can be found on LibGen)
+
+# Lecture 16
+
+2023/01/05
+
+- superstructure
+- controversy
+- utimate cause
