@@ -189,3 +189,22 @@
 2024/01/02
 
 - TBRT
+
+# Lecture 15
+
+2023/01/04
+
+3500<->5000
+
+- appropriate
+- sell their labor power
+- providing different kind of laws
+- Lecture 9 - Marx's Theory of Class: 
+
+-'Knowledge and Class' P. 109-132 
+
+-'Encyclopedia of Political Economy' by Philip O'Hara. Section on 'Class Processes' by Richard Wolff, p 98-101
+
+-'Economics: Marxian Versus Neoclassical'. P 144-154
+
+- (texts can be found on LibGen)
