@@ -386,6 +386,15 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+0000<->1500
+
+2024/01/05
+
+- these curve occur often in reality
+- critical point f(y)=0
+- isocline
+- embezzle
+
 2022/06/26:
 
 0000<->2000
