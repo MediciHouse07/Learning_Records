@@ -216,3 +216,21 @@
 - superstructure
 - controversy
 - utimate cause
+
+# Lecture 17
+
+2024/01/06
+
+- three aspects of this relationship
+- get rid of the use value, seller
+- alienate
+
+# Lecture 18
+
+2024/01/06
+
+0000<->0600
+
+- liberate
+- coat, linen
+- utility theory of value
