@@ -386,6 +386,13 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/06
+
+0000<->1500
+
+- time independent
+- qualititive about solutions
+
 0000<->1500
 
 2024/01/05
