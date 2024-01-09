@@ -227,6 +227,12 @@
 
 # Lecture 18
 
+2024/01/07
+
+- substance
+- socially neccessary abstract labour time
+- utility theory of value
+
 2024/01/06
 
 0000<->0600
@@ -234,3 +240,11 @@
 - liberate
 - coat, linen
 - utility theory of value
+
+# Lecture 19
+
+0000<->0300
+
+2024/01/07
+
+- production condition
