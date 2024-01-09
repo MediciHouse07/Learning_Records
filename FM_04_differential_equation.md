@@ -386,6 +386,15 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/10
+
+1000<->2500
+
+- shifty
+- teller
+- time rate of embezzlement
+- reading graphs
+
 2024/01/07
 
 0500<->2000
