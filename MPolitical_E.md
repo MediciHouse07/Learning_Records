@@ -243,8 +243,22 @@
 
 # Lecture 19
 
+2024/01/08
+
+- means of production
+- adjective
+- interogate
+
 0000<->0300
 
 2024/01/07
 
 - production condition
+
+# Lecture 20
+
+2024/01/08
+
+0000<->0200
+
+- produce protection
