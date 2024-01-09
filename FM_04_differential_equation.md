@@ -386,6 +386,16 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/07
+
+0500<->2000
+
+- y0 is a constant function with respect to t
+- solution is an integral curve
+- baffle
+- embezzle
+- autonomous equation
+
 2024/01/06
 
 0000<->1500
