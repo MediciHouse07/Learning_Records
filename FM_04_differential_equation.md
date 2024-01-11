@@ -386,6 +386,14 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/09
+
+1500<->3000
+
+- TBRT
+- it is t, so it can't be negative
+- if y is w/r, embelzzlement divide interest rate
+
 2024/01/10
 
 1000<->2500
