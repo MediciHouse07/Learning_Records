@@ -257,8 +257,14 @@
 
 # Lecture 20
 
+2024/01/09
+
 2024/01/08
 
 0000<->0200
 
 - produce protection
+
+# Lecture 21
+
+2024/01/09
