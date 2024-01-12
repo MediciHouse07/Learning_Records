@@ -386,6 +386,14 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/11
+
+1500<->3000
+
+- translation
+- derivation
+- TBR SHIFT 20
+
 2024/01/09
 
 1500<->3000
