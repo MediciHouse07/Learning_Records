@@ -38,6 +38,18 @@ finished,
 
 # Lecture 3
 
+2024/01/11
+
+0100<->1600
+
+- coexist
+- in that respect
+- hold accountable
+- collective norm making
+- state section
+- abide
+- hello me two years ago
+
 2022/05/31
 
 0000<->0925
@@ -48,7 +60,6 @@ finished,
 - check outcomes
 - 1991 what is democracy is, shummet
 - held accountable ruler
-- 
 
 1500 mins
 
