@@ -386,6 +386,13 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/12
+
+2000<->3500
+
+- partial fraction
+- stable solution
+
 2024/01/11
 
 1500<->3000
