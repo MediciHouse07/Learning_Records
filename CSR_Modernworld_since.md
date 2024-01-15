@@ -43,3 +43,17 @@
 - solution of clock
 - voyage
 - hindsight blind
+
+## 1.5
+
+2024/01/14
+
+0000<->1500
+
+- gun powered
+- outpost
+- spice island, Mollaca
+- domain
+- coherent
+- subdue
+- caribean sugar
