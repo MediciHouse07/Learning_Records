@@ -386,6 +386,13 @@ finished, 2655<->End
 
 #### REX 1 2022/06/27
 
+2024/01/14
+
+3100<->4600
+
+- logistic equation
+- max rate of harvest
+
 2024/01/13
 
 2000<->3500
