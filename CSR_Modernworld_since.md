@@ -18,8 +18,28 @@
 
 ## 1.3
 
+2024/01/13
+
+- sermon
+- tribute
+
 2024/01/12
 
 0000<->0200
 
 - divergence
+
+## 1.4
+
+2024/01/13
+
+- determined or lucky break
+- play with
+- vanguard
+- development path
+- mediated by human being making choices
+- latitude horizontal
+- longtitude vertical
+- solution of clock
+- voyage
+- hindsight blind
