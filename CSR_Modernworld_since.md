@@ -46,6 +46,17 @@
 
 ## 1.5
 
+2024/01/15
+
+1500<->2200
+
+- mineral
+- mine
+- plantation
+- clipped
+- caribean and brazil high death rate
+- exaggerate
+
 2024/01/14
 
 0000<->1500
@@ -57,3 +68,13 @@
 - coherent
 - subdue
 - caribean sugar
+
+## 1.6
+
+2024/01/15
+
+0000<->0800
+
+- lucrative
+- fringes
+- expedition
