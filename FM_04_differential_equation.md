@@ -501,6 +501,14 @@ finished, 2655<->End
 #### REX 2 2022/09/06
 #### REX 1 2022/07/25
 
+2024/01/17
+
+0000<->1500
+
+- communitive law
+- for the sake of completeness
+- TBRT
+
 2022/09/06
 
 3000<->End
