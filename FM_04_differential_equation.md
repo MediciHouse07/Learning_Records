@@ -501,6 +501,15 @@ finished, 2655<->End
 #### REX 2 2022/09/06
 #### REX 1 2022/07/25
 
+2024/01/18
+
+0000<->1500
+
+- SHIFT TBR 0200
+- exponential when differentiating it get the same function
+- dy dt = ay the same as above
+- the only function has this property
+
 2024/01/17
 
 0000<->1500
