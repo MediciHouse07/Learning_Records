@@ -501,6 +501,14 @@ finished, 2655<->End
 #### REX 2 2022/09/06
 #### REX 1 2022/07/25
 
+2024/01/19
+
+0200<->1700
+
+- it follows relationship that
+- only function that satisfies the equation
+- SHIFT TBR 1000
+
 2024/01/18
 
 0000<->1500
