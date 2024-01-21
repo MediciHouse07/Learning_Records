@@ -2,6 +2,14 @@
 
 # Lecture 1
 
+2024/01/19
+
+1500<->3000
+
+- moralism
+- pluralism
+- cosmopolitan
+
 2024/01/18
 
 0000<->1500
