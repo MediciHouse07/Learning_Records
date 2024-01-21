@@ -503,6 +503,13 @@ finished, 2655<->End
 
 2024/01/19
 
+1000<->3000
+
+- complex value function of real variables
+- SHIFT TBR 1200
+
+2024/01/19
+
 0200<->1700
 
 - it follows relationship that
