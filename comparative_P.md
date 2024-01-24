@@ -214,6 +214,21 @@ finished,
 
 # Lecture 8
 
+2024/01/23
+
+0000<->1500
+
+- conservative dominated
+- hang parliment
+- liberal democratic party was  in labour party
+-  lassi faeir
+- big society
+- 2016
+- order, liberal, equality
+- fiscal tax, monetary CB
+- price cediling floor micro
+- autonomy
+
 2022/06/02:
 
 0000<->End
