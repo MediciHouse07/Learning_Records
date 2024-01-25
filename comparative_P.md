@@ -216,6 +216,25 @@ finished,
 
 2024/01/23
 
+2100<->2700
+
+- state continuous intervene the market
+- Keynesian, demand management
+- C+I+G+NX
+- Keynesian, demand management
+- tame business cycle
+- stablize the economy
+- WWII, after post
+- consensus
+- business let goverment play a role
+- labour not want a socialism revolution
+- collective consensus
+- as opposed individual weigh the consensus
+- full employment, naturial rate of employment
+- have fator of production putted in the an efficient use
+
+2024/01/23
+
 1500<->2100
 
 - IR, increase, for imported goods, it would also lessen
