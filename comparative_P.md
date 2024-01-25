@@ -216,6 +216,14 @@ finished,
 
 2024/01/23
 
+1500<->2100
+
+- IR, increase, for imported goods, it would also lessen
+- recessionary monetary policy
+- fiscal G T
+
+2024/01/23
+
 0000<->1500
 
 - conservative dominated
