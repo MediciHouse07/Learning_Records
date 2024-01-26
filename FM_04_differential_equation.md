@@ -501,6 +501,13 @@ finished, 2655<->End
 #### REX 2 2022/09/06
 #### REX 1 2022/07/25
 
+2024/01/24
+
+1800<->3300
+
+- SHIFT TBR 1900
+- think of it as real part of a complex
+
 2024/01/23
 
 1400<->2900
