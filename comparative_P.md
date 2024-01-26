@@ -214,6 +214,12 @@ finished,
 
 # Lecture 8
 
+2024/01/25
+
+4200<->4700
+
+- Inflation is monetary problem, don't work on G and T
+
 2024/01/24
 
 2700<->4200
@@ -310,6 +316,18 @@ finished,
 End mins
 
 # Lecture 9
+
+2024/01/25
+
+0000<->1000
+
+- economic, social, plitical
+- neo liberatism, neo conservatism
+- forget Keansian tool, focus on monetary policy
+- tax, expend balance
+- labour force, education, training
+- high tech
+- sometimes reffered to as
 
 2022/06/03:
 
