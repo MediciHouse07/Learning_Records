@@ -501,6 +501,14 @@ finished, 2655<->End
 #### REX 2 2022/09/06
 #### REX 1 2022/07/25
 
+2024/01/25
+
+1900<->3400
+
+- didn't, shouldn't have
+- multiply modules, add the angle
+- complexfying the problem
+
 2024/01/24
 
 1800<->3300
