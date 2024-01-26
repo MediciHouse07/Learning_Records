@@ -214,6 +214,29 @@ finished,
 
 # Lecture 8
 
+2024/01/24
+
+2700<->4200
+
+- Keyansian, tame business cycle
+- pull it off
+- ws program
+- welfare state
+- welfare state, pensions, healthcare,unemployment insurance, child care, disability, housing, social assistance; risk in LM, social insurance program
+- progressive taxation
+- public employment
+- education
+- reginal policies
+- maternity benefit
+- risk of pregnancy
+- intervene in providing benefit
+- also a way to intervenue the market
+- social policies, macro economic policies
+- collectivesim, individualism
+- liberalization
+- when importing, decreasing tariffs
+- collectivization, nationalization
+
 2024/01/23
 
 2100<->2700
