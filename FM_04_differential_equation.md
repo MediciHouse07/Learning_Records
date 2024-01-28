@@ -642,6 +642,14 @@ finished, 2655<->End
 - TBRT
 
 ### Lecture 7
+
+0000<->1500
+
+2024/01/27
+
+- bridge course to linear algebra
+- waterbath
+
 2022/09/03
 
 0000<->1500
