@@ -317,6 +317,18 @@ End mins
 
 # Lecture 9
 
+1100<->2600
+
+2024/01/26
+
+- poor savings
+- "its benefit will not be unveiled in the short term" to convey that the positive outcomes or advantages of something will not become apparent or visible in the immediate or near future. This phrase suggests that the benefits may take time to manifest or become evident.
+- roll back
+- discourse
+- reduce dependencies from the individual of the state
+- cut back
+- retrench
+
 2024/01/25
 
 0000<->1000
