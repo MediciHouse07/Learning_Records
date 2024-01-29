@@ -317,6 +317,14 @@ End mins
 
 # Lecture 9
 
+2600<->4100
+
+2024/01/27
+
+- woman youth
+- social security contribution
+- NHS
+
 1100<->2600
 
 2024/01/26
