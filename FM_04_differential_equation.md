@@ -171,6 +171,12 @@
 
 ### Lecture 3:
 
+2024/02/01
+
+- it can be pretty much arbitery
+- although have the book in the world do
+- put it x
+
 2023/12/24
 
 3500<->End
