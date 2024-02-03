@@ -387,6 +387,17 @@ End mins
 # Lecture 10
 ## REX 1 2022/08/01
 
+2024/02/01
+
+1300<->2800
+
+- permanent secretary
+- principle private secretary
+- NGO non goverment organization
+- police GOV controlled force
+- in time
+- constitutional court
+
 2024/01/31
 
 0000<->1500
