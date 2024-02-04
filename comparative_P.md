@@ -387,6 +387,18 @@ End mins
 # Lecture 10
 ## REX 1 2022/08/01
 
+2024/02/02
+
+2700<->4200
+
+- devolution
+- discretion
+- westminister
+- share power with x
+- compose of
+- compose, is compose of
+- life peer
+
 2024/02/01
 
 1300<->2800
