@@ -171,6 +171,14 @@
 
 ### Lecture 3:
 
+2024/02/02
+
+0000<->1500
+
+- ethnic group
+- what he said, except that, maybe means crossing it off
+- of equal importance
+
 2024/02/01
 
 - it can be pretty much arbitery
