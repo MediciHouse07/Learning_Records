@@ -435,7 +435,19 @@ End mins
 - house of common
 - house of lords
 - foreign minister, chancellor
-- 1990, 
+- 1990
+
+# Lecture 11
+
+0000<->1500
+
+2024/02/03
+
+- hereditary peer
+- law lord
+- archishop
+- fussion of power
+- seperation of power
 
 # Lecture 28
 
