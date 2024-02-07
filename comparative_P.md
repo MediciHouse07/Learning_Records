@@ -439,6 +439,19 @@ End mins
 
 # Lecture 11
 
+1500<->3000
+
+2024/02/05
+
+- conform
+- overturn
+- predominant
+- coalition
+- labour party, socialist
+- had you been
+- working class vote for labour
+- cohesion
+
 0000<->1500
 
 2024/02/03
