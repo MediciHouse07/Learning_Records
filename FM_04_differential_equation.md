@@ -173,6 +173,15 @@
 
 1500<->3000
 
+2024/02/05
+
+- salt
+- temporizing
+- integrating factor
+- seperate variable TBR
+
+1500<->3000
+
 2024/02/03
 
 2024/02/02
