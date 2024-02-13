@@ -12,6 +12,13 @@
 
 ### 2
 
+### Week2.1.2
+
+2024/02/11
+
+- terrace
+- in far off
+
 2023/07/01
 
 - Lewis carroll, mathematical book
@@ -21,6 +28,13 @@
 - general gist
 
 ### 3
+
+### Week2.1.3
+
+2024/02/11
+
+- lattice, torus
+- rules can be changed
 
 2023/07/01
 
