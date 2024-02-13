@@ -171,6 +171,13 @@
 
 ### Lecture 3:
 
+3000<->4500
+
+2024/02/12
+
+- you are suken
+- multiply both side by
+
 2024/02/11
 
 1500<->3000
