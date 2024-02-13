@@ -171,6 +171,13 @@
 
 ### Lecture 3:
 
+2024/02/11
+
+1500<->3000
+
+- if you were in doubt
+- things can get so complicated
+
 1500<->3000
 
 2024/02/10
