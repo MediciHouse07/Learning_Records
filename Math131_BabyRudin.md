@@ -124,6 +124,12 @@
 
 # Lecture 4
 
+2024/02/13
+
+0000<->1500
+
+- cantour diagnal process
+
 5400<->10900 End
 
 2023/10/23
