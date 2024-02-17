@@ -124,6 +124,17 @@
 
 # Lecture 4
 
+1400<->2900
+
+2024/02/15
+
+- infinitely many sets cartesian with each other
+- to me the way of constructing the sequence b or s sounds like a magic, we know sometimes it is not allowed to make a statement that strong
+- infinite sequences, that's what we are discussing
+- cartesian vector, they are all of the same length
+- X,d metric space
+- d metric
+
 1500<->2000
 
 2024/02/14
