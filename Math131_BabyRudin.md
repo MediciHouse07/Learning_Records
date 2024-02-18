@@ -126,6 +126,14 @@
 
 2900<->4400
 
+2024/02/17
+
+- open ball, closed ball
+- they are confusing
+- dump it over
+
+2900<->4400
+
 2024/02/16
 
 - k-cell
