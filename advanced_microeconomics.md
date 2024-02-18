@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=d-fYyLN68OQ&list=PLRBxfJqlzOGgD8iX8nyHD3dXr7B_iG1GK
 
+# Lecture 1
+
+1500<->3000
+
+2024/02/16
+
+- are complete and transitive
+- finite amount of bundles
+- is indifferent to
+- superset
+- strict super set
+
 0000<->1500
 
 2024/02/15
