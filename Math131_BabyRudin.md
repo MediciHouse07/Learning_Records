@@ -124,6 +124,17 @@
 
 # Lecture 4
 
+4400<->5900
+
+2024/02/18
+
+- isolated point
+- they may or may not a
+- every limit point of E is in E, E is closed
+- interior point in E
+- bounded set
+- rational are dense
+
 2900<->4400
 
 2024/02/17
