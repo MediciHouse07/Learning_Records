@@ -126,6 +126,17 @@
 
 4400<->5900
 
+2024/02/19
+
+- zero is limit point for 1/n
+- interior point
+- contains limit points closed
+- contains interior points open
+- either in E or it is a litmit point, dense
+- by induction
+
+4400<->5900
+
 2024/02/18
 
 - isolated point
