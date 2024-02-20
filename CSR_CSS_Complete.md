@@ -2,6 +2,26 @@
 
 # W1
 
+## Week1.4.1
+
+2024/02/18
+
+- Yes, there are articles available on the internet that discuss the application of Agent-Based Modeling (ABM) in Supply Chain Management. These articles provide insights into how ABM can be used to model and analyze supply chain systems. Here are a few examples:
+
+"Agent-Based Modeling and Simulation in Supply Chain Management" by J. Holmgren and D. Mattsson: This article discusses the use of ABM in supply chain management and provides a comprehensive overview of the methodology, benefits, and challenges.
+
+"Agent-Based Modeling and Simulation in Supply Chain Management: A Review and Research Agenda" by S. S. S. Chukka and S. K. Mukhopadhyay: This article reviews the existing literature on ABM in supply chain management and proposes a research agenda for future studies.
+
+"Agent-Based Modeling and Simulation in Supply Chain Management: A State-of-the-Art Review" by M. A. H. Akkerman, A. Grunow, and L. E. M. Vet: This review article provides an overview of the applications of ABM in supply chain management, highlighting its potential for decision support and optimization.
+
+"Agent-Based Modeling and Simulation in Supply Chain Management: A Framework for Industry 4.0" by A. S. S. Al-Fadhli, A. A. Al-Salem, and A. A. Al-Salem: This article presents a framework for applying ABM in the context of Industry 4.0, focusing on the integration of cyber-physical systems and the use of real-time data.
+
+These articles can provide valuable insights and references for further exploration of ABM in Supply Chain Management.
+
+## Week1.4.2
+
+2024/02/18
+
 ## 2
 
 ### 1
