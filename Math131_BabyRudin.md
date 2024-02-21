@@ -124,6 +124,13 @@
 
 # Lecture 4
 
+5400<->10900 End
+
+2024/02/20
+
+- in every neighborhood, of every real number, there is rational in its neighborhood
+- finiteness would enable a max or min located
+
 4400<->5900
 
 2024/02/19
