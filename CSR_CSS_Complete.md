@@ -107,6 +107,16 @@ These articles can provide valuable insights and references for further explorat
 
 2023/07/04
 
+# week2.1.-1
+
+2024/02/19
+
+# week2.2.1
+
+2024/02/19
+
+- micro motives and macro behaviour
+
 ### Week3 1-2
 
 2023/07/04
