@@ -164,6 +164,25 @@ These articles can provide valuable insights and references for further explorat
 - shed away
 - how consultant work
 
+# Week3.2.4
+
+2024/02/20
+
+- average can lead to burst
+- the flaw of average
+
+# Week.3.2.5
+
+2024/02/20
+
+- work intense
+
+# Week3.2.6
+
+2024/02/20
+
+- social adaptive system
+- decelleration
 ### Week4-1-1
 
 2023/07/07
