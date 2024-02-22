@@ -248,6 +248,14 @@
 
 # Lecture 5
 
+2024/02/23
+
+0000<->1500
+
+- pick any
+- reduce it to its previous state
+- if G alpha, if see 1 to n then it is finite
+
 2023/11/10
 
 0000<->1500
