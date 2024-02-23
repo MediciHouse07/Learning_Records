@@ -248,7 +248,18 @@
 
 # Lecture 5
 
-2024/02/23
+2024/02/22
+
+1500<->3000
+
+2024/02/22
+
+- ri is smaller than any of Nri
+- then ri is contained in intersection equal to intersection
+- because it is the smallest one
+- E closure is the smallest closed set containing E
+
+2024/02/21
 
 0000<->1500
 
