@@ -188,3 +188,25 @@ These articles can provide valuable insights and references for further explorat
 2023/07/07
 
 - skeptical
+
+# Week4.2.1
+
+2024/02/21
+
+- how this relates to
+- illusory adj
+- 1929 Hotelling's law
+- adjusting price to achieve more market share
+
+# Week4.2.2
+
+2024/02/21
+
+0000<->0500
+
+- X, your model doesn't consider X
+- put it in
+- there is another variant
+- you abstract
+- the only working model of the univer is the universe
+- federated data
