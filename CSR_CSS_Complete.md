@@ -210,3 +210,16 @@ These articles can provide valuable insights and references for further explorat
 - you abstract
 - the only working model of the univer is the universe
 - federated data
+
+# Week4.2.3
+
+2024/02/22
+
+- as small as possible, there is nothing left to take away
+- natural language, another language
+
+# Week4.2.4
+
+2024/02/22
+
+- science is social enterprise
