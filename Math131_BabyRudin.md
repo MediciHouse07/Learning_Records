@@ -248,6 +248,13 @@
 
 # Lecture 5
 
+2024/02/23
+
+1500<->3000
+
+- you do something and nothing happended due to that
+- limit point, every puctured neighborhood intersect E
+
 2024/02/22
 
 1500<->3000
