@@ -243,6 +243,19 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+0000<->1500
+
+2024/02/24
+
+- culumlative sum
+- divide into
+- add up
+- it can start with the verb orginal tense
+- right end of the rectangal
+- 3b over n the quantity squared
+- gadget
+- modest
+
 2022/12/30
 
 3000<->End
