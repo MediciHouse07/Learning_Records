@@ -223,3 +223,16 @@ These articles can provide valuable insights and references for further explorat
 2024/02/22
 
 - science is social enterprise
+
+# Week4.2.4
+
+2024/02/23
+
+0200<->1000
+
+# Week4.4.5
+
+2024/02/23
+
+- 1960
+- leave you with professor xx
