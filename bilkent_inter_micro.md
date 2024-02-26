@@ -282,6 +282,14 @@
 
 # Lecture 9
 
+0000<->1500
+
+2024/02/24
+
+- utility function is concave
+- pinched cone
+- frequency
+
 2024/01/30
 
 0000<->1500
