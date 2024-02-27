@@ -154,6 +154,8 @@
 
 ## 2-1
 
+
+
 2023/01/01
 
 - 2 traffic lights
@@ -218,6 +220,25 @@
 - live and bounded TBC
 
 ## 3-1
+
+# Week2.3.1
+
+2024/02/25
+
+0000<->1500
+
+- deadlock, boundness, 
+- infinite large reachability graph
+- reachable marking
+- exist such a k
+- the entire is unbounded, boundedness 1 safeness
+- deadlock
+- marking is dead
+- all reachable marking, enables at least one transition
+- liveness is for transition
+- TBR draw reachability graph
+- complete traces, from initial to final
+
 
 2023/03/30
 
