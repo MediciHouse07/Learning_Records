@@ -243,6 +243,18 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+1500<-3000
+
+2024/02/25
+
+- ordinary pyrimid, steer case pyrimid
+- squeeze method
+- is easily seen to be
+- closed form
+- one third
+- factor out what you can, remain with infinite long terms
+- with fewer symbols
+
 0000<->1500
 
 2024/02/24
