@@ -243,6 +243,15 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+3200<->4700 End
+
+2024/02/27
+
+- the delta x gets replaced by dx
+- which is not an area an example
+- dx allow us in consistence with units
+- f stands for borrowing rate
+
 3000<->4500
 
 2024/02/26
