@@ -243,6 +243,16 @@ minf'<=MVT=f'<=maxf';
 2022/03/28:💫 finished, mean value therom to be watched
 ### Lecture 16 <br>
 
+3000<->4500
+
+2024/02/26
+
+- suggestive
+- build pyrimid to calculate area
+- the price of method
+- 'suggestive'
+- gadget
+
 1500<-3000
 
 2024/02/25
