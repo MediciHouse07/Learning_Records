@@ -183,7 +183,7 @@
 - limit the reachable marking so that the remaining are safe
 - make them alternate
 
-## 2-2
+## 2-2 week2
 
 2023/01/03
 
@@ -201,6 +201,18 @@
 - transition system
 - reachability graph
 - multiple arc
+
+# Week2.3.2
+
+2024/02/26
+
+- non deterministic
+- transition system, reachability graph
+- infinitely large reachability graph
+- by state of train, I mean the location where it is
+- the bullet is token
+- play in, given event data, produce a model
+- play out, given model, produce event data
 
 ## 2.5 Week2
 
