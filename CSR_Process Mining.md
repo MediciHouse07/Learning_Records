@@ -204,6 +204,16 @@
 
 # Week2.3.2
 
+0000<->1500
+
+2024/02/27
+
+- set of all reachable marking
+- assume t1 occurs
+- fires for the third time
+- number of reachable marking is infinite
+- milisecond
+
 2024/02/26
 
 - non deterministic
