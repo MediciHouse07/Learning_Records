@@ -60,6 +60,18 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+0000<->1500
+
+2024/02/28
+
+- fraction
+- plug in simple and extreame cases
+- get confused
+- tell them apart
+- I could have said
+- 10!/4!*6!
+- how many way you can order them
+
 2023/11/21
 
 1500<->3000
