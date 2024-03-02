@@ -62,6 +62,19 @@ PDF PMS CDF, always forgot the difference between them
 
 0000<->1500
 
+2024/03/01
+
+- 52 choose 5, self annotating, let you know what this big number represents
+- I am stressing this
+- 10 choose 4
+- 2 teams of 5
+- naive definition
+- frame it in the right way, you can use naive definition
+- follow my own advice
+- TBRT SHIFT 5
+
+0000<->1500
+
 2024/02/28
 
 - fraction
