@@ -349,6 +349,12 @@
 
 0000<->1500
 
+2024/03/07
+
+- compact relative to x relative to y
+
+0000<->1500
+
 2023/10/31
 
 - compact with respect to 
