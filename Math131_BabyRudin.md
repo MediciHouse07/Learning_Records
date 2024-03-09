@@ -248,6 +248,19 @@
 
 # Lecture 5
 
+3500<->5000
+
+2024/03/08
+
+- relative openness
+- open relative to R not to R2
+- because can't find a neighborhood of E within in E
+- E doesn't contain all of its interior point
+- neighbor intersect with Y is still in E, E is open relative to Y
+- a set is open relative to
+- being open in Y, intersect with open set in X
+- open cover of E in X
+
 3000<->4500
 
 2024/02/28
