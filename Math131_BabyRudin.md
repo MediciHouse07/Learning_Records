@@ -248,6 +248,22 @@
 
 # Lecture 5
 
+5000<->10500
+
+2024/03/09
+
+- open cover, G alpha
+- finite sub cover
+- open cover
+- choose one sub cover that cover the set
+- you don't need t have infinite sets to cover a set
+- finite implies compact
+- compact is generalized concept of finiteness
+- every cover has to have a finite cover, R
+- no matter what cover we have, we can find finite sub cover
+- find an open power that have finite 
+- (0,1) not compact, [0,1] compact
+
 3500<->5000
 
 2024/03/08
