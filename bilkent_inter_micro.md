@@ -282,6 +282,16 @@
 
 # Lecture 9
 
+2024/03/08
+
+1500<->3000
+
+- cardinalirty, size of a set, ordinality not only the size, order or quantitivity of the elements in set all matters
+- positive monotone transformation
+- positive monotone has to be positive
+- nicer
+- take positive monotone transformation of them
+
 0000<->1500
 
 2024/02/24
