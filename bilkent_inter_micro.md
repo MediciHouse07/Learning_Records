@@ -282,6 +282,13 @@
 
 # Lecture 9
 
+3000<->4500
+
+2024/03/09
+
+- cross partial
+- take logrighm
+
 2024/03/08
 
 1500<->3000
