@@ -97,6 +97,15 @@
 
 0000<->1500
 
+2024/03/10
+
+- Coase
+- cartesian product way of defining a function
+- definition and examples
+- f(SET)
+
+0000<->1500
+
 2024/03/07
 
 - pair them off
