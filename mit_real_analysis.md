@@ -97,6 +97,15 @@
 
 0000<->1500
 
+2024/03/11
+
+- when do two sets A and B have the same size
+- apping that assigs to each x in A to a unique element fx belongs to B
+- f(C) is groupedly mapping
+- inverse image of the set D, not inverse of the function
+
+0000<->1500
+
 2024/03/10
 
 - Coase
