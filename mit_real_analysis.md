@@ -97,6 +97,14 @@
 
 0000<->1500
 
+2024/03/12
+
+- ambiguous
+- inverse image of D always exists
+- image of A is B
+
+0000<->1500
+
 2024/03/11
 
 - when do two sets A and B have the same size
