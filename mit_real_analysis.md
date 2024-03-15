@@ -95,6 +95,15 @@
 
 # Lecture 2
 
+1500<->3000
+
+2024/03/13
+
+- inverse function only exist when there is bijective map
+- the same cardinality as the natrual number up to n
+- injective implies |A|<=|B|
+- A is finite if it has the same cardinality as natrual number up to n
+
 0000<->1500
 
 2024/03/12
