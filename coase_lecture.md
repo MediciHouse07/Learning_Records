@@ -15,6 +15,28 @@
 
 # Lecture 2
 
+1500<->3000
+
+2024/03/16
+
+- new constitutions
+- as time went on
+- prepare constitutions before independent
+- dubious
+- novel
+- referendum
+- acting in the public interest
+- agency problem
+- assertion
+- exerct
+- relate process to product
+- interrogate
+- get credit for their work
+- induce to a better law
+- worthy of interogation
+- dictatorship and democracy
+- sticky
+
 0000<->1500
 
 2024/03/15
