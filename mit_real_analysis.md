@@ -95,6 +95,19 @@
 
 # Lecture 2
 
+2024/03/15
+
+3000<->4500
+
+- countable set might also require infinite amount of time
+- disjoint
+- start off
+- bijective function
+- the condition for an existing inverse
+- actual inverse function, instead of inverse map
+- property and assumption
+- hx=gfx=gy=z
+
 1500<->3000
 
 2024/03/13
