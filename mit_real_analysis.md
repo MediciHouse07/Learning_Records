@@ -95,6 +95,17 @@
 
 # Lecture 2
 
+4500<->6000
+
+2024/03/16
+
+- for all z in C
+- claim something and show something
+- suppose as a start phrase at a proof stage to a therom if then
+- by the definition of the set m belongs to
+- it is by definition
+- one can also show
+
 2024/03/15
 
 3000<->4500
