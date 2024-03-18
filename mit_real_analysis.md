@@ -95,6 +95,19 @@
 
 # Lecture 2
 
+10000<->11500
+
+2024/03/17
+
+- count non discrete subset
+- you can count the posistive rational numbers
+- between two rational number you get another rational number
+- follow along
+- rational number product of products of two prime numbers
+- every rational number can be written as some product p1 pn divide q1 qn to r1 rn
+- this would get mapped to
+- sketch
+
 4500<->6000
 
 2024/03/16
