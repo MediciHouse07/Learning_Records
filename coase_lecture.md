@@ -15,6 +15,32 @@
 
 # Lecture 2
 
+3000<->4500
+
+2024/03/17
+
+- 35 president 25 legislator
+- underlying circumstance, borrow, copy
+- stickness
+- regulatory institutions
+- handle design
+- spread of rights
+- boiler plate
+- right to bear arms
+- right to health care
+- right to education
+- right to expression
+- OATH
+- Amend
+- procedure for amending
+- essential feature
+- as opposed to
+- peripheral
+- great disruption
+- reciprocal causation
+- reciprocal mutual
+- reciprocal
+
 1500<->3000
 
 2024/03/16
