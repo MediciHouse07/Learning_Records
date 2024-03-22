@@ -1,3 +1,24 @@
+https://www.youtube.com/watch?v=DIrftpTfyYQ
+
+0000<->0600
+
+2024/03/20
+
+- centenial
+
+4600<->5500 End
+
+2024/03/20
+
+- empirical first
+- then mathematics
+- whatever word is
+- don't
+- member of ruling family
+- method to choose
+- real decision
+- empirical decision
+
 # 1
 
 2024/03/11
