@@ -328,6 +328,13 @@
 
 # Lecture 3
 
+0000<->1500
+
+2024/03/20
+
+- we are looking at this
+- some objects in the set if and only if it is not in the set
+
 2023/06/08
 
 6000<->End
