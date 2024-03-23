@@ -330,6 +330,12 @@
 
 0000<->1500
 
+2024/03/21
+
+- image of itself by g
+
+0000<->1500
+
 2024/03/20
 
 - we are looking at this
