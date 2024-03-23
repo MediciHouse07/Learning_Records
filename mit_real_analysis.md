@@ -328,6 +328,23 @@
 
 # Lecture 3
 
+0300<->1800
+
+2024/03/22
+
+- assign element of A into B
+- it is f
+- spit out, subset of power set of A
+- if A equals B
+- assume, they do
+- logically consistent fashion
+- get mapped onto from A
+- define a subset of A that satifsfies certain condition
+- B is a subset of A, thus B is an element of power set of A
+- g is surjective, exist b belongs to A, st g(b)=B
+- namely
+- must have been false
+
 0000<->1500
 
 2024/03/21
