@@ -328,6 +328,14 @@
 
 # Lecture 3
 
+1500<->3000
+
+2024/03/23
+
+- what characterize the real numbers
+- less than symbol
+- but neither A and B hold
+
 0300<->1800
 
 2024/03/22
