@@ -17,6 +17,20 @@
 
 3000<->4500
 
+2024/03/23
+
+- not much incenctive
+- independent regulatory institutions
+- spread of rights
+- motto
+- duration
+- intensively
+- free press, independent judicioury
+- negotiation
+- propensity
+
+3000<->4500
+
 2024/03/17
 
 - 35 president 25 legislator
