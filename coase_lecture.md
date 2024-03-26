@@ -15,6 +15,16 @@
 
 # Lecture 2
 
+4500<->6000
+
+2024/03/24
+
+- ethinic group
+- costly to write a constitution
+- constitutional MXO
+- de facto de jure
+- interrogate
+
 3000<->4500
 
 2024/03/23
