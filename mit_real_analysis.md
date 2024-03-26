@@ -95,6 +95,16 @@
 
 # Lecture 2
 
+1500<->3000
+
+2024/03/24
+
+- to make sense of these words
+- qr
+- exist m,n in Z st r-q = m/n
+- example, non example
+- automatic an order
+
 10000<->11500
 
 2024/03/17
