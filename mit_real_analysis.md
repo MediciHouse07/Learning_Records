@@ -338,6 +338,16 @@
 
 # Lecture 3
 
+3000<->4500
+
+2024/03/26
+
+- doesn't satisfy
+- order set
+- order set, order field
+- that will be
+- sup, inf
+
 1500<->3000
 
 2024/03/23
