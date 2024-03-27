@@ -214,6 +214,26 @@ finished,
 
 # Lecture 8
 
+0000<->1500
+
+2024/03/26
+
+- conservative dominated coalition
+- majority seats
+- hang parliment
+- liberal democrat part of labour party
+- left
+- hung parliament
+- much less intervention on the economy
+- nationalization
+- macro level intervention
+- fiscal, monetary
+- price floor ceiling, micro; direct to one single market
+- autonomy increasing, politicaly independent
+- open market operation
+- discount window
+- increase
+
 2024/01/25
 
 4200<->4700
