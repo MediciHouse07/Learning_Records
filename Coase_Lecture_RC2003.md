@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+1500<->3000
+
+2024/03/27
+
+- correspondent
+- commerce
+- another partner, negotiating, drawing contract, evaluate performance
+- use of pricing system and market is costly
+- cordial
+- imitating the market but not always
+- English legal case
+- dopter
+- confectioner, doctor
+- They Waived This Right 
+
 0000<->0600
 
 2024/03/20
