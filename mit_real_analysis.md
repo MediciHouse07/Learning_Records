@@ -338,6 +338,13 @@
 
 # Lecture 3
 
+4500<->6000
+
+2024/03/27
+
+- inclusively
+- use mathematic induction to prove least upper bound property
+
 3000<->4500
 
 2024/03/26
