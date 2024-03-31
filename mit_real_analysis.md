@@ -338,6 +338,13 @@
 
 # Lecture 3
 
+10300<->End
+
+2024/03/29
+
+- bigger than anyone of E, particular for one
+- want to prove x^2>=2
+
 6000<->7500
 
 2024/03/28
