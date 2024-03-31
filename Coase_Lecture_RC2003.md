@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+3000<->4500
+
+2024/03/29
+
+- 1938
+- cost and profit, two ways of expressing the same idea
+- with enthusiasm
+- transaction cost, gravity
+- furthermore
+- economical analysis of law
+- well functioning legal system
+- theory driven subject
+- undertake
+
 1500<->3000
 
 2024/03/27
