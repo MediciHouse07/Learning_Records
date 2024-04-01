@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+4000<->End
+
+2024/03/30
+
+- a world couldn't exist
+- law of property
+- carry out
+- wrongfulness
+- mechanism to choose worthy person
+- experimental
+- being offensive
+- price of being rational
+- law of demand
+
 3000<->4500
 
 2024/03/29
