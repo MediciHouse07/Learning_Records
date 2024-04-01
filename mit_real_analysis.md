@@ -463,3 +463,9 @@
 - injective implies ||<=||
 - 1 to 1 is different things in that to different thing in another that
 - with the assumption, a strange set will be generated, thus the assumption is false
+
+# Lecture 4
+
+0000<->1500
+
+2024/03/31
