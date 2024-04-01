@@ -340,6 +340,15 @@
 
 10300<->End
 
+2024/03/30
+
+- video technique and used technique, different way of using equality
+- not a upper bound, thus not a supremum
+- cannot hold
+
+
+10300<->End
+
 2024/03/29
 
 - bigger than anyone of E, particular for one
