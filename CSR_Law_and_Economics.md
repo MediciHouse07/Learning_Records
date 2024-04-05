@@ -1,3 +1,21 @@
+Week1.1.1
+
+1200<->End
+
+2024/04/03
+
+- concede
+-  inflict
+- transgressor
+- state has no purpose of its own
+- national interest
+- punitively
+- rescind
+- released from their obligation
+- Jeremy bentham
+- stilts
+- Jeremy, state creates property right
+
 0000<->1500
 
 2024/04/01
