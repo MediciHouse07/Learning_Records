@@ -39,6 +39,19 @@ Week1.1.1
 
 #Week1.2.1
 
+1100<->End 11 mins
+
+2024/04/05
+
+- exercise it negatively as best he can
+- take the entitlement from
+- appropriate the right
+- make xx anywhere negatively
+- property right
+- to disallow
+- somebody other than simone
+- at some period in the future
+
 2024/04/04
 
 0000<->1500
@@ -57,3 +70,12 @@ Week1.1.1
 - property right holder of the xxx to yyy
 - discretion
 - penalty as a price
+
+week1.2.2
+
+2024/04/05
+
+0000<->0400
+
+- property right are defined more narrowly
+- quiver is container of arrows or darts
