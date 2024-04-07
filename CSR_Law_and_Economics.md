@@ -73,9 +73,31 @@ Week1.1.1
 
 week1.2.2
 
+2024/04/06
+
+- associate with
+- trade property right
+- nuanced way
+- quiver of rights
+- star trek
+- trek
+- there are no t machines
+- next door neighbor
+- surrender the interest to the interest of her neighbor
+- without the consent or permission of xx
+- contesting party
+
 2024/04/05
 
 0000<->0400
 
 - property right are defined more narrowly
 - quiver is container of arrows or darts
+
+# week1.3.1
+
+2024/04/06
+
+0000<->0400
+
+- siren
