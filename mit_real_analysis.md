@@ -466,6 +466,20 @@
 
 # Lecture 4
 
+2500<->4000
+
+2024/04/06
+
+- Q has holes
+- in a nutshell
+- field
+- addition
+- cummututivity
+- addiditive inverse
+- Assoc
+- reminder
+- multiplicative inverse
+
 0500<->2600
 
 2024/04/04
