@@ -96,6 +96,24 @@ week1.2.2
 
 # week1.3.1
 
+0300<>1800
+
+2024/04/07
+
+- that don't work
+- defective
+- 500
+- property right increases
+- a great deals of noise
+- alcove
+- dispute
+- you disturbed the status quo
+- you can't do it without my consent
+- informally define a property
+- grant a property right informally
+- easy resolution
+- criminal disposition
+
 2024/04/06
 
 0000<->0400
