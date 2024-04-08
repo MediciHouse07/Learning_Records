@@ -468,6 +468,14 @@
 
 2500<->4000
 
+2024/04/07
+
+- multiplicative identity it is 1, return back the same thing
+- additive inverse enable after the calculation it is 0
+- multiplicative inverse enable after the calculation it is 1
+
+2500<->4000
+
 2024/04/06
 
 - Q has holes
