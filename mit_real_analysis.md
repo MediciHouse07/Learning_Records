@@ -466,6 +466,14 @@
 
 # Lecture 4
 
+4000<->5500
+
+2024/04/08
+
+- field is algebric thing
+- analysis deals with inequality
+- algebric do a lot of equality
+
 2500<->4000
 
 2024/04/07
