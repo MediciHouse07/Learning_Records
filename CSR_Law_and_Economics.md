@@ -119,3 +119,20 @@ week1.2.2
 0000<->0400
 
 - siren
+
+#Week2.1.1
+
+2024/04/08
+
+- costs of bargaining
+- lower valueing owner
+- higher valueing owner
+- move property right from lower property owner to higher property owner
+- discovering what you want; finding potential trading partners; 
+- negotiating the term of trade
+- physically completing the transfer of goods
+- higher valueing owner
+- no accessible money
+- have access to enough money
+- utility and conomic value are not the same thing
+- Jeremy Bentham, father of utility theory
