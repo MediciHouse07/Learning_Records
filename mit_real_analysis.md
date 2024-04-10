@@ -466,6 +466,13 @@
 
 # Lecture 4
 
+5500<->11000
+
+2024/04/09
+
+- microscope, magnifying glass
+- telescope, magnifying glass
+
 4000<->5500
 
 2024/04/08
