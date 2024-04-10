@@ -122,6 +122,19 @@ week1.2.2
 
 #Week2.1.1
 
+2024/04/09
+
+0000<->1500
+
+- origin recipient of the property right
+- costs of bargaining are low
+- impede
+- trading partner
+- higher valueing owner
+- moving property right
+- how the maximized value distributed
+- if the costs of bargaining are low, property right to HVO, but as how maimized value, to be
+
 2024/04/08
 
 - costs of bargaining
