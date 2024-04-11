@@ -466,6 +466,18 @@
 
 # Lecture 4
 
+2500<->4000
+
+2024/04/10
+
+- DNE does not exist
+- R is unique ordered field that has least upper bound property
+- Q has holes and R doesn't not
+- these are the conditions on additions should be satisfies by the field
+- condition
+- communitive ring
+- non-trivial example
+
 5500<->11000
 
 2024/04/09
