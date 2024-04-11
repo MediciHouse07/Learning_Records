@@ -120,7 +120,23 @@ week1.2.2
 
 - siren
 
-#Week2.1.1
+# Week2.1.1
+
+0400<->1900
+
+2024/04/10
+
+- once one find what one want
+- faint, parry
+- result will not be obtained
+- can take place freely and easily
+- are initially allocated
+- get that property right initially
+- HVO when he has the right
+- happiness utility
+- sum of the economic value
+- preferece backed by money
+- qualification of coase therom
 
 2024/04/09
 
