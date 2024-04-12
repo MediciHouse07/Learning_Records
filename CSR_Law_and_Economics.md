@@ -165,3 +165,17 @@ week1.2.2
 - have access to enough money
 - utility and conomic value are not the same thing
 - Jeremy Bentham, father of utility theory
+
+# Week2.2.1
+
+2024/04/11
+
+0000<->1500
+
+- will differ depending on xx
+- difficult to say what was profound about it
+- Richard posner
+- the tax causes the theorem to fail
+- allocate it originally right first
+- failure of coase theorem in the
+- unacceptably arbitrary
