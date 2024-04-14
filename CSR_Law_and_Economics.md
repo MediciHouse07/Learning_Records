@@ -120,6 +120,17 @@ week1.2.2
 
 - siren
 
+# Week1.4.1
+
+2024/04/12
+
+- testing siren is not illegal, he doesn't have the right
+- there is a new arrow in the quiver, property right is set attached to it
+- bearer
+- worth of values
+- is worse xx dollars
+- 100 dollars overlap has not become 100 dollar gaps
+
 # Week2.1.1
 
 0400<->1900
