@@ -133,6 +133,19 @@ week1.2.2
 
 # Week2.1.1
 
+0000<->1500
+
+2024/04/13
+
+- it is not always easy to know what you want
+- it is costly
+- advertiser do the first part of the business, discovering what you want
+- reveal little bit of information
+- hide little bit of information
+- sources of transaction cost
+- wastage
+- to the hands of the higer valuing owner
+
 0400<->1900
 
 2024/04/10
