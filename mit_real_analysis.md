@@ -468,6 +468,12 @@
 
 5500<->7000
 
+2024/04/13
+
+- set of additive inverse of A
+
+5500<->7000
+
 2024/04/12
 
 - freely to use
