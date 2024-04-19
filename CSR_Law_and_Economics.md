@@ -198,6 +198,21 @@ week1.2.2
 
 # Week2.2.1
 
+0500<->2000
+
+2024/04/18
+
+- efficient allocation of property rights will occur only if initially
+- obviate a transaction
+- associated with
+- arbitrary
+- character to be more deserving
+- more deserving holder
+- objective standard
+- in light of xxx
+- amenable
+- time after time
+
 2024/04/11
 
 0000<->1500
