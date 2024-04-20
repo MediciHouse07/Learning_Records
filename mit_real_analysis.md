@@ -466,6 +466,12 @@
 
 # Lecture 4
 
+10500<->End
+
+2024/04/19
+
+- from bounded below derive -A is bounded above, thus LUBP can be used
+
 6000<->7500
 
 2024/04/18
