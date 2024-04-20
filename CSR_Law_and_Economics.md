@@ -198,6 +198,19 @@ week1.2.2
 
 # Week2.2.1
 
+1000<->2000
+
+2024/04/18
+
+- no objective theory of justice
+- like cases should be decided in the same way
+- unacceptably arbitrary
+- operationalize
+- judges is not elective
+- operationalize
+- efficiency is also an arbitrary value
+- false objectivity
+
 0500<->2000
 
 2024/04/18
