@@ -237,3 +237,19 @@ week1.2.2
 - allocate it originally right first
 - failure of coase theorem in the
 - unacceptably arbitrary
+
+# Week2.2.2
+
+0000<->1500
+
+2024/04/19
+
+- fibre company, rail road company
+- flax lot is adjacent to 
+- territory
+- negligibly
+- account for the operting negligibly
+- property right to throw sparks in the near area
+- spur
+- award to
+- distributional
