@@ -240,6 +240,22 @@ week1.2.2
 
 # Week2.2.2
 
+0200<->End
+
+2024/04/20
+
+- embers
+- spew
+- shovels
+- lower court
+- hazard
+- spremum court
+- in the view of the court
+- concurring opnion
+- property to throw sparks to near area of the yard
+- on the yard in the near area
+- distributional effect
+
 0000<->1500
 
 2024/04/19
