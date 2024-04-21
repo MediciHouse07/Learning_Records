@@ -565,3 +565,12 @@
 0000<->1500
 
 2024/03/31
+
+# Lecture 5
+
+0000<->1500
+
+2024/04/20
+
+- a natural question
+- archimedian property
