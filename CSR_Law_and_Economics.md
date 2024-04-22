@@ -269,3 +269,33 @@ week1.2.2
 - spur
 - award to
 - distributional
+
+# Week2.3.1
+
+0000<->End
+
+2024/04/20
+
+- RR
+- LeRoy
+- strategic behaviour
+- holdup problem
+
+# Week2.4.1
+
+0000<->End
+
+2024/04/20
+
+- exclusive right
+- concurrent rights
+- favorable coverage
+- embarrassing coverage
+- first amendment right
+- plaintiff
+- free ride
+- in such a circumstances
+- economic value
+- in addition to
+- precedent
+- sympathetic figure
