@@ -133,6 +133,13 @@ week1.2.2
 
 # Week2.1.1
 
+0400<->0700
+
+2024/04/21
+
+- discovering what you want, partner, negotiating term, transfer of goods
+- transaction can take place freely and easily
+
 0300<->End
 
 2024/04/15
@@ -197,6 +204,23 @@ week1.2.2
 - Jeremy Bentham, father of utility theory
 
 # Week2.2.1
+
+0800<->2000
+
+2024/04/11
+
+- wind up
+- know more about
+- deserving recipient
+- rule of law, cases shouldn't be turned if circumstances changed
+- same judge different result different cases
+- award the right
+- unpredictable law
+- different judge diferent result same case
+- doing justice involve politics, branches involve politics
+- add politics in the consideration
+- because objective is not objective
+- justices and equities
 
 1000<->2000
 
