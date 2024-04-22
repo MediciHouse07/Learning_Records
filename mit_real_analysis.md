@@ -466,6 +466,14 @@
 
 # Lecture 4
 
+10600<->12100
+
+2024/04/21
+
+- isomorphism
+- square root
+- cube root
+
 10500<->End
 
 2024/04/19
