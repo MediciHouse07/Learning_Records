@@ -468,6 +468,12 @@
 
 10600<->12100
 
+2024/04/22
+
+- from the uniqueness of r square to uniqueness of r
+
+10600<->12100
+
 2024/04/21
 
 - isomorphism
