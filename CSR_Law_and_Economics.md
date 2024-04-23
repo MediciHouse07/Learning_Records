@@ -205,6 +205,14 @@ week1.2.2
 
 # Week2.2.1
 
+0200<->0700
+
+2024/04/22
+
+- costless
+- exchange of goods, instead of thinking it as seller and buyer
+- frustrate
+
 0800<->2000
 
 2024/04/11
@@ -263,6 +271,15 @@ week1.2.2
 - unacceptably arbitrary
 
 # Week2.2.2
+
+0900<->1900
+
+2024/04/22
+
+- like cases should be decided in the same way, rule of law, objectively
+- judges, can't do it Posner's view
+- judges is not politician
+- judges who are not politicians are typically not elected
 
 0200<->End
 
