@@ -340,3 +340,20 @@ week1.2.2
 - in addition to
 - precedent
 - sympathetic figure
+
+# Week3.1.1
+
+2024/04/24
+
+- relationship between xx and yy
+- conditions
+- unpact
+- property right is not respected
+- friction of transacted
+- inefficient allocation of rights
+- retributed, compensation
+- borne
+- mousetrap
+- perpetrator
+- as everybody knows
+- inferior mousetrap
