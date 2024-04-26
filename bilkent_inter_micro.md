@@ -282,6 +282,14 @@
 
 # Lecture 9
 
+3200<->End
+
+2024/04/25
+
+- diminishing marginal utility
+- corresponds to xx
+- diminishing marginal utility doesn't imply diminishing rate of substitution, which is quasi-concave
+
 3000<->4500
 
 2024/03/09
