@@ -282,6 +282,12 @@
 
 # Lecture 9
 
+2024/04/26
+
+0000<->1500
+
+- under what conditions
+
 3200<->End
 
 2024/04/25
