@@ -582,6 +582,13 @@
 
 # Lecture 5
 
+1500<->3000
+
+2024/04/26
+
+- TBRT
+- TBR AP proof and r belongs to Q proof
+
 0000<->1500
 
 2024/04/25
