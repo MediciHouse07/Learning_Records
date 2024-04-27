@@ -584,6 +584,14 @@
 
 0000<->1500
 
+2024/04/25
+
+- field, addition and multiplication
+- ordered field, order related properties
+- with the lubp containing Q
+
+0000<->1500
+
 2024/04/24
 
 0000<->1500
