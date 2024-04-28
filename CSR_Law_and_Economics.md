@@ -343,6 +343,16 @@ week1.2.2
 
 # Week3.1.1
 
+0000<->1500
+
+2024/04/27
+
+- we agreed upon
+- does not pay compensation to x
+- subtler
+- plant a bomb
+- nasty
+
 2024/04/24
 
 - relationship between xx and yy
