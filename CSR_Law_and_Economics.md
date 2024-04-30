@@ -345,6 +345,20 @@ week1.2.2
 
 0000<->1500
 
+2024/04/30
+
+- risk taking, capital
+- risky ventures is also as an input to production
+- identical goods
+- competitive markets, identical goods, low transaction costs, will drive the price to a single competitive price
+- patraotisim
+- plan buy input only if it can make them make money
+- ouput market, produce owner
+- crud
+- debilitate
+
+0000<->1500
+
 2024/04/27
 
 - we agreed upon
