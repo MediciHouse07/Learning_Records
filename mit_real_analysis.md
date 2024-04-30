@@ -607,3 +607,15 @@
 
 - a natural question
 - archimedian property
+
+# Lecture 6
+
+4200<->5700
+
+2024/04/29
+
+- irrelevance
+- elements in a sequence don't need to be the  same
+- they are distinct elements in R or range
+- bounded sequence
+- example, non example
