@@ -610,6 +610,17 @@
 
 # Lecture 6
 
+4500<->6000
+
+2024/04/30
+
+- think of sequence as a list of numbers
+- every entry in this sequence
+- negate the definition
+- bouned vs convergent
+- all the entries of this sequence is within this tolerence
+- closer and closer is guranteed by for all epsilon
+
 4200<->5700
 
 2024/04/29
