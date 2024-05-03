@@ -282,6 +282,16 @@
 
 # Lecture 9
 
+1500<->3000
+
+2024/05/01
+
+- marginal utility of x
+- keep the ordre
+- positive monotone transformation
+- positive monotone is to maintain order
+- not for aligning the MRS before and after the change
+
 2024/04/26
 
 0000<->1500
