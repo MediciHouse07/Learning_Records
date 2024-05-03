@@ -610,6 +610,15 @@
 
 # Lecture 6
 
+5000<->6500
+
+2024/05/01
+
+- eventually
+- if it can be arbitoryly small, then they are the same thing
+- arbitraily close to each other, they are the same
+- convergent sequence can only converge to one thing
+
 4500<->6000
 
 2024/04/30
