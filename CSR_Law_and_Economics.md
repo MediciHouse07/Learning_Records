@@ -343,6 +343,18 @@ week1.2.2
 
 # Week3.1.1
 
+0300<->1800
+
+2024/05/02
+
+- put into some other use
+- then it is to the steel plant
+- perfectly informed
+- contributed from
+- of its own volition
+- joint output
+- debilitate
+
 0000<->1500
 
 2024/04/30
