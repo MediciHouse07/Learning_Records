@@ -343,6 +343,19 @@ week1.2.2
 
 # Week3.1.1
 
+2024/05/03
+
+0500<->2000
+
+- associated with
+- positive good
+- trade away
+- risk taking, good health
+- can't make steel without taking good health
+- as such
+- not from input owners, ordinary input owners, external cost
+- law has already award the right to neighbors
+
 0300<->1800
 
 2024/05/02
