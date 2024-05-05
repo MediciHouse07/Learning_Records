@@ -343,6 +343,14 @@ week1.2.2
 
 # Week3.1.1
 
+0800<->2300
+
+2024/05/04
+
+- to its previous owner
+- relationship is in another direction
+- devote to
+
 2024/05/03
 
 0500<->2000
