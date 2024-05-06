@@ -610,6 +610,13 @@
 
 # Lecture 6
 
+10600<->End
+
+2024/05/04
+
+- uniform property
+- as long as xx is simple enough
+
 2024/05/03
 
 6000<->7500
