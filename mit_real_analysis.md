@@ -656,3 +656,13 @@
 - they are distinct elements in R or range
 - bounded sequence
 - example, non example
+
+# Lecture 7
+
+0000<->1500
+
+2024/05/05
+
+- in calculus, in analysis
+- DNC, demicridinal national comittee
+- does not converge
