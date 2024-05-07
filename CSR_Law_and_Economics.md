@@ -343,6 +343,14 @@ week1.2.2
 
 # Week3.1.1
 
+0000<->1500
+
+2024/05/05
+
+- whole range of other types of input
+- revenue that can bring in for each of unit of steel
+- value of unit of the steel, cost of each unit of the steel
+
 0800<->2300
 
 2024/05/04
