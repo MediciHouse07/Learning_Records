@@ -661,6 +661,14 @@
 
 0000<->1500
 
+2024/05/06
+
+- notion
+- xn arrow x
+- democratic national commitee
+
+0000<->1500
+
 2024/05/05
 
 - in calculus, in analysis
