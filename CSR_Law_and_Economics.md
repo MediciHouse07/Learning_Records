@@ -343,6 +343,20 @@ week1.2.2
 
 # Week3.1.1
 
+1200<->End
+
+2024/05/06
+
+- irreducible
+- people value as good
+- on all sorts of
+- had the opp to do so
+- is worth taking note
+- external cost
+- high transaction cost prevent the exchange
+- external cost will be imposed on he plant's neighbors
+- inefficiently high cost, inefficiently low price
+
 0000<->1500
 
 2024/05/05
