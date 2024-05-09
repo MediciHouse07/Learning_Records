@@ -659,6 +659,14 @@
 
 # Lecture 7
 
+0500<->2000
+
+2024/05/07
+
+- alternating
+- alter
+- the converse does not hold
+
 0000<->1500
 
 2024/05/06
