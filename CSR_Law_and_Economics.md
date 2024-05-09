@@ -436,3 +436,18 @@ week1.2.2
 - perpetrator
 - as everybody knows
 - inferior mousetrap
+
+# Week3.2.1
+
+0000<->1500
+
+2024/05/07
+
+- externality is internalized
+- at that moment
+- infliction
+- incidence
+- imposition
+- xx and xx are different
+- non-homogeneous can't be driven to the same product
+- only one owner for a product, monopoly
