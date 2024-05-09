@@ -659,6 +659,12 @@
 
 # Lecture 7
 
+2024/05/08
+
+1000<->2500
+
+-  monotone increasing sequence
+
 0500<->2000
 
 2024/05/07
