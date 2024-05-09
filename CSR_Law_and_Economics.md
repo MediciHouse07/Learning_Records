@@ -439,6 +439,14 @@ week1.2.2
 
 # Week3.2.1
 
+1500<->2300
+
+2024/05/08
+
+- involuntariness
+- walk on wire
+- insuperable
+
 0000<->1500
 
 2024/05/07
@@ -451,3 +459,16 @@ week1.2.2
 - xx and xx are different
 - non-homogeneous can't be driven to the same product
 - only one owner for a product, monopoly
+
+# Week3.3.1
+
+0000<->0700
+
+2024/05/08
+
+- will not take place
+- absolute deterrence
+- deterrence
+- crime includes tort
+- unlawful taking the property right
+- pigovian tax
