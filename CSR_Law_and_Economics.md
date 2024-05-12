@@ -439,6 +439,14 @@ week1.2.2
 
 # Week3.2.1
 
+2000<->2300
+
+2024/05/10
+
+- accident that cause the property right
+- insuperable barrier
+- forbear
+
 1500<->2300
 
 2024/05/08
@@ -461,6 +469,17 @@ week1.2.2
 - only one owner for a product, monopoly
 
 # Week3.3.1
+
+0000<->1200
+
+2024/05/10
+
+- pigovian tax
+- absolute deterrence
+- ban crud, ban steel
+- it may be the other way around
+- jury decides
+- property rules, liability rules
 
 0000<->0700
 
