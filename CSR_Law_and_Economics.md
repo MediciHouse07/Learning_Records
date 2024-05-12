@@ -470,6 +470,14 @@ week1.2.2
 
 # Week3.3.1
 
+0000<->1500
+
+2024/05/11
+
+- remains in the hands of
+- unlawful taking of the right
+- imposition
+
 0000<->1200
 
 2024/05/10
