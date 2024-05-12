@@ -659,6 +659,17 @@
 
 # Lecture 7
 
+2024/05/10
+
+1500<->3000
+
+- converse hold
+- take the sum of finitely many numbers and x+epsilon or +1
+- monotone decreasing
+- it reverses all the inequalities
+- monotonic sequnence is convergent<->it is bounded
+- bounded set
+
 2024/05/08
 
 1000<->2500
