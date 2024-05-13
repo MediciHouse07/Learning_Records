@@ -659,6 +659,15 @@
 
 # Lecture 7
 
+2000<->3500
+
+2024/05/11
+
+- increase without bound
+- or doesn't have certain property
+- in particular
+- first or second lecture
+
 2024/05/10
 
 1500<->3000
