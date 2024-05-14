@@ -470,6 +470,28 @@ week1.2.2
 
 # Week3.3.1
 
+0200<->1700
+
+2024/05/12
+
+- without exchange, it is hard to know who is the HVO
+- for the efficiency sake
+- compensation is due
+- to the victim, or the bearer of cost
+- are due
+- indeed be taken, if so, how much value
+- without their consent
+- protect entitlement in two ways
+- where markets fails, taker can extinguish the entitlement without the consent from cost bearer
+- subjective value doesn't hold in the extinguish case
+- testimony
+- plaintiff
+- cost seizer
+- class action suits
+- collective damage
+- well vs poorly
+- class action suits, tort suits
+
 0500<->2000
 
 2024/05/12
