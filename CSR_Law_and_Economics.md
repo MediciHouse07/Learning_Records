@@ -470,6 +470,16 @@ week1.2.2
 
 # Week3.3.1
 
+0500<->2000
+
+2024/05/12
+
+- impartial
+- cognate entitlement
+- a lost of property
+- a liability to pay
+- extinguish
+
 0000<->1500
 
 2024/05/11
