@@ -470,6 +470,18 @@ week1.2.2
 
 # Week3.3.1
 
+0800<->2300
+
+2024/05/13
+
+- detriment
+- forcibly
+- liability complete a transaction whose two parts have been broken in time
+- transfer by free exchange or by gift
+- taker of the entitlement, loser of the entitlement
+- take xx's entitlement to xx's good health
+- if the jury is good at seperating good and bad
+
 1600<->3100
 
 2024/05/13
