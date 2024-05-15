@@ -470,6 +470,17 @@ week1.2.2
 
 # Week3.3.1
 
+1600<->3100
+
+2024/05/13
+
+- as it did in the case of steel plant
+- pain and suffering
+- provides a discriminating approximation
+- one trial is undertaken
+- attorney
+- coarse coarser
+
 0200<->1700
 
 2024/05/12
