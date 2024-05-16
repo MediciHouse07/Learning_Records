@@ -470,6 +470,21 @@ week1.2.2
 
 # Week3.3.1
 
+1600<->3100
+
+2024/05/14
+
+- place a great deal of
+- suffer the lost, and that is cost
+- loser of the entitlement
+- jury try to compensate some of the sentimental value
+- deprivation
+- testify
+- testimonial
+- testimony
+- a tort can be described as efficient
+- amalgamate
+
 0800<->2300
 
 2024/05/13
