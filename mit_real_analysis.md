@@ -659,6 +659,15 @@
 
 # Lecture 7
 
+2600<->4100
+
+2024/05/14
+
+- bounded above and below
+- they have to lie in this interval
+- flip the inequalities
+- by previous therom we know there is a limit L, wts L=?
+
 2800<->4300
 
 2024/05/13
