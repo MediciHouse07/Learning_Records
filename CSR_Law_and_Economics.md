@@ -579,3 +579,27 @@ week1.2.2
 - crime includes tort
 - unlawful taking the property right
 - pigovian tax
+
+# Week3.4.1
+
+2024/05/14
+
+0000<->End
+
+- individual is effective than class action suit, is effective than pigovian tax
+- dereliction
+- cost imposition
+
+# Week3.5.1
+
+2024/05/14
+
+0000<->End
+
+- social norm
+- placing a price on imposer
+- persuading the cost imposer, to make them
+- hard to determine the price
+- hard to catch the cost imposer
+- it is a universal norm
+- the word that observe it
