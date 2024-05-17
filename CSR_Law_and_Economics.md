@@ -603,3 +603,13 @@ week1.2.2
 - hard to catch the cost imposer
 - it is a universal norm
 - the word that observe it
+
+# Week4.1.1
+
+2024/05/15
+
+0000<->1500
+
+- rehabilitation
+- expiation
+- ceaser
