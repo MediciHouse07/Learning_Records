@@ -659,6 +659,13 @@
 
 # Lecture 7
 
+2024/05/15
+
+2800<->4300
+
+- b/c because
+- bdd, monotone increasing, monotone decreasing
+
 2600<->4100
 
 2024/05/14
