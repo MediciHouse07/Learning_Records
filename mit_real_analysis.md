@@ -659,6 +659,14 @@
 
 # Lecture 7
 
+3500<->5000
+
+2024/05/16
+
+- lim c^n, think of it as c^n sequence
+- use bounded set concept
+- sub sequence
+
 2024/05/15
 
 2800<->4300
