@@ -606,6 +606,15 @@ week1.2.2
 
 # Week4.1.1
 
+0600<->2100
+
+2024/05/16
+
+- to be borne, bear
+- competitive price, make it efficient
+- prove they are HVO, by paying by the price
+- refrain from inefficient consumption
+
 2024/05/15
 
 0000<->1500
