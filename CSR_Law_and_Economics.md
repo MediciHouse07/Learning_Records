@@ -622,3 +622,17 @@ week1.2.2
 - rehabilitation
 - expiation
 - ceaser
+
+# Week4.3.1
+
+0000<->1500
+
+2024/05/17
+
+- in time, enough time
+- exchange system, liability system
+- efficient tort, inefficient tort
+- distinguish efficient tort  vs inefficient tort, and courage the former
+- bommer, people who go to a new area for settlement
+- nuisance
+- tort
