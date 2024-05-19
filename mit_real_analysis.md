@@ -659,6 +659,18 @@
 
 # Lecture 7
 
+4500<->End
+
+2024/05/17
+
+- pick the next 3 down, move to the right 3 down
+- seems like nk must have a certain property
+- 1,2,3,4 1111 is not under the concept of sub sequence
+- n is from one to infinity
+- index needs to be different, but value doesn't need to be
+- far enough in that sub sequence
+- prove by induction
+
 3500<->5000
 
 2024/05/16
