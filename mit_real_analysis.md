@@ -754,3 +754,9 @@
 - in calculus, in analysis
 - DNC, demicridinal national comittee
 - does not converge
+
+# Lecture 8
+
+2024/05/18
+
+- squezee therom, prove a limit equal to something without using definition
