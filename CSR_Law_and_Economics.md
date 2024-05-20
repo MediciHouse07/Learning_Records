@@ -623,7 +623,20 @@ week1.2.2
 - expiation
 - ceaser
 
-# Week4.3.1
+# Week4.2.1
+
+0900<->2400 End
+
+2024/05/18
+
+- the tort will not be deterred by the retribution
+- without consent or compensation
+- the vast majority
+- occasional bonus for xxx
+- tort suit can only approximate free exchange
+- internalize the uncompensated economic costs
+- intentional inflict of economic cost
+- might that outrage people other than neighbors
 
 0000<->1500
 
