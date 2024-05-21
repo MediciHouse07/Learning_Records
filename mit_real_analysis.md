@@ -757,6 +757,12 @@
 
 # Lecture 8
 
+1000<->2500
+
+2024/05/19
+
+0000<->1500
+
 2024/05/18
 
 - squezee therom, prove a limit equal to something without using definition
