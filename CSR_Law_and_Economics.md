@@ -649,3 +649,22 @@ week1.2.2
 - bommer, people who go to a new area for settlement
 - nuisance
 - tort
+
+# Week4.3.1
+
+2024/05/19
+
+0000<->1500
+
+- negligently
+- intentional, accidental
+- wrongful death
+- much serious matter
+- committed a murder, the same time it also commits a tort
+- tort liability
+- undertaken
+- costs of crime
+- perpetrator
+- moral cost
+- outrageous
+- nasty
