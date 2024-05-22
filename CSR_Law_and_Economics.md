@@ -652,6 +652,16 @@ week1.2.2
 
 # Week4.3.1
 
+0800<->2300
+
+2024/05/20
+
+- criminal system internalize costs
+- positive, what it is
+- normative, what it should be
+- to be free of the cost
+- latter
+
 2024/05/19
 
 0000<->1500
