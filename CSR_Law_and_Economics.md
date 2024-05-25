@@ -678,3 +678,17 @@ week1.2.2
 - moral cost
 - outrageous
 - nasty
+
+# Week4.4.1
+
+0000<->1500
+
+2024/05/23
+
+- criminal system is not created for detering crime
+- inposition of a criminal liability on efficent crime
+- victimless
+- how can we see how crinimal system justice work
+- sublime
+- shoplift
+- irrational
