@@ -757,6 +757,13 @@
 
 # Lecture 8
 
+1700<->3200
+
+2024/05/24
+
+- go far enough out
+- disjoint interval
+
 1500<->3000
 
 2024/05/23
