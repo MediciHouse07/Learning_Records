@@ -681,6 +681,18 @@ week1.2.2
 
 # Week4.4.1
 
+0800<->2300
+
+2024/05/24
+
+- satisfaction
+- offender
+- fit punishment and crime
+- some people who value a thing more than average would commit such a crime
+- desperation
+- exact
+- vengeance organized for efficient, vengeance is a punish implemented by the system
+
 0000<->1500
 
 2024/05/23
