@@ -282,6 +282,13 @@
 
 # Lecture 9
 
+3000<->4000
+
+2024/05/25
+
+- diminishing marginal utility
+- diminishing marginal rate of substitutino, quasi concave
+
 1500<->3000
 
 2024/05/01
