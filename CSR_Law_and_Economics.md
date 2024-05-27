@@ -709,6 +709,22 @@ week1.2.2
 
 0000<->1000
 
+2024/05/26
+
+- put a ticekt on your car
+- fire hydrant
+- expectation risk, on people live near the hospital
+- pair the alternatives
+- run into a risk
+- xx suspect
+- giving pleasure in punching the nose
+- puch in the nose
+- subject to criminal assault, also subject to tort suit subsequently
+- it is artificial
+- tuna fish
+
+0000<->1000
+
 2024/05/25
 
 - appendix
