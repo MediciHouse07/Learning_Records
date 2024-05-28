@@ -707,6 +707,15 @@ week1.2.2
 
 # Week4.5.1
 
+2024/05/27
+
+1000<->2000
+
+- habitually
+- propensity to a thing
+- crimes of passion
+- criminals of passion, criminals of calculation
+
 0000<->1000
 
 2024/05/26
