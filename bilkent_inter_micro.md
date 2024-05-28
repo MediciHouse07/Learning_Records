@@ -282,6 +282,14 @@
 
 # Lecture 9
 
+0000<->0500
+
+2024/05/27
+
+- absolute value of the slope of indifference curve
+- above is decreasing
+- MRS=Ux/Uy=MUx/MUy
+
 3700<->End
 
 2024/05/26
