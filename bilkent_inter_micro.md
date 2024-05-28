@@ -282,6 +282,13 @@
 
 # Lecture 9
 
+3700<->End
+
+2024/05/26
+
+- XXX only showed in WKXX
+- is it possible also to recover it in all the hist period
+
 3000<->4000
 
 2024/05/25
