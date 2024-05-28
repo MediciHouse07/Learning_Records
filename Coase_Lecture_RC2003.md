@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+0251<->0751
+
+- after all
+- Mr Told
+- I regard xx as yy
+- London school of economics
+- Commercial Industrial law
+- law of contracts, law of employer and employee
+- barrister lawyer who present in the court
+- smith against London raiway
+
 4000<->End
 
 2024/03/30
