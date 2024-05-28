@@ -757,6 +757,12 @@
 
 # Lecture 8
 
+3300<->4300
+
+2024/05/26
+
+- this positive number which is less than one
+
 2900<->3900
 
 2024/05/25
