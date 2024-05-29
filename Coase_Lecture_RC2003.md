@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+0750<->1750
+
+2024/05/28
+
+- 1932
+- brought up
+- get acquainted
+- get the answer to the question
+- been taken for granted
+
 0251<->0751
 
 - after all
