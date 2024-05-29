@@ -707,6 +707,16 @@ week1.2.2
 
 # Week4.5.1
 
+1400<->2400
+
+2024/05/28
+
+- sociology says criminal is different from people who are not criminal
+- economics says criminal is the same as people whoa re not criminal
+- at the moment that shooting take place
+- normally crime doesn't calculate
+- premeditation
+
 2024/05/27
 
 1000<->2000
