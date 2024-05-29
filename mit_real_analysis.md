@@ -757,6 +757,13 @@
 
 # Lecture 8
 
+4500<->5500
+
+2024/05/28
+
+- product of xn and 1 over yn
+- finite set, inf exist
+
 4300<->5300
 
 2024/05/27
