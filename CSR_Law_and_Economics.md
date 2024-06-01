@@ -749,3 +749,12 @@ week1.2.2
 - appendix
 - laxative
 - fire hydrant
+
+# Week4.5.2
+
+2024/05/30
+
+0000<->1000
+
+- apprehension
+- inflict
