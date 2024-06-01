@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=DIrftpTfyYQ
 
 0750<->1750
 
+2024/05/30
+
+- hideous
+- later on
+- draft of his replies
+
+0750<->1750
+
 2024/05/28
 
 - 1932
