@@ -282,14 +282,6 @@
 
 # Lecture 9
 
-0000<->0500
-
-2024/05/27
-
-- absolute value of the slope of indifference curve
-- above is decreasing
-- MRS=Ux/Uy=MUx/MUy
-
 3700<->End
 
 2024/05/26
@@ -420,6 +412,10 @@
 
 # Lecture 10
 
+0500<->1500
+
+2024/05/31
+
 0000<->1500
 
 1200<->2700
@@ -431,6 +427,14 @@
 - MRS = |slope of indifference curve|
 - interior solution, cornner solution
 - later portion of this course
+
+0000<->0500
+
+2024/05/27
+
+- absolute value of the slope of indifference curve
+- above is decreasing
+- MRS=Ux/Uy=MUx/MUy
 
 2023/11/23
 
