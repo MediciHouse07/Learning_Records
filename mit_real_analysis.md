@@ -757,6 +757,13 @@
 
 # Lecture 8
 
+3000<->4000
+
+2024/06/01
+
+- taking term by term
+- 1) addition of limit, 2) scalar multiplication 3) limit of products is product of limit 4) limit of quotient is quotient of limit
+
 4000<->5000
 
 2024/05/31
