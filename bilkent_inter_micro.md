@@ -412,6 +412,12 @@
 
 # Lecture 10
 
+1000<->2000
+
+2024/06/01
+
+- give up one good by compensation receive another good
+
 0500<->1500
 
 2024/05/31
