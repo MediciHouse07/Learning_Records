@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=DIrftpTfyYQ
 
 0500<->1500
 
+2024/06/01
+
+- curriculum
+- the law relating to
+- proceeding, another word for litigation
+- barrister
+- quotation from coase, different approach for depreciation, good will determine profit, why don't kill them all
+- special interest
+- Anord plant and plant's view
+- Lionel Robin-> Aber lerner
+
+0500<->1500
+
 2024/05/31
 
 - Abbler learner,  vs Linon
