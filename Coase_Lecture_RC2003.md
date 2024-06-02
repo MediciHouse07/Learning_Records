@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+0500<->1500
+
+2024/05/31
+
+- Abbler learner,  vs Linon
+- chronicle
+
 0750<->1750
 
 2024/05/30
