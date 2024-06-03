@@ -757,6 +757,12 @@
 
 # Lecture 8
 
+4000<->5000
+
+2024/06/02
+
+- bound sequence away from zero
+
 3000<->4000
 
 2024/06/01
