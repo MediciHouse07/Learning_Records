@@ -752,6 +752,17 @@ week1.2.2
 
 # Week4.5.2
 
+0000<->1000
+
+2024/06/02
+
+- severity of punishment
+- apprehension
+- compensatory
+- has prevent the court
+- something would induce inefficient crime
+- internalize cost
+
 2024/05/30
 
 0000<->1000
