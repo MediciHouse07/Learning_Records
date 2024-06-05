@@ -412,6 +412,12 @@
 
 # Lecture 10
 
+2000<->2500
+
+2024/06/04
+
+- keep increasing type of indifference curve
+
 1000<->2000
 
 2024/06/01
