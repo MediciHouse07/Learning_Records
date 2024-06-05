@@ -1479,6 +1479,11 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ### 2-1 week 8
 
+2024/06/04
+
+- arbitrage otherwise
+- fuzziness
+
 2023/12/17
 
 0300<->end
@@ -1509,6 +1514,10 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 - so basically PPP, FIP(E=(1+R)/(1+Rstar)F),rewrite it will also help to understand it,mint par(E=x of gold/y of gold), they are different way of ideas of explaining the exchange rate
 
 ### 2-2 week8
+
+2024/06/04
+
+- inhabited
 
 2023/12/24
 
