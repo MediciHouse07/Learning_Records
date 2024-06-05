@@ -754,6 +754,13 @@ week1.2.2
 
 0000<->1000
 
+2024/06/03
+
+- through probability scaling
+- before the case that comes before the liability system
+
+0000<->1000
+
 2024/06/02
 
 - severity of punishment
