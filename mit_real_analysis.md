@@ -757,6 +757,12 @@
 
 # Lecture 8
 
+4500<->5000
+
+2024/06/04
+
+- non zero sequence can be bounded away from 0
+
 4500<->5500
 
 2024/06/03
