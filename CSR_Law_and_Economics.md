@@ -752,6 +752,20 @@ week1.2.2
 
 # Week4.5.2
 
+0000<->End
+
+2024/06/06
+
+- convicted offender
+- sentence judge
+- invoke
+- norm of justice
+- 8 amendment prohibit probability scaling
+- dispropotional
+- compensatory liability
+- case by case
+- the system is trying to max number of case
+
 0500<->1000
 
 2024/06/04
