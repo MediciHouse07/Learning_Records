@@ -412,6 +412,15 @@
 
 # Lecture 10
 
+2000<->3000
+
+2024/06/06
+
+- quadron
+- cobb-douglas utility
+- if alpha is greater than beta, small amount increase of alpha would lead to the same result as to increase of big amount of beta
+- another way, to compensate big amount of decrease of beta, you only need small amount of alpha
+
 2000<->2500
 
 2024/06/04
