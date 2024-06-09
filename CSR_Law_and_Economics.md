@@ -797,3 +797,12 @@ week1.2.2
 
 - apprehension
 - inflict
+
+# Week4.6.1
+
+0000<->1000
+
+2024/06/07
+
+- governance structure
+- perpetrator
