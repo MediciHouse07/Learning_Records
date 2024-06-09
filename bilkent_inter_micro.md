@@ -412,6 +412,14 @@
 
 # Lecture 10
 
+3000<->4000
+
+2024/06/07
+
+- linear indifference curve
+- MRS means to give one more x, how many y I should give in
+- perfect substitute, it doesn't mean rate of substitute have to be one, MRS
+
 2000<->3000
 
 2024/06/06
