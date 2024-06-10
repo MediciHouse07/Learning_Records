@@ -514,6 +514,15 @@
 
 # Lecture 11
 
+0500<->1500
+
+2024/06/09
+
+- think perfect complements and homogeounity
+- give up all ys to gain one x
+- consume at verticies
+- constant elasticity of sustitution
+
 0000<->0600
 
 2024/06/08
