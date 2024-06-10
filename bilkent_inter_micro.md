@@ -412,6 +412,11 @@
 
 # Lecture 10
 
+
+3900<->4300
+
+2024/06/08
+
 3000<->4000
 
 2024/06/07
@@ -508,6 +513,15 @@
 - inferior solution
 
 # Lecture 11
+
+0000<->0600
+
+2024/06/08
+
+- perfect complements
+- salep
+- cinnamon
+- DVD player
 
 1500<->End
 
