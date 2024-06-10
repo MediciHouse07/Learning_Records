@@ -800,7 +800,19 @@ week1.2.2
 
 # Week4.6.1
 
-5000<->6000
+0000<->1000
+
+2024/06/09
+
+- minimize transaction cost
+- transaction and governance structure
+- economic price, moral price
+- state as an agent
+- criminal entitlements are strongly non homogeneous
+- indivisualization of moral cost
+- conceal
+
+0000<->1000
 
 2024/06/08
 
