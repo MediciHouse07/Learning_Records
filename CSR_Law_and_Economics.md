@@ -802,6 +802,13 @@ week1.2.2
 
 0000<->1000
 
+2024/06/10
+
+- attribute
+- certain acts impose moral cost as crime
+
+0000<->1000
+
 2024/06/09
 
 - minimize transaction cost
