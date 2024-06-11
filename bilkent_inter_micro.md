@@ -514,6 +514,12 @@
 
 # Lecture 11
 
+1300<->2300
+
+2024/06/10
+
+- is alpha x also in the form of perfect compliment
+
 0500<->1500
 
 2024/06/09
