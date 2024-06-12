@@ -1,3 +1,15 @@
+# week1.Video 7
+
+2024/06/11
+
+- cheap price, good service, variet of products
+- management team
+- Hewlett Packard
+- it is not seasonal
+
+
+---
+
 # Week1
 
 ## 1-6
