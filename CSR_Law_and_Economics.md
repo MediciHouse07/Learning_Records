@@ -800,6 +800,15 @@ week1.2.2
 
 # Week4.6.1
 
+0500<->1500
+
+2024/06/11
+
+- economic tort of cost are objective
+- entitlement in free exchange, entitlement in tort liability, criminal entitlement
+- offence
+- sentencing law
+
 0000<->1000
 
 2024/06/10
