@@ -5,3 +5,13 @@
 - out of the way
 - sharpley value
 - nothing is wasted
+
+# week2.1.2
+
+0000<->0500
+
+2024/06/11
+
+- joint purchasing
+- merger synergies
+- production know-how
