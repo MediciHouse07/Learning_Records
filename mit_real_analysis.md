@@ -757,6 +757,12 @@
 
 # Lecture 8
 
+6000<->7000
+
+2024/06/11
+
+- limit respect abosolute value
+
 5500<->6500
 
 2024/06/10
