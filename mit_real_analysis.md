@@ -757,6 +757,14 @@
 
 # Lecture 8
 
+2024/06/12
+
+10400<->End
+
+- kth root of xn
+- does its converse hold
+- Reverse traingle inequality
+
 6000<->7000
 
 2024/06/11
