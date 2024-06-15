@@ -800,6 +800,16 @@ week1.2.2
 
 # Week4.6.1
 
+2024/06/13
+
+0900<->1900
+
+- related to
+- violence ridden
+- bully
+- mandatory one-year term for illegal concealment
+- seriousness
+
 0500<->1500
 
 2024/06/11
