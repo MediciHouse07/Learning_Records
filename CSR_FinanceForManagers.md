@@ -27,6 +27,19 @@
 - distribution company have low ROS
 - profit+depreciation, cash flow
 
+# Week1.Video.11
+
+2024/06/14
+
+- operational risk low financial risk high
+- stable income would lead them to be more leveraged
+
+# Week1.Video.22
+
+2024/06/14
+
+- invoice
+
 ---
 
 # Week1
