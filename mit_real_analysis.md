@@ -880,6 +880,13 @@
 
 # Lecture 9
 
+0000<->1000
+
+2024/06/14
+
+- nth power nth root, rational power
+- construct a M with epsilon
+
 - 2024/06/13
 
 0000<->1000
