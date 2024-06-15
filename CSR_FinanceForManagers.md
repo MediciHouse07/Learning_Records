@@ -7,6 +7,25 @@
 - Hewlett Packard
 - it is not seasonal
 
+# Week1.Video.9
+
+2024/06/13
+
+- evolution
+- margin
+- grow without suffering margin
+
+
+# Week1.Video.10
+
+2024/06/13
+
+- opex, salary, overheads, electricity
+- sales, cost, overheads
+- EBIT/financial results>2.5
+- ROS
+- distribution company have low ROS
+- profit+depreciation, cash flow
 
 ---
 
