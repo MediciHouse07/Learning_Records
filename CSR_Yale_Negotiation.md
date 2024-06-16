@@ -1,3 +1,14 @@
+# Week1.2.1
+
+2024/06/14
+
+- dispasstionate
+- doing it on his own vs together
+- value destroying
+
+----
+
+
 # week1.3.2
 
 2024/03/31
