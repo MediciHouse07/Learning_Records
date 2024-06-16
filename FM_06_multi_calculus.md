@@ -438,6 +438,12 @@
 
 ### Lecture 19
 
+0000<->1000
+
+2024/06/15
+
+- radioly away from origin
+
 2023/10/18
 
 3600<->5100 End
