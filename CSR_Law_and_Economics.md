@@ -752,6 +752,24 @@ week1.2.2
 
 # Week4.5.2
 
+1000<->2000
+
+2024/06/13
+
+- mandatory one year term
+- mandatory sentence are meant to deter
+- it is liable
+- wield, enforce
+- erroneous
+- conflate
+- degree of seriousness
+- two stage pricing
+- range of liability to crimes
+- arson
+- burglary
+- strangulation
+- trafficking in person
+
 0000<->End
 
 2024/06/06
