@@ -34,7 +34,16 @@
 - operational risk low financial risk high
 - stable income would lead them to be more leveraged
 
-# Week1.Video.22
+# Week1.Video.12
+
+0200<->0700
+
+2024/06/15
+
+- producing and having inventory on FG
+- raw material, FG, WIP
+- supplier as a bank
+- taxes due
 
 2024/06/14
 
