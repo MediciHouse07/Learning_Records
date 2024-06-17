@@ -49,6 +49,15 @@
 
 - invoice
 
+# Week1.Video.13
+
+0000<->0500
+
+2024/06/16
+
+- number concept expect
+- big amount of payable finance the company
+
 ---
 
 # Week1
