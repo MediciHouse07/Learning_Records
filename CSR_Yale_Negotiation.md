@@ -6,6 +6,12 @@
 - doing it on his own vs together
 - value destroying
 
+# Week1.2.2
+
+0000<->0500
+
+2024/06/16
+
 ----
 
 
