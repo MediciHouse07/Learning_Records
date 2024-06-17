@@ -5,6 +5,17 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+1000<->1500
+
+2024/06/16
+
+- applied statistics on political science
+- IQSS
+- fermat pascal 1650
+- develop the subject gambling
+- logic of certainty, logic of uncertainty
+- quantifying uncertainty
+
 2023/08/29
 
 3000<->End
