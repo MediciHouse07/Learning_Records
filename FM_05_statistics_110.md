@@ -5,6 +5,15 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+2024/06/17
+
+1500<->2500
+
+- sample space is the set of all pissible outcome of a experiment
+- an event is a subset of sample space
+- think events as subset is  a breakthrough
+- number of favorable outcome
+
 1000<->1500
 
 2024/06/16
