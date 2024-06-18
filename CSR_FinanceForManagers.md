@@ -51,12 +51,23 @@
 
 # Week1.Video.13
 
+2024/06/17
+
+- long poll
+- the ratio of  third party liability to equity
+- high leverage, higher profitability, better for shareholders
+- high leverage, higher financial expenses, bad for bank
+
 0000<->0500
 
 2024/06/16
 
 - number concept expect
 - big amount of payable finance the company
+
+# Week1.Video.14
+
+2024/06/17
 
 ---
 
