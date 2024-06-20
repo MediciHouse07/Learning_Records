@@ -5,6 +5,14 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+2024/06/19
+
+2500<->3500
+
+- life 1/2
+- intelligence life 1/2
+- counting multiplication rule
+
 2024/06/18
 
 1500<->2500
