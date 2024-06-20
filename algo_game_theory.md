@@ -1,6 +1,13 @@
 # Lecture 1
 ## REX 1 2022/08/04
 
+0000<->0500
+
+2024/06/19
+
+- round middle game
+- partifipant want, designer want
+
 2022/08/04
 
 5331<->End
