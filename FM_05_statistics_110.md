@@ -5,6 +5,14 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 1 2022/02/20
 #### REX 2 2022/08/13
 
+2024/06/18
+
+1500<->2500
+
+- number of favorable outcomes
+- number of possible outcomes
+- circularity
+
 2024/06/17
 
 1500<->2500
