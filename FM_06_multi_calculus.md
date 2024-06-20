@@ -438,6 +438,15 @@
 
 ### Lecture 19
 
+2024/06/18
+
+1300<->2300
+
+- 2pi
+- angular velocity
+- unit speed is 1
+- velocity vector
+
 1000<->1500
 
 2024/06/17
