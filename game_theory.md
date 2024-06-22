@@ -484,6 +484,14 @@ REW
 
 # Lecture 7
 
+0000<->1000
+
+2024/06/20
+
+- perfect competition
+- Cournot, Betrand
+- payoffs
+
 2023/04/10
 
 4500<->6000
