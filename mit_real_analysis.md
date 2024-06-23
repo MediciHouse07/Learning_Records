@@ -880,6 +880,12 @@
 
 # Lecture 9
 
+0600<->1100
+
+2024/06/21
+
+- exp and log agree with each other
+
 0200<->0700
 
 2024/06/20
