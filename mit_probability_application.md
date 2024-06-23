@@ -1,5 +1,16 @@
 # Lecture 1
 
+2024/06/21
+
+1600<->2600
+
+- two rolling dices, think it as one experiment
+- is different from
+- tree based description
+- infinite number of outcomes
+- sample space is an infinite set
+- one particular outcome
+
 2024/06/20
 
 0600<->1600
