@@ -818,6 +818,16 @@ week1.2.2
 
 # Week4.6.1
 
+1900<->2900
+
+2024/06/21
+
+- trafficking
+- perpetrator
+- perpetrator, victim, circumstance
+- representative of moral cost bearer
+- prospective offeder
+
 2400<->2900
 
 2024/06/20
