@@ -67,6 +67,13 @@
 
 # Week1.Video.14
 
+2024/06/21
+
+0000<->0500
+
+- promissory note has higher legal implication
+- supplier can sue company who delay to pay
+
 2024/06/17
 
 ---
