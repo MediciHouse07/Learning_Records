@@ -818,6 +818,18 @@ week1.2.2
 
 # Week4.6.1
 
+0000<->1400
+
+2024/06/22
+
+- 1971
+- criminal liability
+- felony murder
+- bad crowd
+- with or without due process of law
+- due process
+- nullification
+
 1900<->2900
 
 2024/06/21
