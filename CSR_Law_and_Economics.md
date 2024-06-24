@@ -818,6 +818,16 @@ week1.2.2
 
 # Week4.6.1
 
+0300<->1300
+
+2024/06/23
+
+- pelnalty phase of the trial
+- adjudicate
+- act prejudices
+- ameliorate
+- untrammeled discretion
+
 0000<->1400
 
 2024/06/22
