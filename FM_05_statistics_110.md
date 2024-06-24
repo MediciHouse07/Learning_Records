@@ -105,6 +105,13 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+0000<->1000
+
+2024/06/23
+
+- no calculator is needed
+- is written on them
+
 0000<->1500
 
 2024/03/01
