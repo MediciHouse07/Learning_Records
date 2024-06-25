@@ -171,6 +171,14 @@
 
 ### Lecture 3:
 
+0000<->0500
+
+2024/06/24
+
+- ratify
+- separate of variable, first order linear equation
+- analogous thing
+
 3000<->4500
 
 2024/02/12
