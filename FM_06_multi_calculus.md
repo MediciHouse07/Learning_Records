@@ -438,6 +438,14 @@
 
 ### Lecture 19
 
+1600<->2100
+
+2024/06/24
+
+- work and line integral
+- displacement vector, change of position
+- energy to provide to have the particle move
+
 2024/06/18
 
 1300<->2300
