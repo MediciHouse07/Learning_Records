@@ -818,6 +818,14 @@ week1.2.2
 
 # Week4.6.1
 
+1000<->1500
+
+2024/06/24
+
+- due process of law
+- also connote fairness and justice
+- futile
+
 0300<->1300
 
 2024/06/23
