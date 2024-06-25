@@ -392,6 +392,15 @@ finished, 10000<->End,
 
 ## REX 2 2023/03/03
 
+1900<->3200
+
+2024/06/24
+
+- Cournot duopoly
+- perfect competition
+- batter for quantity
+- player 1's best response in react to player 2's each choice
+
 2023/03/03
 
 1500<->End
