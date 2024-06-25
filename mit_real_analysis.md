@@ -880,6 +880,14 @@
 
 # Lecture 9
 
+1500<->2000
+
+2024/06/24
+
+- -1 to n
+- -1-1-1-1
+- sequence have convergent sub sequence, not guaranteed
+
 1130<->1630
 
 2024/06/23
