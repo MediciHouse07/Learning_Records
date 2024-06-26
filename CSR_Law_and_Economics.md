@@ -818,6 +818,16 @@ week1.2.2
 
 # Week4.6.1
 
+1100<->End
+
+2024/06/25
+
+- capital sentencing
+- implicit
+- they can't constraint jury
+- articulate penal policy
+- take only what you can pay for, and take, and pay in full what you take
+
 1000<->1500
 
 2024/06/24
