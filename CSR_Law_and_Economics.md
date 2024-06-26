@@ -922,3 +922,14 @@ week1.2.2
 
 - governance structure
 - perpetrator
+
+
+# Week5.1.1
+
+2024/06/25
+
+0000<->0500
+
+- indefinable
+- eminent domain power
+- autonomy
