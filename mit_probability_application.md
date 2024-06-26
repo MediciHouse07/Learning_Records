@@ -2,6 +2,13 @@
 
 2600<->3100
 
+2024/06/25
+
+- you don't say something if you don't have to say
+- are disjoint
+
+2600<->3100
+
 2024/06/23
 
 2024/06/21
