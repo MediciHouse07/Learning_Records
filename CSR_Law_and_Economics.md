@@ -926,6 +926,14 @@ week1.2.2
 
 # Week5.1.1
 
+0000<->1000
+
+2024/06/26
+
+- tend to be struck from the list
+- 5th amendment
+- regulation, tell you what you could or could not
+- it is not about taking
 2024/06/25
 
 0000<->0500
