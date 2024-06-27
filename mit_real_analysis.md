@@ -880,6 +880,13 @@
 
 # Lecture 9
 
+1200<->2200
+
+2024/06/26
+
+- coefficient
+- bounded sequence have all sub sequences as convergent
+
 1500<->2000
 
 2024/06/25
