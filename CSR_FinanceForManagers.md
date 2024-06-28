@@ -67,6 +67,10 @@
 
 # Week1.Video.14
 
+2024/06/26
+
+- receivable increase, which part come from increase of sales, which part come from deteriation of days of collection
+
 2024/06/21
 
 0000<->0500
@@ -75,6 +79,10 @@
 - supplier can sue company who delay to pay
 
 2024/06/17
+
+# Week1.Video.15
+
+2024/06/26
 
 ---
 
