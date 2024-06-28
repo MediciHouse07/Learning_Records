@@ -105,6 +105,13 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2024/06/27
+
+1000<->2000
+
+- simplest non-trivial examples
+- trivial examples but worth of checking
+
 0000<->1000
 
 2024/06/23
