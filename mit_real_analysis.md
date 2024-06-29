@@ -880,6 +880,14 @@
 
 # Lecture 9
 
+1500<->2500
+
+2024/06/28
+
+- not all sequence have convergent sequence
+- a convergent sequence is bounded
+- sub sequence of xn=n is not bounded
+
 1200<->2200
 
 2024/06/26
