@@ -105,6 +105,15 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+2024/06/28
+
+0800<->1800
+
+- subtle distinction of choose 4 out of 10 and choose 5 out of 10
+- it's mysterious where it comes
+- not to choose is one option
+- n-1 choose n is 0, you can't choose n because there is not enough people
+
 2024/06/27
 
 1000<->2000
