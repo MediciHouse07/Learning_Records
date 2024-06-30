@@ -105,6 +105,13 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+0600<->1600
+
+2024/06/29
+
+- 0!=1 choose 0 is also 1
+- n-1 choose n is 0
+
 2024/06/28
 
 0800<->1800
