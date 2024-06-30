@@ -642,7 +642,21 @@
 
 # V Uncertainty
 
+https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
+
 ## 1
+
+0000<->1000
+
+2024/06/29
+
+- action, outcome become the same thing
+- deterministic
+- after choose, you don't know what would be the outcome
+- handwritting
+- preference over alternative
+- preference over outcomes
+- preference alternative outcome
 
 2023/06/12
 
