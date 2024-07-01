@@ -105,6 +105,16 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+1500<->2500
+
+2024/06/30
+
+- x choose y
+- n object, k times, with replacement, order doesn't matter
+- put k indistinguishable particles into n distinguishable boxes
+- how many  ways, and n choose k
+- physics problems behave like non-label case
+
 0600<->1600
 
 2024/06/29
