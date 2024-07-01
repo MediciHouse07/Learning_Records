@@ -646,6 +646,15 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 ## 1
 
+1000<->End
+
+2024/06/30
+
+- alternative, is L(Z)
+- layer one outcome, Z, whether winning lotery
+- alternative, which lottery
+- p, one lottery, q another lottery
+
 0000<->1000
 
 2024/06/29
