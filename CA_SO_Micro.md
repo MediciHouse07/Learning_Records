@@ -678,6 +678,22 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 ## 2
 
+0000<->1000
+
+2024/07/01
+
+- uniformity
+- disperse
+- outcome equally same for you
+- DM prefers less dispersed lottery when dispersion is measured by sig pz - 1/z square
+- Z has three outcomes, representing outcomes
+- p q r and so on represent alternatives
+- uniformity, consistent, invary, unchanged
+- preference for greatest likelihood
+- preference for yy ZZ
+- preference can be in any form, it can ignore the outcomes
+- attach some value to some outcomes
+
 0000<->1500
 
 2023/06/24
