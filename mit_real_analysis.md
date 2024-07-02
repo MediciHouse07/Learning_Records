@@ -882,6 +882,13 @@
 
 2000<->2500
 
+2024/07/01
+
+- how to understand the topic jump from subsequence to limsup
+- they exist, means what
+
+2000<->2500
+
 2024/06/30
 
 1500<->2500
