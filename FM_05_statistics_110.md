@@ -1503,6 +1503,15 @@ E((Y-E(Y|X))hx)=0, residual, uncorrelated;
 3300 mins, VAR(X|Y), EVE's Law;
 3700 mins, add variance, just like Chi square
 ### Lecture 28 <br>
+
+2000<->3000
+
+2024/07/01
+
+- 2400 Jensen inequality
+- convex, second derivative
+- derivative doesn't exist at the corner
+
 2022/03/14: 💫 Che inequality [Financial math expectation problems](https://github.com/MediciHouse07/Learning_Records/blob/main/finance_math.md#lecture-3-) <br>
 2022/04/11:  0000<->0830, 0500 mins, category error;
 0727 mins, LOTP;
