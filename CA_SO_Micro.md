@@ -678,6 +678,17 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 ## 2
 
+0800<->End
+
+2024/07/02
+
+- it would look like this, if it looks like this
+- rational means the choice behavior can be rationalized
+- expected utility preferences
+- expected utility
+- commonly used preference
+- utility has no unit
+
 0000<->1000
 
 2024/07/01
