@@ -1120,6 +1120,16 @@ geometric dist is an analogous of exponential dist;
 #### REX 1 2022/04/02
 #### REX 2 2022/07/22
 
+0000<->1000
+
+2024/07/02
+
+- in continuous time
+- in discrete time
+- memoriless, you are good as new
+- you can't make partial progress, you have gradual progress
+- 1-CDF
+
 2022/07/22:
 
 End minus 15 min<->End
