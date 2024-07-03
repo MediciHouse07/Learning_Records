@@ -882,6 +882,12 @@
 
 2000<->2500
 
+2024/07/02
+
+- limit don't always exist
+
+2000<->2500
+
 2024/07/01
 
 - how to understand the topic jump from subsequence to limsup
