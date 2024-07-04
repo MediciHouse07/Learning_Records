@@ -1130,6 +1130,12 @@ geometric dist is an analogous of exponential dist;
 #### REX 1 2022/04/02
 #### REX 2 2022/07/22
 
+3000<->4000
+
+2024/07/03
+
+- constant with respect to z
+
 1600<->3000
 
 2024/07/02
