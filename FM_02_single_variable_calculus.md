@@ -143,6 +143,16 @@ A modern view of economy
 4724 mins, x0 is the first guess, xn+1=xn-f(xn)/f'(xn)
 ### Lecture 14 <br>
 
+3900<->End
+
+2024/07/03
+
+- linear approximation
+- 4400 inequalities
+- use the first derivative to understand the inequalities
+- hare, tortoise
+- taylor series
+
 2022/11/24
 
 3000<->End
