@@ -995,6 +995,16 @@ participating;
 4800 mins, integral by part
 ### Lecture 14 <br>
 
+3400<->4000
+
+2024/07/02
+
+- independent var(x+y)=VAR(x)+var(Y)
+- i.i.d identical independent distribution
+- symmetry
+- product of indicator variable is an indicator variable
+- 3939 mins, second moment of binomial
+
 3400<->End
 
 2023/03/22
