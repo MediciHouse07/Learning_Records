@@ -1120,6 +1120,21 @@ geometric dist is an analogous of exponential dist;
 #### REX 1 2022/04/02
 #### REX 2 2022/07/22
 
+1600<->3000
+
+2024/07/02
+
+- exponential is the only continuous memoriless
+- MGF, another way to describe distribution
+- function of random variable is a random variable
+- moment of distribution
+- taylor series
+- all the moment sitting there in the taylor series
+- MGF determines the distribution, same MGF same distribution
+- same CDF
+- aside from
+- MGF of X+Y is E(et(X+Y)) if independent
+
 0000<->1000
 
 2024/07/02
