@@ -732,6 +732,17 @@ End mins
 
 ### Lecture 10 <br>
 
+3000<->End
+
+2024/07/03
+
+- Putnam
+- local maxima
+- middle maxima, conner solution maxima
+- not independent
+- 3900 st Petersburg paradox
+- gambling addict
+
 2023/01/05
 
 3440<->End
