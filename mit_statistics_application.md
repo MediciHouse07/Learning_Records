@@ -1,4 +1,13 @@
+https://www.youtube.com/watch?v=TSkDZbGS94k&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0&index=3
+
 # Lecture 3
+
+0300<->0800
+
+2024/07/04
+
+- i.i.d
+- degree of freedom in searching from the distribution
 
 0000<->1000
 
