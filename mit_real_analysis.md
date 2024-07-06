@@ -880,6 +880,12 @@
 
 # Lecture 9
 
+2500<->3000
+
+2024/07/04
+
+- bigger sub set would have greater sup, lower sub set would have greater inf
+
 2000<->2500
 
 2024/07/02
