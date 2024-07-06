@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=7Kb0eXeCBuU
 
+1600<->2100
+
+2024/07/04
+
+- business plan, revenue plan
+- balance sheet
+- next five years plan
+
 1000<->1500
 
 2024/07/01
