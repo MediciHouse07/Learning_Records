@@ -1,3 +1,11 @@
+# Week2.video.1
+
+2024/07/06
+
+- cyclical, seasonal
+- distribution company low margin, many reference heavy inventory
+
+
 # week1.Video.7
 
 2024/06/11
