@@ -107,6 +107,23 @@ PDF PMS CDF, always forgot the difference between them
 #### REX 2 2022/08/22
 #### REX 1 2022/02/23
 
+3500<->End
+
+2024/07/06
+
+- this sum collapse to that sum
+- vandermonde
+- 4000 non-naive probability
+- not assume equally likely outcome
+- probability space, sample space
+- S P
+- P take S as input, sub set of S, event
+- [0,1]
+- P(empty)=0, P(S)=1
+- empty set to occur, want impossible event occur
+- tautology
+- two axioms, countbly infinite sum
+
 2500<->3500
 
 2024/07/05
