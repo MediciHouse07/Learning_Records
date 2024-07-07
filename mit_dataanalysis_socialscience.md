@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 # Lecture 1
 
+2024/07/06
+
+2500<->3000
+
+- audits, backcheckes
+- reported pollution, actual pollution
+- treatment group, control group
+- firm is not human, you can collect more data than human
+- downside, upside
+- autism
+
 1000<->2500
 
 2024/07/05
