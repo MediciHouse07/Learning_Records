@@ -1,4 +1,16 @@
+# MAN425
+https://www.youtube.com/watch?v=ACK1u7nDxIQ&list=PLaLOVNqqD-2Gv96OSVRqwROJV0GsfEtwn&index=3
+
 # Lecture 3
+
+0000<->0500
+
+2024/07/06
+
+- find money for taking project
+- V=D+E
+- 80% of money is from internal fund
+- issue equity is higher than issuing debt
 
 0000<->1500
 
