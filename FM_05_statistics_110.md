@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
 35 lectures in TTL
 ### Questions: <br>
 PDF PMS CDF, always forgot the difference between them
@@ -1140,6 +1142,22 @@ geometric dist is an analogous of exponential dist;
 - logistic distribution
 
 ### Lecture 16 <br>
+
+0000<->End
+
+2024/07/05
+
+- exponential distribution
+- lambda
+- PDF, probability density function
+- CDF culmulative distribution function
+- integrate PDF get CDF
+- 0 to x integration
+- 1-e^(-lambdax)
+- moment were briefly mentioned in here also
+- waiting to get a call, memoriless property
+-conditional expectation was briefly mentioned in the last two minutes 1600<->1800
+
 2022/04/02: 💫 finished, 1144 memoriless propoerty, exponential is the only memoriless distribution; 1704 mins E(X|x>a) = a+E(X-a|x>a) = a + 1/lambda
 
 2022/05/08: 
