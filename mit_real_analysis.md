@@ -880,6 +880,12 @@
 
 # Lecture 9
 
+2024/07/06
+
+3000<->3500
+
+- for monotone decreasing, set of sup, an+1<=an
+
 2700<->3200
 
 2024/07/05
