@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 # Lecture 1
 
+3000<->4500
+
+2024/07/07
+
+- data analysis as a pre-alert to standard research
+- population growth
+- there are many factors, but to tell story you can have the data back you
+- the stickness of human behavior, without a physical school, you don't call it study
+- physical buildings which looks useless to me have a significant level of importance to them
+- data analysis as a pre-alert sometimes may be the standard research due to sociology can't be put into an experiment
+- hidden variable
+
 2024/07/06
 
 2500<->3000
