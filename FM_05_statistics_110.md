@@ -274,6 +274,17 @@ PDF PMS CDF, always forgot the difference between them
 2022/02/23: finished
 ### Lecture 3 <br>
 
+2024/07/07
+
+0000<->1500
+
+- birthday problem
+- Dec 30 1st
+- pigeonhole principle
+- approximate birthday no match to exponential
+- futile
+- unobjectionable
+
 2022/09/02
 
 3000<->End
