@@ -880,6 +880,13 @@
 
 # Lecture 9
 
+0000<->0500
+
+2024/07/08
+
+- two important theorems
+- 0200, binomial thm by using induction
+
 2024/07/06
 
 3000<->3500
