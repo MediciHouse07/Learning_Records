@@ -1596,6 +1596,14 @@ End mins
 4523 mins, E(X) = E(X|A)P(A) + E(E|Ac)P(Ac) and its proof, using LOTP;
 4642 mins, envolop paradox, the same as the movie 21 points said;
 ### Lecture 26 <br>
+
+0000<->0500
+
+2024/07/07
+
+- law of total probability
+- LOTP, condition things
+
 2022/04/11: finished, 0300 mins LOTP;
 2100 mins, partial progress;
 2320 mins, iteration of Ew HH;
