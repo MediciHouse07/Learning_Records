@@ -1603,6 +1603,14 @@ End mins
 3400 mins, g(x)=E(Y|X=x), E(Y|X)=g(X);
 3600 mins, eg E(Y|X)is a r.v.
 ### Lecture 27 <br>
+
+0000<->0800
+
+2024/07/07
+
+- condition on event, condition r.v.
+- what would happen if xx
+
 2022/04/13: finished,0120 mins, best minimize mean square error is the purpose of E(X|Y)
 0600 mins, E(Y|X=x) is function of x;
 0900 mins, E(h(x)Y|X)=h(x)E(Y|X) taking out what's known;
