@@ -8,6 +8,13 @@
 
 ### Lecture 5 <br>
 
+2024/07/07
+
+0000<->0500
+
+- which is due on
+- market efficiency, no bubbles
+
 ### Lecture 6 <br>
 
 ### Lecture 16
