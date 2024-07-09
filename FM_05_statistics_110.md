@@ -315,6 +315,15 @@ PDF PMS CDF, always forgot the difference between them
 2022/03/24: finished, the last problem is hard, I might need to listen the question again, and has something to do with taylor series, 1-1/e
 ### Lecture 4 <br>
 
+0000<->1000
+
+2024/07/08
+
+- matching, inclusion exclusion
+- geometric series, taylor series e to the x
+- discret problem was transferred to continuous problem in the form of e to the x
+- pessimist, optimist
+
 2022/09/25
 
 4500<->End
