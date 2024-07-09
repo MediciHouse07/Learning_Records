@@ -2,6 +2,13 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 # Lecture 1
 
+4500<->5500
+
+2024/07/08
+
+- job oppo
+- play tricks to us
+
 3000<->4500
 
 2024/07/07
