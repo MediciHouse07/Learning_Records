@@ -1,3 +1,14 @@
+# Week2.video.2
+
+2024/07/08
+
+- concept number opinion
+- gross margin
+- opex
+- ebitda/sales, management skills
+- ebit/fin results
+- big numbers in the last year, evolutions over the years 04-07(more sales, longer to pay), operational ratios
+
 # Week2.video.1
 
 2024/07/06
