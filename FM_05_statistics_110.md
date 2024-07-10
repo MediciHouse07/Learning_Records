@@ -274,6 +274,14 @@ PDF PMS CDF, always forgot the difference between them
 2022/02/23: finished
 ### Lecture 3 <br>
 
+1500<->2500
+
+- one day apart
+- full samples space is an event that always occurs
+- second axioms is true require Ai...An are disjoint events
+- continues in these days, of axioms of probability, in other subjects, philosophy, physics
+- sainity check for if a probability is a probability
+
 2024/07/07
 
 0000<->1500
