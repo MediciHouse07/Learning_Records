@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=YzdxbWqtiYg
 
+https://www.youtube.com/watch?v=ZyDktXm6v-s&list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP&index=2
+
 # Lecture 1
+
+5500<->End
+
+2024/07/09
+
+- good combination for xx
 
 4500<->5500
 
@@ -46,3 +54,18 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 - if you breathe them, when you breathe them
 - degree of node, in plain English
 - 0950 mins, data analysis way of interpretating things 
+
+# Lecture 2
+
+0000<->1500
+
+- finance, gamble, insurance
+- set theory in probability theory
+- where set theory and probability deviates
+- probability would describe intersection without notation, using AB only
+- disjoint, mutually exclusive
+- exhausted, union is the sample space
+- mutually exclusive and exhaustive
+- the formula for probability complement is useful because sometimes it is hard to calculate the complement
+- check if a function is a probability, ana it to check if it is a utility function
+- simple sample space, is useful for experiment
