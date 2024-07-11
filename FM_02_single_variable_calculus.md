@@ -1,4 +1,7 @@
 39 Lectures TTL
+
+https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
+
 ### Lecture 1 <br>
 
 2024/06/16
@@ -407,6 +410,14 @@ minf'<=MVT=f'<=maxf';
 ### Lecture 19
 #### REX 2 2022/10/25
 #### REX 1 2022/05/07
+
+2024/07/10
+
+3000<->3700
+
+- keep ongoing with this
+- it is derived from a therom
+- taylor series form of result
 
 2023/02/20
 
