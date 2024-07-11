@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 3
+
+2500<->3500
+
+2024/07/10
+
+- axiom 0, probability is within 0 and 1
+- disjointification
+- wishful thinking and questionmark
+
+----
+
+
 35 lectures in TTL
 ### Questions: <br>
 PDF PMS CDF, always forgot the difference between them
