@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 https://www.youtube.com/watch?v=ZyDktXm6v-s&list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP&index=2
 
+# Lecture 2
+
+3500<->4800
+
+2024/07/10
+
+- for at least in my opinion
+- independent
+- if we know one occur, it tells us noting of whether the other event would occur
+- apply probability in number of success shooting
+
+---
+
+
 # Lecture 1
 
 5500<->End
