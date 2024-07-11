@@ -57,7 +57,23 @@ https://www.youtube.com/watch?v=ZyDktXm6v-s&list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2
 
 # Lecture 2
 
+1500<->3500
+
+2024/07/09
+
+- the simple sample space can meet the axiom of probability, that is one of its base
+- license plate
+- license plate can have with replacement and without replacement
+- exclaimation
+- ordered arrangement of objects
+- order mattered is called permutation
+- unordreed mattered is called combination
+- 3000 mins, participated factorial story
+- 
+
 0000<->1500
+
+2024/07/09
 
 - finance, gamble, insurance
 - set theory in probability theory
