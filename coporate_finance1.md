@@ -1,3 +1,16 @@
+
+https://www.youtube.com/watch?v=TY6bmLjd5lg
+
+# Lecture 5
+
+2024/07/11
+
+0200<->0700
+
+
+---
+
+
 ### Lecture 1 <br>
 
 ### Lecture 2 <br>
