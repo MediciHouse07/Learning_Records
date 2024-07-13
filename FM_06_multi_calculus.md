@@ -1,3 +1,21 @@
+https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
+
+# Lecture 19
+
+2100<-3100
+
+2024/07/12
+
+- velocity vector
+- expectation like work
+- integrate on the force times probability function
+- be careful on what the symbol mean
+- r is not a scalar quantity, r is a vector, no idea on how to integrate on that
+
+
+---
+
+
 ### Lecture 8
 2022/03/27: 💫 finished,  but skipped the contow part, I think I learned it before
 
