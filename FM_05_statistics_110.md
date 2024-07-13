@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 17
 
+1700<->2700
+
+2024/07/12
+
+- bookkeeping device
+- exist on some internal, finite version of linearlity, we don't know if linearlity valid on infinite case
+- take nth moment evaluate at xx
+- same MGF determine the same distribution, CDF and so on
+
+# Lecture 17
+
 2024/07/11
 
 0700<->1700
