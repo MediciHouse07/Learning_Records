@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 17
+
+2024/07/11
+
+0700<->1700
+
+- memoriless is the property of the distribution
+- a proof that exponential is the only continuous memoriless function
+
+
 # Lecture 3
 
 2500<->3500
