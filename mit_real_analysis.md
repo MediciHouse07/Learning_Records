@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 9
+
+2024/07/11
+
+0000<->0500
+
+---
+
+
 # Lecture 1
 
 5500<->End
