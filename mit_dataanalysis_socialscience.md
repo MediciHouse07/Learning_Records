@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 https://www.youtube.com/watch?v=ZyDktXm6v-s&list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP&index=2
 
+# Lecture 6
+
+0000<->0600
+
+2024/07/12
+
+- generating random draw is in the previous lecture, program lecture 5
+- xx task due Wed
+- probability integral transformation
+- induced support
+- from uniorm to any continuous distribution
+
 # Lecture 2
 
 3500<->4800
