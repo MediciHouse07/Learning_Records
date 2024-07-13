@@ -1,3 +1,14 @@
+https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
+
+# week2.video.3
+
+2024/07/11
+
+- sales vs receivable
+- half a year in receivable
+- xx months to collect
+- receivables/daily sales
+
 # Week2.video.2
 
 2024/07/08
