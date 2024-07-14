@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+#Lecture 17
+
+2024/07/13
+
+2700<->3700
+
 # Lecture 17
 
 1700<->2700
