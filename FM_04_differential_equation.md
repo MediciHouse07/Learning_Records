@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
+
+# Lecture 3
+
+2024/07/13
+
+1000<->2000
+
+- different naming but the same model
+
+---
+
 ### Lecture 1:
 
 2023/02/23
