@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
-#Lecture 17
+# Lecture 17
+
+3700<->4700
+
+2024/07/14
+
+- laplace rule of succession
+- prior, posterior
+
+# Lecture 17
 
 2024/07/13
 
