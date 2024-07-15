@@ -1,3 +1,25 @@
+https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
+
+# Lecture 5
+
+2024/07/14
+
+0000<->1000
+
+- stochastic process
+- collection or random variables indexed by time
+- {Xt}t>=0
+- probability distributions over a space of paths
+- as t goes on
+- dependency
+- long term behavior
+- law of large numbers CLT
+- In probability theory, the law of large numbers (LLN) is a mathematical theorem that states that the average of the results obtained from a large number of independent random samples converges to the true value, if it exists.
+- In probability theory, the central limit theorem (CLT) states that, under appropriate conditions, the distribution of a normalized version of the sample mean converges to a standard normal distribution
+- small probability event; event of small probability; can't be found from wiki
+
+---
+
 [Link](https://www.youtube.com/watch?v=92WaNz9mPeY&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=6)
 # Trace:
 projection matrix, least square method matrix, symetry matrix, correlation matrix; MGF, maximum likelihood estimation, time series; taylor series, derivative, intergral
