@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 3
+
+3500<->4900
+
+2024/07/15
+
+- deMontmort's matching problem
+- 1713
+- infaintcy
+- taylor series, 1-1/e
+
 # Lecture 17
 
 3700<->4700
