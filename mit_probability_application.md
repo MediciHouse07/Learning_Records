@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=13
+
+# Lecture 13
+
+2024/07/14
+
+0000<->1500
+
+- binary representation for real number
+
+---
+
 # Lecture 1
 
 2024/06/27
