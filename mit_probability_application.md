@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+1500<->2700
+
+2024/07/15
+
+- poisson process
+- Markov chains with memory
+- given number of time, how many jobs
+- number of success S in n time slots
+- number of time slots given unit arrival
+- geometric distribution, 1-p to t-1 times p
+- sequence of ones
+
+# Lecture 13
+
 2024/07/14
 
 0000<->1500
