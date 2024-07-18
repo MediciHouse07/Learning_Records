@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 7
+
+2024/07/17
+
+0000<->1000
+
+- 0247 gambler's ruin problem
+- B is "ruined" aka bankruptcy
+- 0700 mins random walk
+- absorbing state
+
 # Lecture 4
 
 2024/07/16
