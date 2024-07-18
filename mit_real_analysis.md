@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 9
 
+2024/07/17
+
+1500<->2500
+
+- 1834 mins Limsup Liminf
+- does every bounded sequence have a convergent sub sequence
+
+# Lecture 9
+
 0500<->1500
 
 2024/07/14
