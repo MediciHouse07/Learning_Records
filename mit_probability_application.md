@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+2024/07/16
+
+2700<->3700
+
+- string of losing days
+- until the first success come
+- geometric can't have it starting with 1
+- sum of inter arrival times
+
+# Lecture 13
+
 1500<->2700
 
 2024/07/15
