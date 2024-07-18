@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+2024/07/17
+
+2200<->3200
+
+- first string of losing days
+- geometric start from 1
+- but L can't take 0
+- having foresight would make it to be certain
+- it turns out L is geometric with parameter p, instead of L+1
+- the length of red colour L, not very follow why it can be used ,OK, it can have length 1 and in the mean time the structure is pertained
+
+# Lecture 13
+
 2024/07/16
 
 2700<->3700
