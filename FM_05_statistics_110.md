@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 4
+
+2024/07/16
+
+0000<->1000
+
+- the first k are constraint and only can have one order
+- at least one match and no match
+- complement
+- competing forces end in 1/e
+
 # Lecture 3
 
 3500<->4900
