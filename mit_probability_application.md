@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+3200<->3700
+
+2024/07/18
+
+# Lecture 13
+
 2024/07/17
 
 2200<->3200
