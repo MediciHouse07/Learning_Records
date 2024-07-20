@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 7
 
+1000<->1500
+
+2024/07/18
+
+- first step analysis
+- TBRT
+
+# Lecture 7
+
 2024/07/17
 
 0000<->1000
