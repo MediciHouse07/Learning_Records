@@ -2,6 +2,14 @@ https://www.bilibili.com/video/BV1KL411t7Eb/?spm_id_from=333.337.search-card.all
 
 # Lecture 2
 
+0000<->0500
+
+2024/07/20
+
+- characteristic function
+
+# Lecture 2
+
 2024/07/18
 
 0000<->1000
