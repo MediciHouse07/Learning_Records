@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
-# Lecture 10
+# Lecture 7
 
 2024/07/20
 
