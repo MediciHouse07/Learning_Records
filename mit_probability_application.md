@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+3700<->4200
+
+2024/07/20
+
+- this part need convolution
+- find distribution of Yk
+
+# Lecture 13
+
 3200<->3700
 
 2024/07/18
