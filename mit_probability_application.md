@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 13
 
+4200<->5000 End
+
+2024/07/21
+
+- stream send to different server
+- probability p when there is a signal
+- probability q sending to a server
+- function of independent things are independent
+- the last minutes is how to reason it is Bernoulli process
+
+# Lecture 13
+
 3700<->4200
 
 2024/07/20
