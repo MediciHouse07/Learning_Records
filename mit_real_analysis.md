@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 2
 
+0700<->1200
+
+2024/07/21
+
+- essentially
+- 1129, the notion should be map instead of function
+
+# Lecture 2
+
 0000<->0500
 
 2024/07/20
