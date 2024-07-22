@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 7
 
+1700<->2500
+
+2024/07/21
+
+- start by guessing a power, for index like term
+- repeated root
+- explicit solution, recursive solution
+
+# Lecture 7
+
 2024/07/20
 
 1000<->1600
