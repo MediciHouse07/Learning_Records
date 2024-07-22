@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 10
+
+2024/07/20
+
+1000<->1600
+
+- it seems p and pi are not the same, pi is the target, p is the chance of wining each individual round, pi is the chance of wining the game starting in i
+
 # Lecture 7
 
 1000<->1500
