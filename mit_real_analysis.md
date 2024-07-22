@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 2
+
+0000<->0500
+
+2024/07/20
+
+- same size, means it can be paired off
+- 0534 functions
+- function take element from A to element from B, unique element
+
 # Lecture 9
 
 2500<->3500
