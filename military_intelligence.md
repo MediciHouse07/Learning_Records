@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=BWzk_sClss4&list=PL8nt2WoztgBnZvWMoculd2rPHcPMb6
 
 # Lecture 1
 
+2024/07/21
+
+0000<->1000
+
+# Lecture 1
+
 2024/07/20
 
 0000<->0200
