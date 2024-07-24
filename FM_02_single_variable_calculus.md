@@ -2,6 +2,20 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 35
+
+2024/07/22
+
+0000<->0800
+
+- deal with infinity
+- L'Hopital's Rule
+- L'Hospital's rule
+- 0/0 in determinant form
+- lim, and taking derivative, there is a difference
+
+---
+
 ### Lecture 1 <br>
 
 2024/06/16
