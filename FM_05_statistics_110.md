@@ -2,6 +2,28 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 7
 
+2024/07/22
+
+2500<->4100
+
+- take a limit to the unfair game solution
+- find it surprising
+- as x is going to 1
+- TBR LPT
+- 3300 random variable start
+- differentiate events
+- A B C for amount x y z, events way of denoting, running out of notation
+- 3500 trying to interpret random variable
+- what is variable
+- x is a symbol stands for a number
+- he didn't explain what is variable
+- but he is going to explain what is random variable
+- R.V. is a function from sample space to R
+- reconcile
+- think of as the numerical summary
+
+# Lecture 7
+
 1700<->2500
 
 2024/07/21
