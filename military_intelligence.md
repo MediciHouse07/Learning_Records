@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=BWzk_sClss4&list=PL8nt2WoztgBnZvWMoculd2rPHcPMb6
 
 # Lecture 1
 
+0900<->1500 End
+
+2024/07/22
+
+- commodity charting
+- resource moving
+- files moving
+- criminal intelligence analysis
+- The covent garden journal
+- Orlando Wilson
+
+# Lecture 1
+
 2024/07/21
 
 0000<->1000
