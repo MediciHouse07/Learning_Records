@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=BWzk_sClss4&list=PL8nt2WoztgBnZvWMoculd2rPHcPMb6cBM&index=1
 
+# Lecture 2
+
+0000<->1000
+
+2024/07/23
+
+- intelligence information
+- information, raw material
+- analysis is the key component
+- collation dissemination
+- open, closed
+
 # Lecture 1
 
 0900<->1500 End
