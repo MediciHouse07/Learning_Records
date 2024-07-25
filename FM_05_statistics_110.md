@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 7
 
+4100<->5100 End
+
+2024/07/23
+
+- randomness comes from experment
+- then map the event to a real number
+- Defn Bernoulli distribution
+- map to 0 or 1
+- X=1 is an event
+- binomial n,p
+- map to 0 1 2 3 N
+- distribution, what is p X=1 what is p X=2
+- distribution is P(X=k)
+
+# Lecture 7
+
 2024/07/22
 
 2500<->4100
