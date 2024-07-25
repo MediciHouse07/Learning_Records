@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 35
 
+0900<->1900
+
+2024/07/23
+
+- fa and ga has to be 0
+- right hand limit exists
+- reinforce
+- started out with
+- differentiate ratio of functions
+- preceding
+- right side exist, right side also exist
+- f' of a doesn't need to exist
+- two hypothesis fa ga 0, right hand limit exists
+
+# Lecture 35
+
 2024/07/22
 
 0000<->0800
