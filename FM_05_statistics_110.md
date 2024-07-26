@@ -1,5 +1,24 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 8
+
+0000<->2000
+
+2024/07/24
+
+- a family of binomial distribution
+- n independent ber p trials, p is probability of success
+- sum of indicator variables
+- sum of indicator variables which are formed by bernouly p
+- i.i.d tell you even the r.v.s have the same distributions, but they can still be different r.v.s think about binomial distribution
+- r.v. is a function, assign number to elements in sample sapce
+- X=7 is an event
+- X<=x is an event
+- Fx=PX<=x
+- CDF is also a representation of distribution
+- two sanity checks, p>=0 sum p =1
+- binomial therom (p+q)^1; k start from 0
+
 # Lecture 7
 
 4100<->5100 End
