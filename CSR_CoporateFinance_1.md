@@ -1,3 +1,24 @@
+https://www.coursera.org/learn/corporate-finance-essentials/lecture/mey84/1-what-is-the-cost-of-capital
+
+# Week4.1.2
+
+2024/07/24
+
+- in terms of return; in terms of risk
+- weighted average cost of capital
+- component of cost of capital
+- CAMP estimate
+- COP
+- WACC is not related to CFs, is related to Risk
+- risk bear measurement
+- disperse
+- approximately right vs precisely wrong
+- weighted number between debt and equity
+- convertable debt
+- two or more terms
+
+---
+
 # Week 2
 ## 1-2
 
