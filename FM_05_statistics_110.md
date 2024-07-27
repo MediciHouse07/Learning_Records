@@ -2,6 +2,28 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 8
 
+2024/07/25
+
+2000<->4000
+
+- add two functions, in the same domain
+- compute both functions and add value then you have new functions
+- function of random variable is random variable
+- sum of n+m i.i.d
+- 2550 mins convolution
+- LOTP how to write it correctly
+- =j
+- sum up to k
+- independent means we know something doesn't give additional information on another
+- meas you can cross the given part
+- p to the k is not dependent on j, taking it out
+- vandermonde 3000 mins
+- 3200 mins second proof of vandermonde identity
+- squicky
+- X=#aces is a function
+
+# Lecture 8
+
 0000<->2000
 
 2024/07/24
