@@ -1,5 +1,51 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.6
+
+2024/07/26
+
+- add more variety, how does it add to the business in essence
+- how does it drive days of inventory, up or down
+- turnover inverse of days of inventory
+- turnover turns a twice, means days of inventory is 180
+
+# week2.video.5
+
+2024/07/26
+
+# week2.video.4
+
+2024/07/26
+
+- is it a problem of management
+- is it customer's problem
+
+0000<->1000
+
+2024/07/26
+
+- little x is defined on real x
+- PMF non negative, and can add up to 1
+- CDF is entire distribution
+- axiom of probability 0600 mins
+- CDF F
+- properties of CDF, increasing, right continuous, Fx->0, as x-> minus infinity and vice versa
+
+# Lecture 8
+
+4000<->5000 End
+
+2024/07/26
+
+- n choose k, k>n the choose is 0
+- Hypergeometric distribution 4400 mins
+- k is from 0 in hypergeometric
+- in some cases were n is extreamly big, hypergeometric can be approximated to binomial
+- otherwise it wouldn't be added up to 1
+- proof for the vandermonde for the third time
+- 4830 mins, help you to think why the CDF as the <= sign instead of another direction
+- continuous CDF can take negative number, discrete CDF can only take positive number
+
 # week2.video.5
 
 2024/07/25
