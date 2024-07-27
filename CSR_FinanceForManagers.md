@@ -1,5 +1,25 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.5
+
+2024/07/25
+
+- always put a person behind the number
+
+# week2.video.4
+
+2024/07/25
+
+- always put a person behind the number
+
+
+# week2.video.3
+
+2024/07/25
+
+- if I sell 360 euro a year, I took 3 months to collect, 1 * 90 in receivable
+- receivables / daily sales
+
 # week2.video.3
 
 2024/07/11
