@@ -1,5 +1,33 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 9
+
+0000<->1000
+
+2024/07/26
+
+- little x is defined on real x
+- PMF non negative, and can add up to 1
+- CDF is entire distribution
+- axiom of probability 0600 mins
+- CDF F
+- properties of CDF, increasing, right continuous, Fx->0, as x-> minus infinity and vice versa
+
+# Lecture 8
+
+4000<->5000 End
+
+2024/07/26
+
+- n choose k, k>n the choose is 0
+- Hypergeometric distribution 4400 mins
+- k is from 0 in hypergeometric
+- in some cases were n is extreamly big, hypergeometric can be approximated to binomial
+- otherwise it wouldn't be added up to 1
+- proof for the vandermonde for the third time
+- 4830 mins, help you to think why the CDF as the <= sign instead of another direction
+- continuous CDF can take negative number, discrete CDF can only take positive number
+
 # Lecture 8
 
 2024/07/25
