@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 9
 
+2024/07/27
+
+1000<->2500
+
+- increasing, right continuous, fx-0 x->-infinite
+- if and only if, secure CDF
+- independent CDF
+- geometric series, times
+- arithmetric series, add
+- 1 1 1 1 3 3 5 5 5
+- weighted average, unweighted average
+- high weight for event that is more probable to happen
+
+# Lecture 9
+
 0000<->1000
 
 2024/07/26
