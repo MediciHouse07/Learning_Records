@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=YzdxbWqtiYg
 
 https://www.youtube.com/watch?v=ZyDktXm6v-s&list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP&index=2
 
+# Lecture 2
+
+2024/07/27
+
+4800<->10300
+
+- B occurs tell you nothing about probability of A
+- mutually exclusive and exhaustive sets
+- sets are exclusive sets, intersection of sets are also exclusive sets
+- false positive, false negative
+
 # Lecture 6
 
 0000<->0600
