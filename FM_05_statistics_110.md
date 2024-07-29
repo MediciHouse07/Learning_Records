@@ -1,5 +1,32 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 10
+
+2024/07/28
+
+0000<->0500
+
+- expectation doesn't exist, divergent
+- a proof on linearity
+
+# Lecture 9
+
+2024/07/28
+
+2500<->5000
+
+- indicator r.v.
+- E(X)=P(A)
+- 2900 mins, choose president story
+- j=k-1
+- k=j+1
+- 3200 mins, linearity
+- E(X+Y) = EX+EY even if X and Y are dependent
+- a lot of work
+- 4100 mins, geometric
+- # failures before the first success
+- sainity check for geometric series
+
 # Lecture 9
 
 2024/07/27
