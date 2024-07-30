@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.8
+
+2024/07/29
+
+- tell you if the company is well managed
+- payable/purchase PL/365
+- inventory cogs bs/365
+- receivable/sales income statement/365
+
+# week2.video.7
+
+2024/07/29
+
+- days of payment [ payable and purchase
+- days of collection [ receivable and sales, days of inventory[ cost and inventory
+- box of invoices haven't paid the suppliers
+- check agreed period for payment, contract versus actual
+- stock initial + purchase - COGS = final stock
+- COGS roughly equal to purchase
+- purchase is in P&L
+
 # week2.video.6
 
 2024/07/26
