@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 10
 
+2024/07/29
+
+0500<->2500
+
+- sum over x, sum over y
+- versus sum over pebbles
+- negative binomial is a generalization of binomial
+- number of failures before rth success
+- r success,p probability of being success
+- n failure
+- before, between x and y
+- geometric can start from 1, it can also start from 0
+
+# Lecture 10
+
 2024/07/28
 
 0000<->0500
