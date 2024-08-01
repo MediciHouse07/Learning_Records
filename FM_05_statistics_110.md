@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/07/31
+
+2000<->4200
+
+- pois is a approximation
+- binomial np converge to poisson
+- when n is large, p is small
+- holding the product np = lambda constant
+- definition of e to x, compound interest
+- independent and exactly binomial p, then you can use binomial
+- and assume 0 and 1 as value of random variable
+- # triple matches
+- lambda is known 
+- X = ? in the poisson formula means number of matching tripplets
+- E(X) where n choose 3 is not related to ?
+
+# Lecture 11
+
 0000<->2000
 
 2024/07/30
