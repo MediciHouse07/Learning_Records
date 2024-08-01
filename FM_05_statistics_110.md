@@ -1,5 +1,50 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 11
+
+0000<->2000
+
+2024/07/30
+
+- sympathetic magic
+- adding R.V. is not the same as adding PMFs
+- R.V. house, distribution blueprint
+- 0500 mins, random house, doesn't specify to put a door over where
+- poisson distribution 0630 mins
+- it is a discrete distribution
+- PX=k = e(-lambda)lambda(k)]/k!, k=0,1,2
+- 0830 mins, sanity check
+- 1300 mins, application of poisson
+- define success and failure
+- large number of trials, each one of being success has a less probability
+- large number of trial, small probability of success
+- make up as many examples as you want
+- pois paradigm/approximation
+- poisson paradigm can take independent and weak dependent
+
+# Lecture 10
+
+2500<->5000
+
+2024/07/30
+
+- convention
+- first success distribution 2700 mins
+- time util the first success
+- Y is geometric P
+- 2900 mins, intuitive way of thinking the first time success
+- number of local maximum
+- random permutation
+- intermediate point and end point
+- 3900 mins, St. Petersburg paradox
+- head first trial two dollar
+- second four dollar
+- third eight dollar
+- and so on
+- what price could make the expectation to be 0, fair price
+- to be sorted out
+- you can use linearity on even infinity case, but you can't move E to the power part
+
 # Lecture 10
 
 2024/07/29
