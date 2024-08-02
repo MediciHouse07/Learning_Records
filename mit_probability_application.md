@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=13
 
+# Lecture 14
+
+0000<->1000
+
+2024/07/31
+
+- random experiment indexed by time; infinite trials
+- number of arrivals, number of matches?
+- interarrival times is geometric distribution
+- 0452 mins pascal PMF
+- poisson process is continuous version of bernuli trials
+- probability only depends on the length of tao
+- delta is a small time interval
+
 # Lecture 13
 
 4200<->5000 End
