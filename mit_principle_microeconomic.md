@@ -1,3 +1,33 @@
+https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&index=5
+
+# Lecture 5
+
+2024/08/01
+
+- production theory
+- R=P-C
+- maximize profit
+- PI=R-L
+- producing goods as efficiently as possible
+- maximizing profit by minimizing cost
+- q=f(L,K)
+- q firm, Q market
+- factors of production
+- L is labour, maybe in the future, joint or partial joint willing to do the same thing
+- SR production
+- LR production
+- SR labour variable, capital fixed
+- LR both factors are fixed
+- LR years
+- period of time over which everything is variable
+- marginal product of labour
+- delta q/ delta L
+- next unit of labour, the delta
+- diminishing marginal product
+- diminishing marginal utility
+
+---
+
 # Lecture 1
 
 2023/03/06
