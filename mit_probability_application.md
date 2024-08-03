@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 14
 
+1000<->3000
+
+2024/08/01
+
+- sum of pk tao should be 1
+- who are the target audience of those media and articles, with intention or with R.V. intention
+- for very small delta
+- delta goes to 0, P(1,delta)/delta=lambda
+- expected number of arrival is protional to lambda
+- lambda, arrival rate, expected arrival / unit time
+- lambda tao = np
+- poisson process can be approximated by bernouli trials
+- lambda tao = np also tells the relation between bernouli and poisson
+
+# Lecture 14
+
 0000<->1000
 
 2024/07/31
