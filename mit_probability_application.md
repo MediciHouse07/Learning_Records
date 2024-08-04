@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 14
 
+2024/08/02
+
+3000<->5200
+
+- time of first arrival
+- geometric
+- exponential distribution
+- poisson
+- 3800 mins
+- k stand for number of emails received
+- sum of poisson is also poisson
+- limit delta ->0 throw delta square term
+
+# Lecture 14
+
 1000<->3000
 
 2024/08/01
