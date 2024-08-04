@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe5
 
 # Lecture 5
 
+1000<->1800
+
+2024/08/02
+
+- range of production where this is true
+- digging a hole with one shoffel
+- each additional work add less and less to the productivity
+- Isoquant
+- combination of capital and labour producing the same output
+- q=L+K perfectly substitutable
+- slope -1
+- min(x,y) leontiff production function
+- if it is production function, it should be programmer and computer, right shoe and left shoe should be for demand function? 1800 mins
+- MRTs, technical substitution
+- MRS
+
+# Lecture 5
+
 2024/08/01
 
 - production theory
