@@ -1,3 +1,16 @@
+https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
+
+Module 1.1.2| Lecture 1 /5
+
+2024/08/12
+
+- iron ore as collateral to borrow money
+- financial crisis, Minsky moment
+- firesale, sale at a reduced price
+
+----
+
+
 Week8 Lecture 13 8/11
 
 0000<->0500 
