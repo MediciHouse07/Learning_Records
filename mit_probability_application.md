@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=13
 
+# Lecture 15
+
+0000<->1500
+
+2024/08/12
+
+- think of poisson as approximation of binomial
+- used one is no worse than a new one
+- Erlang(k)
+- Poisson means fish in France
+
 # Lecture 14
 
 2024/08/02
