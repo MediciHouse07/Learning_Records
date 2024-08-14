@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDyb
 
 # Lecture 15
 
+1500<->3000
+
+2024/08/13
+
+- lambda t, expectation
+- light bulb
+- TBRT
+
+# Lecture 15
+
 0000<->1500
 
 2024/08/12
