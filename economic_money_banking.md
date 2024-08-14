@@ -1,5 +1,36 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Module 1.4 Lecture 1 3/5
+
+0000<->0400
+
+2024/08/13
+
+- case reserve on the asset side, liquidity
+- net worth on the liability side, solvency
+
+# Module 1.3 Lecture 1 2/5
+
+0000<->0700
+
+2024/08/13
+
+- Y output, R interest rate
+- real interest, nominal interest
+- mai buy cro, is macro
+- my cro, is micro
+- inter-tempro trading
+- fisher diagram
+- it always does
+
+# Module 1.2 Lecture 1 1/5
+
+1500<->1900
+
+2024/08/13
+
+- pure finance he ever studied
+
 Module 1.1.2| Lecture 1 /5
 
 2024/08/12
