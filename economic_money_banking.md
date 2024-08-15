@@ -10,6 +10,7 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 - startup companies
 - statistical evidence vs naive evidence
 - laws that support the business existences
+- piled up documents make a strong and invincible force
 
 2024/08/14
 
