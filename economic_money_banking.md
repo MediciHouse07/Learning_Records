@@ -11,6 +11,7 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 - statistical evidence vs naive evidence
 - laws that support the business existences
 - piled up documents make a strong and invincible force
+- willing and resources
 
 2024/08/14
 
