@@ -1,5 +1,24 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Module 1.4 Lecture 1 4/5
+
+2024/08/14
+
+0000<->0700
+
+- company as shadow bank
+- startup companies
+- statistical evidence vs naive evidence
+- laws that support the business existences
+
+2024/08/14
+
+# Module 1.4 Lecture 1 3/5
+
+0400<->1200
+
+2024/08/14
+
 # Module 1.4 Lecture 1 3/5
 
 0000<->0400
