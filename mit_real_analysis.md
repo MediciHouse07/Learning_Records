@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 5
+
+2024/08/15
+
+0000<->1400
+
 # Lecture 2
 
 0700<->1200
