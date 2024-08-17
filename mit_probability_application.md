@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=gMTiAeE0NCw&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=13
 
+# Lecture 14
+
+2024/08/15
+
+0000<->1000
+
+- inter arrival time, first arrival, geometric distribution, for bernouli process
+- exp of arrival given n potential
+- exp of time for n arrival
+
 # Lecture 15
 
 2024/08/14
