@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 5
 
+1400<->2500
+
+2024/08/16
+
+- natural number in this course, counting from 1
+
+# Lecture 5
+
 2024/08/15
 
 0000<->1400
