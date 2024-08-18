@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lecture 3
 
+2000<->3000
+
+2024/08/16
+
+- y'+p(x)y=q(x)
+- dT/dt + kT = kTe
+
+# Lecture 3
+
 2024/07/13
 
 1000<->2000
