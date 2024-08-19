@@ -2,6 +2,14 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Module 1.4 Lecture 1 4/5
 
+2024/08/18
+
+0700<->1300 End
+
+- The New Lombard Street
+
+# Module 1.4 Lecture 1 4/5
+
 2024/08/14
 
 0000<->0700
