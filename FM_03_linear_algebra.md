@@ -1,4 +1,18 @@
 34 lectures in TTL
+
+https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
+
+# Lecture 4
+
+2024/08/17
+
+0000<->0500
+
+- in reverse order
+- back on
+
+---
+
 ### Lecture 1 <br>
 
 #### REX 2 2022/08/06
