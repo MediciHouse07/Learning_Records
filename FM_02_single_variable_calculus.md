@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 15
 
+2024/08/18
+
+1100<->2100
+
+- compare infinite tesimo with linear approximation
+- 1509 mins antiderivative of g
+- indefinite integral of g
+- be careful on the domain that makes it valid
+
+# Lecture 15
+
 2024/08/17
 
 0000<->1100
