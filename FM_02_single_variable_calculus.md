@@ -2,6 +2,19 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 15
+
+2024/08/17
+
+0000<->1100
+
+- differentials
+- dy is differential
+- Leibniz interpretation ratio of infinitesmols
+- notations allow you to think faster
+- GB fall 100 years behind
+- dx replate delta x
+
 # Lecture 35
 
 0900<->1900
