@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb
 
+# Lecture 2
+
+0000<->0400
+
+2024/08/18
+
+- national income and product accounts were developed at the end of WWII, does it imply that there still have not been sufficient data or measure to reflect something, to collect that is also a part of responsibility of economist
+
+# Lecture 1
+
+2300<->2900 End
+
+2024/08/18
+
 # Lecture 1
 
 2024/08/17
