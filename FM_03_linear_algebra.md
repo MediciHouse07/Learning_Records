@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+0500<->1000
+
+2024/08/18
+
+# Lecture 4
+
 2024/08/17
 
 0000<->0500
