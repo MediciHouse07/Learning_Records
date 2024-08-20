@@ -1,5 +1,19 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 1/7
+
+2024/08/19
+
+0000<->0200
+
+- monetizing debts
+
+# Module 1.4 Lecture 1 4/5
+
+2024/08/19
+
+0000<->0300
+
 # Module 1.4 Lecture 1 4/5
 
 2024/08/18
