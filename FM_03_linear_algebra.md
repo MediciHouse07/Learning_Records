@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+2024/08/19
+
+1000<->1700
+
+- A=LU and separate the pivot
+- elimination, row exchange
+
+# Lecture 4
+
 0500<->1000
 
 2024/08/18
