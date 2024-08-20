@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+2024/08/19
+
+0500<->1500
+
+- steel company -> car company
+- intermediate goods are goods purchased to produce goods
+- wage+profit=sum of incomes
+- worker's salary, company's salary
+
+# Lecture 2
+
 0000<->0400
 
 2024/08/18
