@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 15
 
+2024/08/19
+
+2100<->3100
+
+- uniqueness of antiderivative up to a constant
+- xx will be done, can also carry a negative meaning
+
+# Lecture 15
+
 2024/08/18
 
 1100<->2100
