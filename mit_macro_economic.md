@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+2024/08/21
+
+2000<->2500
+
+# Lecture 2
+
 1500<->2000
 
 2024/08/20
