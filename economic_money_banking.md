@@ -2,6 +2,18 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Lecture 2 1/7
 
+2024/08/20
+
+- cap those , kind of has the meaning of restrict
+- excess bomd, kind of long term
+- EFA EU treasury
+- ECB EU Fed
+- forgive them, the result is hitting EU net worth as a whole, solvency issue as EU as a whole
+- banks hold reserves in ECB because they don't trust each other
+- if banks don't trust each other, they would trade and make excess exist by using bill to replace them
+
+# Lecture 2 1/7
+
 2024/08/19
 
 0000<->0200
