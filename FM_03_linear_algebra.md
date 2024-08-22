@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+2024/08/21
+
+1700<->2200
+
+- TBR Gauss Jordan method
+
+# Lecture 4
+
 2024/08/19
 
 1700<->2700
