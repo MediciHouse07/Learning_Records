@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 2024/08/19
 
+1700<->2700
+
+- 2 get removed from row two, 5 get removed from row three
+- multipliers are all in L
+
+# Lecture 4
+
+2024/08/19
+
 1000<->1700
 
 - A=LU and separate the pivot
