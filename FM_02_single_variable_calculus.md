@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 15
 
+2024/08/20
+
+3000<->3500
+
+- integration technique, method of substitution
+- tailor made for differential notation
+- low and behold
+
+# Lecture 15
+
 2024/08/19
 
 2100<->3100
