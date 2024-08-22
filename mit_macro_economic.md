@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+1500<->2000
+
+2024/08/20
+
+- production=income
+- not important for maize cro, it is important for macro
+- nominal GDP $Yt without adustments for inflation, real GDP Yt
+
+
+# Lecture 2
+
 2024/08/19
 
 0500<->1500
