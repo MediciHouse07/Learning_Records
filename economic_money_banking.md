@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 2/7
+
+2024/08/23
+
+- money, eliminate debt, cancel debt
+- when we say money, loosely
+- deposit pay currency on demand
+- security pay currency some time from future
+- overcome sometimes means eliminate
+
 # Lecture 2 1/7
 
 2024/08/20
