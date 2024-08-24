@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 15
 
+2024/08/23
+
+4300<->4800
+
+- when put into ln, add absolute value
+
+# Lecture 15
+
 2024/08/21
 
 3500<->4500
