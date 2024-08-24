@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/corporate-finance-essentials/lecture/mey84/1-what-is-the-cost-of-capital
 
+# Week4.1.3
+
+0000<->0500
+
+2024/08/23
+
+- propotion
+- WACC
+- 98% equity 2% debt
+- the higher the risk, the higher the return needed
+
 # Week4.1.2
 
 2024/07/24
