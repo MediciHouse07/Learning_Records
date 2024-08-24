@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 5
 
+2500<->3600
+
+2024/08/23
+
+- case c will just reduce to case b
+- for this course, natural number set doesn't include 0 3200 mins
+- 3400 mins, AP, taking x to be 1, y to be 1/epsilon
+
+# Lecture 5
+
 1400<->2500
 
 2024/08/16
