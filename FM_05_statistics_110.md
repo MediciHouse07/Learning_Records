@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/08/24
+
+0000<->1500
+
+- sympathetic magic, distribution and R.V.
+- adding r.v. doesn't mean adding PMF
+- distribution, PMF is blueprint
+- R.V. is one of the house
+- binomial is bounded by n
+- poisson doesn't, it has k 0 union N
+- taylor series starting from 0
+- just to have a word
+
+# Lecture 11
+
 2024/07/31
 
 2000<->4200
