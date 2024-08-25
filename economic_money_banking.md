@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 3/7
+
+2024/08/24
+
+- private sector, holding depsits
+- issuing securities
+- inside money is some form of credit
+- all money is somebody's promise
+- in this course, currency, inside money
+
 # Lecture 2 2/7
 
 2024/08/23
