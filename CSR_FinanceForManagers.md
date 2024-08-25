@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.9 forecast of P&L
+
+0000<->0500
+
+2024/08/24
+
+- growth of sales
+- prudent in the sense of
+
 # week2.video.8
 
 2024/07/29
