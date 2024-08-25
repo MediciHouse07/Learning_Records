@@ -1,3 +1,17 @@
+https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
+
+# Lecture 6
+
+2024/08/24
+
+0000<->0500
+
+- NE, self enforcing agreement
+- joint project
+- strategic compliments, the more A do the more B do
+
+----
+
 # Lecture 1
 ## REX 2 2022/10/14
 ## REX 1
