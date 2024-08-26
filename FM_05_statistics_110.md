@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+1500<->2500
+
+2024/08/25
+
+- poisson paradigm, poisson approximation
+- A1, A2, ... An, n is large, weakly dependent, pj is small
+- when p is the same, then it is binomial np
+- poisson can take different probability
+
+# Lecture 11
+
 2024/08/24
 
 0000<->1500
