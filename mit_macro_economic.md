@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+2500<->3000
+
+2024/08/25
+
+- not having and looking for
+- labor force not population
+- not in the labor force
+- discouraged
+- discouraged worker
+- the participation rate, labor force / total population at labour age
+
+# Lecture 2
+
 2024/08/21
 
 2000<->2500
