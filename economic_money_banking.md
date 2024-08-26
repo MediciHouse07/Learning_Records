@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 4/7
+
+0000<->0500
+
+2024/08/25
+
+- the amount of xx is very large
+- quality and quantity
+- beating heart
+- deleveraging
+- reassertion that distinction
+- assert
+
 # Lecture 2 3/7
 
 2024/08/24
