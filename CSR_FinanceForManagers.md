@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.9
+
+0200<->0700 end
+
+- assume 25% growth because not much competitors, because of benchmarks, because of good industrial environment
+- opex, is salary + overhead
+- P&L, financial results balance sheet
+- done with forecast of P&L
+
 # week2.video.9 forecast of P&L
 
 0000<->0500
