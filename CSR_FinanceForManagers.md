@@ -1,6 +1,6 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
-# week2.video.9
+# week2.video.10
 
 2024/08/26
 
