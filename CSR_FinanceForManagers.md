@@ -2,6 +2,14 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # week2.video.9
 
+2024/08/26
+
+- daily purchase for simplicity we can use daily cost
+- inventory is also daily cost
+- thus receivables, inventory and payables can all be denoted as its previous number * g, as a short cut
+
+# week2.video.9
+
 0200<->0700 end
 
 - assume 25% growth because not much competitors, because of benchmarks, because of good industrial environment
