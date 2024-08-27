@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 5/7
+
+2024/08/26
+
+0000<->0500
+
+- displine vs elasticity
+- scaricity vs elasticity
+- either one of these principles
+
 # Lecture 2 4/7
 
 0000<->0500
