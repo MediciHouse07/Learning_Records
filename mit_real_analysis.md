@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 5
 
+2024/08/26
+
+4000<->4500
+
+- symmytrical with respect to 0
+
+# Lecture 5
+
 3500<->4000
 
 2024/08/25
