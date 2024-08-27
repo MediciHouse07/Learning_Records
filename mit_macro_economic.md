@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+2024/08/26
+
+3000<->3500
+
+- magnitude
+- inflation, price level
+- deflator
+
+# Lecture 2
+
 2500<->3000
 
 2024/08/25
