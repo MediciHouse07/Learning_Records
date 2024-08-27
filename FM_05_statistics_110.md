@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/08/26
+
+2500<->3500
+
+- 3000 mins binomial converge to poisson
+- huge number of square, for each square the rain drop is less likely
+- scientific computation difficulty when handle it in binomial, but poisson is more helpful
+
+# Lecture 11
+
 1500<->2500
 
 2024/08/25
