@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/08/24
+
+3500<->4200 End
+
+- unlikely
+- and weakly dependent
+
+# Lecture 11
+
 2024/08/26
 
 2500<->3500
