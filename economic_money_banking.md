@@ -1,5 +1,29 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 6/7
+
+2024/08/27
+
+0000<->0700
+
+- security dealer, market maker
+- dealer go either way
+- quantitatively different, but they are the same
+- but when crisis occur, the door would be closed, right
+- hierarchy of asset, but the door closing concept, when at war, money might turn to ash
+
+# Lecture 2 5/7
+
+2024/08/27
+
+0500<->0800
+
+- currency principle, banking principle
+- monetarism vs keyansianism
+- metallism chartalism
+- scaricity vs elasticity
+- control credit, loan freely at crisis
+
 # Lecture 2 5/7
 
 2024/08/26
