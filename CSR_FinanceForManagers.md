@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.11
+
+2024/08/27
+
+- -depreciate+new investment
+- noncurrent assets
+- long term debt
+- LTD last year - repayment + new long term debt
+- equity
+- equity last year + NI - dividend
+- A' L'
+- L' dependent on equity, equity dependes on NI net income
+
 # week2.video.10
 
 2024/08/26
