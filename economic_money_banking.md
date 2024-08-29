@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 2 7/7
+
+0000<->0700
+
+2024/08/28
+
+# Lecture 2 6/7
+
+0700<->0900
+
+2024/08/28
+
 # Lecture 2 6/7
 
 2024/08/27
