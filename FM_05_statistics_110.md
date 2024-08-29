@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+0000<->1200
++3mins review
+
+2024/08/28
+
+- different r.v. can have the same distribution
+- r.v. is the house, distribution is the blue print
+
+# Lecture 11
+
 2024/08/24
 
 3500<->4200 End
