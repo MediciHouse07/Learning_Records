@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/08/29
+
+1200<->2200
+
+- a lot of persons could email you
+- any specific person could email you
+- a lot of raindrops
+- less likely a little box would meet a raindrop
+
+# Lecture 11
+
 0000<->1200
 +3mins review
 
