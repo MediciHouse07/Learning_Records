@@ -2,6 +2,17 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # week2.video.12
 
+2024/08/29
+
+0000<->0600 End
+
+- promissory note is per purchase
+- going down trend infer 0 or a lower number
+- you invest fix asset the same amout of depreciation
+- long term debt, assume repayment constant
+
+# week2.video.12
+
 0000<->0600
 
 2024/08/28
