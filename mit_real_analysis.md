@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 5
 
+2024/08/30
+
+5500<->6000
+
+# Lecture 5
+
 2024/08/29
 
 4500<->5500
