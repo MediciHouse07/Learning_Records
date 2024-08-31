@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2024/08/30
+
+2200<->3200
+
+- whether it gets dropped with a rain
+
+# Lecture 11
+
 2024/08/29
 
 1200<->2200
