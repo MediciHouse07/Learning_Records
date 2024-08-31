@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 2
 
+2024/08/30
+
+3500<->4100 End
+
+- fast rate of growth?
+
+# Lecture 2
+
 2024/08/26
 
 3000<->3500
