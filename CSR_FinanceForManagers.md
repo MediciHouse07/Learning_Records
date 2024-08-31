@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week2.video.13
+
+2024/08/30
+
+# week2.video.13
+
+2024/08/30
+
+- in which month the company would call the bank and say we need more money
+
 # week2.video.12
 
 2024/08/29
