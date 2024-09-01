@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 3/9
+
+2024/08/31
+
+# Lecture 3 2/9
+
+2024/08/31
+
+- post war, after world war
+
 # Lecture 3 1/9
 
 2024/08/30
