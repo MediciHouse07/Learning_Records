@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+3200<->4200 End
+
+2024/08/31
+
+# Lecture 11
+
 2024/08/30
 
 2200<->3200
