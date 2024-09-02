@@ -1,5 +1,20 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 5/9
+
+2024/09/01
+
+- legal tender for one dollar
+- 
+
+# Lecture 3 4/9
+
+2024/09/01
+
+- can't sell bond
+- worry interest is too high
+- specie payment
+
 # Lecture 3 3/9
 
 2024/08/31
