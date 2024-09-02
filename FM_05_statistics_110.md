@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 12
+
+0000<->1500
+
+2024/09/01
+
 # Lecture 11
 
 3200<->4200 End
