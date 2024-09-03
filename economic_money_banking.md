@@ -1,5 +1,22 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 7/9
+
+2024/09/02
+
+- => withdraw of
+- call in loans cause stock fall and interest rise
+- JP morgan, clearing house
+
+# Lecture 3 6/9
+
+2024/09/02
+
+- 1863
+- Salmon P chase give up in legal tender
+- entitle banks to issue bank note by bond
+- when PS withdraw, bank can pay them by notes
+
 # Lecture 3 5/9
 
 2024/09/01
