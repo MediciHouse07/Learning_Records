@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+0500<->2000
+
+2024/09/02
+
+- I could have said
+- F to be continuous 
+- FTC
+- I take derivative , II want to calc definite integral
+- assuming derivative exist
+
+# Lecture 12
+
 0000<->1500
 
 2024/09/01
