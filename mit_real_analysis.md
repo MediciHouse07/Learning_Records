@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 5
 
+2024/09/03
+
+10300<->11800 end
+
+- think |x| as notation
+- converse direction
+
+# Lecture 5
+
 6000<->6500
 
 2024/08/31
