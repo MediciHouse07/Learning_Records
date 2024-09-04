@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 8/9
+
+0000<->0200
+
+2024/09/03
+
 # Lecture 3 9/9
 
 2024/09/03
