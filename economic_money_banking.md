@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 9/9
+
+2024/09/03
+
+- benjam strong, open market operation
+- it is about how CB buy and sell tbills and through which to control money supply
+- state money, and private money bank money
+
 # Lecture 3 7/9
 
 2024/09/02
