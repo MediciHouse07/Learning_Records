@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.2
+
+2024/09/03
+
+- opex while reaching to efficiency
+
 # week3.video.1
 
 2024/09/02
