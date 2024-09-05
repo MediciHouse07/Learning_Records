@@ -2,6 +2,20 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 19
+
+0000<->1500
+
+2024/09/04
+
+- FTC1
+- indefinite integral F'=f
+- laboriously
+- FTC1 is more convenient comparing with Remon sum approach
+- notation and different formula lead you to different way of thinking stuffs
+- odometer, speedometer
+- remon sum is approximate, FTC1 is exact
+
 # Lecture 15
 
 2024/08/23
