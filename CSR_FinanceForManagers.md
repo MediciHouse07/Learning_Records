@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.3
+
+2024/09/04
+
+- grow too much vs not grow enough to finance themself
+- suppose if we have good ratios
+- NFO need of funds for operations, WC working capital
+
 # week3.video.2
 
 2024/09/03
