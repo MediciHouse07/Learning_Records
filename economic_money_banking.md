@@ -2,6 +2,20 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Lecture 3 8/9
 
+2024/09/04
+
+- Wilson, just in time, FED, before WWI
+- reserve bank and federal reserve system
+- discount borrowing, for member bank
+- in exchange for reserve
+- reserve banks can create reserve
+- if deposit is withdrawn in note
+- rediscount
+- FR system intervenue and print money
+- agriculture country, demand and deposit fluctuate seasonaly
+
+# Lecture 3 8/9
+
 0000<->0200
 
 2024/09/03
