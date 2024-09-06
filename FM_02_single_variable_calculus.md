@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 19
 
+1500<->3000
+
+2024/09/05
+
+- do it more formally
+- f can also be negative
+- area under the curve if it is above the curve
+- it can be factor out if c is not dependent on x
+- three point along a line
+
+# Lecture 19
+
 0000<->1500
 
 2024/09/04
