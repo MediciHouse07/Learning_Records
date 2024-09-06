@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.4
+
+2024/09/05
+
+- need funds and working capital
+- tax dues, current liabilities
+- receivables , inventory require finance
+- R+I-P, because payable finance the operations
+- NFO and fixed asset
+- WC, long term funding once the fixed assets have been financed
+- E+L-Fixed asset
+
 # week3.video.3
 
 2024/09/04
