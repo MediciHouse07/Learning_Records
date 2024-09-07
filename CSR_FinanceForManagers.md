@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.5
+
+2024/09/06
+
+- R+I-P
+- L+E-F
+- NFO+Fixed asset as asset side
+- finance for your operation, finance for your fixed asset
+- capital left after financing fixed asset
+- capital is liability, is a source of fund
+- WC is stable
+
 # week3.video.4
 
 2024/09/05
