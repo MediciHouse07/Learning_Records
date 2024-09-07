@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 3 9/9
+
+0000<->0400
+
+2024/09/06
+
+- use loans to mainstream as collateral
+- not to give gov the right to print money
+
 # Lecture 3 8/9
 
 2024/09/04
