@@ -1,3 +1,10 @@
+# Unit1_Week1.4.1
+
+2024/09/06
+
+- project stages
+- customer churn, customer turn over
+
 # Unit1_Week1.3.2
 
 2024/09/05
