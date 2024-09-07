@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 19
 
+2024/09/06
+
+3000<->4500
+
+- estimation
+- change of variable only works if u' doesn't change sign
+
+# Lecture 19
+
 1500<->3000
 
 2024/09/05
