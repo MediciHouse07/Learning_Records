@@ -2,6 +2,16 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 20
+
+0000<->1200
+
+2024/09/07
+
+# Lecture 19
+
+4500<->4800 end
+
 # Lecture 19
 
 2024/09/06
