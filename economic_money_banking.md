@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 1/11
+
+2024/09/07
+
+- ECB mario dragee
+- I had not been aware of before
+- CB is trying to hold things together through the election cycles
+
 # Lecture 3 9/9
 
 0000<->0400
