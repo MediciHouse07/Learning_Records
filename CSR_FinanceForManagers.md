@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.6
+
+2024/09/07
+
+- gNFO, gWC
+- concise, concrete to the point no generality, clear, complete
+
 # week3.video.5
 
 2024/09/06
