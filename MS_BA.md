@@ -1,3 +1,12 @@
+# Unit1_Week1.4.2
+
+2024/09/07
+
+- dissatisfaction
+- six sigma, process improvement methodology
+- lean manufacturing
+- kaizen
+
 # Unit1_Week1.4.1
 
 2024/09/06
