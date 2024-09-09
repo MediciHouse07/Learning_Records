@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 20
 
+2024/09/08
+
+1200<->2700
+
+- crude
+- MVT integral form
+- below 0 or above 4
+- FTC2 2000 mins
+- upper limit is x
+- a and x is fixed, t is dummy variable
+- not to mix x and t
+- FTC2 enables the possibilities to get f through G/F
+- plug in xx for it
+
+# Lecture 20
+
 0000<->1200
 
 2024/09/07
