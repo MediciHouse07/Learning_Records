@@ -1,5 +1,20 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 6?/11
+
+2024/09/08
+
+- decumulation, accumulation, stock
+- borrow, repayment, money
+- dishoarding, hoarding, money
+- every agent's use is some other agent's source
+
+# Lecture 4 2/11
+
+2024/09/08
+
+- inheritably
+
 # Lecture 4 1/11
 
 2024/09/07
