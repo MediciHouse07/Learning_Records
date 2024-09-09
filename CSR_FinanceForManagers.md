@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.7
+
+2024/09/08
+
+- robust
+- die out of cash, die out of lack of financing
+- effective
+- offer early payment reward
+
 # week3.video.6
 
 2024/09/07
