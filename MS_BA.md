@@ -1,3 +1,14 @@
+# Unit1_module3.2.2
+
+2024/09/09
+
+- obscure
+- RACI, responsible, accountable, consulted, informed
+- accountable for deliverable
+- RASCI
+- surportive
+- answerable for the outcome, responsible means carrying out
+
 # Unit1_Week1.4.2
 
 2024/09/07
