@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 20
 
+2700<->4200
+
+2024/09/09
+
+- take a derivative of G, you get f
+- in that sense G is integration
+- f need to be continuous because we need the value nearby similar
+- Fx is Gx plus constant
+- proof of FTC1 and picture proof of FTC2
+- how do you get
+- second line didn't draw
+- why MVT play a role
+
+# Lecture 20
+
 2024/09/08
 
 1200<->2700
