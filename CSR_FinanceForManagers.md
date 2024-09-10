@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.8
+
+2024/09/09
+
+- supplier discount
+- strong about that
+
 # week3.video.7
 
 2024/09/08
