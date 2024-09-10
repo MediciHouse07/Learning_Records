@@ -1,3 +1,13 @@
+# module3.2.3 count # of video
+
+2024/09/09
+
+- task, resource allocations, dependencies
+- milestone
+- roadmap, critical milestone and
+- roadmap, project planning, high level
+- Gantt chart detailed
+
 # Unit1_module3.2.2
 
 2024/09/09
