@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.9
+
+2024/09/10
+
+- more loan might require collateral
+- deal with gap vs deal with trend
+- profit is the part chain PL and BS
+- OPEX
+
 # week3.video.8
 
 2024/09/09
