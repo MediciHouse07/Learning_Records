@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 20
 
+3400<->4900 End
+
+2024/09/10
+
+- 4200 mins differential equation
+
+# Lecture 20
+
 2700<->4200
 
 2024/09/09
