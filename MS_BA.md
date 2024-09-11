@@ -1,3 +1,15 @@
+# Unit4.Module1.2.2 count number of video
+
+0000<->0400
+
+2024/09/10
+
+- governance define role responsibility process that steer
+- right people, right decision, right time
+- indefinitely
+- project charter, goal deliverable xxx
+- structured way to direction and control
+
 # Unit4.Module1.2.1
 
 2024/09/10
