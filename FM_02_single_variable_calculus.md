@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
 # Lecture 20
 
+1200<->2100
+
+2024/09/11
+
+# Lecture 19
+
+1200<->1800
+
+2024/09/11
+
+- obsessive
+- Riemann sum
+- velocity vs speed
+
+# Lecture 20
+
 3400<->4900 End
 
 2024/09/10
