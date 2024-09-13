@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+0000<->1500
+
+2024/09/12
+
+- for the purpose of the picture
+- function is greater than 1, but area can still be integrated into 1
+- continuous means x can take continuous values
+- reverse direction of FTC2
+- FTC2 derivative of CDF is PDF
+
+# Lecture 12
+
 0500<->2000
 
 2024/09/02
