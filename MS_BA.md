@@ -1,3 +1,32 @@
+https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
+
+# Final_Module3.Test_Planning and execution
+
+2024/09/12
+
+- non-functional requirement
+- identify defects
+- reduce risk, accessability
+- safeguard cost impact
+- let's us be careful, because it is cheaper
+- early detection
+- Huge impact on customers
+- business requirement document
+- map requirements to test cases
+- agile user story
+- tracebility table
+- using a test suite
+- REQ, test case
+- business owner involve as much as possible
+- impact of skipping mapping REQ and test case
+- risk in it is not tested at all
+- test planning
+- scope creep
+- regression testing
+- test schedule, who and when
+- privision team, stakeholder
+- scope, resource, approach
+
 # Unit4.Module1.2.2 count number of video
 
 0000<->0400
