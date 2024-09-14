@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+1500<->3000
+
+2024/09/12
+
+- if we know the relation, F and integral f, how to scrap out f, it is simply taking derivative by FTC2
+- strict and non-strict
+- variance, how far X is away from its mean
+- expand it out, and multiply it out
+- Ex^2 is always greater than or equal to Ex^2
+- equality hold when it is constant
+
+# Lecture 12
+
 0000<->1500
 
 2024/09/12
