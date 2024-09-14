@@ -1,5 +1,28 @@
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
 
+# Module3.Test_Planning and execution
+
+2024/09/13
+
+- use the right environment for testing
+- use the right tools
+- automated test vs manual test
+- daily test report, expect from SMEs, output expect from them to enable a traceable
+- test summary report
+- critical major medium defects are verified and closed
+- closure
+- defect density
+- UAT
+- unit testing, integration testing
+- UAT is of conformance
+- unit test, integration test, 
+- operational UAT, contractual UAT
+- plan, test scenarios, select testing team, test and document, update code, retest and sign off
+- sprint review is not a substitution for UAT
+- QA, quality assurance is not substitution of UAT
+- stress testing
+- incorrectly createdly UAT can lead to financial losses
+
 # Final_Module3.Test_Planning and execution
 
 2024/09/12
