@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.10
+
+2024/09/13
+
+- OPEX/sales
+- truck salaries R&D
+- increase price of the reference of
+
 # week3.video.9
 
 2024/09/10
