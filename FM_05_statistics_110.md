@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+3000<->4500
+
+2024/09/15
+
+- unif, probability is propotional to length
+- fx=c it doesn't say c has to be within some intervals
+- c=1/b-a
+- expectation of uniform
+- Y=X^2, PDF of Y
+- LOTUS, law of the unconscious statistician
+- TBRT shift 5 mins
+
+# Lecture 12
+
 1500<->3000
 
 2024/09/12
