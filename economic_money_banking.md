@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 3/11 Payments: Money and Credit
+
+2024/09/15
+
+- the want  is not aligned in time
+- so barter doesn't work
+- not using money but using credit
+- quantity of outstanding IOU
+- credit of supply is changing
+- money of supply isn't changing
+- to facilitate the trade
+
 # Lecture 4 6?/11
 
 2024/09/08
