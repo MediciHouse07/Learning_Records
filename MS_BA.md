@@ -1,5 +1,19 @@
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
 
+Module3.Signoff Go-live and sign-off
+
+2024/09/15
+
+- go live plan
+- formalizing the go live
+- project manager
+- deployment package
+- training and access
+- go or no go
+- stakeholders confirm
+- didn't get done
+- logon register, and enter, login???
+
 # Module3.Test_Planning and execution
 
 2024/09/13
