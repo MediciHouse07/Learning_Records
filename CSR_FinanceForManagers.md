@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.11
+
+2024/09/15
+
+- don't freak out
+- NI/Sales = ROS
+- expression for change of NFO
+- expression for change of WC
+- change in sales
+- NFOt*g=ROSt(1+g)
+- g=ROSt/(NFOt-ROSt)
+- NFO can be put as percentage of sales
+
 # week3.video.10
 
 2024/09/13
