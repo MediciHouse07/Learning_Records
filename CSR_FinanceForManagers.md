@@ -2,6 +2,15 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # week3.video.11
 
+2024/09/16
+
+- NFO can be put in percentage of sales
+- change in equity is net income
+- g growth of sales
+- the bigger the ROS, the bigger the sustainable growth
+
+# week3.video.11
+
 2024/09/15
 
 - don't freak out
