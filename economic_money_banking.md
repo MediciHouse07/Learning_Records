@@ -1,5 +1,21 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+Course final Module 3 UAT
+
+2024/09/16
+
+- compliance officer
+- risk migitation activity
+- creating UAT plans
+- test lead
+- expected end users
+- project stakeholder for UAT resourcing
+- effective
+- project team and wider stakeholders
+- tracebility matrix
+- requirements identified, req tested, REQ1.1
+- completion status
+
 # Lecture 4 4/11 Payments: Discipline and Elasticity
 
 2024/09/16
