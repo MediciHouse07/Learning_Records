@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 4/11 Payments: Discipline and Elasticity
+
+2024/09/16
+
+- sometimes it can't pass the 
+
 # Lecture 4 3/11 Payments: Money and Credit
 
 2024/09/15
