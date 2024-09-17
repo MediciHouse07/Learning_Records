@@ -2,6 +2,25 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+3500<->5000 End
+
+2024/09/16
+
+- E of X square
+- to get E of Y, you need to know PDF of Y
+- half asleep
+- fX(x)
+- LOTUS for discrete X is also valid
+- unif 0,1 is one twelth
+- universality of uniform
+- why random uniform can simulate
+- we know CDF, but we don't have access to know its PDF
+- strictly increasing enable inverse exist
+- X~F means X has CDF F
+- increasing function doesn't care inverse of inequality
+
+# Lecture 12
+
 3000<->4500
 
 2024/09/15
