@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+2024/09/17
+
+0000<->1500
+
+- to understand CDF
+- word is not the thing, map is not the territory
+- R.V. is the house, distribution is blue print
+
+# Lecture 12
+
 3500<->5000 End
 
 2024/09/16
