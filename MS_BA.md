@@ -1,5 +1,22 @@
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
 
+2024/09/17
+
+- quality management systems
+- QMS
+- ISO, independent body
+- pharmausothical, food, finance
+- body that publishes sector-agnostic standards
+- organization-level quality policy
+- when where what how
+- hinder
+- measuring performance
+- so the negative 1000 issue involves discrete vs continuous
+- shortcoming
+- SMART
+- time-bound
+- objective ahead of all the
+
 Module3.Signoff Go-live and sign-off
 
 2024/09/15
