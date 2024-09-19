@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 11
+
+2024/09/18
+
+0000<->1500
+
+- e to the lambda comes out
+- a function of R.V. is R.V. right? to confirm
+
 # Lecture 12
 
 2024/09/17
