@@ -1,5 +1,24 @@
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
 
+2024/09/18
+
+- simply put
+- meet a business need
+- SDLC
+- analysis design development testing deployment maintainence
+- is SDLC accountability for developer
+- can it be added to their contract
+- BA feasibility study, requirement analysis
+- documentation specialist
+- what can be re-used
+- waterfall, V-shaped, agile
+- well defined, question small sized
+- swift
+- V shaped
+- Aerospace
+- iteractive, incremental
+- hybrid agile
+
 2024/09/17
 
 - quality management systems
