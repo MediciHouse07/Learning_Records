@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb
 
+# Lecture 3
+
+2024/09/18
+
+- poly multiple
+- oligo few
+- mono unique
+- polypoly multiple to multiple?
+- short run macro, demand->production->wage->demand
+
 # Lecture 2
 
 2024/08/30
