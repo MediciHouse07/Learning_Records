@@ -2,6 +2,10 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # week3.video.12
 
+2024/09/18
+
+# week3.video.12
+
 2024/09/17
 
 # week3.video.11
