@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
 
+Module2.SDLC_models
+
+2024/09/20
+
+- clients are involved at the beginning and end
+- low level
+- spiral model
+- quadrant
+- extreme programming, XP
+
 2024/09/18
 
 - simply put
