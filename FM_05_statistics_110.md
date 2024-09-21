@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+1500<->3000
+
+- a lot of people could email, but for any particular person it is unlikely to email you at certain time point
+- first choice distribution
+- paradigm, approximation
+- a tiny bit likely, more likely
+- by linearty, lambda is sum of pjs
+- limits kick in
+- p goes to 0 at the same rate n goes to infinity
+- separate it out
+- k terms
+- LBT rule and compounding interest rate
+
+# Lecture 11
+
 2024/09/18
 
 0000<->1500
