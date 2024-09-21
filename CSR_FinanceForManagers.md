@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# week3.video.13
+
+2024/09/20
+
+- raise price in this specific case
+- have understood
+
 # week3.video.12
 
 2024/09/18
