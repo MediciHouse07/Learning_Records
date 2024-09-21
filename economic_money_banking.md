@@ -1,5 +1,21 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 6/11 Sources and Uses Accounts
+
+2024/09/20
+
+0000<->0130
+
+- this course is misorganized on the catalogue bar
+
+Lecture 4 5/11 the survival constraint
+
+2024/09/20
+
+- put emphasis on xxx
+- cash inflow > cash outflow doesn't matter how much cash you have
+- liquidity constraint
+
 Course final Module 3 UAT
 
 2024/09/16
