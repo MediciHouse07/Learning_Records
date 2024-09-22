@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 7/11
+
+2024/09/21
+
+- decumulate financial asset
+- dishoarding cash
+
 # Lecture 4 6/11 Sources and Uses Accounts
 
 2024/09/20
