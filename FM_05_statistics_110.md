@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 11
 
+2700<->4200 End
+
+2024/09/21
+
+- a measure of intensity
+- X be number of triple matches, P(X=k) is probability of 
+- large number of triple matches, and the likely is very small
+
+# Lecture 11
+
 1500<->3000
 
 - a lot of people could email, but for any particular person it is unlikely to email you at certain time point
