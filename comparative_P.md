@@ -1,3 +1,18 @@
+# https://www.youtube.com/watch?v=hKYsYRoyKZQ&list=PL5B3KLQNAC5jTa_F6ssgqdnesapLCLkja&index=9
+
+# Lecture 9 
+
+0000<->0800
+
+2024/09/22
+
+- conservative revolution
+- Sarcherism
+- restrict money supply
+- forget Keansian mechanism
+- Tax and expenditure
+- human capital(education, skill not only quantity of labour, but also quality of labour)
+
 # Lecture 1
 
 2022/05/31:
