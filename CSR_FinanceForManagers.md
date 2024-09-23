@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+Finance for manager Week4.2 Recap II
+
+2024/09/22
+
+AP has to be realistic, doable
+AP has to be effective, target to problem
+AP has to be efficient, low cost
+
+Increase LTD would lead to increase of collateral
+
+push up sustainable growth, push down real growth
+
 # Week4.video0_1
 
 2024/09/21
