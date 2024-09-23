@@ -1,4 +1,29 @@
+https://www.coursera.org/learn/requirements-gathering-in-business-analysis/lecture/cKmna/as-is-to-to-be-business-state
+# Course - Gathering requirements
+
+Architectural plan for building
+Business case for project?
+Developing business case
+
+Strategic context
+Return on investment
+Commercial approach
+…
+
+
+
+
+ROI financial and non-financial benefits
+Business case is a document
+In essence
+Financial viability
+Contigency planning
+Business case is a justification for a project and investment
+the content of a business case
+
 https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capstone-project/lecture/nmjN4/testing-in-project-delivery
+
+# Course-Final-Capstone
 
 Module2.SDLC_models
 
