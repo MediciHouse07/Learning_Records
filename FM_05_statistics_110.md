@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 12
+
+2024/09/22
+
+0000<->1500
+
+- continuous distribution
+- analygous discrete vs continuous
+- f is not probability, density is not mass
+- integral f is probability, density times length is mass
+
 # Lecture 11
 
 2700<->4200 End
