@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+2024/09/23
+1500<->3000
+
+- std is more interpretable
+- variance has many nice property, and it is nice to work with
+- EX^2=E(X^2)
+
+# Lecture 12
+
 2024/09/22
 
 0000<->1500
