@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.3
+
+0000<->0500
+
+sensitivity analysis
+warehouse rent
+economic outlook, interest rate
+whatif analysis OPEX
+
 # Finance for manager Week4.2 Recap II
 
 2024/09/22
