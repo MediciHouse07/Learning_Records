@@ -1,5 +1,11 @@
 # https://www.youtube.com/watch?v=hKYsYRoyKZQ&list=PL5B3KLQNAC5jTa_F6ssgqdnesapLCLkja&index=9
 
+# Lecture 9
+
+0800<→1300
+
+increase pension age
+
 # Lecture 9 
 
 0000<->0800
