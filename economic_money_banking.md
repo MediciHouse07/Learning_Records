@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 8/11
+
+0000<→0500
+
+2024/09/23
+
+The first twelth lines
+Flow of funds matrix
+positve source vs negative source
+positive use vs negative use
+
 # Lecture 4 7/11
 
 2024/09/21
