@@ -2,6 +2,23 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+2024/09/24
+
+3000<->4500
+
+- real numbers, every point has probability zero
+- probability is proportional to length
+- density is c
+- and it has to pass sainity check
+- unif CDF, branched way in expressing its formula
+- and continuous checks on the key points
+- function of random variable is a random variable
+- change big X into little x
+- one third, one quarter
+- universality of uniform
+
+# Lecture 12
+
 2024/09/23
 1500<->3000
 
