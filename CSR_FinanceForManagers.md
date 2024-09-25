@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
 # Finance for manager Week4.3
+2024/09/24
+
+- how sensitive to the resource changes
+- severance
+- opex, dividend
+- NFO is dependent on your policy
+
+# Finance for manager Week4.3
 
 0000<->0500
 
