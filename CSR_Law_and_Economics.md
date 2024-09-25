@@ -1,3 +1,22 @@
+https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
+
+# Module4.Retribution and Deterrence
+
+2024/09/24
+
+0000<->0800
+
+- retribution, deterrence, incapacitation, rehabilitation
+- what will happen to them
+- external cost
+- property rule
+- free exchange doesn’t work in the regime of high transaction cost
+- free exchange system, liability system; both are a part of economic system
+- homogeneity, and identicality
+- TBRT shift 1-2 mins left
+
+----
+
 Week1.1.1
 
 1200<->End
