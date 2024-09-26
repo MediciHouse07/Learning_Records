@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.4
+
+2024/09/25
+
+- sensitivity analysis for opex
+- choose of different parameters
+- new truck and get rid of some employees
+- sensitivity analysis
+- it woul dbe due to personal reasons, dividend policy would be changed and it would slower growth rate
+- 0423 mins, understand NFO % of sales
+- growth, with 5% is ok for the company, that means, the company can only sit at that size given that context?
+
 # Finance for manager Week4.3
 2024/09/24
 
