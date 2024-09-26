@@ -25,6 +25,34 @@ https://www.coursera.org/learn/project-delivery-in-business-analysis-and-capston
 
 # Course-Final-Capstone
 
+# Module 2
+Scrum Framework
+
+2024/09/25
+
+- scrum is a framework of agile
+- scrum artifacts
+- product backlog
+- subset of product backlog: sprint backlog
+- increment, sum of all completed tasks
+- grooming, update prioritization of
+- impediment
+- scrum ceremony
+- team velocity
+- story points
+
+# Module 4
+Creating document summaries with Bing Copilot
+
+2024/09/25
+
+- interrogate data
+- tedious, error-prone
+- avoid bias
+- liason between business interests
+- bing copilot on the top right
+- but there might be some 3rd party extensions also serving this purpose
+
 Module2.SDLC_models
 
 2024/09/20
