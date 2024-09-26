@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 12
 
+4500<->5000 end
+
+2024/09/25
+
+- 162.4
+- universality of uniform, have CDF find R.V. that have that CDF
+- let X=F-1u
+- then statement is X~F
+- need to check how R.V. and CDF if and only if conclusion is drawn
+- the relation is preserved
+
+# Lecture 12
+
 2024/09/24
 
 3000<->4500
