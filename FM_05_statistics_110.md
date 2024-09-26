@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 13
+
+0000<->0500
+
+2024/09/25
+
+- 2024 minus 11 = 2013, UK judge decide not to allow Bayes rule being used in court
+- universality of uniform, cont.
+- in general CDF can be flat in region
+- synthetically
+
 # Lecture 12
 
 4500<->5000 end
