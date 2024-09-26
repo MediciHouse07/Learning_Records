@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 6
+
+0000<->0500
+
+2024/09/25
+
+- proof of triangle inequality
+- xy R
+- |x+y|<=|x|+|y|
+- triangle inequality, separation by part, change of variable
+- make a remark
+
 # Lecture 5
 
 2024/09/03
