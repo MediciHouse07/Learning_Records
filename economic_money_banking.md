@@ -1,5 +1,20 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 10/11
+
+0000<->0300
+
+2024/09/26
+
+# Lecture 4 9/11
+
+0000<->0200 End
+
+2024/09/26
+
+- put off the constraint to the future
+- credit give you flexibility today, but give you discipline tomorrow
+
 # Lecture 4 8/11
 
 0000<→0500
