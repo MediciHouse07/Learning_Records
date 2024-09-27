@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.5
+
+2024/09/26
+
+0000<->0500
+
+2024/09/26
+
+- WC increase as net income gets added to the Equity
+
 # Finance for manager Week4.4
 
 2024/09/25
