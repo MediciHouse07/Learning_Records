@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+2024/09/26
+
+0500<->1000
+
+- R\Q is uncountable, otherwise R is countable
+- TBRT
+
+# Lecture 6
+
 0000<->0500
 
 2024/09/25
