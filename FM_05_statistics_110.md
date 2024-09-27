@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+2024/09/26
+
+0000<->1000
+
+- valid point
+- at the end last time
+- continuous, strictly increasing CDF
+- take R.V. X and put it into its own CDF then it is unif 0,1
+- CDF is always 0,1; but it is not always unif
+- X<=X is an event that always happen
+- understand more of x and X
+- evaluate a function as a function, then substitute X in it
+
+# Lecture 13
+
 0000<->0500
 
 2024/09/25
