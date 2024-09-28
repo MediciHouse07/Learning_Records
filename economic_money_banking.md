@@ -2,6 +2,17 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Lecture 4 10/11
 
+0300<->0800
+
+2024/09/27
+
+- a good business but with liquidity constraint
+- see issue in the future, you can take some action today
+- liquidity anticipated in the future can take some action today
+- maneuver
+
+# Lecture 4 10/11
+
 0000<->0300
 
 2024/09/26
