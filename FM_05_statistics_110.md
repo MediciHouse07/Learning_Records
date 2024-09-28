@@ -2,6 +2,25 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+1000<->2000
+
+2024/09/27
+
+- solve for inverse function, x interms of y solve for y interms of x
+- generate 10 i.i.d uniform, and fill in the function and that is 10 events from F, the simulated distribution
+- linear transformation on uniform is still uniform for some interval
+- understand independent
+- you can actually prove the above computer simulation case, and check its CDF
+- definition of independent
+- event versus random variable
+- that definition is for all, behind it is not only one equation
+- joint PMF
+- joint CDF
+- in discrete case, the two equations are equivalent
+- knowing value A, does not provide any info about another value B, there are a lot of independence analogy in the real world
+
+# Lecture 13
+
 2024/09/26
 
 0000<->1000
