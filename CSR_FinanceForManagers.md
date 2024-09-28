@@ -2,6 +2,15 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # Finance for manager Week4.5
 
+0100<->End
+
+2024/09/27
+
+- need of funds
+- NFO% seems represent NFO as what percentage, instead of a percentage growth of NFO
+
+# Finance for manager Week4.5
+
 2024/09/26
 
 0000<->0500
