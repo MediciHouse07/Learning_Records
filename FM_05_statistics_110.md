@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+2024/09/28
+
+2000<-3000
+
+- it's not fair to credit him
+- there are many reason for that
+- CLT, add up any i.i.d rv, it could be discrete the distribution looks like normal
+
+# Lecture 13
+
 1000<->2000
 
 2024/09/27
