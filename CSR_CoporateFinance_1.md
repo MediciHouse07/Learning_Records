@@ -1,5 +1,25 @@
 https://www.coursera.org/learn/corporate-finance-essentials/lecture/mey84/1-what-is-the-cost-of-capital
 
+https://www.coursera.org/learn/corporate-finance-essentials/lecture/3ct5y/2-periodic-returns
+
+# Week 2 2. Periodic Returns
+
+2024/09/28
+
+0000<->0300
+
+- geometric mean return, periodic return, arithmetic mean return
+- return and risk
+- SD, beta
+
+# Coporate finance Week 3 2. Portfolio Risk
+
+2024/09/28
+
+0000<->0500
+
+- propotion
+
 # Week4.1.3
 
 0000<->0500
