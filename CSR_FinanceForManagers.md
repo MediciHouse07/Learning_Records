@@ -2,6 +2,18 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # Finance for manager Week4.5
 
+2024/09/28
+
+- how to classify other financial accounts
+- the other day
+- minimum cash for operations
+- cash produce almost no return
+- minimum cash is for operation, so it should go to NFO
+- cash for resilience
+- tax is also source of fund, it should be part of need of funds, which is also source of funds
+
+# Finance for manager Week4.5
+
 0100<->End
 
 2024/09/27
