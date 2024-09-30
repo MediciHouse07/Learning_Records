@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 18
+
+2600<->3100
+
+2024/09/29
+
+- dudv=|J|dxdy
+- vertical bar for absolute value, vertical bar for determinant
+- polar coordinate example
+- absolute value r, drdtheta
+
 # Lecture 19
 
 2100<-3100
