@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+3000<->4000
+
+2024/09/29
+
+- double integral
+- is it good if we change z into x and y
+- jacobin and mathematic handout
+- TBRT
+
+# Lecture 13
+
 2024/09/28
 
 2000<-3000
