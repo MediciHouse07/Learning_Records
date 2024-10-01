@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 18
 
+2024/09/30
+
+2600<->3600
+
+# Lecture 18
+
 2600<->3100
 
 2024/09/29
