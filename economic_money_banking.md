@@ -2,6 +2,17 @@ https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Lecture 4 10/11
 
+2024/09/30
+
+0500<->1000 End
+
+- every period
+- short term interest rate of 10 %, short term interdst of 20%
+- but some angency need to purchase not matter what cost it is
+- easy credit, tight credit
+
+# Lecture 4 10/11
+
 0300<->0800
 
 2024/09/27
