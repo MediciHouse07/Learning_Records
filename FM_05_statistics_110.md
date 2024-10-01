@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+2024/09/30
+
+3000<->4000
+
+# Lecture 13
+
 3000<->4000
 
 2024/09/29
