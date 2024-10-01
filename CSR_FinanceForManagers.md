@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.6
+
+2024/09/30
+
+0000<->0500
+
+- minimum cash for operations
+
 # Finance for manager Week4.5
 
 2024/09/28
