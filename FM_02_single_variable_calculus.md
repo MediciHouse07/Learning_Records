@@ -2,6 +2,14 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 30
+
+1500<->2000
+
+2024/10/01
+
+- 1830 mins, start integration by parts
+
 # Lecture 20
 
 1200<->2100
