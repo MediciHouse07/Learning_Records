@@ -1,3 +1,18 @@
+https://www.youtube.com/watch?v=E4gPx7UW2wY&list=PLcrc6i6xwaQRL1HJLZek9GvZ7-Io1kzgV&index=3
+
+# Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
+
+0000<->0500
+
+- from X to an umpty set, function
+- correspondence
+- is it continuous, is it differentiable
+- real valued function
+- X->R,  X can be non R?
+
+------
+
+
 # I_Logic
 ## Logic 1
 
