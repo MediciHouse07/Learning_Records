@@ -2,6 +2,23 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 13
 
+4000<->5109 End
+
+2024/10/01
+
+- odd function
+- integrate a function on a symmetry domain
+- even function
+- twice the area from 0 to infinity
+- one piece is easy to integrate, another part is easy to differentiate
+- let z be u, bundle as dv
+- should be a minus sign in front
+- integrate udv = uv- integrate vdu
+- TBR integration by part
+- notation clashing
+
+# Lecture 13
+
 2024/09/30
 
 3000<->4000
