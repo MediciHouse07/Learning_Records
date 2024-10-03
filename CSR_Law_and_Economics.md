@@ -1,5 +1,23 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 Retribution and Deterrence
+
+2024/10/01
+
+0300<->0900
+
+- retribution, looks backward, deterrence looks forward
+- two sides of the same coin
+- bear cost already borne, inform potential buyer what they have to pay to impose the cost
+- property rule and free exchange system
+- liability rule system, liability system
+- competitive exchange
+- smallest possible sum, homogeneous good
+- distinguish goods by price
+- under cut the price
+- under ordinary conditions
+- firm remain in business
+
 # Module4.Retribution and Deterrence
 
 2024/09/24
