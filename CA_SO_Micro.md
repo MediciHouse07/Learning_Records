@@ -1,4 +1,23 @@
+https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
+
+# (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
+
+0000<->1200
+
+2024/10/02
+
+- allocation , it is impossible to make one person better off without making another person worse off
+- better off, we talk about preference and utility
+- assume more money is better than less money, how the pareto works
+- check a therom in the conditions of different assumptions
+- this allocation, this way of splitting money is inefficient
+- they both prefer A allocation than B allocation
+- so a pareto efficient is also a common goal
+
+
 https://www.youtube.com/watch?v=lhgpyN3W6wo&list=PLcrc6i6xwaQTMDiFXK73T83XxqwekANRb
+
+
 
 # (M7E1) [Microeconomics] Perfectly Competitive Markets and Partial Equilibrium Analysis: Introduction
 
