@@ -2,6 +2,16 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # Finance for manager Week4.6
 
+2024/10/02
+
+- necessary for operations, you need to use cash to buy stuff for operaionts
+- cash pay for expenses
+- sales - net income, /365, daily expenses
+- if days of cash is less than a day, and how to use it days of cash or days of cash policy to make projection for cash
+- tax is something you pay in some period, it is like payables
+
+# Finance for manager Week4.6
+
 2024/09/30
 
 0000<->0500
