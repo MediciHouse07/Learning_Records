@@ -1,3 +1,16 @@
+https://www.youtube.com/watch?v=lhgpyN3W6wo&list=PLcrc6i6xwaQTMDiFXK73T83XxqwekANRb
+
+# (M7E1) [Microeconomics] Perfectly Competitive Markets and Partial Equilibrium Analysis: Introduction
+
+2024/10/01
+
+- structure of market, structure of competition
+- think market and liability system
+- price taker
+- perfect complement, perfect substitutes
+- impartial analysis
+
+
 # I Choice and Preference
 
 ## Choice and Preference 1
