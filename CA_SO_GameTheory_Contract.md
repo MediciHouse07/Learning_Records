@@ -1,3 +1,13 @@
+0000<->0400
+
+2024/10/03
+
+- self enforced contract
+- abide
+- have incentive to carry on contract
+- externally enforced
+- judge
+
 2023/04/10
 
 0000<->1300
