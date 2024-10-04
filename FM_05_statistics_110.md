@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 14
+
+2024/10/03
+
+0000<->1000
+
+- third moment, because it is odd function, thus it is 0
+- translate standard normal into general form
+- desired mean and variance
+- has no effect
+- variance violate linearity property
+
 # Lecture 13
 
 4000<->5109 End
