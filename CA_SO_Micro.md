@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 # (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
 
+1200<->1500
+
+2024/10/03
+
+- make xx happier, make yy worse off
+
 0000<->1200
 
 2024/10/02
