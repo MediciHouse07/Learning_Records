@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/moral-politics/lecture/NQzaR/the-shape-of-the-course
 
+Module 2
+The Eichmann Case and Problem of Illegal but Legitimate Acts
+
+0000<->0500
+
+2024/10/04
+
+- implementer
+- first comes out about him
+- the man next door
+- 1940 isrl
+- legal code
+
 0700<->1400
 
 2024/10/03
