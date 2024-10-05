@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 14
 
+0000<->1000
+
+2024/10/04
+
+- scale
+
+# Lecture 14
+
 2024/10/03
 
 0000<->1000
