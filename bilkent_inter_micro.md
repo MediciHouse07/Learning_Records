@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=10
+
+# Lecture 10
+
+0000<->0500
+
+2024/10/04
+
+- conditions for rationality
+
+--------------------
+
 # Lecture 1
 
 2023/04/11
