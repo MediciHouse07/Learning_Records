@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 4 11/11
+
+2024/10/05
+
+- cash flow are inadequit to meet cash commitment
+
 # Lecture 4 10/11
 
 2024/09/30
