@@ -2,6 +2,17 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # Finance for manager Week4.6
 
+2024/10/05
+
+0000<->0700
+
+- seasonal companies
+- perfumes are seasonal
+- seasonal, one month with strong cash, another month with strong credit
+- for seasonal business, we should compute daily sales month by month
+
+# Finance for manager Week4.6
+
 2024/10/02
 
 - necessary for operations, you need to use cash to buy stuff for operaionts
