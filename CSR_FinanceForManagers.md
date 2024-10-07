@@ -1,6 +1,21 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
-# Finance for manager Week4.6
+# Finance for manager Week4.9
+
+2024/10/06
+
+- dupont decomposition, ROE=ROS*(turnover)Sales/Assets*(laverage)Assets/Equity=Net income/Equity
+
+# Finance for manager Week4.8
+
+2024/10/06
+
+- return on equity
+- risk premium
+- extra reward for putting the money in a riskier place
+- dupont decomposition
+
+# Finance for manager Week4.7
 
 2024/10/05
 
