@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 3
 
+2024/10/06
+
+0000<->0500
+
+- production and income are the same
+- GDP
+
+# Lecture 3
+
 2024/09/18
 
 - poly multiple
