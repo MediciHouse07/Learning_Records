@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=C6CbJ0c8FrU&list=PLGcEwO_Q6VR7S8UVcngr2xDwKIUgx1
 
 # Lecture 1
 
+2024/10/06
+
+2900<->4400
+
+# Lecture 1
+
 2900<->3900
 
 2024/08/16
