@@ -1,3 +1,12 @@
+https://www.youtube.com/watch?v=bW0c0DvFq_Y&list=PLh9mgdi4rNewJg_lsZuLmMXKqATjV6o1L
+
+# Contract Law 1 Intro Hamer v Sidway (just say no)
+
+2024/10/07
+
+
+--------------------------
+
 # Week1.1.1
 
 2024/03/13
