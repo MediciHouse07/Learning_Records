@@ -2,6 +2,16 @@ https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-r
 
 # Finance for manager Week4.9
 
+2024/10/07
+
+- private equity
+- have nothing in the company, you would go to the one has the highest ROE
+- you can change the policy
+- the easiest factor is to change the leverage
+- check the relation between leverage rate vs ROE
+
+# Finance for manager Week4.9
+
 2024/10/06
 
 - dupont decomposition, ROE=ROS*(turnover)Sales/Assets*(laverage)Assets/Equity=Net income/Equity
