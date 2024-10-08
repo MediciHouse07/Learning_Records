@@ -2,6 +2,10 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Retribution and Deterrence
 
+2024/10/07
+
+0500<->1000
+
 2024/10/01
 
 0300<->0900
