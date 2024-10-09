@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&index=5
 
+# Lecture 9
+
+1500<->3000
+
+2024/10/08
+
+- your profits go away
+- welfare economics
+- consumer surplus
+- substitutes, no deadweight lost introduced in this section 1500<->3000
+
 # Lecture 5
 
 1000<->1800
