@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Retribution and Deterrence
 
+0600<->1100
+
+2024/10/08
+
+- firm expand until the marginal cost is equal to the price
+- deter the consumer from consuming the good
+- one dollar tag confront the consumer with a question
+
 2024/10/07
 
 0500<->1000
