@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Retribution and Deterrence
 
+2024/10/09
+
+1100<->1600
+
+- all trasactions are taken place when here is value add
+- cost imposition
+- incur
+- doesn't make cost doesn't inflict on anyone
+
 0600<->1100
 
 2024/10/08
