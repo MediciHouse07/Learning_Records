@@ -1,5 +1,19 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.11
+
+2024/10/10
+
+- retailer, internet, pharmaceutical, consumer electronics
+
+# Finance for manager Week4.10
+
+2024/10/10
+
+- private money, individual who buy whatever they want to buy
+- it's impossible to push Walmart's price to be even lower
+- double the leverage we can find ROE directly
+
 # Finance for manager Week4.9
 
 2024/10/07
