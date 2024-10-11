@@ -2,6 +2,13 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Retribution and Deterrence
 
+1200<->1700
+
+2024/10/10
+
+- every activity is a cost imposition
+- encourage people to conduct efficient cost imposition
+
 2024/10/09
 
 1100<->1600
