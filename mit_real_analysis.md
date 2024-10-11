@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+2024/10/10
+
+0800<->1800
+
+# Lecture 6
+
 0700<->1700
 
 2024/10/09
