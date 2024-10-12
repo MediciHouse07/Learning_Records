@@ -2,6 +2,18 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Retribution and Deterrence
 
+1600<->2100
+
+2024/10/11
+
+- deter you
+- those who decide(think) that xx
+- represented by the owner of the store
+- prove that, demonstrate that by paying the price
+- retribution analogous to repayment
+- it does not deter cost imposition absolutely
+- it deter inefficient cost imposition
+
 1200<->1700
 
 2024/10/10
