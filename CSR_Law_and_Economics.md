@@ -1,5 +1,20 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 Torts
+
+2024/10/12
+
+0000<->0500
+
+- transaction and attributes to governance structure and capabilities
+- facilitate as many transaction as possible
+- property rule protect, when the case is transaction costs are low
+- liability rule and costly legal system when transaction costs are high
+- liability system help to complete the transaction by forcing cost imposer to compensate
+- boomer
+- boomer's entitlement to be free from damages
+- purchase another necessary input
+
 # Module 4 Retribution and Deterrence
 
 1600<->2100
