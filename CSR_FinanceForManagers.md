@@ -1,5 +1,23 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.13
+
+2024/10/12
+
+- retailer has negative NFO
+- retailer have higher negotiating power
+- three elements for each, retailer has higher competition, thus low ROS
+- internet has very few equity, so banks normally don't provide loans to them
+- 
+
+# Finance for manager Week4.12
+
+2024/10/12
+
+- goodwill, synergy in acquisition
+- phaumathetical company, high opex R&D
+- goodwill, foundation of management course
+
 # Finance for manager Week4.11
 
 2024/10/10
