@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.14
+
+2024/10/13
+
+- sensitivity analysis, if something happen what would occur
+- sustainable growth scenarios
+- minimum cash for operations, as a source of funds, short term and free
+- analysis for seasonal companies and operational ratios
+- Dupont decomposition
+- blind financial statements
+
 # Finance for manager Week4.13
 
 2024/10/12
