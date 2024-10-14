@@ -1,5 +1,28 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/block-v1:Harvardx+HLS2X+2T2024+type@sequential+block@7111286829454b309a60fceba4a2f59a/block-v1:Harvardx+HLS2X+2T2024+type@vertical+block@8a942075ca1f455fa5b8c1ba1e2d6033
 
+Uncle's Promise Challenge Part 4
+
+2024/10/13
+
+- nephew never promise to not to do something
+- a quid pro quo, a tit for tat
+- real bargain, real contract, passess all four tests
+
+Uncle's Promise Challenge Part 2
+
+2024/10/13
+
+- he didn't have to do that can be thought as a part of bargain
+- didn't have to do it
+- uncle wanted it, asked for it, and got it
+
+Uncle's Promise Challenge Part 1
+
+2024/10/13
+
+- promise to make a gift
+
+
 2024/10/11
 
 - immoral, shoddy
