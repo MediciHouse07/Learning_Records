@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Finance for manager Week4.15
+
+0000<->0700 end
+
+2024/10/14
+
+- action oriented, decision to make
+
 # Finance for manager Week4.14
 
 2024/10/13
