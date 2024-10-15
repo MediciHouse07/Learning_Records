@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Torts
 
+2024/10/14
+
+0300<->0800
+
+- refuse to surrender entitlements
+- costly, imperfect legal system
+
+
 2024/10/12
 
 0000<->0500
