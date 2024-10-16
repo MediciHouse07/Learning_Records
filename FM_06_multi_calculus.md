@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 18
 
+3500<->3600
+
+2024/10/15
+
+- abosolute determinant drdtheta
+
 2024/09/30
 
 2600<->3600
