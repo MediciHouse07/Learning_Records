@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+1400<->2400
+
+- x is a real number, if it is represented by digits
+- a quarter = .25
+- give digits, find unique real number
+- give number, not necessarily find unique digits
+- 1/2 = 0.5 and 0.4999
+- sup{0.4999}=1/2
+- unique digits st. equality hold
+
+# Lecture 6
+
 1500<->3500
 
 2024/10/14
