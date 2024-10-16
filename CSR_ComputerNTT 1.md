@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-ahead
 
+# Week 1 Unit 1.1: Boolean Logic
+
+2024/10/15
+
+- Boolean functions
+- Boolean functions and table
+- 1 and 0
+- x and y
+- evaluate and create the table
+- formula and truth table, identical approach to describe Boolean function
+
+
 # Unit 0.1: The Road Ahead
 
 0000<->0400
