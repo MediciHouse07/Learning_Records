@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/intro-economic-theories/lecture/fgS93/economics-as-a-science
 
+# Week 1 Economics as a Science
+
+0500<->1000
+
+2024/10/16
+
+- social norms
+- risk versus uncertainty
+- utility function, neoclassical economics
+- reciprocity
+
+
 Week 1 Economics as a Science
 
 2024/10/13
