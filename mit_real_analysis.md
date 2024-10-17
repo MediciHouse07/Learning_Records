@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+1700<->2700
+
+2024/10/16
+
+- least upper bound property of the real numbers
+
+# Lecture 6
+
 1400<->2400
 
 - x is a real number, if it is represented by digits
