@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=sx00s7nYmRM
 
 # Lecture 26
 
+2024/10/16
+
+0500<->1000
+
+- overfitting
+- playground.tensorflow.org
+
+# Lecture 26
+
 0000<->0500
 
 2024/10/15
