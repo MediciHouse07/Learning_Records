@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=sx00s7nYmRM
 
 # Lecture 26
 
+1000<->1500
+
+2024/10/17
+
+- how do you decide, purely digest it from general decision making, to split two classes by line challenges or decision tree like decision making is the limit of human decision making, can't expect there is SVM like decision making style
+- epoch
+- for each complete round of calculation under one reshuffle
+
+# Lecture 26
+
 2024/10/16
 
 0500<->1000
