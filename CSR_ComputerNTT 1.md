@@ -2,6 +2,15 @@ https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-
 
 # Week 1 Unit 1.1: Boolean Logic
 
+0600<->1200 End
+
+2024/10/17
+
+- Boolean identities
+- verify equality case by case throughout demogen law is also a proof
+
+# Week 1 Unit 1.1: Boolean Logic
+
 2024/10/15
 
 - Boolean functions
