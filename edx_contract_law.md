@@ -1,5 +1,16 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/block-v1:Harvardx+HLS2X+2T2024+type@sequential+block@7111286829454b309a60fceba4a2f59a/block-v1:Harvardx+HLS2X+2T2024+type@vertical+block@8a942075ca1f455fa5b8c1ba1e2d6033
 
+# Post v. Jones Part 1
+
+2024/10/17
+
+- oil and its applications
+- it is not that trivial
+- kerosene
+- predicament
+- savage
+- inhabited island
+
 2024/10/16
 
 - the loss is not something brother in law cares about
