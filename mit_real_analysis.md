@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+2000<->3000
+
+2024/10/17
+
+- theorem 2 make the digital sequence representation unique
+- R uncountable, implied by 0,1 is uncountable
+
+# Lecture 6
+
 1700<->2700
 
 2024/10/16
