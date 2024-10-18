@@ -1,6 +1,20 @@
+https://www.coursera.org/learn/nand2tetris2/lecture/TlovA/unit-0-1-machine-language-overview
+
+# Week 1 Unit 0.1: Machine Language Overview
+
+2024/10/17
+
+000<->0400
+
+- ALU
+- theoretical model of computer
+- universal machine, one machine 
+- theory, turing, von neumann practice
+- instructions and data send to CPU
+
+------------------
+
 # Week1
-
-
 
 ## 1-2
 
