@@ -1,3 +1,24 @@
+https://www.coursera.org/learn/computer-simulations/lecture/IJfka/agent-based-emergence-part-1
+
+# Module 3 Agent-Based Emergence (Part 1)
+
+2024/10/18
+
+0000<->0500
+
+- macro can be surprising
+- micro can be surprising
+- phase transaction
+- qualitative
+- doing experiment for 
+- providng evidence for, provide weapon
+- simulation for construction
+- blueprint, appreciate
+- study a building before the building even exist
+
+----
+
+
 # Computer Simulation
 
 # W1
