@@ -1,5 +1,16 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/block-v1:Harvardx+HLS2X+2T2024+type@sequential+block@7111286829454b309a60fceba4a2f59a/block-v1:Harvardx+HLS2X+2T2024+type@vertical+block@8a942075ca1f455fa5b8c1ba1e2d6033
 
+Post v. Jones Part 2
+
+2024/10/18
+
+- was valuble in part because, and in part because
+- beholder
+- sag harbor
+- admiralty jurisdiction
+- admirality law
+- salvage means reward
+
 # Post v. Jones Part 1
 
 2024/10/17
