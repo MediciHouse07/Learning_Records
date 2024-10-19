@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-ahead
 
+# Week 1 Unit 1.5: Hardware Simulation
+
+2024/10/18
+
+0000<->0500
+
+- hardware simulation
+- HDL code and SW to simulate hardware
+- send test script to auto test
+- subject as a verb
+- should be available on your computer
+
 # Week 1 Unit 1.1: Boolean Logic
 
 0600<->1200 End
