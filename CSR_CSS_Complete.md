@@ -2,6 +2,17 @@ https://www.coursera.org/learn/computer-simulations/lecture/IJfka/agent-based-em
 
 # Module 3 Agent-Based Emergence (Part 1)
 
+https://www.coursera.org/learn/computer-simulations/lecture/1TvsS/moving-turtle
+
+Moving Turtle
+
+First turtle
+
+2024/10/19
+
+Abstract, instead of modeling of neuron, based on statistics from observation, a visualization still though, but maybe useful
+
+
 2024/10/18
 
 0000<->0500
