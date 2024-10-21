@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Torts
 
+0800<->1300
+
+2024/10/19
+
+Purchase entitlement everyday
+Not deterred transaction under torts system
+Vast majority tort suit
+
+
 2024/10/14
 
 0300<->0800
