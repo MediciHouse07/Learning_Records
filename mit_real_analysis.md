@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+2700<->4200
+
+2024/10/20
+
+- 0,1 and R has the same cardinality
+- n is bijection from N to 0,1
+- derive a result where a digit has 0 and 1 at the same time
+
+# Lecture 6
+
 2024/10/19
 
 2500<->3500
