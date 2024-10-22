@@ -2,6 +2,12 @@ https://www.coursera.org/learn/computer-simulations/lecture/IJfka/agent-based-em
 
 # Module 3 Agent-Based Emergence (Part 1)
 
+# Module 4 Communicating Turtles
+
+0000<->0500
+
+2024/10/20
+
 https://www.coursera.org/learn/computer-simulations/lecture/1TvsS/moving-turtle
 
 Moving Turtle
