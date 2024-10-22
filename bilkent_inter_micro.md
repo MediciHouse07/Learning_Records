@@ -2,6 +2,13 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 10
 
+0300<->1300
+
+2024/10/20
+
+- quasi concave, diminishing MRS, optimization is possible; has no interior solution
+- convex, concave
+
 0000<->0500
 
 2024/10/04
