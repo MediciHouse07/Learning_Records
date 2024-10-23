@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+3100<->4600
+
+2024/10/22
+
+- idea is to find element that doesn't not get mapped onto
+- construct y based on diagonal, as the expansion is supposed to contain everything, if y appears in position i, then for the ith digit of y, it has to show two element at the same spot
+- a list of element of R
+
+# Lecture 6
+
 3000<->4500
 
 2024/10/21
