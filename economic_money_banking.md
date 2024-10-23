@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 5 2/10
+
+2024/10/21
+
+# Lecture 5 1/10
+
+2024/10/21
+
+- QE translate into aggregate demand
+
 # Lecture 5 1/10
 
 2024/10/06
