@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+3000<->4500
+
+2024/10/21
+
+- unique digital representation as bridge for the next step surjective proof; as otherwise though exist a case where it has contradiction, but we can't tell what is the case for another or other possible numbers in the domain
+
+# Lecture 6
+
 2700<->4200
 
 2024/10/20
