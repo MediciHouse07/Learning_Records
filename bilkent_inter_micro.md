@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 10
 
+1300<->1800
+
+2024/10/22
+
+- dim MRS, convex, quasi concave utility
+- dMRS/dx
+
+# Lecture 10
+
 0300<->1300
 
 2024/10/20
