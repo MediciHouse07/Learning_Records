@@ -1,5 +1,24 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Car Accident
+
+2024/10/22
+
+- annuity
+- is it a real bargain? what is compensated for the low price one party is paid
+
+# Post v. Jones - Part 3 - General Average
+
+2024/10/22
+
+- peril
+- out of luck, in luck
+- general average
+- in a situation like this
+- general average, each get 7/10 of their cargo
+- insurance policy, sharing of risk
+- alleviate
+
 # Post v. Jones Part 2
 
 # Post v. Jones Part 1
