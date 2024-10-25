@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+3200<->4700
+
+2024/10/23
+
+- is the power of constructing the number too strong? how strong a power we can have in the realm of real analysis
+- maybe it is about whether you can program that, in that case maybe the power is as big as expected
+- if it is bijective, then the x(n) list can represent every number in the range 0,1; but we find y in range 0,1 but is not in the list or can't be in the list
+- and because actually there is only one representation for the constructed number, so the only representation proof is valid
+
+# Lecture 6
+
 3100<->4600
 
 2024/10/22
