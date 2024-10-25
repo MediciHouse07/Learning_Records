@@ -1,6 +1,19 @@
 https://www.coursera.org/learn/intro-economic-theories/lecture/fgS93/economics-as-a-science
 
+# Week 1 What is Meant by Utility Maximisation?
+
+2024/10/23
+
+- utility maximization, neo classical economics
+- how utility funciton looks like
+
 # Week 1 Economics as a Science
+
+2024/10/23
+
+- diminishing marginal utility
+- diminishing MRS, quasi concave utility
+- guide by institution, instead of guide by utility
 
 0500<->1000
 
