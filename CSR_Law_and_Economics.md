@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Torts
 
+0600<->1600
+
+2024/10/23
+
+- good health, pain and suffering
+- sentimental value
+- how would it be for tort system when there is applicable market value
+- actual exchange, it might be missing ojects, for collection suits
+
 0800<->1300
 
 2024/10/19
