@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 10
 
+2500<->3500
+
+2024/10/27
+
+- Cobb-Douglas is derived from US production data
+- MRS, minus slope of the indifference curve
+
+# Lecture 10
+
 1300<->1800
 
 2024/10/22
