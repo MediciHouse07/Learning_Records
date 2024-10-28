@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+5500<->6500
+
+2024/10/27
+
+- proof of why convergent sequence can only converge to one thing
+
+# Lecture 6
+
 5000<->6000
 
 2024/10/26
