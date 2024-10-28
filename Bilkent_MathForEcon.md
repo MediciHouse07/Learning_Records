@@ -1,3 +1,11 @@
+https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=36
+
+# Lecture 7
+
+0000<->1000
+
+-------
+
 # Lecture 1
 
 2023/05/17
