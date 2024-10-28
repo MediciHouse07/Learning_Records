@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Torts
 
+1400<->2400 End
+
+2024/10/26
+
+- free exchange is more accurate
+- tort system is like approximation
+- class action
+
 0600<->1600
 
 2024/10/23
