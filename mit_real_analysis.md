@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+5000<->6000
+
+2024/10/26
+
+- given a epsilon, there is a N or M, and so on
+
+# Lecture 6
+
 3200<->4700
 
 2024/10/23
