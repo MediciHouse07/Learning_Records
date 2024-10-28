@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=rhOpABGewYA&list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF&index=2
+
+# Lecture 2
+
+2000<->3000
+
+2024/10/27
+
+- willingness to give up one unit of goods to get another good given utility constant
+
+---
+
 # Lecture 1
 
 2023/04/14
