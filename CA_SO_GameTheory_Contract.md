@@ -1,3 +1,16 @@
+https://www.youtube.com/watch?v=IwM-BRE93J4
+
+0000<->1000
+
+2024/10/28
+
+- self enforced contract
+- externally enforced contract
+- Pareto optimal outcome
+- what is the value of y
+
+---
+
 0000<->0400
 
 2024/10/03
