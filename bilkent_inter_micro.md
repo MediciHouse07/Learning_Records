@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 10
 
+3300<->4300 End
+
+2024/10/28
+
+- intepret MRS and making connection with graph
+- perfect substitute always be able to substitute one guy at a constant rate with another guy
+- cobb douglas
+- strictly convex, no flat portion
+- linear is convex
+
+# Lecture 10
+
 2500<->3500
 
 2024/10/27
