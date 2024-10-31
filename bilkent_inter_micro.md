@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=10
 
+# Lecture 11
+
+2024/10/30
+
+1500<->2500
+
+- perfect substitutes, perfect compliments
 
 # Lecture 11
 
