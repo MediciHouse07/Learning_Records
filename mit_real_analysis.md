@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 6
 
+6000<->7000
+
+2024/10/29
+
+# Lecture 6
+
 5000<->6000
 
 2024/10/28
