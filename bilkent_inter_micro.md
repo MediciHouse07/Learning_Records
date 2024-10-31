@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=10
 
+
+# Lecture 11
+
+0000<->2000
+
+2024/10/29
+
+- perfect complements
+- give up no y to gain another unit of x, MRS=0
+- dy/dx, MRS
+- substitution at a fixed propotion, being consumed at a fixed propotion
+- lagrangian
+- CES, constant elasticify substitution
+- degree of subsittutibility
+
 # Lecture 10
 
 3300<->4300 End
