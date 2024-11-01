@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 11
 
+2024/10/31
+
+2500<->4000 end
+
+- perfect substitution, because assume x<y, so it is a result that proof it is min
+- take derivative of the bottom with respect to x
+- continuous you can change the order of e and limit
+- if I hadn't say that, it wouldn't have been the case
+
+# Lecture 11
+
 2024/10/30
 
 1500<->2500
