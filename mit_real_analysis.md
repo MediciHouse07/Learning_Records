@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 5
+
+2024/10/31
+
+0000<->1500
+
+- are dense
+- AP
+- exist n belongs to N st nx>y
+
 # Lecture 6
 
 2024/10/30
