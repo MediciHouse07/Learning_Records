@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 7
+
+2024/11/01
+
+0000<->1000
+
+- xn arrow x
+- episilon not
+- DNC, does not converge
+
 # Lecture 5
 
 2024/10/31
