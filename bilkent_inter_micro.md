@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=10
 
+# Lecture 12
+
+2024/11/01
+
+0000<->1000
+
+- consumer theory
+- producer theory
+- bundle of capital and labour that product the same amount of goods
+- degree of substutibility
+- elasticity
+
 # Lecture 11
 
 2024/10/31
