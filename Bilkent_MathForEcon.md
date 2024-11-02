@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=36
 
+# Lecture 5
+
+2024/11/01
+
+0000<->0500
+
+- norm
+
 # Lecture 7
 
 0000<->1000
