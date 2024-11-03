@@ -1,5 +1,19 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Unit 2: Empty Bag Empty Bags?
+
+2024/11/02
+
+- undiscovered good work
+- rubbish that easily get attentions
+- cost of reviewing things
+- it may be, it may not be
+- mutually binding promises
+- lack of mutuality
+- exclusivity
+- three month option
+- no contract to breach
+
 # Car Accident
 
 2024/10/22
