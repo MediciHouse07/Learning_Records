@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+2024/11/02
+
+1000<->2000
+
+- does the converse hold
+- TBRT
+
+# Lecture 7
+
 2024/11/01
 
 0000<->1000
