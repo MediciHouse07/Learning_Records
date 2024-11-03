@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=36
 
+# Lecture 0
+
+2024/11/02
+
+0000<->0200 1000<->1800
+
+- optimization problems
+- legal constraints
+- authority
+- exist? unique? how to find
+
 # Lecture 5
 
 2024/11/01
