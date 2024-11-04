@@ -1,5 +1,15 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Unit 2: Empty Bag Wood v. Lucy, Lady Duff-Gordon
+
+2024/11/03
+
+0000<->0300
+
+- xxx for
+- colorful people
+- colorful person
+
 # Unit 2: Empty Bag Empty Bags?
 
 2024/11/02
