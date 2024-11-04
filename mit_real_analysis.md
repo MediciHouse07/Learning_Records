@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+1000<->2000
+
+2024/11/03
+
+- proof of doesn't converge
+- use let M belongs to N to represent any
+- one question we should frequently ask, does the converse hold
+- construct a upper bound by leveraging the limited sum + the number converged to
+
+# Lecture 7
+
 2024/11/02
 
 1000<->2000
