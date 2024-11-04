@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=sx00s7nYmRM
 
 # Lecture 26
 
+2024/11/03
+
+1300<->2300
+
+- epoch
+- inter legere, between read; read between
+- call attention to
+- training set
+- offset vector
+- weights A1 and b, weights to compute
+
+# Lecture 26
+
 1000<->1500
 
 2024/10/17
