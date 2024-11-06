@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+1500<->2000
+
+2024/11/05
+
+- does the converse
+
+# Lecture 7
+
 1000<->2000
 
 2024/11/03
