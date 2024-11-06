@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 11
+
+0000<->1000
+
+2024/11/05
+
+- reciprocal
+- replace d with delta, you get approximation formula
+- TBRT
+
 # Lecture 18
 
 3500<->3600
