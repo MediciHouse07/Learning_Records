@@ -1,5 +1,12 @@
-
 https://www.youtube.com/watch?v=TY6bmLjd5lg
+
+# Lecture 5
+
+0100<->0600
+
+2024/11/05
+
+- boycott
 
 # Lecture 5
 
