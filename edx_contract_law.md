@@ -1,5 +1,14 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Unit 2: Empty Bag
+
+0000<->0500
+
+2024/11/05
+
+- holler
+- the heroic action had already taken place
+
 # Unit 2: Empty Bag Wood v. Lucy, Lady Duff-Gordon
 
 2024/11/03
