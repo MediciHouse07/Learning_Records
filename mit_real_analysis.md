@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+2000<->2500
+
+2024/11/06
+
+- monotone sequence
+- monotomic sequence is convergent <-> bounded
+
+# Lecture 7
+
 1500<->2000
 
 2024/11/05
