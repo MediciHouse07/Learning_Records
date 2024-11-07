@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 11
 
+1000<->2000
+
+2024/11/06
+
+- dependence between the various variables
+- f and t the relation, can be get from dividing by dt
+- delta approach to differential when it goes towards limit
+
+# Lecture 11
+
 2024/11/05
 
 0000<->1000
