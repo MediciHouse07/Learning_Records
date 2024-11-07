@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 11
 
+2024/11/05
+
+0000<->1000
+
+- delta x is a number, dx is not
+
+# Lecture 11
+
 0000<->1000
 
 2024/11/05
