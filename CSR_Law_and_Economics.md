@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 The Costs of Crimes
+
+0000<->0500
+
+2024/11/06
+
 # Module 4 Torts
 
 1400<->2400 End
