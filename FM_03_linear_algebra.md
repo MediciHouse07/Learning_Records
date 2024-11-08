@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+1500<->2500
+
+2024/11/07
+
+- elimination
+- unit factor must have inverse
+- the lense of viewing matrice calculation as intuition instead of appreciation
+
+# Lecture 4
+
 2024/08/21
 
 1700<->2200
