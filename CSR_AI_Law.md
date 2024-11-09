@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/ai-law/lecture/LLBbo/introduction-to-ai-and-law
 
+# Week 1 Law and AI Hardware
+
+0000<->0300
+
+2024/11/07
+
 # Week 1 Law and AI Software
 
 0200<->0700
