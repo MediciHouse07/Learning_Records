@@ -2,6 +2,16 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/11/08
+
+0500<->1000
+
+- TBRT
+- economic cost, alter their life to protect themself, new purchase
+- moral cost
+
+# Module 4 The Costs of Crimes
+
 0000<->0500
 
 2024/11/06
