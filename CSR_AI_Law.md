@@ -2,6 +2,14 @@ https://www.coursera.org/learn/ai-law/lecture/LLBbo/introduction-to-ai-and-law
 
 # Week 1 Law and AI Software
 
+0200<->0700
+
+2024/11/07
+
+- ethnicity
+
+# Week 1 Law and AI Software
+
 2024/11/03
 
 0000<->0200
