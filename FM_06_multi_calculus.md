@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 11
 
+3000<->4000
+
+2024/11/08
+
+- inverse trig
+- dwdu, change u a bit how w change
+- coefficient
+- total differentaial, partial derivative
+
+# Lecture 11
+
 2000<->3000
 
 2024/11/07
