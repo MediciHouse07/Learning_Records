@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+2024/11/09
+
+2500<->3500
+
+- how many operations on n n matrix A
+
+# Lecture 4
+
 2024/11/08
 
 2500<->3000
