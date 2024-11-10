@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 11
 
+2024/11/09
+
+4000<->5000 End
+
+- how to interpret sum and multiplication effect
+- partial derivative can't be simplified as it did in single variable derivative
+- partial derivative, no more simplification can be made
+- we don't need to know the entire function, we only need to know the rate of change
+
+# Lecture 11
+
 3000<->4000
 
 2024/11/08
