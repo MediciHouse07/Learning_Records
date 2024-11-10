@@ -2,6 +2,16 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/11/09
+
+0600<->1100
+
+- crime includes tort
+- future, third party eyes
+- moral universe is disburbed
+
+# Module 4 The Costs of Crimes
+
 2024/11/08
 
 0500<->1000
