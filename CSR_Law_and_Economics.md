@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/11/10
+
+1000<->2000
+
+- moral cost generate an action for revenge
+- retribution is not as fierce and deterrence
+- positive, normative
+- moral victim, turn tort into crime
+
+# Module 4 The Costs of Crimes
+
 2024/11/09
 
 0600<->1100
