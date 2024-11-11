@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 12
+
+2024/11/10
+
+0600<->1000
+
+- velocity vector
+- gradient vector, perpendicular to surface level
+- parallel to the position vector
+- displacement vector
+
 # Lecture 11
 
 2024/11/09
