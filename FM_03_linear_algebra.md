@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+2024/11/10
+
+3500<->4500
+
+- row exchange if 0 shows up on the pivot position
+- permutation
+- TBR different lense of viewing matrix multiplication
+
+# Lecture 4
+
 2024/11/09
 
 2500<->3500
