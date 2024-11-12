@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+1000<->2000
+
+2024/11/11
+
+- gradient points towards higher value of w
+- stays on the level surface
+- velocity vector
+- position vector, displacement vector
+- it can be any curve tangent to the surface
+- TBRT shift 5 mins
+
+# Lecture 12
+
 2024/11/10
 
 0600<->1000
