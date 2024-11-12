@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+Property and Liability: An Introduction to Law and Economics
+Module 4
+The Costs of Crimes
+
+1800<->2300 end
+
+2024/11/11
+
+- TBRT
+
 # Module 4 The Costs of Crimes
 
 2024/11/10
