@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 4
 
+3800<->4800 End
+
+2024/11/12
+
+- what does cost of b mean
+- permutation of matrix, n factorial as they are permutation instead of CXX question
+- for permutations of identity, inverse = permutation
+
+# Lecture 4
+
 2024/11/10
 
 3500<->4500
