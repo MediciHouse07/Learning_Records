@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/ai-law/lecture/LLBbo/introduction-to-ai-and-law
 
+# AI & Law Week 1 Law and AI Hardware
+
+0500<->1000 End
+
+2024/11/12
+
+- congregate
+- coupled with
+- quantum computer can break conventional password easily
+
 # Week 1 Law and AI Hardware
 
 0000<->0300
