@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+1500<->2500
+
+2024/11/12
+
+- plane trying to approximate the shape
+- normal vector to the surface
+- normal vector to the tangent plane
+
+# Lecture 12
+
 1000<->2000
 
 2024/11/11
