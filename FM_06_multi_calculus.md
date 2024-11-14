@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+2000<->3000
+
+2024/11/13
+
+- hyperboloid
+- in the best way that you can
+- approximate the plane in the best way that you can
+- TBRT
+
+# Lecture 12
+
 1500<->2500
 
 2024/11/12
