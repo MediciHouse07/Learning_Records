@@ -1,5 +1,16 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Buying Something at a Store 0000<->0200
+# Webb v. McGowin
+
+2024/11/13
+
+- bargain that turn promise into
+- was blundered
+- mutual promises
+- promisor
+- public promise, private promise, joke promise, gift promise
+
 # Unit 2: Empty Bag
 
 0000<->0500
