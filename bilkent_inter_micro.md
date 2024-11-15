@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 12
 
+1500<->2000
+
+2024/11/14
+
+- homogeneous
+
+# Lecture 12
+
 1000<->1500
 
 2024/11/06
