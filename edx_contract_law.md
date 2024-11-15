@@ -1,5 +1,26 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Webb v. McGowin
+
+0300<->0800 End
+
+- can't stand it
+- can stand it
+
+2024/11/14
+
+0300<->0800 End
+
+2024/11/14
+
+- give nothing new for the promise
+- had given the request
+- sold something had already given
+- moral obligation
+- consideration, moral obligation
+- moral decency
+- nevertheless
+
 # Buying Something at a Store 0000<->0200
 # Webb v. McGowin
 
