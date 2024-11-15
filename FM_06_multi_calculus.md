@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 2000<->3000
 
+2024/11/14
+
+- shift 5 mins TBRT
+- gradient descent approach vs approximation approach to get answer of tangent plain
+
+# Lecture 12
+
+2000<->3000
+
 2024/11/13
 
 - hyperboloid
