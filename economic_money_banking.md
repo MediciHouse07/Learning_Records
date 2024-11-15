@@ -1,5 +1,22 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 5 4/10
+
+2024/11/14
+
+- 1891
+- enlarged
+
+# Lecture 5 3/10
+
+0000<->0400 mins
+
+2024/11/14
+
+- over draft
+- overdraft
+- one way for alpha to pay gamma
+
 # Lecture 5 2/10
 
 2024/10/21
