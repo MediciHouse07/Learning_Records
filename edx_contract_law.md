@@ -1,5 +1,25 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Buying Something at a Store
+
+0000<->0500 end
+
+2024/11/15
+
+- contract
+- mutual promises
+- but not all mutual promises are contract
+- promise be part of a bargain
+- promise for promise
+- offeror make terms
+- contract is formed when the offer is accepted
+
+0000<->0500 end
+
+2024/11/15
+
+- the person to whom it is proposed
+
 # Webb v. McGowin
 
 0300<->0800 End
