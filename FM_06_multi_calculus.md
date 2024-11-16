@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+2500<->3500
+
+2024/11/15
+
+- in particular
+- TBRT shift 5 mins to the right
+
+# Lecture 12
+
 2000<->3000
 
 2024/11/14
