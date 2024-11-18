@@ -2,6 +2,16 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Buying Something at a Store
 
+2024/11/16
+
+- promissor doesn't want to be in court
+- by and large
+- not private promise or joke promise
+- offeror, offeree
+- he might wish I had made
+
+# Buying Something at a Store
+
 0000<->0500 end
 
 2024/11/15
