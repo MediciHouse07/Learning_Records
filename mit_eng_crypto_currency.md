@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlc
 
 # Lecture 1
 
+2024/11/16
+
+2000<->2500
+
+- serial code that hasn't be spent before
+- chaumian
+
+# Lecture 1
+
 1000<->2000
 
 2024/11/15
