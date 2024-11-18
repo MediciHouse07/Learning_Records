@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+2500<->3500
+
+2024/11/16
+
+- bounded above and below
+
+# Lecture 7
+
 2000<->2500
 
 2024/11/06
