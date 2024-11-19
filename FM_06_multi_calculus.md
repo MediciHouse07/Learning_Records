@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+2024/11/17
+
+3000<->3500
+
+- directional derivatives
+- position r
+- s arc length
+- distance along the line
+- r(s)
+
+# Lecture 12
+
 2500<->3500
 
 2024/11/15
