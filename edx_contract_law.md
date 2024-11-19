@@ -2,6 +2,21 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Buying Something at a Store
 
+0000<->0500
+
+2024/11/17
+
+- promise for performance(payment on site)
+- offeror, offer an exchange
+- offeree, accept an exchange
+- promise and performance can be one side of contract
+- it has to be accepted by both sides
+- terms have to be met
+- offeror is the master of the bargain
+- would be bound just by waling into the store and have to buy whatever imposed by the store owner
+
+# Buying Something at a Store
+
 2024/11/16
 
 - promissor doesn't want to be in court
