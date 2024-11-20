@@ -1,5 +1,9 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Mirror image rule
+
+2024/11/18
+
 # Buying Something at a Store
 
 0000<->0500
