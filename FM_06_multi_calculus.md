@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+3500<->4000
+
+2024/11/18
+
+- a, b as scaler of s
+
+# Lecture 12
+
 2024/11/17
 
 3000<->3500
