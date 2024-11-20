@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Lecture 12
 
+2000<->3000
+
+2024/11/18
+
+- homogeneity of degree k
+- t pops out and with degree k
+- hod 1, hod zero
+- double all the prices, utility doesn't change
+
+# Lecture 12
+
 1500<->2000
 
 2024/11/14
