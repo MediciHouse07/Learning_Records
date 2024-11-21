@@ -1,3 +1,21 @@
+https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn&index=6
+
+# Lecture 6
+
+0000<->1400
+
+2024/11/19
+
+- internet, app
+- protocol, standard operating procedure
+- cryptography
+- balance ledger, transaction ledger
+- eth, balance ledger, bit coin, transaction ledger
+- Turing completeness
+- highly flexible
+
+---
+
 # Lecture 15
 ## REX 1 2022/07/19
 
