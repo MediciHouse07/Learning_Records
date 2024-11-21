@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+2024/11/19
+
+4000<->5000 End
+
+- direction of the the function increase the most quickly
+- fastest increase of w
+- direction, gradient
+- the opposite side of fastest increase is the fastest decrease
+- it is min
+- analogous with climb mountain
+
+# Lecture 12
+
 3500<->4000
 
 2024/11/18
