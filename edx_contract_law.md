@@ -1,5 +1,20 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Mirror Image Rule
+
+2024/11/19
+
+- conditional promise
+- promise or performance should meet the condition
+- no bound to do x
+- mirror image of the offer
+- time limit
+- does it sort of depend
+- contract - law, contract - econ incentive, contract - decentralized tech
+- pulls up, porch
+- too long ago
+- send your truck around
+
 # Mirror image rule
 
 2024/11/18
