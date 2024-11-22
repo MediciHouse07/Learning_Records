@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 12
 
+2024/11/20
+
+4000<->5000 end
+
+- r is a function of s
+- u is unit vector, represent the direction
+- component of w in the direction of u
+- if take i as example, then it is partial derivative with respect to i
+- moving on the level, tangent to the level is the same as to say perpendicular
+
+# Lecture 12
+
 2024/11/19
 
 4000<->5000 End
