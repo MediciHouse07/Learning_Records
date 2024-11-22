@@ -1,5 +1,20 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Implicit that Acceptance Must Come in a Reasonable Time
+
+0000<->0300
+
+2024/11/20
+
+- parts
+- the light go on
+
+# Implicit that Acceptance Must Come in a Reasonable Time
+
+2024/11/20
+
+- payment and delivery when and how
+
 # Mirror Image Rule
 
 2024/11/19
