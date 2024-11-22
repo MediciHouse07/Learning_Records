@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+1000<->2000
+
+2024/11/20
+
+- merkel tree
+- ASIC bitcoin, ETH GPU
+- 54 Exahash/S 260 Terahash/S
+- 18 M $
+- off to the race
+- join the race
+
+# Lecture 6
+
 0000<->1400
 
 2024/11/19
