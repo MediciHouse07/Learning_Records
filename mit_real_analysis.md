@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+2024/11/21
+
+3500<->4500
+
+- unbounded
+
+# Lecture 7
+
 2500<->3500
 
 2024/11/18
