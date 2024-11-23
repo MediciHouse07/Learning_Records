@@ -2,6 +2,17 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Implicit that Acceptance Must Come in a Reasonable Time
 
+2024/11/21
+
+0300<->0800
+
+- within a reasonable time
+- option is a contract about contract
+- off the table
+- and it may cause a change of role of offeror
+
+# Implicit that Acceptance Must Come in a Reasonable Time
+
 0000<->0300
 
 2024/11/20
