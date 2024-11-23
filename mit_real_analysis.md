@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 2024/11/21
 
+3830<->4500
+
+- prove convergent by using the idea of proving monotonic and boundedness
+
+# Lecture 7
+
+2024/11/21
+
 3500<->4500
 
 - unbounded
