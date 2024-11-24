@@ -2,6 +2,17 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Implicit that Acceptance Must Come in a Reasonable Time
 
+0000<->0500
+
+2024/11/22
+
+- buy it for 750
+- respect the situation that offeror is the master of the bargain
+- contract of contract
+- electric current
+
+# Implicit that Acceptance Must Come in a Reasonable Time
+
 2024/11/21
 
 0300<->0800
