@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2500<->3000
+
+2024/11/22
+
+- my gut tells me
+- vulnerability single language is untuitively stronger
+- 1500 users to the most active dApps
+- 60% to initial coin publisher
+- functional, what does it mean
+- not functional thing, how to evaluate things like that
+- expectation, anticipation
+
+# Lecture 6
+
 1000<->2500
 
 2024/11/20
