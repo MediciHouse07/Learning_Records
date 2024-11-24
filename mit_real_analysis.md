@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2
 
 # Lecture 7
 
+4500<->5500
+
+2024/11/22
+
+- sequence obtained from other sequences
+- sub sequence
+- sub sequence rely on a sequence and a number based sequence
+
+# Lecture 7
+
 2024/11/21
 
 3830<->4500
