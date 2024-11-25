@@ -2,6 +2,15 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Implicit that Acceptance Must Come in a Reasonable Time
 
+2024/11/24
+
+0500<->1000 end
+
+- implicit in the offer
+- free to walk away, the bound is disappeared
+
+# Implicit that Acceptance Must Come in a Reasonable Time
+
 2024/11/23
 
 0400<->0900
