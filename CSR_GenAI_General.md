@@ -1,5 +1,27 @@
 https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/1/introduction
 
+# chain of thought reasoning
+
+2024/11/23
+
+0000<->0700
+
+- inner monologue
+
+# moderation
+
+2024/11/23
+
+- moderate
+- responsibly
+- moderation API
+- responsible use
+- moderate api, moderation api
+- change policy to be more strict through API
+- unintended usage
+- prompt injection, let system_message deviate from its original setup
+- max token would control the length of output
+
 0800<->1800
 
 2024/11/22
