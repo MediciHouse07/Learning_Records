@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 13
+
+2024/11/23
+
+0000<->1000
+
+- min max a function where x y z are not independent, which means g is constraint
+
 # Lecture 12
 
 2024/11/20
