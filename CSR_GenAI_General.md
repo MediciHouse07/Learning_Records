@@ -1,3 +1,20 @@
+https://www.coursera.org/learn/generative-ai-for-everyone/lecture/YXvSW/trying-generative-ai-code-yourself-optional
+
+0000<->1000
+
+2024/11/24
+
+- scope project/
+- build improve system/
+- inital prototype 
+- internal evaluation/
+- deploy and monitor back to internal evaluation/
+- under performing on some cusines
+- experimental process
+- repeatedly find and fix mistakes
+- token, word or a part of a word
+
+
 https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/1/introduction
 
 # chain of thought reasoning
