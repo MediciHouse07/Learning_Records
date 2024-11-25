@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+3000<->3300
+
+2024/11/24
+
+- Finance, Casino, Gambling
+
+# Lecture 6
+
 2500<->3000
 
 2024/11/22
