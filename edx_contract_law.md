@@ -2,6 +2,20 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Implicit that Acceptance Must Come in a Reasonable Time
 
+2024/11/23
+
+0400<->0900
+
+- keep the price open for a week
+- open switch means turn off
+- offeror can be the seller side
+- off the table
+- mirror image of his offer
+- offer and acceptance mirror each other
+- counteroffer take the first offer off the table
+
+# Implicit that Acceptance Must Come in a Reasonable Time
+
 0000<->0500
 
 2024/11/22
