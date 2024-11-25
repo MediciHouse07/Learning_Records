@@ -2,6 +2,23 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 13
 
+0000<->1000
+
+2024/11/22
+
+- minimize the f in the meantime g should be satisfied
+- sometimes g is too complicated
+- lottery blockchain on sport ompetition
+- critical point might not satisfy the condition
+- hyperbola
+- positive monotone transaformation
+- minimize a function subject to the constraint
+- the limiting case
+- level curve of f is tangent to the hyperbola
+- tangent vs parallel
+
+# Lecture 13
+
 2024/11/23
 
 0000<->1000
