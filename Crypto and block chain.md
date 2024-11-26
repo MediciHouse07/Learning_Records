@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+3300<->3800
+
+2024/11/25
+
+- is not l I ve live
+- what are you up to
+- align on things
+- promise performance in exchange promise performance
+- Dr.pepper
+- produce value, no hire to create Dr.pepper market
+- term
+- lower transaction cost
+
+# Lecture 6
+
 3000<->3300
 
 2024/11/24
