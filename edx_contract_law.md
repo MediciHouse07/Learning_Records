@@ -1,5 +1,21 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
+# Charitable Subscriptions Part 2
+
+2024/11/25
+
+0000<->0200
+
+- which is obliged to pay
+- promise to make a gift, law will not step in
+
+# Revisiting the Brother-in-Law and Webb v. McGowin
+
+2024/11/25
+
+- alumni
+- pledge
+
 # Implicit that Acceptance Must Come in a Reasonable Time
 
 2024/11/24
