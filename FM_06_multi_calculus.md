@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 13
 
+0500<->1500
+
+2024/11/25
+
+- contor plot with hyperbola on top of it
+- tangent plane
+- normal vector
+- gradient vector parallel to each other
+- when parallel, one vector is propotional to another vector
+
+# Lecture 13
+
 0000<->1000
 
 2024/11/22
