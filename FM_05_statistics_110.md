@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 4
+
+2024/11/26
+
+0000<->1000
+
+- TBRT
+- TBR the end of last lecture
+
 # Lecture 14
 
 0000<->1000
