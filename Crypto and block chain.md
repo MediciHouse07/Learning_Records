@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/11/26
+
+3400<->3900
+
+- quid pro quo, consideration for promise
+- what their performance are worth
+- sing if payment performance for performance
+- motivation
+- what the implied term implies
+
+# Lecture 6
+
 3300<->3800
 
 2024/11/25
