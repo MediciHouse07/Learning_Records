@@ -2,6 +2,20 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
 
 # Charitable Subscriptions Part 2
 
+2024/11/26
+
+0000<->0500
+
+- generous instincts
+- tightwad
+- unravel
+- altar
+- plague
+- implicit promise
+- bag was not really empty
+
+# Charitable Subscriptions Part 2
+
 2024/11/25
 
 0000<->0200
