@@ -1,3 +1,22 @@
+https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980&index=1
+
+# Expanding
+
+0000<->0330
+
+2024/11/27
+
+- proclaim
+
+# Introduction
+
+0000<->0630
+
+2024/11/27
+
+- base LLM vs instruction tuned LLM
+- RLHF
+
 https://www.coursera.org/learn/generative-ai-for-everyone/lecture/YXvSW/trying-generative-ai-code-yourself-optional
 
 # How Generative AI works
