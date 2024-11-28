@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/generative-ai-for-everyone/lecture/YXvSW/trying-generative-ai-code-yourself-optional
 
+# How Generative AI works
+
+0000<->0500
+
+2024/11/27
+
+- how text generation works
+- supervised learning, labeling things
+- reinforcement learning
+- a lot of memory
+
 0000<->1000
 
 2024/11/24
