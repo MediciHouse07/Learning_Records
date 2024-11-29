@@ -1,4 +1,14 @@
-https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/home
+https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
+
+# Charitable Subscriptions Part 2
+
+0155<->0655 End
+
+2024/11/27
+
+- unravel
+- promise with enough deliberation and formality, enforceable, solemnity
+- college and church sometimes don't make promise of having the donor's name on statue
 
 # Charitable Subscriptions Part 2
 
