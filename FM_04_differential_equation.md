@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lecture 1
 
+0500<->1500
+
+2024/11/28
+
+- once you plug it in, it satisfies
+- equally spaced
+
+# Lecture 1
+
 0000<->1000
 
 2024/11/27
