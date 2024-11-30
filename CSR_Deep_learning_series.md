@@ -1,5 +1,22 @@
 # Activation Functions
 
+0000<->1000
+
+2024/11/29
+
+- tanh function
+- sigmoid for the output layer, tan h for the hidden layer
+- g[1] may be different from g[2]
+- rectified linear unit
+- leaky ReLu
+- ReLu learning is faster, because of derivative
+- sigmoid never used 
+- tanh is superior than sigmoid
+- default ReLu
+- optional leaky ReLu
+
+# Activation Functions
+
 0000<->0500
 
 2024/11/28
