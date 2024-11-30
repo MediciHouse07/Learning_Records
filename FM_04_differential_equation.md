@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lecture 1
 
+0800<->1800
+
+2024/11/29
+
+- function is direction field
+- solve the function is to find the integral curve
+- y1 symbol of integral curve
+- level curve, iso cline
+
+# Lecture 1
+
 0500<->1500
 
 2024/11/28
