@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
+# Lecture 5 5/10
+
+0000<->0500
+
+2024/11/28
+
+- check, order to pay
+
 # Lecture 5 4/10
 
 2024/11/14
