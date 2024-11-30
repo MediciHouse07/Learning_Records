@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+3900<->4400
+
+2024/11/28
+
+- kind of K , effect of K, terms of K, taxation of K
+- pr e[ai] sent
+- is that clear
+
+# Lecture 6
+
 2024/11/26
 
 3400<->3900
