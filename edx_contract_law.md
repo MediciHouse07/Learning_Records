@@ -1,5 +1,11 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
+# Charitable Subscriptions Part 3
+
+2024/11/28
+
+- the court felt less generous, a group of minds
+
 # Charitable Subscriptions Part 2
 
 0155<->0655 End
