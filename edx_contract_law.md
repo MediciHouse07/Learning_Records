@@ -1,5 +1,14 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
+# Ricketts v. Scothorn
+
+2024/11/29
+
+- relied on the proise
+- detriment
+- rely on promise, not in bargain nor in return for promise
+- detrimental reliance is enough to make the promise enforceble
+
 # Charitable Subscriptions Part 3
 
 2024/11/28
