@@ -2,6 +2,16 @@
 
 https://www.youtube.com/watch?v=1RLctDS2hUQ&list=PL590CCC2BC5AF3BC1&index=17
 
+# Lecture 16
+
+0000<->1000
+
+2024/11/30
+
+- advanced guessing
+- annihilation operator
+- harmonic oscillator
+
 # Lecture 30
 
 1500<->2000
