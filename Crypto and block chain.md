@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+4200<->4700
+
+2024/11/29
+
+- subject to fair use
+
+# Lecture 6
+
 3900<->4400
 
 2024/11/28
