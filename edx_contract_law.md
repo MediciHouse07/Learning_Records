@@ -1,5 +1,19 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
+# Hoffman v. Red Owl
+
+2024/11/30
+
+0000<->0300
+
+
+# Ricketts v. Scothorn: Part 2
+
+2024/11/30
+
+- reasonable vs substantial
+- foreseeable outcome caused by the promise
+
 # Ricketts v. Scothorn
 
 2024/11/29
