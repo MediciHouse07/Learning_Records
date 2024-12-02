@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
 
+# Lecture 16
+
+2024/12/01
+
+0000<->1000
+
+- modern portfolio theory
+- observation, collect data, ask questions
+- models, math
+- observations again, and iterations
+- during each phase of a season
+- time might play a role, and their position, mix expectations
+
 # Lecture 5
 
 2024/07/14
