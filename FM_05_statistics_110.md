@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 3
+
+2024/12/01
+
+3800<->4800 End
+
+- deMontmort's problem 1713, matching problem
+- looks messy
+- n choose 2?
+
 # Lecture 4
 
 2024/11/26
