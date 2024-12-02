@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/foundations-sports-analytics/lecture/iscR4?t=5
 
+# Module 1
+Pythagorean Expectation & Baseball Part 2
+
+0000<->0200
+
+2024/11/30
+
+# Module 1
+Pythagorean Expectation & Baseball Part 1
+
+0500<->1800 End
+
+2024/11/30
+
+- home team visiting team
+- run score
+- Rh run score
+- gh number of games
+- Ra, Ga
+- run score, run against
+
 # Pythagorean Expectation & baseball part 1
 
 2024/11/26
