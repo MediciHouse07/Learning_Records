@@ -2,6 +2,14 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
 # Hoffman v. Red Owl
 
+2024/12/01
+
+0000<->0500
+
+- franchise, partnership
+
+# Hoffman v. Red Owl
+
 2024/11/30
 
 0000<->0300
