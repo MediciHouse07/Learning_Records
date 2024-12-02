@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/01
+
+4400<->4900
+
+- digital right management
+- wrap
+- fair use
+- movie and screen capture
+
+# Lecture 6
+
 4200<->4700
 
 2024/11/29
