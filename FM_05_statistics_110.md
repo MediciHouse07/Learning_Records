@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 3
 
+2024/12/02
+
+3800<->4800 End
+
+3800<->4300
+
+-at least one match
+
+# Lecture 3
+
 2024/12/01
 
 3800<->4800 End
