@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/03
+
+4900<->5400
+
+- policy of the tech might sometimes challenge the existing law
+- out of luck, running out of luck
+- risk allocation, contract
+- system to process the breach
+- which otherwise wouldn't happen
+
+# Lecture 6
+
 2024/12/01
 
 4400<->4900
