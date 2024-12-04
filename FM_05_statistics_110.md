@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 4
+
+2024/12/03
+
+0000<->1000
+
+0400<->0900
+
+- inclusion and exclusion
+
 # Lecture 3
 
 2024/12/02
