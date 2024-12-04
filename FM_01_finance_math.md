@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
 
 # Lecture 16
 
+2024/12/02
+
+1100<->2100
+
+- perpetual
+- pension fund
+- money and allocation and risk faced
+- risk, not well defined
+- std for now, to describe risk
+
+# Lecture 16
+
 2024/12/01
 
 0000<->1000
