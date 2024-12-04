@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
 
 # Lecture 16
 
+2024/12/03
+
+2200<->3200
+
+- VC, ventured capital
+- maximize return, minimize std
+- efficient frontiner
+- same std, can't get better return
+- same return, can't get better std
+
+# Lecture 16
+
 2024/12/02
 
 1700<->2200
