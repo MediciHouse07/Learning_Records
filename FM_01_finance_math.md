@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
 
 2024/12/02
 
+1700<->2200
+
+- how to phrase the portofolio
+- risk, describe it in standard deviation
+- is historical data reliable
+- any adjustment at which phase should be installed
+
+# Lecture 16
+
+2024/12/02
+
 1100<->2100
 
 - perpetual
