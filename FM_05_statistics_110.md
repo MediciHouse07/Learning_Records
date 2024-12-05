@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 4
 
+2024/12/04
+
+0000<->1500
+
+- all subset of size k
+- MEIGHT 164.4
+- very likely versus some many chances resulting in 1/e
+- two computing forces
+- when n goes to infinity or very big number
+
+# Lecture 4
+
 2024/12/03
 
 0000<->1000
