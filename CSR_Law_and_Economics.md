@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 The Costs of Crimes
+
+2024/12/04
+
+0000<->0500
+
+- stair case
+- walked by behind you
+- bump in to you
+- accidentally
+- purposedly intentionally
+- survivor
+
 Property and Liability: An Introduction to Law and Economics
 Module 4
 The Costs of Crimes
