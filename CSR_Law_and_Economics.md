@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/12/05
+
+0500<->1000
+
+- two trasactions in cases of murder
+- moral cost
+
+# Module 4 The Costs of Crimes
+
 2024/12/04
 
 0000<->0500
