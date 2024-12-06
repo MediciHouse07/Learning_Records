@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 4
 
+2024/12/05
+
+1500<->3000
+
+- pepys, Samuel pepys
+- binomial derived
+- it is confusing, and confusing intuition
+- would be invariant
+
+# Lecture 4
+
 2024/12/04
 
 0000<->1500
