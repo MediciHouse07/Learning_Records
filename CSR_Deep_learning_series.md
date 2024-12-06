@@ -1,3 +1,10 @@
+# Week 3 Gradient Descent for Neural Networks
+
+2024/12/05
+
+- forward propogation
+- backpropogation
+
 # Gradient Descent for Neural Networks
 
 2024/12/04
