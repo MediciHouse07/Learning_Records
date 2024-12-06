@@ -1,3 +1,14 @@
+# Gradient Descent for Neural Networks
+
+2024/12/04
+
+0000<->0200
+
+0000<->0800 end
+
+- conversely
+- cost function is formed by lost function
+
 # Activation Functions
 
 0000<->1000
