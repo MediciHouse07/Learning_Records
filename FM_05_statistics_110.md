@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 4
 
+3000<->4500
+
+2024/12/06
+
+- event is a subset
+- technical difficulty, renormalize
+- make the total mass one
+- pebble world vs frequentist world
+- repeat expt many times, be challenged by philosophy world
+
+# Lecture 4
+
 2024/12/05
 
 1500<->3000
