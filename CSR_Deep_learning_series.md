@@ -1,3 +1,9 @@
+# Week 3 Backpropagation Intuition (Optional)
+
+2024/12/06
+
+0000<->0500
+
 # Week 3 Gradient Descent for Neural Networks
 
 2024/12/05
