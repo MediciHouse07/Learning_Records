@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 4
 
+3400<->4900 End
+
+2024/12/07
+
+- assume finitely many outcomes, don't assume they are all equally likely
+- on a roll, good luck or moving towards positive
+
+# Lecture 4
+
 3000<->4500
 
 2024/12/06
