@@ -1,3 +1,21 @@
+https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/undefined
+
+# multi_ai_agent_systems
+
+0000<->0300
+
+2024/12/08
+
+- manager agent delegating
+
+
+# create_agents_to 
+
+0000<->0700
+
+2024/12/08
+
+
 https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980&index=1
 
 # Expanding
