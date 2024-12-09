@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+5400<->5900
+
+2024/12/07
+
+- substitute for filed legal system
+- part of the insurance payment gurantee the running of the smart contract to move, to read what has occurred to those real time records
+- sufficient to maintain the market
+- lower transaction cost for those systems
+- solve clarity problems, instead of having it in ambiguity
+
+# Lecture 6
+
 2024/12/03
 
 4900<->5400
