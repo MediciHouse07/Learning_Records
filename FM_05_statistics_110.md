@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 5
+
+0000<->0500
+
+2024/12/08
+
+- extreme cases
+- break up problem into simpler pieces
+
 # Lecture 4
 
 3400<->4900 End
