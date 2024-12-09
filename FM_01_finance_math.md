@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=TuTmC8aOQJE&t=15s
 
 # Lecture 16
 
+3200<->4200
+
+2024/12/07
+
+- 60 40, 60 equity 40 bonds
+
+# Lecture 16
+
 2024/12/03
 
 2200<->3200
