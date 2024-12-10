@@ -1,3 +1,10 @@
+# Week 3 Random Initialization
+
+2024/12/09
+
+- 165.0
+- 0.01 or other small numbers
+
 # Week 3 Backpropagation Intuition (Optional)
 
 2024/12/06
