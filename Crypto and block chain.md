@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/08
+
+5900<->6400
+
+- obscurity
+- digital court on top of eth court, diversify
+
+# Lecture 6
+
 5400<->5900
 
 2024/12/07
