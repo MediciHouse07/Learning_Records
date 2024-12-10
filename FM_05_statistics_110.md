@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 5
 
+2024/12/09
+
+0500<->2300
+
+- LOTP
+-afflict
+
+# Lecture 5
+
 0000<->0500
 
 2024/12/08
