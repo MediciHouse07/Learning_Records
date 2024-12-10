@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+6400<->6900
+
+2024/12/09
+
+- choice of jurisdiction
+
+# Lecture 6
+
 2024/12/08
 
 5900<->6400
