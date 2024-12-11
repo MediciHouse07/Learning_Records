@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/10
+
+6900<->7400
+
+- linear sequential + little branch
+- corner case
+
+# Lecture 6
+
 6400<->6900
 
 2024/12/09
