@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 5
 
+2024/12/10
+
+1800<->3300
+
+- TBRT start 2800
+- coherence
+- evidence get in one step or separate steps would return the same result
+- prosecutor's fallacy, defensive aterney
+
+# Lecture 5
+
 2024/12/09
 
 0500<->2300
