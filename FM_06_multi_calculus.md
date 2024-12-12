@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 19
 
+2024/12/11
+
+1000<->2000
+
+- rotated by 90 degrees counter clock wise
+- rotation at unit speed
+- angular velocity , speed equals alpha * distance to the origin, if speed=origin, alpha=1, then angular velocity
+
+# Lecture 19
+
 2024/12/10
 
 0000<->1000
