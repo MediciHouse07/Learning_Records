@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 6
+
+3300<->4300
+
+2024/12/11
+
+- common situation
+- 166.0
+- shortly after
+- trama
+- put you in touch with him
+- prior P(A), posterior P(A|B)
+- independence, conditional independence
+
 # Lecture 5
 
 2024/12/10
