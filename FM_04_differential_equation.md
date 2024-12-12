@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
+# Lecture 6
+
+2024/12/11
+
+0000<->0500
+
+- complex conjugate
+- learn to do that, if you don't know that already
+- complex number follows communitive law
+
 # Lecture 1
 
 0800<->1800
