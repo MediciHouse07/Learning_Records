@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/11
+
+7400<->7900
+
+- the same underlining
+- interrogate
+- lawyer study economics is a new thing, not sure if it is result of law and economics movement
+
+# Lecture 6
+
 2024/12/10
 
 6900<->7400
