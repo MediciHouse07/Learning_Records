@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=JPkgJwJHYSc&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa0
 
 # Lecture 6
 
+2024/12/12
+
+11700<->12200
+
+- technichian
+
+# Lecture 6
+
 2024/12/11
 
 7400<->7900
