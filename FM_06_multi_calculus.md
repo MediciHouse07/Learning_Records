@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 19
 
+2024/12/12
+
+2000<->3000
+
+- curves matter
+
+# Lecture 19
+
 2024/12/11
 
 1000<->2000
