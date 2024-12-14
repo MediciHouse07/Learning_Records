@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 5
 
+2024/12/13
+
+4000<->5000 End
+
+- independence vs conditional independence
+- chess opponent of unknown strength
+- seemingly
+- given the strength of opponent
+- 165.9
+- without conditioning on fire alarm goes off, independent, with the condition, dependent
+
+# Lecture 5
+
 TBRT
 
 2024/12/12
