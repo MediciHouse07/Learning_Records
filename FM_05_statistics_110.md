@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 5
+
+TBRT
+
+2024/12/12
+
+4000<->5000
+
+- may or may not be
+- earlier, later outcomes
+
 # Lecture 6
 
 3300<->4300
