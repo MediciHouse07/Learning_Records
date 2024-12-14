@@ -1,3 +1,12 @@
+https://www.coursera.org/learn/machine-learning-sports-analytics/lecture/StYJC/our-first-model-nhl-game-outcome
+
+# Module 1 Our First Model: NHL Game Outcomes
+
+2024/12/12
+
+0000<->0500
+
+
 https://www.coursera.org/learn/foundations-sports-analytics/lecture/iscR4?t=5
 
 # Module 1
