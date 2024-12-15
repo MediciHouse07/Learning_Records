@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lecture 6
+
+2024/12/14
+
+0000<->1500
+
+- 165.9
+- least possibilities correct rate check
+- tree diagram, intuitively, conditional argument
+
 # Lecture 5
 
 2024/12/13
