@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/intro-economic-theories/lecture/fgS93/economics-as-a-science
 
+# Module 4 The State
+
+2024/12/13
+
+0300<->0800
+
+- budget policies
+- stronger the market, stronger the state
+- neoclassical economics, self-adjusting power of markets
+- public debt, total acc budeget deficits - surplus over time
+
 # Week 4 The State
 
 2024/10/30
