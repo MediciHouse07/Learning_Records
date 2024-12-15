@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 19
 
+2024/12/13
+
+3000<->4000
+
+- dy is differential of y y'dt
+- dy/dtdt
+
+# Lecture 19
+
 2024/12/12
 
 2000<->3000
