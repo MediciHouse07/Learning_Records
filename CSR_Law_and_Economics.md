@@ -2,6 +2,16 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/12/13
+
+1000<->1500
+
+- despise
+- moral cost generate desire for vengeance
+- _RECORD: standard exercise * 2 yesterday
+
+# Module 4 The Costs of Crimes
+
 2024/12/06
 
 0500<->1000
