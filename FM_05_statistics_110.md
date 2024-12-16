@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 6
 
+2024/12/15
+
+1500<->2500
+
+- prob problems, you can say I wish I knew this or that
+- LOTP
+- Asymmetry, symmetrical
+- computer simulation to prove it
+- extreme case 100M door analogy
+
+# Lecture 6
+
 2024/12/14
 
 0000<->1500
