@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/12/14
+
+1500<->2000
+
+- positive, fact
+- normaltive, order
+- liability system tort, direct victim
+- criminal, indirect victim
+
+# Module 4 The Costs of Crimes
+
 2024/12/13
 
 1000<->1500
