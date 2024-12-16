@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 19
 
+2024/12/14
+
+4000<->5100 End
+
+- T tangent, ds arc length
+- tangent, magnitude with speed
+
+# Lecture 19
+
 2024/12/13
 
 3000<->4000
