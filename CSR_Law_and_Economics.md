@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 The Costs of Crimes
 
+2024/12/15
+
+1800<->2300 End
+
+- in kind
+- to promote efficient cost imposition
+
+# Module 4 The Costs of Crimes
+
 2024/12/14
 
 1500<->2000
