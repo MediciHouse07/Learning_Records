@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 22
+
+2024/12/15
+
+0000<->0500
+
+- curl F, to be understood TBR
+- line integral, double integration
+- RECORD_WEIGHT_165.0
+
 # Lecture 19
 
 2024/12/14
