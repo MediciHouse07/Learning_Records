@@ -1,3 +1,19 @@
+# Week 4 Deep L-layer Neural Network
+
+2024/12/15
+
+0000<->0500
+
+- the input x is also an activation a0
+
+# Week 4 Deep L-layer Neural Network
+
+2024/12/15
+
+0000<->0500 End
+
+- shallow model doesn't work a lot
+
 # Week 3 Random Initialization
 
 2024/12/09
