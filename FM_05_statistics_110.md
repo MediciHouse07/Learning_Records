@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 6
 
+2024/12/16
+
+2500<->3500
+
+- can flip, one thing seen better than another on every individual case, but it may flip the result
+
+# Lecture 6
+
 2024/12/15
 
 1500<->2500
