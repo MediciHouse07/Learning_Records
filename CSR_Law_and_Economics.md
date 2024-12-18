@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 Organized Vengeance
+
+2024/12/16
+
+0000<->0500
+
+- inefficient crime, encou efficient crime
+- to be more precisely
+
 # Module 4 The Costs of Crimes
 
 2024/12/15
