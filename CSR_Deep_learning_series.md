@@ -1,3 +1,21 @@
+# Week 4 Building Blocks of Deep Neural Networks
+
+2024/12/17
+
+0000<->0330
+
+# Week 4 Why Deep Representations?
+
+2024/12/17
+
+0400<->1030 End
+
+- shallow network, require exponentially more hidden units
+- one layer, exponentially large
+- o log n, vs 2^n
+- pratically 2^n-1 the similar
+- circuit theory
+
 # Week 4 Why Deep Representations?
 
 2024/12/16
