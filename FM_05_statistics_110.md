@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbz
 
 # Lecture 6
 
+2024/12/17
+
+3500<->4500
+
+- adding fraction type of reasoning
+- confounder
+- given dr. hebert is conducting a surgery, you know
+- RECORD_WEIGHT_165.4
+
+# Lecture 6
+
 2024/12/16
 
 2500<->3500
