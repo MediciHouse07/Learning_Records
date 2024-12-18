@@ -1,3 +1,21 @@
+# Week 4 Why Deep Representations?
+
+2024/12/16
+
+0000<->0400
+
+- edges, parcels, faces
+- convolutional
+
+# Week 4 Getting your Matrix Dimensions Right
+
+2024/12/16
+
+0500<->1100
+
+- dimension check
+- when stacking it, it is stacked column wise
+
 # Week 4 Deep L-layer Neural Network
 
 2024/12/15
