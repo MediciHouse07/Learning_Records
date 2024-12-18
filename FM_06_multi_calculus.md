@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
 
+2024/12/17
+
+0500<->1000
+
+- defined and differentiable everywhere
+
+# Lecture 21
+
 2024/12/16
 
 0000<->0500
