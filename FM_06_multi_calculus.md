@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 21
+
+2024/12/16
+
+0000<->0500
+
+- path independent
+- conservative if C closed, integral on C = 0
+- gradient field property My=Nx
+- M=fx, N=fy
+
 # Lecture 22
 
 2024/12/15
