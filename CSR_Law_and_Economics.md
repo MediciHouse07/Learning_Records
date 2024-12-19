@@ -2,6 +2,16 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/17
+
+0500<->1000
+
+- subseconquent
+- activity
+- physically, mentally but not necessarily physical
+
+# Module 4 Organized Vengeance
+
 2024/12/16
 
 0000<->0500
