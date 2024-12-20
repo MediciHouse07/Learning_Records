@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/18
+
+1000<->1500
+
+- not infinite
+- shop lifting
+- graduate proportionally
+- absolute deterrence
+
+# Module 4 Organized Vengeance
+
 2024/12/17
 
 0500<->1000
