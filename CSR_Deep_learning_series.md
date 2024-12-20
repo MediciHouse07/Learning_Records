@@ -1,3 +1,38 @@
+# Week 1 Basic Recipe for Machine Learning
+
+2024/12/19
+
+- get rid of bias problem
+- if not to test bias, test set can be skipped
+- 
+
+# Week 1 Bias / Variance
+
+2024/12/19
+
+- bias variance tradeoffs
+- underfitting high bias
+- train set error, dev set error comparasion
+- train < dev, high variance
+- benchmark human error, bayes error
+- train > human, high bias
+
+# Week 1 Train / Dev / Test sets
+
+2024/12/19
+
+- domain, application area
+- hold out crosss validation
+- train, dev cross validation set, test
+- 70 30 split
+- 60 20 20
+- decide algorithm choices on dev set
+- million example , 98 train, 1 dev, 1 test
+- 99.5 train, .4 dev, . test
+- mismatched train/test distribution
+
+--------------------
+
 # Week 4 Building Blocks of Deep Neural Networks
 
 2024/12/18
