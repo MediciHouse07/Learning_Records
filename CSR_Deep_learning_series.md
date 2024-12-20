@@ -1,5 +1,13 @@
 # Week 4 Building Blocks of Deep Neural Networks
 
+2024/12/18
+
+- cache z[l]
+- momentum, minibatch size, regularizations
+- no theory to guide how to choose hyper parameters
+
+# Week 4 Building Blocks of Deep Neural Networks
+
 2024/12/17
 
 0000<->0330
