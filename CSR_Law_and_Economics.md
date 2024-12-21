@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/20
+
+0000<->0500
+
+- tolerate vs deter
+- defendant
+- state represents indirect victim
+- criminal system is not about direct victim, it is for indirect victim, and have jury agreed upon few things
+
+# Module 4 Organized Vengeance
+
 0000<->0500
 
 2024/12/19
