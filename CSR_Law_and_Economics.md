@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+0000<->0500
+
+2024/12/19
+
+- presumably
+- indictment
+- criminal proceeding
+- besuaging
+
+# Module 4 Organized Vengeance
+
 2024/12/18
 
 1000<->1500
