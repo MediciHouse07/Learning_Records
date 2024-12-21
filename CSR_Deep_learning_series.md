@@ -1,3 +1,32 @@
+# Week 1 Dropout Regularization
+
+2024/12/20
+
+- inverted drop out
+- dropout vector
+- np.multiply
+- dropout by iteration
+
+# Week 1 Why Regularization Reduces Overfitting?
+
+2024/12/20
+
+- RECORD_WEIGHT 166.1
+- penalize
+- lambda big, w small, as lambda effect with 1, 1-lambda w
+
+# Week 1 Regularization
+
+2024/12/20
+
+- J cost, is sum of loss function y and y hat
+- regularization
+- sparse
+- setting w to be small
+- lambd instead of lambda
+- Frobenius norm
+- weight decay
+
 # Week 1 Basic Recipe for Machine Learning
 
 2024/12/19
