@@ -1,3 +1,20 @@
+# Week 2 Mini-batch Gradient Descent
+
+2024/12/22
+
+0000<->0200
+
+- deep learning work better on big data
+
+# Week 1 Weight Initialization for Deep Networks
+
+2024/12/22
+
+- RECORD_WEIGHT 167.4
+- RECORD_GYM 3 times
+- gradient checking
+- 10^-7 means error small, -3 means error big and possibly wrong
+
 # Week 1 Vanishing / Exploding Gradients
 
 2024/12/21
