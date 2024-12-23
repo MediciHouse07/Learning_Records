@@ -2,6 +2,12 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/21
+
+0500<->1000
+
+# Module 4 Organized Vengeance
+
 2024/12/20
 
 0000<->0500
