@@ -1,3 +1,20 @@
+# Week 1 Vanishing / Exploding Gradients
+
+2024/12/21
+
+- squared norm
+- 166.9
+- keep-prob
+- downside
+- J is not well defined everywhere
+- check if it is still monotonically decreasing
+- data augmentation
+- early stopping
+- dev set error
+- orthogonalization of optimize gradient J, and not overfit, introducing L2 and try different lambda, computationally expensive
+- early stopping cheap, but not orthogonal
+- normalizing training sets
+
 # Week 1 Dropout Regularization
 
 2024/12/20
