@@ -2,6 +2,17 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/23
+
+1500<->2000
+
+- perpetrator
+- infliction
+- incarceration
+- deprivation
+
+# Module 4 Organized Vengeance
+
 2024/12/22
 
 1000<->1500
