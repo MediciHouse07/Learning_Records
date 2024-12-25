@@ -1,5 +1,31 @@
 # Week 2 Mini-batch Gradient Descent
 
+2024/12/23
+
+0200<->1100 End
+
+- {1} as batch
+- RECORD_WEIGHT 166.8
+- nx number of examples
+- X{1}, Y{1}
+- epoch
+- 1 pass through training set
+- mini batch size
+- batch gradient descent
+- mini batch gradient descent
+- stochastic gradient descent if size = 1
+- keep marching
+- stochastic lose speedup from vectorization
+- make progress without needing to wait
+- small training set, use batch gradient descent
+- less than 2000
+- typical mini batch size, 64, 128, 256, 512
+- make sure minibatch fit in CPU GPU memory
+- celcius
+- adjust the past average vs value at this moment
+
+# Week 2 Mini-batch Gradient Descent
+
 2024/12/22
 
 0000<->0200
