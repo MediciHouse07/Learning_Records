@@ -1,3 +1,27 @@
+# Week 3 Tuning Process
+
+2024/12/25
+
+0000<->0200
+
+# Week 2 Adam Optimization Algorithm
+
+2024/12/25
+
+- adaptive moment estimation
+- adam
+- high dimensional would more end with saddle point
+- problem of plateaus
+
+# Week 2 RMSprop
+
+2024/12/25
+
+0300<->0700 End
+
+- RECORD_WEIGHT 166.2
+- disseminate
+
 # Week 2 RMSprop
 
 2024/12/24
