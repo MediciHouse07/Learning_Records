@@ -2,6 +2,15 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Organized Vengeance
 
+2024/12/24
+
+1800<->2300 End
+
+- useful currency
+- vengeance organized for efficiency
+
+# Module 4 Organized Vengeance
+
 2024/12/23
 
 1500<->2000
