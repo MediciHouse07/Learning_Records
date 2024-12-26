@@ -1,3 +1,21 @@
+# Week 2 RMSprop
+
+2024/12/24
+
+0000<->0300
+
+- root mean square propagation
+
+# Week 2 Understanding Exponentially Weighted
+
+2024/12/24
+
+- RECORD_WEIGHT 166.1
+- computation and memory efficiency
+- momentum terms, from the past, velocity
+- accerleration terms
+- singnal from the past , present, future
+
 # Week 2 Mini-batch Gradient Descent
 
 2024/12/23
