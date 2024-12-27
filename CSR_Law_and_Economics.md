@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 Efficient Crimes
+
+2024/12/25
+
+0000<->0500
+
+- fire hydrant
+
 # Module 4 Organized Vengeance
 
 2024/12/24
