@@ -1,3 +1,28 @@
+# Week 3 Normalizing Activations in a Network
+
+2024/12/26
+
+- batch norm, take norm on each mini batch of data
+
+# Week 3 Using an Appropriate Scale to pick Hyperparameters
+
+2024/12/26
+
+- from the last slide
+- diverge
+- panda strategy, caviar strategy
+- application dependence
+
+# Week 3 Tuning Process
+
+0200<->0700 End
+
+2024/12/26
+
+- RECORD_WEIGHT 166.6
+- RECORD_EXERCISE * 3
+- coarse to fine
+
 # Week 3 Tuning Process
 
 2024/12/25
