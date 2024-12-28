@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Efficient Crimes
 
+2024/12/26
+
+0500<->1000
+
+- tuna fish
+
+# Module 4 Efficient Crimes
+
 2024/12/25
 
 0000<->0500
