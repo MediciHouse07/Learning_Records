@@ -1,3 +1,15 @@
+# Week 2 Training Details
+
+2024/12/28
+
+# Week 2 TensorFlow implementation
+
+2024/12/28
+
+- loss cost
+- meansquareerror for regression problem in NN
+- backpropagation is in model.fit
+
 # Week 1 Building a neural network
 
 2024/12/27
