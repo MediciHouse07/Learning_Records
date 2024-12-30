@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Efficient Crimes
 
+2024/12/29
+
+1900<->2400 End
+
+- crimes of passion
+
+# Module 4 Efficient Crimes
+
 2024/12/28
 
 1500<>2000
