@@ -1,3 +1,18 @@
+# Week 2 SoftMax
+
+2024/12/28
+
+- ezx/ez1+...ezy
+- SoftMax regression
+
+# Week 2 Multiclass
+
+2024/12/28
+
+- multiple class classification problem
+- RECORD_WEIGHT 167.1
+- RECORD_EXERCISE 4 group
+
 # Week 2 Training Details
 
 2024/12/28
