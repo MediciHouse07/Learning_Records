@@ -1,3 +1,24 @@
+# # Week 3 Derivatives of Activation Functions
+
+2024/12/29
+
+# Week 1 Vanishing / Exploding Gradients
+
+0300<->0600
+
+2024/12/29
+
+
+0200<->0600
+
+2024/12/29
+
+0000<->0600
+
+2024/12/29
+
+- RECORD_WEIGHT 166.7
+
 # Week 3 Normalizing Activations in a Network
 
 2024/12/26
