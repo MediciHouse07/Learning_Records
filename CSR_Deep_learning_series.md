@@ -1,3 +1,24 @@
+# Week 3 Why does Batch Norm work?
+
+2024/12/30
+
+0000<->0500
+
+- sorting, classification, fit a straight line
+- covariant shift
+
+git.md
+
+https://www.coursera.org/videos/packt-advanced-git-and-github-practices-tgusu/gtbLs?
+
+2024/12/30
+- git push origin master
+
+
+https://www.coursera.org/videos/packt-git-essentials-for-beginners-ctjoh/KVxte?
+
+2024/12/30
+
 # Week 3 Fitting Batch Norm into a Neural Network
 
 2024/12/30
