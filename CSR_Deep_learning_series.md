@@ -1,3 +1,13 @@
+# Week 3 Fitting Batch Norm into a Neural Network
+
+2024/12/30
+
+0000<->1200 End
+
+- one epoch is one time of going through all the mini batches?
+- b is not needed after the norm step
+- RECORD_WEIGHT 166.4
+
 # # Week 3 Derivatives of Activation Functions
 
 2024/12/29
