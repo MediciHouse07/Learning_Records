@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 One Crime at a Time
+
+2024/12/30
+
+0000<->0500
+
+- cost perspective, introduce p, to deter the incurring of justice program absolutely
+- apprehension
+
 # Module 4 Efficient Crimes
 
 2024/12/29
