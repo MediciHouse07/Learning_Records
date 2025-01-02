@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=DIrftpTfyYQ
 
+2024/12/31
+
+0000<->0500
+
+- year in year out
+- in part
+- tremble
+
 1500<->2500
 
 2024/06/03
