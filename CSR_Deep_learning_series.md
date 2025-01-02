@@ -1,3 +1,16 @@
+# Week 3 Softmax Regression
+
+2024/12/31
+
+- exponentially weighted average
+
+# Week 3 Why does Batch Norm work?
+
+2024/12/31
+
+- RECORD_WEIGHT 167.4
+- unlikely event
+
 # Week 3 Why does Batch Norm work?
 
 2024/12/30
