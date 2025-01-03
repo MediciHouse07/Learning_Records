@@ -1,3 +1,21 @@
+# Week 3 TensorFlow
+
+2025/01/01
+
+- RECORD_WEIGHT 165.4
+- 
+
+# Week 3 Deep Learning Frameworks
+
+2025/01/01
+
+# Week 3 Training a Softmax Classifier
+
+2025/01/01
+
+- SoftMax in contrast to hard max
+- batch gradient, mini batch, stochastic; when the size of the batch is set as 1
+
 # Week 3 Softmax Regression
 
 2024/12/31
