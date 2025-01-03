@@ -1,3 +1,30 @@
+# Week 1 When to Change Dev/Test Sets and Metrics?
+
+2024/01/02
+
+0000<->0200
+
+- metic + dev prefer A, you user prefer B
+
+# Week 1 Single Number Evaluation Metric
+
+2024/01/02
+
+- applied machine learning
+- recall among the real target, how much are recognized
+- harmonic mean
+- take an average on the metrics
+- maximize accuracy subject to running time less than XX
+- optimizing, satisfying
+- wake words, trigger words
+- subject to at most 1 false positive in every 24 hours
+- have dev and test set from the same distribution
+- might be different than
+- RECORD WEIGHT 164.7
+- choose dev and test from the same distribution and reflect the data you expect to get in the future
+- dev test, metric
+- 70 30, 60 20 20; 98 1 1
+
 # Week 3 TensorFlow
 
 2025/01/01
