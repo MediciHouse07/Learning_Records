@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribution-and-deterrence
 
+# Module 4 Pricing Crimes
+
+2024/01/02
+
+0000<->0500
+
+- state action, class action analogy
+
 # Module 4 One Crime at a Time
 
 2025/01/01
