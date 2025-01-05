@@ -1,3 +1,30 @@
+# Week 1 Understanding Human-level Performance
+
+2025/01/03
+
+0000<->0300
+
+- human level error as a proxy for bayes error
+
+# Week 1 When to Change Dev/Test Sets and Metrics?
+
+2025/01/03
+
+- RECORD WEIGHT 164.7
+- bluryer
+- and/or
+- bayes optimal error
+- best possible error
+- map x to y to surpass
+- RECORD WEIGHT 164.0
+- reduce bias or variance
+- bias is benchmark vs training
+- variance is training vs dev
+- tactics
+- bayes error
+- avoidable bias human vs training error
+- variance
+
 # Week 1 When to Change Dev/Test Sets and Metrics?
 
 2024/01/02
