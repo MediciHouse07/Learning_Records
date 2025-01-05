@@ -2,6 +2,14 @@ https://www.coursera.org/learn/property-law-and-economics/lecture/QxrAW/retribut
 
 # Module 4 Pricing Crimes
 
+2025/01/03
+
+0500<->1000
+
+- meaningless boiler plate
+
+# Module 4 Pricing Crimes
+
 2024/01/02
 
 0000<->0500
