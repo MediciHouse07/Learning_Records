@@ -1,3 +1,11 @@
+# Week 1 Understanding Human-level Performance
+
+2025/01/06
+
+- avoidable error, bias
+- bayes error
+- variance
+
 2025/01/06
 
 - 162.9
