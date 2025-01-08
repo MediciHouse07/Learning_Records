@@ -1,3 +1,12 @@
+# Lecture 5 5/10 Module 3 Correspondent Banking, Bilateral Balances
+
+2025/01/06
+
+- due to bank B, means A need to pay B
+- due from A means the payment should be done by bank A
+- net to B, if it is positive means A need to pay B, that is due to B
+- debtor and creditor
+
 https://www.coursera.org/learn/money-banking/lecture/8WXSW/the-big-picture
 
 # Lecture 5 5/10
