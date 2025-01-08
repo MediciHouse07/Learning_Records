@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=36
 
+# Lecture 15
+
+2025/01/06
+
+0000<->1500
+
+- matric space and its property
+- example RXR->R, min{|x-y|,1}
+
 # Lecture 0
 
 2024/11/02
