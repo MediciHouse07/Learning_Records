@@ -1,3 +1,21 @@
+
+# Lecture 23
+
+2025/01/07
+
+- finance capital, interest
+- merchant capital
+- industrial cap
+- means of production
+
+# Lecture 22
+
+2025/01/07
+
+- abstract labour
+
+---
+
 # Lecture 1
 
 2023/12/19
