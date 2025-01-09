@@ -1,3 +1,13 @@
+# Week 1 Improving your Model Performance
+
+2025/01/07
+
+# Week 1 Surpassing Human-level Performance
+
+2025/01/07
+
+- natural perception task
+
 2025/01/07
 
 - 163.0
