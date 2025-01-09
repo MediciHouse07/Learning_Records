@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# M8E4) [Microeconomics] Pareto Efficiency (Optimality)
+
+2025/01/07
+
+0000<->1000
+
 # (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
 
 1200<->1500
