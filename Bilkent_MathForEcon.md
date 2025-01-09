@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # Lecture 15
 
+2024/01/07
+
+0000<->1000
+
+- finite intersection property
+- FIP, finite intersection property
+- compact set
+- closed and bounded
+
+# Lecture 15
+
 2025/01/06
 
 0000<->1500
