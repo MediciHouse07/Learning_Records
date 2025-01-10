@@ -1,3 +1,12 @@
+# Week 2 Carrying Out Error Analysis
+
+2025/01/08
+
+- is that worth of your effort
+- error analysis, whether it is a draw but recognized as win or some other possibilities
+- does error tell you something
+- analyse different types of mislabelled
+
 2025/01/08
 
 - 161.2
