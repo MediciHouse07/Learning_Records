@@ -1,3 +1,17 @@
+# Lecture 5 7/10
+
+2025/01/08
+
+0000<->0400
+
+- everyone has
+
+# Lecture 5 6/10 Module 3 Correspondent Banking, System Network
+
+2025/01/08
+
+- in the allen young reading
+
 # Lecture 5 5/10 Module 3 Correspondent Banking, Bilateral Balances
 
 2025/01/06
