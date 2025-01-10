@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # Lecture 15
 
+2024/01/08
+
+0000<->1000
+
+# Lecture 15
+
 2024/01/07
 
 0000<->1000
