@@ -1,3 +1,19 @@
+# Lecture 00
+
+0900<->1900
+
+2025/01/09
+
+- solution exist?
+- unique?
+
+
+# Lecture 01
+
+0000<->1000
+
+2025/01/09
+
 https://www.youtube.com/watch?v=ZEn9bUxRAu0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=36
 
 # Lecture 15
