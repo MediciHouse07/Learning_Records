@@ -1,5 +1,11 @@
 34 lectures in TTL
 
+# Lecture 4
+
+2025/01/10
+
+0000<->1000
+
 https://www.youtube.com/watch?v=MsIvs_6vC38&list=PL221E2BBF13BECF6C&index=11
 
 # Lecture 5
