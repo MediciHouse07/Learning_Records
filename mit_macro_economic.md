@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 3
 
+2024/01/10
+
+0000<->1000
+
+# Lecture 3
+
 2024/10/06
 
 0000<->0500
