@@ -1,3 +1,10 @@
+2025/01/11
+
+0000<->1000
+
+- 163.2
+- DL algorithms are robust to random errors in the training set
+
 
 - 163.3
 
