@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=heBErnN3ZPk&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQ
 
 # Lecture 3
 
+2025/01/11
+
+1000<->2000
+
+- consumption 70%, consumer sentiment
+
+
+# Lecture 3
+
 2024/01/10
 
 0000<->1000
