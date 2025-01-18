@@ -1,3 +1,8 @@
+
+# Lecture 5 7/10 Module 3 Clearinghouse, Normal Operations
+
+2025/01/16
+
 # Lecture 5 7/10
 
 2025/01/08
