@@ -1,3 +1,18 @@
+
+# (AGT11E3) [Game Theory] Mechanism Design Example: Public Good Project
+
+2025/01/16
+
+0000<->1000
+
+- Erik Maskins, Nobel prize winner
+- private information
+- state 1 doesn't care about the future, state 2 care about the future
+- prefer A to B
+- having the participant telling the truth
+
+---
+
 ## Lecture 1
 
 2023/11/10
