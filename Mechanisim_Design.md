@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E3) [Game Theory] Mechanism Design Example: Public Good Project
 
+2025/01/17
+
+1000<->End
+
+- indirectly revealing preference
+
+# (AGT11E3) [Game Theory] Mechanism Design Example: Public Good Project
+
 2025/01/16
 
 0000<->1000
