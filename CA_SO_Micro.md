@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 # (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
 
+2700<->3700
+
+2025/01/18
+
+- inefficient bundle, allocation
+- 159.6
+
+# (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
+
 1700<->2700
 
 2025/01/17
