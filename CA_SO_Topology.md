@@ -1,3 +1,19 @@
+https://www.youtube.com/watch?v=o8UxP4NiUU4&list=PLcrc6i6xwaQTRmYuXK8gqJKxsV5GO2LtG
+
+# Chapter 0: [Real Analysis] Review 1: Distance Function, Metric Spaces.
+
+2025/01/17
+
+- measure how close they are
+- hypothenuse
+- d satisfy those property, call it distance or metric
+- intuitive
+- triangular inequality
+- shorten
+- metric space
+
+----
+
 # 1
 
 2023/04/08
