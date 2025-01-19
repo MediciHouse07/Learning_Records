@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
+
+1700<->2700
+
+2025/01/17
+
+- maybe the allocation is stretched, but there could also be improvement
+- is this feasible
+
 # Pareto Efficiency (Optimality)
 
 2025/01/09
