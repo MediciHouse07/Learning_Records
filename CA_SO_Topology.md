@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=o8UxP4NiUU4&list=PLcrc6i6xwaQTRmYuXK8gqJKxsV5GO2LtG
 
+# Chapter 0: [Real Analysis] Review 2: Bounded Sets, Open Neighbourhood
+
+2025/01/18
+
+- 160.0
+- they are r unit away from x
+
 # Chapter 0: [Real Analysis] Review 1: Distance Function, Metric Spaces.
 
 2025/01/17
