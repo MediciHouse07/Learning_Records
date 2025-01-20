@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E4) [Game Theory] Mechanism Design Theory: The General Setting
+
+2025/01/18
+
+0000<->End
+
+- ex-post concept
+- matching problem has subscript
+- voting problem, matching problem, auction problem
+- auction environment, utility is transferable
+
 # (AGT11E3) [Game Theory] Mechanism Design Example: Public Good Project
 
 2025/01/17
