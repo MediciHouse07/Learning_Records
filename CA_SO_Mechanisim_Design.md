@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 2025/01/19
 
+- g procduce an output or decision, which is which plant to be built given different input m(theta)
 - social choice function is a mechanism
 - M,g
 - M stands for message space
