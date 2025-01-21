@@ -1,5 +1,31 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E6) [Game Theory] Mechanisms
+
+2025/01/19
+
+- social choice function is a mechanism
+- M,g
+- M stands for message space
+- g is an outcome function
+- g choose a social choice function
+- g output D and Rn, which are the things needed for social choice function
+- message in auction, the bet
+- D in auction, choose winner
+- Rn pays how much
+- number of message may be different or more than preference, private theta
+
+# (AGT11E7) [Game Theory] Dominant Strategy Mechanism Design
+
+2025/01/19
+
+- mechanism induce a game
+- mi is a dominant strategy condition on theta i
+- NE is not a strict dominant strategy
+- g implement f in NE
+- indirect mechanism
+- auction, asking the bet instead of your real evaluation
+
 # (AGT11E4) [Game Theory] Mechanism Design Theory: The General Setting
 
 2025/01/18
