@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# (M8E4) [Microeconomics] Pareto Efficiency (Optimality) 
+
+2025/01/19
+
+3200<->4200 End
+
+- episilon is 0 means improvement is impossible
+
 # (M8E4) [Microeconomics] Pareto Efficiency (Optimality)
 
 2700<->3700
