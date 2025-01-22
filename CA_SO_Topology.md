@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=o8UxP4NiUU4&list=PLcrc6i6xwaQTRmYuXK8gqJKxsV5GO2LtG
 
+# Chapter 0: [Real Analysis] Review 4: Closed and Compact sets
+
+2025/01/20
+
+0400<->1400 End
+
+- the set of accumulation point
+- NA = empty
+- but N contain all of its accumulation points
+- it is a closed set
+- boundness and closeness are logically independent
+- closed and bounded makes a set compact
+- existence of global minimum and global maximum
+
 # Chapter 0: [Real Analysis] Review 3: Accumulation and Limit Points
 
 2025/01/19
