@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E8) [Game Theory] Direct Mechanisms, Dominant Strategy IC, and Revelation Principle
+
+2025/01/20
+
+0000<->1000
+
+- social choice function is a direct mechanism
+- DSIC
+- dominant strategy to tell truth regardless of what their true type is
+- theta i is a dominant strategy at theta i, means telling the truth
+- A SCF is strategy proof iff f is DSIC
+- if it doesn't exist direct mechanism which is strategy proof , then there is no m,g implement f
+- revealation principle for D.S.
+
 # (AGT11E6) [Game Theory] Mechanisms
 
 2025/01/19
