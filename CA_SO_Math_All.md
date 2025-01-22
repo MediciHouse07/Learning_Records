@@ -1,3 +1,12 @@
+# Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
+
+https://www.youtube.com/watch?v=dscqsRsHPNk
+
+2025/01/21
+
+0000<->1000
+
+
 https://www.youtube.com/watch?v=E4gPx7UW2wY&list=PLcrc6i6xwaQRL1HJLZek9GvZ7-Io1kzgV&index=3
 
 # Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
