@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 # (M2E1) [Microeconomics] Indifference Curves
 
+2025/01/21
+
+1000<->1700 End
+
+# (M2E2) [Microeconomics] Marginal Utility
+
+2025/01/21
+
+0000<->0300
+
+- consumption bundles
+
+# (M2E1) [Microeconomics] Indifference Curves
+
 2025/01/20
 
 0000<->1000
