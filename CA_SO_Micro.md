@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# (M2E1) [Microeconomics] Indifference Curves
+
+2025/01/20
+
+0000<->1000
+
+- indifference curve depend on an alternative
+- non finite set require continuity to have a utility function represent the preference
+
 # (M8E4) [Microeconomics] Pareto Efficiency (Optimality) 
 
 2025/01/19
