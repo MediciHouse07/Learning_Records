@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 0000<->0300
 
+- 159.3 159.0
 - single peaked preferences, add some restriction to make the impossible possible
 - type space is strict ranking over D
 - D is which to choose in the end
