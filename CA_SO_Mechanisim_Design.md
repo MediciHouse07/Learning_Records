@@ -1,5 +1,28 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E9) [Game Theory] Gibbard - Satterthwaite Impossibility Theorem Revisited
+
+2025/01/21
+
+0000<->0700 End
+
+- voting GS Theorem
+- ordinal preference, cardinal preference
+- strict order over D
+- D is decision, is whom to vote to
+- voter i who is dictator
+
+# (AGT11E10) [Game Theory]
+
+2025/01/21
+
+0000<->0300
+
+- single peaked preferences, add some restriction to make the impossible possible
+- type space is strict ranking over D
+- D is which to choose in the end
+- theta is type profile, instead of the order itself
+
 # (AGT11E8) [Game Theory] Direct Mechanisms, Dominant Strategy IC, and Revelation Principle
 
 2025/01/20
