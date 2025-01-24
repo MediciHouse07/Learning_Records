@@ -1,5 +1,18 @@
 # Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
 
+2025/01/22
+
+1000<->2100 End
+
+- 158.8
+- highest value given reasonably neighborhood
+- necessary condition, f'=0
+- sufficient condition plus f''<0 or >0
+- within some range
+- infliction point, f'=0 and f''=0
+
+# Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
+
 https://www.youtube.com/watch?v=dscqsRsHPNk
 
 2025/01/21
