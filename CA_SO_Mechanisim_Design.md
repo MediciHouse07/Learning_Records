@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E10) [Game Theory] Single Peaked Preferences
+
+0000<->End
+
+2025/01/22
+
+- nice property is not dictatorial
+- single peak for agent 1
+- irrelevant
+- line up preferences
+- reach to peak utility going up, away from peak utility going down, line up preference in the same way for different agent
+- preference domain
+
 # (AGT11E9) [Game Theory] Gibbard - Satterthwaite Impossibility Theorem Revisited
 
 2025/01/21
