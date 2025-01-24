@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# (M2E2) [Microeconomics] Marginal Utility
+
+2025/01/22
+
+0300<->1300
+
+- preference relation, complete transitive and reflexive
+- preference relation is continuous, utility function exist
+- function of utility is also a utility function, monotonic transformation
+- marginal utility, change in utility per unit consumption
+
 # (M2E1) [Microeconomics] Indifference Curves
 
 2025/01/21
