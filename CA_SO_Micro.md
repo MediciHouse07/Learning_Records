@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 # (M2E2) [Microeconomics] Marginal Utility
 
+2025/01/23
+
+1100<->2100 End
+
+- divide unit in infinite testimal
+
+# (M2E2) [Microeconomics] Marginal Utility
+
 2025/01/22
 
 0300<->1300
