@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E11) [Game Theory] Strategy Proof Mechanism & Single Peaked Preferences: Median Voting Rule
+
+2025/01/23
+
+- median voting rule
+- SCF and strategy proof and DSIC
+- median voting rule is strategy proof
+
 # (AGT11E10) [Game Theory] Single Peaked Preferences
 
 0000<->End
