@@ -1,3 +1,12 @@
+# Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
+
+2025/01/23
+
+0000<->0300
+
+- lagrangee
+- optimization problem, method 1 substitution, method 2 Lagrange method
+
 # Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
 
 2025/01/22
