@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E12) [Game Theory] Vickrey–Clarke–Groves (VCG) Mechanism (a.k.a Pivotal Mechanism)
+
+0000<->1000
+
+2025/01/24
+
+- restricted domain
+
 # (AGT11E11) [Game Theory] Strategy Proof Mechanism & Single Peaked Preferences: Median Voting Rule
 
 2025/01/23
