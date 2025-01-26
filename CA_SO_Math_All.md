@@ -1,5 +1,17 @@
 # Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
 
+0200<->1200
+
+2025/01/24
+
+- if you can't write x1 in the form of x2
+- you can use Lagrange
+- solve the problem is equivalent to max or min the Lagrange
+- lambda means how much do you care about the punishment
+- intuition hasn't been completely introduced
+
+# Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
+
 2025/01/23
 
 0000<->0300
