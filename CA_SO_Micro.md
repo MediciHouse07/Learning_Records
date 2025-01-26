@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+# (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
+
+0000<->1000
+
+2025/01/24
+
+- total derivative
+- definition of total derivative
+- x+dx, y+dy
+- MRs is generally negative number
+
 # (M2E2) [Microeconomics] Marginal Utility
 
 2025/01/23
