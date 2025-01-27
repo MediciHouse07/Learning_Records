@@ -1,5 +1,175 @@
 https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
+https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
+
+# (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
+
+2025/01/25
+
+1000<->2000
+
+- diminishing marginal utility
+- MRS is slope of indifference curve
+- diminishing MRS
+- quasi linear utility function, convex preference, diminishing MRS
+- R, as least as good set
+- in micro economics, these are equaivalent, True or False
+
+"""
+quasi linear utility function <=> convex preference <=> diminishing MRS
+"""
+ChatGPT said:
+ChatGPT
+The statement is True. Here's why:
+
+Quasi-linear utility function: A quasi-linear utility function has the form 
+𝑈
+(
+𝑥
+1
+,
+𝑥
+2
+)
+=
+𝑓
+(
+𝑥
+1
+)
++
+𝑥
+2
+U(x 
+1
+​
+ ,x 
+2
+​
+ )=f(x 
+1
+​
+ )+x 
+2
+​
+ , where 
+𝑓
+(
+𝑥
+1
+)
+f(x 
+1
+​
+ ) is some function of 
+𝑥
+1
+x 
+1
+​
+ . Quasi-linear utility implies preferences where the marginal utility of 
+𝑥
+2
+x 
+2
+​
+  is constant, and 
+𝑥
+1
+x 
+1
+​
+ 's marginal utility depends on 
+𝑓
+(
+𝑥
+1
+)
+f(x 
+1
+​
+ ).
+
+Convex preference: Preferences are convex when the consumer prefers averages to extremes. Mathematically, this means the indifference curves are convex to the origin, implying that the marginal rate of substitution (MRS) diminishes as you move along the indifference curve.
+
+Diminishing MRS: The MRS is the rate at which a consumer is willing to trade 
+𝑥
+1
+x 
+1
+​
+  for 
+𝑥
+2
+x 
+2
+​
+  while maintaining the same utility level. Diminishing MRS means the absolute value of the MRS decreases as 
+𝑥
+1
+x 
+1
+​
+  increases (and 
+𝑥
+2
+x 
+2
+​
+  decreases).
+
+Connection:
+Quasi-linear utility functions exhibit diminishing MRS because 
+𝑓
+(
+𝑥
+1
+)
+f(x 
+1
+​
+ ) typically has a diminishing marginal utility (e.g., 
+𝑓
+(
+𝑥
+1
+)
+=
+𝑥
+1
+f(x 
+1
+​
+ )= 
+x 
+1
+​
+ 
+​
+ , 
+ln
+⁡
+(
+𝑥
+1
+)
+ln(x 
+1
+​
+ )).
+Diminishing MRS implies convex preferences, as the indifference curves bend inward.
+A quasi-linear utility function inherently represents convex preferences, as long as 
+𝑓
+(
+𝑥
+1
+)
+f(x 
+1
+​
+ ) is concave.
+Thus, all three are equivalent.
+
 # (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
 
 0000<->1000
