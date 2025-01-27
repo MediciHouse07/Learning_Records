@@ -4,6 +4,20 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 0000<->1000
 
+2025/01/25
+
+- max type profile except i
+- preference domain
+- Groves scheme
+- choose decision maximize sum of vj
+- d is efficient rue that solve argmax
+- 0744
+- t<=0 pivotal mechanism is always feasible
+
+# (AGT11E12) [Game Theory] Vickrey–Clarke–Groves (VCG) Mechanism (a.k.a Pivotal Mechanism)
+
+0000<->1000
+
 2025/01/24
 
 - restricted domain
