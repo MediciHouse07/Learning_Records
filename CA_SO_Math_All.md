@@ -1,5 +1,23 @@
 # Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
 
+0400<->1200 End
+
+2025/01/25
+
+- 158.5
+- FOC
+- many constraints, minus for many times
+- intuition s to use lagrange as a penalizer
+- and penalizer is aligned with the word constraint
+
+1000<->1200 End
+
+2025/01/25
+
+- lambda says how much you care want the punishment
+
+# Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
+
 0200<->1200
 
 2025/01/24
