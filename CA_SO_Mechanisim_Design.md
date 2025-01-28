@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E12) [Game Theory] Vickrey–Clarke–Groves (VCG) Mechanism (a.k.a Pivotal Mechanism)
 
+2025/01/26
+
+0400<->1400 End
+
+- maximize the sum by choosing the decision
+- one d is to maximize sum of all utility
+- another d' is to maximize sum of utility for all agents except xi
+- ti marginal social impact on other individials made b announced of theta i
+
+# (AGT11E12) [Game Theory] Vickrey–Clarke–Groves (VCG) Mechanism (a.k.a Pivotal Mechanism)
+
 0000<->1000
 
 2025/01/25
