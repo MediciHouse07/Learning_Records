@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
 
+1500<->2500 End
+
+2025/01/26
+
+- what is that mean?
+- preference convex, more balanced are more preferred, more preferable
+- good a relative to b
+
+# (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
+
 2025/01/25
 
 1000<->2000
