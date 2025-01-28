@@ -1,3 +1,17 @@
+# Chapter 0: Probability Theory. A Short Review
+
+0000<->1000
+
+2025/01/26
+
+- collection of all subsets outcomes A tilda
+- probability measure
+- likelihood
+- w,A,P probability space
+- w is the set of all possible outcomes
+- random variable is a function that map outcomes to R
+- how to relate random variable and probability measure over probability event 1000 mins
+
 # Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
 
 0400<->1200 End
