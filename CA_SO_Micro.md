@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M2E4) [Microeconomics] Drawing Indifference Curves and Calculating Marginal Rate of Substitution
+
+2025/01/27
+
+0000<->1000
+
+- cob douglas
+- perfect substitutes
+- perfect compliments
+- sometimes x y represent different bundles, sometimes x y represent one commodity of a bundle
+
 # (M2E3) [Microeconomics] Marginal Rate of Substitution (MRS) and Convexity of Preferences
 
 1500<->2500 End
