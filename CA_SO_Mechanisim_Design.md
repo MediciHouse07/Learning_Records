@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E13) [Game Theory] VCG Mechanism and Vickrey Auction
+
+2025/01/27
+
+0000<->1000
+
+- D decision set
+- will constitute
+- decision and transfer
+- decision is about how to allocate, to decide winner and reward, transfer is the follow up step to decide the transfer
+
 # (AGT11E12) [Game Theory] Vickrey–Clarke–Groves (VCG) Mechanism (a.k.a Pivotal Mechanism)
 
 2025/01/26
