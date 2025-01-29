@@ -1,5 +1,24 @@
 # Chapter 0: Probability Theory. A Short Review
 
+2025/01/27
+
+1000<->End
+
+- cumulative distribution
+- 159.4
+- real valued r.v.
+- < <= x1,x2
+- don't want to double count
+- differentiable
+- PDF is probability distribution function
+- FTC
+- r.v., continuous, PDF doesn't need to be continuous
+- as the argument indicate in here
+- expectation
+- function of r.v. is another r.v.
+
+# Chapter 0: Probability Theory. A Short Review
+
 0000<->1000
 
 2025/01/26
