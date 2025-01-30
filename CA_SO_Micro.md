@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E4) [Microeconomics] Drawing Indifference Curves and Calculating Marginal Rate of Substitution
 
+2025/01/28
+
+1000<->2000
+
+- moving to north east direction would always lead to higher utility
+- for perfect compliment, MRS = undefined
+- CES utility
+- homothetic preference, MRS is same at all points on the same array
+- not all preferences are homothetic
+
+# (M2E4) [Microeconomics] Drawing Indifference Curves and Calculating Marginal Rate of Substitution
+
 2025/01/27
 
 0000<->1000
