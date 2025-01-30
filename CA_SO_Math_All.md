@@ -1,3 +1,18 @@
+# Chapter 0: [Calculus Review 1] Basic Notations, Sets, Subsets of Reals, Intervals, and Rationals.
+
+2025/01/28
+
+0000<->1000
+
+- = and equivalent=
+- X Si, X is PI Si, cross product
+- 159.2
+- for all chair exist a student
+- exist a chair for all student
+- there doesn't exist, there exist not
+- | means such that
+- {x belongs to X |(such that) statement about x}
+
 # Chapter 0: Probability Theory. A Short Review
 
 2025/01/27
