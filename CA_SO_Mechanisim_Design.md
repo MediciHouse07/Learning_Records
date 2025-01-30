@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E13) [Game Theory] VCG Mechanism and Vickrey Auction
 
+2025/01/28
+
+0600<->1600 End
+
+- efficient has nothing to do with transfer
+- transfer is relate to DSIC
+- VCG mechanism in auction problem is identical to second price auction
+- VCG mechanism is SCF
+- VCG mechanism is a mechanism which includes a decision rule and transfer rule
+
+# (AGT11E13) [Game Theory] VCG Mechanism and Vickrey Auction
+
 2025/01/27
 
 0000<->1000
