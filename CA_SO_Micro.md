@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 2025/01/28
 
+2000<->2700
+
+- let's be more specific
+- x+lny
+- preference satisfy monotonicy and transitivity
+- increasing and decreasing can both mean monotonic
+
+# (M2E4) [Microeconomics] Drawing Indifference Curves and Calculating Marginal Rate of Substitution
+
+2025/01/28
+
 1000<->2000
 
 - moving to north east direction would always lead to higher utility
