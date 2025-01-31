@@ -1,3 +1,21 @@
+https://www.youtube.com/watch?v=6Wkd5knjej4
+
+# Chapter 0: [Calculus Review 1] Basic Notations, Sets, Subsets of Reals, Intervals, and Rationals.
+
+2025/01/29
+
+0700<->End
+
+- subsets of real number
+- 158.5 158.2
+- R- 0 is included
+- non positive number
+- R+ equivalently non negative number
+- R++ means positive reals
+- semi open interval. closed interval
+- glass half full half empty
+- N in this lecture including 0
+
 # Chapter 0: [Calculus Review 1] Basic Notations, Sets, Subsets of Reals, Intervals, and Rationals.
 
 2025/01/28
