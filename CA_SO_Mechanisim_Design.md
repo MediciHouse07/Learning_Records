@@ -1,5 +1,27 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E15) [Game Theory] An Application of VCG Mechanism: Bilateral Trade
+
+2025/01/28
+
+0000<->0500
+
+- mechanism designed with NE
+- VCG, VCG efficient, VCG individual XXX
+- negative utility need transfer to compensate
+
+# (AGT11E13) [Game Theory] VCG Mechanism and Vickrey Auction
+
+2025/01/28
+
+0000<->0500 End
+
+- CG is not budget balanced in some setting
+- budget balance is sum t< 0
+- when considering transfer as a part of efficient
+- utility of agent i <0, they wouldn't participate the game at the first place
+- VCG is SP mechanism in quasi linear utility environment, u = v-t
+
 # (AGT11E13) [Game Theory] VCG Mechanism and Vickrey Auction
 
 2025/01/28
