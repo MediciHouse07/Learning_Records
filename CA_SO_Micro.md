@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M2E5) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 1
+
+2025/01/30
+
+0000<->1000
+
+- reflexive property
+- hunch, and formally write it up
+- complete, either this is bigger than this, or reverse
+- logical deduction, what does a thing mean
+- keep writing down what does a definition mean
+
 # (M2E4) [Microeconomics] Drawing Indifference Curves and Calculating Marginal Rate of Substitution
 
 2025/01/28
