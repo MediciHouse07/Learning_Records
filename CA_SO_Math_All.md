@@ -1,5 +1,22 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+# Chapter 0: [Calculus Review 2] Operations on Sets, Cartesian Product, and Binary Relations.
+
+2024/01/30
+
+0000<->1000
+
+- multiply n set, n tuples
+- PI xi is n tuples
+- PI xi is the same as x1 X x
+- ordered pair, ordered triple
+- binary relation
+- subset of cartesian product of two set
+- R is binary relation
+- < is binary relation of ZxZ, 7,2 is not a element in < binary relation
+- R, complete
+- 158.1 157.8
+
 # Chapter 0: [Calculus Review 1] Basic Notations, Sets, Subsets of Reals, Intervals, and Rationals.
 
 2025/01/29
