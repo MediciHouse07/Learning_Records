@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E15) [Game Theory] An Application of VCG Mechanism: Bilateral Trade
 
+2025/01/30
+
+0000<->End
+
+- buyer knows its evaluation, seller knows its cost
+- real theta and declared theta
+- VCG individual rational
+- mechanism designer decide d and t
+- theta in the utility is true value
+- theta tilda is declared preference
+- d(declared preference profile) * theta b or theta s
+- tb(theta tilda profile)
+- determine the transfer by xxx
+
+# (AGT11E15) [Game Theory] An Application of VCG Mechanism: Bilateral Trade
+
 2025/01/28
 
 0000<->0500
