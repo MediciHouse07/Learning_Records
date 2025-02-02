@@ -4,6 +4,28 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E5) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 1
 
+2025/01/31
+
+1000<->1300 End
+
+- 1,1 is not reflexive, you can't even compare it with itself
+- generalize the proof
+
+# M2E6) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 2
+
+2025/01/31
+
+0000<->0700
+
+- lexical graphic
+- direct proof and if it meets any challenges, it might be telling you that the proof is wrong, so another direction is right
+- indirect derivation, logical deduction
+- negation of <= in R, is >
+- only above is a clear negation, not to use preference sign in that concept
+- real number can't be strict greater and less than another real number at the same time
+
+# (M2E5) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 1
+
 2025/01/30
 
 0000<->1000
