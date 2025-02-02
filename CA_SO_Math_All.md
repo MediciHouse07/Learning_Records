@@ -2,6 +2,34 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 # Chapter 0: [Calculus Review 2] Operations on Sets, Cartesian Product, and Binary Relations.
 
+2024/01/31
+
+1000<->1400 End
+
+- X can be set of anything but non empty
+- strict binary relation should always be able to compare
+- binary relation is complete, binary relation is reflexive, binary relation is transitive
+- binary relation is reflexive, there are binary relation that is not reflexive
+- 157.8
+
+# Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
+
+2024/01/31
+
+0000<->0600
+
+- function may X into single element in Y
+- function is binary relation
+- power set of X, including all subset of X, including empty set
+- X map to all subset of Y, the map is called correspondence, game theory will use this concept
+- continuous function but not differentiable, there is no jump
+- 157.3
+- real valued function take X into R
+- and there are also R->R
+- drawing a function is important
+
+# Chapter 0: [Calculus Review 2] Operations on Sets, Cartesian Product, and Binary Relations.
+
 2024/01/30
 
 0000<->1000
