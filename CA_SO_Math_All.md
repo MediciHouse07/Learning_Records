@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+# Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
+
+2025/02/01
+
+0000<->1000
+
+- overview of debt and from which country their debt is from
+- 157.9
+- indifference curve, iso quant iso cost
+- level curve
+
 # Chapter 0: [Calculus Review 2] Operations on Sets, Cartesian Product, and Binary Relations.
 
 2024/01/31
