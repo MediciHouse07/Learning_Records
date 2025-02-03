@@ -2,6 +2,26 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M2E7) [Microeconomics] How to Draw Indifference Curves of Min Function, U=min{ax+by,cx+dy}
+
+0000<->0400
+
+2025/02/01
+
+- min(argument1, argument2)
+- set indifference curve to a costant or in generalized idea, send it to k
+- decide the utility by different scenarios
+
+# (M2E6) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 2
+
+2025/02/01
+
+0700<->1300
+
+2025/02/01
+
+- x and y are equal
+
 # (M2E5) [Microeconomics] How to Draw Indifference Curves of a Preference Relation: Example 1
 
 2025/01/31
