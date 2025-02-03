@@ -1,5 +1,21 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E17) [Game Theory] Bilateral Trade: VCG Fails Budget Balancedness and Individual Rationality
+
+2025/02/01
+
+0000<->0800 End
+
+- budget balanced
+- individually rational
+- step function
+- budget balanced means sum of t is 0
+- t<0 would make the mechanbism valid
+- individual rationality
+- let utility for each agent always greater than or equal to 0
+- t<= secures DSIC
+- VCG mehchanism in some circumstance could violate budget balanced and IR
+
 # (AGT11E15) [Game Theory] An Application of VCG Mechanism: Bilateral Trade
 
 2025/01/30
