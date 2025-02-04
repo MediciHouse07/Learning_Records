@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E7) [Microeconomics] How to Draw Indifference Curves of Min Function, U=min{ax+by,cx+dy}
 
+2025/02/02
+
+0400<->1400
+
+- simplicity of this part
+- system of equation only gives you one solution instead of multiple solutions
+
+# (M2E7) [Microeconomics] How to Draw Indifference Curves of Min Function, U=min{ax+by,cx+dy}
+
 0000<->0400
 
 2025/02/01
