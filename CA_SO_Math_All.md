@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 # Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
 
+2025/02/02
+
+0900<->1900 End
+
+- Lc(f)
+- 158.7
+- assume X set of reals
+- 158.5
+- donut is also no convex set
+- smooth, and dense nice interior
+- it is a subset of set of reals
+- union of interval may not be a convex set
+- union of convex set doesn't imply a definite convex set
+
+# Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
+
 2025/02/01
 
 0000<->1000
