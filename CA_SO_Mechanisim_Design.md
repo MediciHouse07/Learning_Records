@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E18) [Game Theory] Bilateral Trade: Proving Strategy-Proofness of VCG Mechanism
+
+2025/02/02
+
+0000<->1000
+
+- VCG mechanism would let every player to tell the truth, prefer to telling the truth over lie, though they may tend not to join the game
+- because of IR and budget balanceness
+- and that is the definition of SP
+- declared true type, declared type
+- because transfer is theta s
+- it is seller decide the price
+- no profitable deviation
+
 # (AGT11E17) [Game Theory] Bilateral Trade: VCG Fails Budget Balancedness and Individual Rationality
 
 2025/02/01
