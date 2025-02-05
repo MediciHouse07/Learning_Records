@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E7) [Microeconomics] How to Draw Indifference Curves of Min Function, U=min{ax+by,cx+dy}
 
+1400<->2400 End
+
+2025/02/03
+
+- partition
+- upper house, lower house, corner
+- corner point has undefined indifference curve in this case
+- from formula wise, there must e a house has the same utility as utility as the outcome
+- when the first argument = the second argument that is when the point is on the line other wise they are either on the upper house or on the lower house
+
+# (M2E7) [Microeconomics] How to Draw Indifference Curves of Min Function, U=min{ax+by,cx+dy}
+
 2025/02/02
 
 0400<->1400
