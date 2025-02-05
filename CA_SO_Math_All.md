@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
+
+2025/02/04
+
+0000<->0330
+
+- ACD, assumption conditional derivation
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
+
+1000<->1700 End
+
+2025/02/04
+
+- 157.0
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
 
