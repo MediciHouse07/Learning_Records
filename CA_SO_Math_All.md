@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
+
+2025/02/03
+
+0000<->1000
+
+- 157.9
+- by conjection
+- 20 steps afterwards
+- atomic sentence
+
+---
+
 # Chapter 0: [Calculus Review 3] Functions, Level Sets, Convex Sets
 
 2025/02/02
