@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E18) [Game Theory] Bilateral Trade: Proving Strategy-Proofness of VCG Mechanism
 
+2025/02/03
+
+1000<->End
+
+- it just came to the buyer's case
+- OK, the case A and case B just went through are all of buyer's case
+- individual rationality and budget balanceness
+
+# (AGT11E18) [Game Theory] Bilateral Trade: Proving Strategy-Proofness of VCG Mechanism
+
 2025/02/02
 
 0000<->1000
