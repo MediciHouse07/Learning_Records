@@ -1,5 +1,21 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E19) [Game Theory] Bayesian Mechanism Design
+
+2025/02/04
+
+0000<->1000
+
+- Bayesian nash equilibrium
+- Bayesian mechanism design
+- theta now state for random variable
+- Bayesian strategy is a mapping send random variable into a message Mi
+- theta is randomly chosen according to some F
+- F is prior belief
+- Bayesian incentive compatible
+- DSIC, BIC
+- g(m(theta)) m(.) of (M, g)
+
 # (AGT11E18) [Game Theory] Bilateral Trade: Proving Strategy-Proofness of VCG Mechanism
 
 2025/02/03
