@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M2E8) [Microeconomics] How to Draw Indifference Curves of a Max Funtion, U=max{ax+by,cx+dy}
 
+2025/02/05
+
+1000<->2000
+
+- proper way in writing indifference curve in math notation
+
+# (M2E8) [Microeconomics] How to Draw Indifference Curves of a Max Funtion, U=max{ax+by,cx+dy}
+
 2025/02/04
 
 0000<->1000
