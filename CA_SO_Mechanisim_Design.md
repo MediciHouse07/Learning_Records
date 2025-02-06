@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E19) [Game Theory] Bayesian Mechanism Design
 
+0000<->1000
+
+2025/02/05
+
+- F is prior belief, every individual choose type by F
+- theta- is random variable
+- thetai and thetai' is realization
+- expectation of utility conditional on my observed type thetai
+- g is outcome function and it take me theta as input, f take theta as input, but they can be assigned as equal under some conditions
+- g stand for social choice function, f is social choice function
+- g and m can realize f under some conditions
+
+# (AGT11E19) [Game Theory] Bayesian Mechanism Design
+
 2025/02/04
 
 0000<->1000
