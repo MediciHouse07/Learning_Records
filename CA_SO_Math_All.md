@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2) 
+
+2025/02/05
+
+0200<->1200 End
+
+- inference rule
+- ACD repeat the initial statement
+- simplification
+- DN,4
+- 9 10 inference rules
+- repeat 3
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
 
 2025/02/04
