@@ -1,5 +1,23 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
+2025/02/06
+
+0000<->1000
+
+- ACD and then AID when not possible to break down ACD
+- MTP 1,4
+- ID 2-6
+- and formally write down the entire therom
+- ACD assumption for conditional derivation
+- they are reletivily short
+- break down P
+- always there are premises
+- theromem are argument without premises
+- but the prior part is premises
+- this kind of play a role a premise would play
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2) 
 
 2025/02/05
