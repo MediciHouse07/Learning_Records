@@ -1,5 +1,21 @@
 https://www.youtube.com/watch?v=6Wkd5knjej4
 
+https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
+2025/02/07
+
+1000<->2100 End
+
+- 155.8
+- irrational intersect rational equals empty
+- using premise and then making deduction
+- inference rule for equality doesn't change in differenct cases
+- definition for even number
+- number can only be even or odd
+- open this up
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
 
 2025/02/06
