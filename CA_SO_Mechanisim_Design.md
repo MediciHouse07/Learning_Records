@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV
 
 # (AGT11E19) [Game Theory] Bayesian Mechanism Design
 
+2025/02/06
+
+0500<->1500 End
+
+- 156.4
+- for the plant case, the true type was what which state instead of the element in each of those ranking
+- there might be several equalibriums
+- g(m(theta))=f(theta) is one of the equilibrium
+- dominant strategy, there is no multiplicity of dominant strategy, multiplicity problem
+- VGC is for DSIC
+
+# (AGT11E19) [Game Theory] Bayesian Mechanism Design
+
 0000<->1000
 
 2025/02/05
