@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M1E14) [Microeconomics] How to Prove Preference Relation is Represented by a Utility Function?
+
+0000<->0700 End
+
+2025/02/06
+
+# (M2E8) [Microeconomics] How to Draw Indifference Curves of a Max Funtion, U=max{ax+by,cx+dy}
+
+2000<->2400 End
+
+2025/02/06
+
 # (M2E8) [Microeconomics] How to Draw Indifference Curves of a Max Funtion, U=max{ax+by,cx+dy}
 
 2025/02/05
