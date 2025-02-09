@@ -1,5 +1,22 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# (AGT11E20) [Game Theory] Bayesian Mech Design: Ex-post, Interim, & Ex-ante Individual rationality
+
+0000<->End
+
+2025/02/07
+
+- ex-post
+- interim
+- ex-ante before
+- ex-ante individual rational
+- ex-post, know all information
+- interim know your type
+- ex-ante know nothing
+- some mechanism might satisfy individual rationality but not satisfy strategy proof
+- TBR Bayesian micro, Bayesian game theory
+- TBRT
+
 # (AGT11E19) [Game Theory] Bayesian Mechanism Design
 
 2025/02/06
