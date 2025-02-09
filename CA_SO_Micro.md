@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M1E11) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 1
+
+2025/02/07
+
+0000<->1000
+
+- example, binary relation, x,y prefer over u,v ; iff vector (x,y)>=(u,v)
+- if x>=u and y>=y
+
 # (M1E14) [Microeconomics] How to Prove Preference Relation is Represented by a Utility Function?
 
 0000<->0700 End
