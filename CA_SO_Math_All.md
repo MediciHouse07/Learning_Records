@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 0000<->0300 End
 
+- 156.4 156.2 155.8
+
 2025/02/08
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5, Example 2)
