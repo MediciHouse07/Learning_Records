@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 # (M1E11) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 1
 
+2025/02/08
+
+0600<->1600 End
+
+- either X or Y means either X is true or Y is true
+- find counter example would let you learn a about how this thing works
+- 156.4 156.2
+
+# (M1E11) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 1
+
 2025/02/07
 
 0000<->1000
