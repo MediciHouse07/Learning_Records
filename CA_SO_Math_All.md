@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
 
+1000<->2000
+
+2025/02/10
+
+- necessary condition, derivative=0 when maximum, but derivative=0 also has infliction point, or 2D type of saddle point
+- sufficient condition
+- x critical point, f'x=0
+
+# Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
+
 2025/02/09
 
 0000<->1000
