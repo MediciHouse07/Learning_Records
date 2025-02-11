@@ -2,6 +2,30 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
+
+# (M5E1) [Microeconomics] Introduction to Uncertainty and Risk
+
+2025/02/09
+
+0000<->1000
+
+- action alternative
+- action and outcome are the same thing
+- choose a bundle, outcome has some uncertainty
+- such as buy an apple, the color of apple may differ
+- alternative and outcome may be different
+- service level, delivered on time or not
+- preference over action, preference over alternative
+- alternative bundle on lottery
+- outcome 'realized'
+- an alternative is a probability measure on Z
+- probability distribution
+- p,q map Z into [0,1]
+- p is a vector, p(z)= a number
+- [0,1]^Z
+- choosing
+
 # (M1E13) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 2
 
 0000->0400
