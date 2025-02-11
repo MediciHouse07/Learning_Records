@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=ROuNsyRhvQA&t=1003s
 
 https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
+# (M1E13) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 2
+
+0000->0400
+
+- cobb douglas
+- 0400 continuous was mentioned once
+
+# (M1E12) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: EX 1 ctd.
+
+2025/02/09
+
+0000<->0600 End
+
+- 154.9
+- logical deduction to a definition
+- by definition xx is also true
+
+
 # (M1E11) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 1
 
 2025/02/08
