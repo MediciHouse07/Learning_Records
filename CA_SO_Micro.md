@@ -4,6 +4,20 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M1E14) [Microeconomics] How to Prove Preference Relation is Represented by a Utility Function?
+
+2025/02/10
+
+0000<->0500
+
+# (M1E13) [Microeconomics] How to Prove/Disprove a Binary Relation is a Preference Relation: Example 2
+
+0400<->0900 End
+
+2025/02/10
+
+- >= in R is complete, transitive, reflexive binary relation on R
+
 # (M5E2) [Microeconomics] Risk Preferences
 
 0000<->0500
