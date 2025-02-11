@@ -4,6 +4,25 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E2) [Microeconomics] Risk Preferences
+
+0000<->0500
+
+2025/02/10
+
+- preference for uniformity
+- 154.6
+- preference for greatest likelihood
+- preference on uncertained alternative
+
+# (M5E1) [Microeconomics] Introduction to Uncertainty and Risk
+
+1000<->1500 End
+
+2025/02/10
+
+- get C for sure is simplex, legal concept
+
 # (M5E1) [Microeconomics] Introduction to Uncertainty and Risk
 
 2025/02/09
