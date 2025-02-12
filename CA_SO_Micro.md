@@ -4,6 +4,26 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M1E15) [Microeconomics] How to Prove if a Choice Behavior is Consistent with Condition Alpha?
+
+2025/02/11
+
+0000<->0800 End
+
+- choice behavior
+- is this choice function or a choice correspondence
+- function and correspondence all can map all element in the domain, no requirement for range
+- ariel's lecture notes is mentioned
+- Condition Alpha
+- should be betting
+- TBR Condition Alpha
+
+# (M1E14) [Microeconomics] How to Prove Preference Relation is Represented by a Utility Function?
+
+2025/02/11
+
+0500<->0700 End
+
 # (M1E14) [Microeconomics] How to Prove Preference Relation is Represented by a Utility Function?
 
 2025/02/10
