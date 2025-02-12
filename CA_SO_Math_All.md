@@ -4,6 +4,35 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
+
+2025/02/11
+
+0000<->0200
+
+- equality form constraint and inequality form of constraint
+- 
+
+# Ch 0: [Optimization 2] Partial Derivative, 1st and 2nd Order Conditions, functions with 2 variables.
+
+2025/02/11
+
+0000<->0700 End
+
+- 155.5
+- second partial derivative with respect to
+- hessian matrix
+- determainant of hessian matrix
+- interior local maximum
+
+# Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
+
+2025/02/11
+
+2000<->2100 End
+
+- 155.8
+
 # Ch 0: [Optimization 1] Derivative, First and Second Order Conditions, Single Variable Functions.
 
 1000<->2000
