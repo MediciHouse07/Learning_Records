@@ -4,6 +4,19 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M1E5) [Microeconomics] Choice behaviour, Choice Functions, and Condition Alpha
+
+2025/02/12
+
+0000<->1000
+
+- binary relation satisfy three conditions can be called preference relation
+- choice behavior consistent with the three conditions will be called rational choice?
+- C subscript preference, always pick the best
+- C can be rationalized if xxx
+- you rationalize something, instead of itself is rational at the beginning
+- C can be rationalized, if C=C subscript preference if exist such preference
+
 # (M5E2) [Microeconomics] Risk Preferences
 
 2025/02/11
