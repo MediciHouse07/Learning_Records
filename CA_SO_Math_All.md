@@ -6,6 +6,20 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
 
+2025/02/12
+
+0200<->1200 End
+
+- Kuhn-Tucker therem
+- minus limabda one, first constraint, lambda two times the second constraint
+- 155.2 155.1
+- 154.7
+- increasing function
+- g(x) and a, g(x) deviating from constraint a
+- and choosing lambda high enough
+
+# Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
+
 2025/02/11
 
 0000<->0200
