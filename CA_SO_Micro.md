@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E3) [Microeconomics] Expected Utility Theory
+
+2025/02/12
+
+0000<->1000
+
+- VON NEVMAN AND MORGENSTERN AXIOMAZATION
+- founding father of game theory
+- independence, continuity
+- compound lottery
+- choice, realization
+- compoundd lottery, two stage lottery
+- select lottery
+- realize an outcome as the lottery selected
+
 # (M1E5) [Microeconomics] Choice behaviour, Choice Functions, and Condition Alpha
 
 2025/02/12
