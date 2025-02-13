@@ -4,6 +4,19 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E2) [Microeconomics] Risk Preferences
+
+2025/02/11
+
+0800<->1800 End
+
+- rational means it can be rationalized
+- expected utility
+- v(z) to each z belongs to Z
+- expectation is denoted in U, but still sigma form
+- xxx units
+- rationalize expected utility, when the preference can be represented by
+
 # (M1E15) [Microeconomics] How to Prove if a Choice Behavior is Consistent with Condition Alpha?
 
 2025/02/11
