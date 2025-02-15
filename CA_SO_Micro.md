@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M1E5) [Microeconomics] Choice behaviour, Choice Functions, and Condition Alpha
+
+0700<->1700 End
+
+2025/02/13
+
+- alternative in B-A is not that important by alpha condition
+- if there is violation to condition alpha
+- in some situation this is a strong assumption
+- proposition of rationalizable, ask less of question to let the rationalizability reveale
+
 # (M5E3) [Microeconomics] Expected Utility Theory
 
 1000<->2000
