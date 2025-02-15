@@ -6,6 +6,21 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 # (M5E3) [Microeconomics] Expected Utility Theory
 
+1000<->2000
+
+2025/02/13
+
+- continuity
+- special sum +O
+- weighted average
+- debrew's theorem
+- continuity gurantee the existence of utility function
+- Debrew's therom
+- +300
+- theorem(VNM)
+
+# (M5E3) [Microeconomics] Expected Utility Theory
+
 2025/02/12
 
 0000<->1000
