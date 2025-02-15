@@ -4,6 +4,42 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 2, Example 3)
+
+2025/02/13
+
+0000<->0500 End
+
+- different than
+- 153.9 153.6
+- automic sentence, premise, conclusion
+- one automic sentence can also be a premise
+- A Concise Introduction to Logic
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 2, Example 4)
+
+2025/02/13
+
+0000<->0200 End
+
+- argument _ like argument, whenever premise is true, conclusion must be true, then the argument is valid, validity argument
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 2, Example 5)
+
+2025/02/13
+
+0000<->0200
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 3)
+
+2025/02/13
+
+0000<->0100
+
+- proving argument, shows validity of argument
+- two ways to prove argument, truth table, or 
+- messy
+
 # Ch 0: [Optimization 3] Constrained Optimization, Substitution method, Lagrangian Method
 
 2025/02/12
