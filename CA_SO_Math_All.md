@@ -4,6 +4,20 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 3)
+
+0000<->1000 End
+
+2025/02/14
+
+- 153.3 153.3
+- proof by using inference rules
+- proof by using truth table
+- inference rules are shorter argument that can be proved by using truth table
+- direct proof
+- modus tollens, 2, 3
+- upper and lower are implied
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 2, Example 3)
 
 2025/02/13
