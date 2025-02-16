@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M1E6) [Microeconomics] "AS IF" approach & "Rational" Behavior
+
+0000<->1100 End
+
+2025/02/14
+
+- as if approach
+- rationalizable definition
+- life long employment status
+- he want to be destructive
+- C>= use a rule to produce the same outcome as C, for which we don't know C is choosing the outcome by what rule
+
 # (M1E5) [Microeconomics] Choice behaviour, Choice Functions, and Condition Alpha
 
 0700<->1700 End
