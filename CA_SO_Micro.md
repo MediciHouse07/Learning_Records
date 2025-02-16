@@ -4,6 +4,25 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E4) [Microeconomics] A very Short Review of Expected Utility Theory
+
+2025/02/14
+
+- deterministic and stochastics can be transferred when purpose is changed when doing modeling
+- 
+depends on what the true state the world would be
+- each outcome is probable
+- definition of simplex
+- p1,...,pn are outcomes
+
+# (M5E3) [Microeconomics] Expected Utility Theory
+
+2025/02/14
+
+2000<->2400 End
+
+- v(z) rank alternative to different number
+
 # (M1E6) [Microeconomics] "AS IF" approach & "Rational" Behavior
 
 0000<->1100 End
