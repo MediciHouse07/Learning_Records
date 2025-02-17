@@ -4,6 +4,23 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5)
+
+2025/02/16
+
+- ---means therefore
+- this is a true statement as long as xx is false
+- conditional derivation
+- Assumption for conditional derivation
+- statements in the sub box can't be referred outside of the sub box, even for statement under it
+- conditional derivation is a result from the sub box
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 4, Example 2)
+
+2025/02/16
+
+- 153.7 153.9
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 4)
 
 2025/02/15
