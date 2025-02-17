@@ -4,6 +4,29 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E5) [Microeconomics] Expected Utility Theory at Work: A Numerical Example
+
+0000<->1800 End
+
+2025/02/15
+
+- prefer C over D
+- agent that is not expected utility maximizer
+- u attach utility to each outcome
+- outcome is amount of money that is going to win
+- u(3000)=R
+- expected utility guy
+- 152.8
+- no matter what value the decision maker attaching, condition must be satisfied
+
+# (M5E4) [Microeconomics] A very Short Review of Expected Utility Theory
+
+0700<->0900
+
+2025/02/15
+
+- EU stand for expected utility
+
 # (M5E4) [Microeconomics] A very Short Review of Expected Utility Theory
 
 2025/02/14
