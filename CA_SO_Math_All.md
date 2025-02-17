@@ -4,6 +4,25 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 4)
+
+2025/02/15
+
+- conjunction
+- even though sometimes means and
+- also sometimes means and
+- while xx is tall yy is not, xx is tall and not yy is tall
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 3, Example 3)
+
+2025/02/15
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 3, Example 2)
+
+2025/02/15
+
+- 152.9
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 3)
 
 0000<->1000 End
