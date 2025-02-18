@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M5E6) [Microeconomics] Expected Utility Theory at Work: Risky Investment Problem 1
+
+2025/02/16
+
+0000<->1000
+
+- vNM utility function
+- pivot table with alternative and state of the world
+- ux=sqrtx, where x is realized wealth
+- say that again
+- TBRT 0800->
+
 # (M5E5) [Microeconomics] Expected Utility Theory at Work: A Numerical Example
 
 0000<->1800 End
