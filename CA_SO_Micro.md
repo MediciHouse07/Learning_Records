@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+# (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
+
+2025/02/16
+
+- a market where more than a good can be traded
+- perfectly competitive market
+- many buyers and many sellers
+- sold and bought
+- initial endowment
+- every bundle in the economy is called allocation
+- (xA,xB) = ((xA1,xA2),(xB1,xB2))
+- barter exchange
+- feasible, sum of allocation = total endowment
+- competitive, market supply=market demand
+
 # (M5E6) [Microeconomics] Expected Utility Theory at Work: Risky Investment Problem 1
 
 2025/02/16
