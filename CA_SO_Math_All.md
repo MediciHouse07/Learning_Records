@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5, Example 2)
+
+2025/02/17
+
+0000<->0900 1 mins plus within the range
+
+- 154.1 153.8
+- outside derivation, C.D. x-y
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5)
 
 2025/02/16
