@@ -4,6 +4,36 @@ https://www.youtube.com/watch?v=ZlufCX6je-I&t=610s
 
 https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6kX9
 
+https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
+
+# (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
+
+0000<->0400
+
+2025/02/17
+
+- XA,XB
+- no other allocation that can make at least one agent better off without making another agent worse off
+
+# (M8E3) [Microeconomics] Trade in Pure Exchange Economy: Some Intuition
+
+2025/02/17
+
+0000<->1100 End
+
+- when should there be trade, when shouldn't there be trade
+- a result of a trade(final allocation) must be feasible, efficient(all resources have to be allocated), better than the initial endowment(final must be preferrable than)
+
+# (M8E2) [Microeconomics] Edgeworth Box and Feasible Allocations
+
+2025/02/17
+
+0000<->0500
+
+- edgewort box
+- any point in the box is an allocation
+- efficiency will be defined
+
 # (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
 
 2025/02/16
