@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5 - Theorems, Example 2)
+
+0000<->0200
+
+2025/02/18
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5 - Theorems)
+
+0000<->0800 End
+
+2025/02/18
+
+- CD as summarization
+
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5, Example 2)
 
 2025/02/17
