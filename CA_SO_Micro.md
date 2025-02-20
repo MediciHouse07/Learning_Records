@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M1E7) [Microeconomics] What is Alternative?
+
+0000<->0900 End
+
+2025/02/18
+
+- continuity definition
+- 154.1 153.9 153.7
+- in consumer theory price is ignored
+- income and price
+
 # (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
 
 0400<->1400
