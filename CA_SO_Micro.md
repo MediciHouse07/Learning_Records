@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
 
+0400<->1400
+
+2025/02/18
+
+- at least as good as set
+- eye like means not pareto allocation
+
+# (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
+
 0000<->0400
 
 2025/02/17
