@@ -6,6 +6,22 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
+
+0000<->0200
+
+# (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
+
+1400<->2200
+
+2025/02/19
+
+- same slope for the two line at the crossed point
+- poreto optimal, poreto efficiency
+- contract curve, set of pareto optimal (efficient) allocations
+- efficient doesn't mean maximization
+- marginal rate of substitution not well defined everywhere, mariginal rate of substitution is a fixed number
+
 # (M1E7) [Microeconomics] What is Alternative?
 
 0000<->0900 End
