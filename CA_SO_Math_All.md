@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 6)
+
+0000<->0700 End
+
+2025/02/19
+
+- modus tollendo ponens inference rule 6
+- and inference rule 7, addition
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5 - Theorems, Example 2)
+
+0230<->0600 End
+
+2025/02/19
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 5 - Theorems, Example 2)
 
 0000<->0200
