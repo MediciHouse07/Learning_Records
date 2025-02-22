@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
 
+2025/02/20
+
+0200<->1200
+
+- x2A, consumption of agent A for good 2
+- pareto efficiency => feasibility
+- MRS equality wouldn't hold at undefined point
+- TBRT start from 1000
+
+# (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
+
 0000<->0200
 
 # (M8E5) [Microeconomics] How to Find Pareto Efficient Allocations and Contract Curve
