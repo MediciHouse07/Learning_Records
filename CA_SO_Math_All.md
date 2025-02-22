@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7)
+
+2025/02/20
+
+0000<->0900 End
+
+- 153.0 152.5
+- reductio ad absurdum
+- proof by contradiction
+- analyze the other statement, are they source of contradiction
+- if no other, the only one was the assumption was false
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 6)
 
 0000<->0700 End
