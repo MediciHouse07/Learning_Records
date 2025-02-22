@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
 
+2025/02/21
+
+1000<->2000
+
+- symmetrically
+- a point stand for the position for both player
+- question is whether they will trade
+
+# (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
+
 2025/02/20
 
 0200<->1200
