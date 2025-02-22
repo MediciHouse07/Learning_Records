@@ -1,3 +1,28 @@
+https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
+
+# (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
+
+2025/02/20
+
+0000<->0200
+
+- pure strategy
+- mixed strategy
+- mixed strategy in finite game
+- probability distribution over Si
+- delta Si
+- delta sometimes means simplex
+
+# (AGT1E2) [Game Theory] Normal Form Games: Pure Strategies
+
+2025/02/20
+
+0000<->0800 End
+
+- s belongs to S
+- s=(s1,s2,...,sn)
+- s=(si,s-i)
+
 # (AGT1E2) [Game Theory] Normal Form Games: Pure Strategies
 
 2025/02/19
