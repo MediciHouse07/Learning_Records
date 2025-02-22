@@ -4,6 +4,25 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 3)
+
+2025/02/21
+
+0000<->0100
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 2)
+
+2025/02/21
+
+0000<->0900 End
+
+- de morgon's theorem
+- 153.3
+- AID, assumption for indirect derivation
+- whether xx is true or false, yy must be true
+- repeat the part that contradicts
+- it is true conditioning on xxx
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7)
 
 2025/02/20
