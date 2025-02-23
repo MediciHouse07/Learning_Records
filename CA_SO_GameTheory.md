@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
 
+2025/02/21
+
+0200<->1200
+
+- sigma i = set of mixed strategy of player i
+- assign p1 for cooperate, assign p2 for defect
+- pure strategy is a subset of mixed strategy
+- mixed strategy SIGMA i sigama i
+- pure strategy S si
+- SIGMA and DELTA S are different set??
+- strategy for player i
+- when there is no subscript, it means a profile of strategies
+
+# (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
+
 2025/02/20
 
 0000<->0200
