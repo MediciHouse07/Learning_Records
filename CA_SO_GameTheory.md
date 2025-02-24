@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
 
+2025/02/22
+
+0800<->1800
+
+- delta is to take probability distribution
+- delta S, player can coordinate
+- non coporate approach of game
+- cooperate situation == good independent mixed strategy
+
+# (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
+
 2025/02/21
 
 0200<->1200
