@@ -4,6 +4,23 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 4)
+
+2025/02/22
+
+0000<->0200
+
+- new conclusion as a sub conclusion
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 3)
+
+2025/02/22
+
+0000<->0800 End
+
+- argument understand p and not p is a false statement
+- 153.1 152.8
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 3)
 
 2025/02/21
