@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
 
+2025/02/22
+
+1700<->2700 End
+
+- 'narrow down your view' might enable you a wider world
+- 'escalate the problem' might resolve the near term problem
+- initial endowment would change pareto efficiencies area, shape of edgeworth box
+- change utility function would also change pareto efficiency area
+
+# (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
+
 2025/02/21
 
 1000<->2000
