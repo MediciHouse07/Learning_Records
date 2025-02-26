@@ -4,6 +4,24 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8)
+
+0000<->0200
+
+2025/02/24
+
+- if and only if
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 4)
+
+0200<->0800End
+
+2025/02/24
+
+- addition
+- conjection
+- 152.4
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 7, Example 4)
 
 2025/02/22
