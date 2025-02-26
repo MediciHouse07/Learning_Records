@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E7) [Microeconomics] How to Find Core Allocations?
+
+0000<->1000
+
+2025/02/24
+
+- core allocation
+- mathematically, algebraically
+
 # (M8E6) [Microeconomics] Finding Pareto Efficient Allocations and Contract Curve: Numerical Examples
 
 2025/02/22
