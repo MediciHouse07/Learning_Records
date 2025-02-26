@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
 
+1300<->2300 End
+
+2025/02/24
+
+- TBRT
+
+# (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
+
 2025/02/22
 
 0800<->1800
