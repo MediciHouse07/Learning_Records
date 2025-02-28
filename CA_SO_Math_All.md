@@ -4,6 +4,23 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 2)
+
+0000<->0600
+
+2025/02/26
+
+- sub proof
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8)
+
+0000<->0400 End
+
+2025/02/26
+
+- I don't know who knocked down the straw stick leaning against the door
+- necessary and sufficient condition
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8)
 
 0000<->0200
