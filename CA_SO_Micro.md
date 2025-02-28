@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E7) [Microeconomics] How to Find Core Allocations?
 
+2025/02/26
+
+1000<->2000 End
+
+- algebraic and numeric tells the same story
+- veto the trade
+
+# (M8E7) [Microeconomics] How to Find Core Allocations?
+
 0000<->1000
 
 2025/02/24
