@@ -6,6 +6,14 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 2)
 
+0700<->1700 End
+
+2025/02/27
+
+- bicondition, 14,22
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 2)
+
 0000<->0600
 
 2025/02/26
