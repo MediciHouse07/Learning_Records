@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
+
+0000<->1000
+
+2025/02/27
+
+- market cleaning conditions
+- relative prices
+- introduce price through
+
 # (M8E7) [Microeconomics] How to Find Core Allocations?
 
 2025/02/26
