@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
 
+1300<->2300 End
+
+2025/02/27
+
+- space, profile
+- SIGMAi doesn't belong to SIGMA
+- support of a mixed strategy
+
+# (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
+
 0000<->1000
 
 2025/02/26
