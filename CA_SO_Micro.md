@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
 
+1000<->2000
+
+2025/02/28
+
+- feasible -> pareto allocation -> core allocation -> a point after introducing price
+- the point where budget line and indifference curves cross
+
+# (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
+
 0000<->1000
 
 2025/02/27
