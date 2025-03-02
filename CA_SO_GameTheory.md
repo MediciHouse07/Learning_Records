@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E4) [Game Theory] Two-Player Zero Sum Games
+
+0000<->1000
+
+2025/02/28
+
+- scg, opposite outcome, strategy competitive game
+- maxmin strategy
+
 # (AGT1E3) [Game Theory] Strategic Form Games: Mixed Strategies
 
 1300<->2300 End
