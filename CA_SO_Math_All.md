@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 3)
 
+2025/03/01
+
+0800<->1800 End
+
+- every theorem is an inference rule
+- P true, Q true also induce P->Q true
+- truth table, 19
+- bicondition
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 3)
+
 0000<->1000
 
 2025/02/28
