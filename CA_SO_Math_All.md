@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 3)
+
+0000<->1000
+
+2025/02/28
+
+- conditional derivation from beginning to the last item for ID, because it starts with assume the A part from A->B
+- which LINE you can use
+- 150.8
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 2)
 
 0700<->1700 End
