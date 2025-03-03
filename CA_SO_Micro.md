@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
 
+2025/03/01
+
+1500<->2500 End
+
+- slope of budget line depends on the price ratio
+- 150.4
+- feasibility
+- market clearing is to search for the right price ratio
+
+# (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
+
 1000<->2000
 
 2025/02/28
