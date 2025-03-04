@@ -6,6 +6,19 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
+
+2025/03/02
+
+0000<->1000
+
+- two agents, and one firm
+- f(y2)=y1, y2 is labor, y1 is iPhone
+- assume price for input is the same to firm and agents
+- endowment as a source of income, profit as a source of income
+- market clearing condition, supply equals to demand
+- y2 is not being produced, y1 is being produced
+
 # (M8E8) [Microeconomics] How to Calculate Equilibrium Prices in a Pure Exchange Economy?
 
 2025/03/01
