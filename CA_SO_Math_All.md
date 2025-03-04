@@ -4,6 +4,20 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques(Examples: Part 1)
+
+2025/03/02
+
+0000<->1000
+
+- without any further due
+- 149.8
+- atomic sentence is denoted as P,Q,R...
+- valid argument
+- argument == set of statements
+- premises and conclusion structure froms arguments
+- argument is true and conclusion also true, that is a valid argument
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Logic - Section 8, Example 3)
 
 2025/03/01
