@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
 
+2025/03/03
+
+0300<->1300 End
+
+- y2 is what company consumed, x2A x2B is what agent consumed, they are all about apple
+
+# (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
+
 2025/03/02
 
 0000<->1000
