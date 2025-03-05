@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques(Examples: Part 1)
 
+2025/03/03
+
+0700<->1700 End
+
+- modus tollens is about inference rule
+- 
+
+# Chapter 0: [Propositional Logic] Proof Techniques(Examples: Part 1)
+
 2025/03/02
 
 0000<->1000
