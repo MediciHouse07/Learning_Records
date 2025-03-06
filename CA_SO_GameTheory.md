@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E4) [Game Theory] Two-Player Zero Sum Games
 
+2025/03/04
+
+0000<->1000
+
+- John Von Newonman
+
+# (AGT1E4) [Game Theory] Two-Player Zero Sum Games
+
 2025/03/03
 
 0000<->1000
