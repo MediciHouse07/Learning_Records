@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
+
+2025/03/04
+
+0000<->1000
+
+- each therom is a argument, therom is argument without premises
+
 # Chapter 0: [Propositional Logic] Proof Techniques(Examples: Part 1)
 
 2025/03/03
