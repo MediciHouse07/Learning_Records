@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
 
+2025/03/04
+
+0000<->1000
+
+- 149.1
+- perfectly competitive price ratio
+- constraints
+- market clearing conditions
+- function of P1 and P2 because they are demand curve
+
+# (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
+
 2025/03/03
 
 0300<->1300 End
