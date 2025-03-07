@@ -4,6 +4,25 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
+2025/03/05
+
+0000<->0800
+
+- assumption for conditional derivation
+- assumption for indirect derivation
+- conditional derivation
+- indirect derivation
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
+
+2025/03/05
+
+1000<->1200 End
+
+- 149.5
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
 
 2025/03/04
