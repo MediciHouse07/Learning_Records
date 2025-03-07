@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
 
+2025/03/05
+
+0300<->1300 End
+
+- company doesn't consume good 1
+- company produce good 1, thus y1 is on the supply side
+- company consume good 2, thus y2 is on the demand side
+
+# (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
+
 2025/03/04
 
 0000<->1000
