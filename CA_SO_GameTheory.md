@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E5) [Game Theory] How to Solve for Maximin and Minimax Values in Zero-Sum Games
+
+0000<->1000
+
+2025/03/06
+
+- why it is a linear function
+- linear function with respect to p
+- TBRT
+
 # (AGT1E4) [Game Theory] Two-Player Zero Sum Games
 
 2025/03/05
