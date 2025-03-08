@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
 
+0800<->1800
+
+2025/03/06
+
+- ACD or AID is an indicator for not usable later
+- they are all assumptions
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
 2025/03/05
 
 0000<->0800
