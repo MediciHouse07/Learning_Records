@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
+
+0000<->1000
+
+2025/03/06
+
+- walrasian equilibrium
+- max utility subject to budget constraint
+- market clearing
+- TBRT
+
 # (M8E9) [Microeconomics] General Equilibrium with Production: How to Calculate Equilibrium Prices?
 
 2025/03/05
