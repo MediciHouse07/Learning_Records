@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 0000<->1000
 
+2025/03/08
+
+- points of intersection
+
+# (AGT1E5) [Game Theory] How to Solve for Maximin and Minimax Values in Zero-Sum Games
+
+0000<->1000
+
 2025/03/06
 
 - why it is a linear function
