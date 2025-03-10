@@ -10,6 +10,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 0000<->1000
 
+2025/03/08
+
+- Walrasian equilibrium = general equilibrium
+- TBRT shit right 2 mins
+
+# (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
+
+0000<->1000
+
 2025/03/06
 
 - walrasian equilibrium
