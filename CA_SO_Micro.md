@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
 
+0200<->1200
+
+2025/03/09
+
+- optimal consumption
+- maximization with respect to constraint + market clearing
+
+# (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
+
 0000<->1000
 
 2025/03/08
