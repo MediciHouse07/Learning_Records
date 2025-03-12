@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
 
+2025/03/10
+
+0700<->1700 End
+
+- set of equilibrium prices
+
+# (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
+
 0200<->1200
 
 2025/03/09
