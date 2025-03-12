@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E6) [Game Theory] Zero-Sum Games: The Minimax Theorem
+
+2025/03/10
+
+0000<->0600 End + 4 mins
+
+- minmax >= maxmin
+- 1928 VNM
+
 # (AGT1E5) [Game Theory] How to Solve for Maximin and Minimax Values in Zero-Sum Games
 
 0200<->1200 End
