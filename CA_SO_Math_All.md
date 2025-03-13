@@ -4,6 +4,23 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
+0000<->0800
+
+2025/03/11
+
+- let's xxx, assuming that we
+- thanks to xxx
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
+
+2025/03/11
+
+1000<->1200 End
+
+- 149.0 148.7
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 2)
 
 2025/03/10
