@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
+
+2025/03/11
+
+0000<->1000
+
+- technology of the firm f(y)=sqrt(y)
+- TBRT
+
 # (M8E10) [Microeconomics] Solving Walrasian Equilibrium Allocation and prices: No Production.
 
 2025/03/10
