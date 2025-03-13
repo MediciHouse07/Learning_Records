@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E7) [Game Theory] Strategic Dominance and Dominant Strategy Equilibrium
+
+2025/03/11
+
+0000<->1000
+
+- strictly dominated, being dominated
+- dominant strategy equilibrium
+- dominant strategy equilibrium exist, it must be unique
+
 # (AGT1E6) [Game Theory] Zero-Sum Games: The Minimax Theorem
 
 2025/03/10
