@@ -6,6 +6,14 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
 
+0800<->1800
+
+2025/03/12
+
+- 148.6
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
+
 0000<->0800
 
 2025/03/11
