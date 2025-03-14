@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E7) [Game Theory] Strategic Dominance and Dominant Strategy Equilibrium
 
+1000<->1500 End + 5 mins
+
+2025/03/12
+
+- convex combination
+- pure strategy is dominated by by mixed strategy example
+
+# (AGT1E7) [Game Theory] Strategic Dominance and Dominant Strategy Equilibrium
+
 2025/03/11
 
 0000<->1000
