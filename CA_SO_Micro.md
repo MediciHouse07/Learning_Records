@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
 
+2025/03/13
+
+0000<->1000
+
+- firm doesn't have utility function
+- different input price
+- different output price
+
+# (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
+
 0000<->1000
 
 2025/03/12
