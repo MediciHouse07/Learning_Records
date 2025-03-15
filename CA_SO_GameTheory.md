@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
+
+2025/03/13
+
+0000<->1000
+
+- TBRT
+
 # (AGT1E7) [Game Theory] Strategic Dominance and Dominant Strategy Equilibrium
 
 1000<->1500 End + 5 mins
