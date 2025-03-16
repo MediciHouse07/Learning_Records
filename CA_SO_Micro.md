@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
 
+0000<->1000
+
+2025/03/14
+
+- aggregated supply
+- aggregated demand
+- firm also choose xf and yf
+- 149.0 148.5
+- MRS=-px/py
+
+# (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
+
 2025/03/13
 
 0000<->1000
