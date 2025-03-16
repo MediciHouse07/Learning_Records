@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
 
+0000<->1000
+
+2025/03/14
+
+- among the remaining strategies
+- only one unique strategy for each player, then the set would be called as solvable
+- if keep waiting for emergent tech, nothing would be nailed down
+- survive
+- set of strategies within which it contains all strategies survives after all possible eliminations
+- solvable if Si infinity is singleton
+- {ui}
+- G(N,S,{ui})
+
+# (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
+
 2025/03/13
 
 0000<->1000
