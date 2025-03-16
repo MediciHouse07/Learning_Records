@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
+
+0000<->1000
+
+2025/03/14
+
+- inference rule
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 3)
 
 2025/03/02
