@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
 
+0300<->0900 + 4 mins
+
+2025/03/15
+
+- it survives at k-1 round, and it is also not a dominated strategy
+- delta stand for probability distribution
+
+# (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
+
 0000<->1000
 
 2025/03/14
