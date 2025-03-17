@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
 
+1000<-2000
+
+2025/03/15
+
+- demand = supply
+- Walrasian equilibrium
+
+# (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
+
 0000<->1000
 
 2025/03/14
