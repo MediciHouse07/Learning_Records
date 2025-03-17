@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5
 
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
 
+0600<->1600 End
+
+2025/03/15
+
+- it can't be both, it can't be neither
+- 148.2 147.9
+
+# Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
+
 0000<->1000
 
 2025/03/14
