@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
 
+0700<->1700 End
+
+2025/03/16
+
+# (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
+
 0300<->0900 + 4 mins
 
 2025/03/15
