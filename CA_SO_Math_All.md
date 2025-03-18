@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Real Analysis] Review 1: Distance Function, Metric Spaces.
+
+0000<->1000
+
+2025/03/16
+
+- distance or metric
+- identification is about a==b
+- symmetry is about ab, ba
+- 148.5
+
 # Chapter 0: [Propositional Logic] Proof Techniques (Examples: Part 1)
 
 0600<->1600 End
