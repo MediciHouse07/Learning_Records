@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
 
+1700<->2700 End
+
+2025/03/16
+
+- Walrasian equilibrium would always demand positive price
+- price ratio is reduced in comparison to
+- [allocation for A, B, firm, and price ratio]
+
+# (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
+
 1000<-2000
 
 2025/03/15
