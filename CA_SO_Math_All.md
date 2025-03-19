@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=6Wkd5knjej4
 
 https://www.youtube.com/watch?v=6uxnw4pBi6s&list=PLcrc6i6xwaQQlSRnYachFCodB9AHB5hd4&index=31
 
+# Chapter 0: [Real Analysis] Review 2: Bounded Sets, Open Neighbourhood.
+
+0000<->0400
+
+2025/03/17
+
+- bounded if there exist some K>=0 such that
+- have a decisive decision backed by proper reasoning is how human works, respect momentum is a key factor within this practice
+- piled up documents are actual thing, the more you respect it, kind of, the more you can manage it well
+
+# Chapter 0: [Real Analysis] Review 1: Distance Function, Metric Spaces.
+
+1000<->1100 End
+
+2025/03/17
+
 # Chapter 0: [Real Analysis] Review 1: Distance Function, Metric Spaces.
 
 0000<->1000
