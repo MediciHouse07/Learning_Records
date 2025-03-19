@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
+0000<->1000
+
+2025/03/17
+
+- continuous, increasing, concave
+- initial endowment strictly positive
+- TBRT
+
 # (M8E11) [Microeconomics] Solving Walrasian Equilibrium Allocation and Prices With Production.
 
 1700<->2700 End
