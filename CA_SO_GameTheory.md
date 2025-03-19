@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E9) [Game Theory] Strategic Form Games: Best Response
+
+0000<->0500
+
+2025/03/17
+
 # (AGT1E8) [Game Theory] Iterated Elimination of Strictly Dominated Strategies
 
 0700<->1700 End
