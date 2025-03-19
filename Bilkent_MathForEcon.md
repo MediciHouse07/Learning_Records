@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1s
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
+0000<->1000
+
+2025/03/17
+
+- 148.3 147.8
+- x sub i squared
+- finite sum of non negative is 0 if the vector x is 0 vector
+
 # Lecture 1
 
 2025/01/16
