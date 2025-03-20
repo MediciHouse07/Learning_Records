@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+2025/03/18
+
+1000<->2000
+
+- 147.5 147.3
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 0000<->1000
 
 2025/03/17
