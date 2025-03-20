@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E9) [Game Theory] Strategic Form Games: Best Response
 
+2025/03/18
+
+0000<->1000
+
+- dominant strategy has nothing to do with opponent's strategy
+- best response is only about your own response
+
+# (AGT1E9) [Game Theory] Strategic Form Games: Best Response
+
 0000<->0500
 
 2025/03/17
