@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
+2025/03/18
+
+0000<->1000
+
+- two theorems, within it there are assumptions that can gurantee there would be Warasian equlibrium
+
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
 0000<->1000
 
 2025/03/17
