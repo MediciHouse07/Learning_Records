@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
+0000<->1000 +5 mins
+
+2025/03/19
+
+- the existence of Walrasian equlibirum
+- production, it would require more assumption to technologies
+- utility function, continuous, increasing, concave
+- initial endowments are pareto efficient, there exist a price vector, p,w is a walrasian equilibrium of this exchange economomy
+- price ratio or price vector
+
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
 2025/03/18
 
 0000<->1000
