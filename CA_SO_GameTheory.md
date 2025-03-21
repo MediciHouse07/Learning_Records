@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E9) [Game Theory] Strategic Form Games: Best Response
 
+0800<->1300 End
+
+2025/03/19
+
+- best response
+- dominant
+- BR is a function of opponent's choice
+- BR can return a set of strategies
+- two different pure strategies that are in best response set, there will be infinitely many mix strategies in the best response set as well
+
+# (AGT1E9) [Game Theory] Strategic Form Games: Best Response
+
 2025/03/18
 
 0000<->1000
