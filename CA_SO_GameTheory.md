@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E10) [Game Theory] Strategic Form Games: Nash Equilibrium and Some Existence Theorems
+
+2025/03/20
+
+0000<->0700 + 3 mins
+
+- once other opponent's strategy is learned
+- no regret decision taken
+- NE it is no regret strategy
+- what does Supp(sigma star)
+
 # (AGT1E9) [Game Theory] Strategic Form Games: Best Response
 
 0800<->1300 End
