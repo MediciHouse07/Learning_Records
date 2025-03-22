@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
+2025/03/20
+
+0000<->1000
+
+- mild assumption
+- does every economy has Walrasian equlibrium
+
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
 0000<->1000 +5 mins
 
 2025/03/19
