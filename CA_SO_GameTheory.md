@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E10) [Game Theory] Strategic Form Games: Nash Equilibrium and Some Existence Theorems
 
+2025/03/21
+
+0300<->1300 End
+
+- IESDS
+- N,S{Ui}
+- why ui has a parenthesis around it
+- pure strategy and mixed strategy, additional cost of management?
+
+# (AGT1E10) [Game Theory] Strategic Form Games: Nash Equilibrium and Some Existence Theorems
+
 2025/03/20
 
 0000<->0700 + 3 mins
