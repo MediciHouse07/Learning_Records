@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
+0500<->1500
+
+2025/03/22
+
+- 147.4
+
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
 2025/03/21
 
 0300<->0800 + 5 mins 
