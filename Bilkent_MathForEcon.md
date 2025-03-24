@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+0700<->1100 4 mins
+2400<->3000 6 mins
+
+2025/03/22
+
+- IPs
+- in R, multiplication distributes
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 2025/03/21
 
 3000<->4000
