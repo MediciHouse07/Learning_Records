@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E11) [Game Theory] Solving Second Price Auction with Complete Information: An Equilibrium
+
+0000<->0800 End
+
+0200<->0400
+
+2025/03/22
+
+- best response is not related to win or lose
+- full description of strategy profiles
+
 # (AGT1E10) [Game Theory] Strategic Form Games: Nash Equilibrium and Some Existence Theorems
 
 2025/03/21
