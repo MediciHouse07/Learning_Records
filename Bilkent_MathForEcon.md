@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+2025/03/24
+
+2900<->3900
+
+- to turn non absolute into absolute would also require some additional proofs
+- by IP5
+- IP 1,2,3,4,5; N1,2,3,4
+- by CBS inequality
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 0700<->1100 4 mins
 2400<->3000 6 mins
 
