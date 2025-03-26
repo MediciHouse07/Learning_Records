@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
+2025/03/24
+
+0000<->1000
+
+- second price auction
+- 147.2
+- instead of drawing a function, I will draw a correspondence
+
 # (AGT1E11) [Game Theory] Solving Second Price Auction with Complete Information: An Equilibrium
 
 0000<->0800 End
