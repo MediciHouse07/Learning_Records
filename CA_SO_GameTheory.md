@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
+2025/03/25
+
+0000<->0300 0200<->0900
+
+- best response, take b2 as given, best response against b2
+- second price auction is DSIC
+- agent 2 can bid b2 in whatever prices, it can be different than their own evaluation
+
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
 2025/03/24
 
 0000<->1000
