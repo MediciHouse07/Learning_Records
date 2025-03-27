@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
+2025/03/25
+
+1800<->2800
+
+- when you can't find a price ratio that can clear the market, then there is no Walrasian equilibrium
+- no willingness to make any trade
+- how agent B is going to demand for good y
+- yet we are looking for positive
+- zero price can never be Walrasian equilibrium
+
+# (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
+
 2025/03/24
 
 1500<->2000 1500<->2000
