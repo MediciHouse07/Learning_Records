@@ -6,6 +6,26 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E2) [Microeconomics] Market Demand or Aggregate Demand
+
+2025/03/26
+
+0000<->0600 End
+
+# (M7E1) [Microeconomics] Perfectly Competitive Markets and Partial Equilibrium Analysis: Introduction
+
+2025/03/26
+
+0000<->0400 End
+
+- perfectly competitive market
+- partial vs complete
+- price of one good can influence supply / demand of another good
+- Alfred Marshall
+British economist (1842
+- intrisicly
+- implicitly
+
 # (M8E12) [Microeconomics] First and Second Fundamental Theorem of Welfare Economics.
 
 2025/03/25
