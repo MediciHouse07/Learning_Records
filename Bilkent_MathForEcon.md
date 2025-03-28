@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+2025/03/26
+
+3400<->4000
+
+3800<->4000
+
+3800<->4000
+
+3800<->4300
+
+- 147.6
+- usual inner product and property prove other two, then three in one shot
+- then generalize it
+- generalize length into norm
+- distance is a subset of norm
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 2025/03/25
 
 3900<->4400
