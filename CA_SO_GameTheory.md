@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
+2025/03/26
+
+0900<->1400
+
+- infinitely many NEs
+
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
 2025/03/25
 
 0000<->0300 0200<->0900
