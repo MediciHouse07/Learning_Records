@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 - TBRT
 - the solution is compact
+- compactness, TBRT together with the concept compactness, and the solution is compact, appreciate together
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
