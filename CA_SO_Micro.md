@@ -6,6 +6,26 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E3) [Microeconomics] Demand Elasticity
+
+2025/03/27
+
+0000<->0500
+
+0000<->0500
+
+- 147.5
+- are you implying/saying that xx shouldn't be informed, at the time that you said you shared the information
+- are you saying that should be informed, but you are not the right person to inform
+- elasticity
+- PQ, price and quantity
+- <-1 high elastic, sensitive to price changing
+- >-1 low elastic, not sensitive to price changing
+- partial derivative of quality with respect to price
+- partial derivative of demand curve with respect to price
+- and it is also dependent with the price and quantity level you pick
+- superior goods
+
 # (M7E2) [Microeconomics] Market Demand or Aggregate Demand
 
 2025/03/26
