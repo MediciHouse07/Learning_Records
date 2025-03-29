@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+3400<->4400
+
+2025/03/27
+
+- no any usual inner property is used
+- in terms of this function
+- generalizable
+- coincides
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 2025/03/26
 
 3400<->4000
