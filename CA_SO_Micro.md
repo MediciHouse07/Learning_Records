@@ -6,6 +6,24 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E4) [Microeconomics] Perfectly Competitive Markets
+
+2025/03/29
+
+0000<->0500
+
+- perfectly competitive model / market
+- firm max profit
+
+# (M7E3) [Microeconomics] Demand Elasticity
+
+2025/03/29
+
+0000<->0500 End
+
+- if the product is superior good for the majority consumer
+- negative related relationship between price and quantity
+
 # (M7E3) [Microeconomics] Demand Elasticity
 
 2025/03/27
