@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
+2025/03/29
+
+0000<->1000
+
+- price is on y axis
+- second price auction, payoff is independent of what you bid
+- drawing a correspondence
+- if you truthfully bid, you are guaranteed to be falled within the shaded zone regardless of what your opponent's choice
+
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
 2025/03/27
 
 1000<->2000 End
