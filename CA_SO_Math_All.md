@@ -1,3 +1,18 @@
+https://www.youtube.com/watch?v=5SVpSqCTXhA&list=PLcrc6i6xwaQTRmYuXK8gqJKxsV5GO2LtG&index=3
+
+# Chapter 0: [Real Analysis] Review 2: Bounded Sets, Open Neighbourhood.
+
+2025/03/29
+
+0000<->1000 End
+
+- metric and distance function
+- definition of bounded set
+- 149.2 148.7
+- existence of distance for any point in N
+- enlarged
+- unit circle
+
 # Propositional Logic Done
 
 https://www.youtube.com/watch?v=6Wkd5knjej4
