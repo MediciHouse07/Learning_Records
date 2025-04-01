@@ -1,5 +1,27 @@
 https://www.youtube.com/watch?v=5SVpSqCTXhA&list=PLcrc6i6xwaQTRmYuXK8gqJKxsV5GO2LtG&index=3
 
+# Chapter 0: [Real Analysis] Review 4: Closed and Compact sets
+
+2025/03/30
+
+0000<->1500 End
+
+- closed set, a set contrains all its accumulation points
+- natural number includes all of its accumulation point, set of natural is a closed set
+- not closed, but bounded
+- closed, but not bounded
+- compact set, closed and bounded
+- compact set gurantees optimization problem has a solution
+- 
+
+# Chapter 0: [Real Analysis] Review 3: Accumulation and Limit Points
+
+2025/03/30
+
+0000<->0500 End
+
+- 147.8
+
 # Chapter 0: [Real Analysis] Review 2: Bounded Sets, Open Neighbourhood.
 
 2025/03/29
