@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
+2025/03/30
+
+1000<->2000 End
+
+- TBRT
+- didn't hear compact
+
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
 2025/03/29
 
 0000<->1000
