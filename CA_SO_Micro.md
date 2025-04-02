@@ -6,6 +6,24 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E5) [Microeconomics] Short Term Market Supply
+
+0000<->0200
+
+2025/03/31
+
+- price, capital, labour
+
+# (M7E4) [Microeconomics] Perfectly Competitive Markets
+
+0000<->0800 End
+
+2025/03/31
+
+- stock market is close to perfect competitive market
+- costless transaction
+- five assumptions for perfect competition
+
 # (M7E4) [Microeconomics] Perfectly Competitive Markets
 
 2025/03/29
