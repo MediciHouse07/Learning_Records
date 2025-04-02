@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
+1000<->2000 End
+
+2025/03/31
+
+- does not improve payoff
+- still didn't see compact was mentioned
+- 1840 mins, compact is mentioned
+- full compact solution, because you find all NEs???
+
+# (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
+
 2025/03/30
 
 1000<->2000 End
