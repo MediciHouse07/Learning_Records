@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
+4400<->5400
+
+2025/03/31
+
+- 148.0
+- proof of property of distance
+- use norm properties to prove distance
+- scalar multiplication is property of vector space
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
 3400<->4400
 
 2025/03/27
