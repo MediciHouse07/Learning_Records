@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E5) [Microeconomics] Short Term Market Supply
 
+0000<->1000
+
+2025/04/01
+
+- r for rent, w for wage
+- derivative of cost function
+- sweet spot
+- ?every variable is a choice variable?
+
+# (M7E5) [Microeconomics] Short Term Market Supply
+
 0000<->0200
 
 2025/03/31
