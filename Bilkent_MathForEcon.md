@@ -1,5 +1,22 @@
 https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
+0000<->0500
+
+2025/04/01
+
+- inner product spaces
+- norm spaces
+
+# THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
+
+5000<->5500 End
+
+2025/04/01
+
+- 147.9
+
 # THE USUAL INNER PRODUCT, NORM AND DISTANCE in ℝn - Lec 03 - Mathematics for Economists I
 
 4400<->5400
