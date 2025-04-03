@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+# (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
+
+0000<->0500
+0000<->0500
+
+2025/04/01
+
+- -> d outside option? fail to negotiate in good spirit
+- NE given d is x or y
+- TBRT
+- mediator
+- low demand and perfect information would lead to no NE, which implies, more or less, unstable
+
 # (AGT1E12) [Game Theory] Solving Second Price Auction with Complete Information: All Equilibrium
 
 1000<->2000 End
