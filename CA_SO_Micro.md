@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E5) [Microeconomics] Short Term Market Supply
 
+2025/04/05
+
+0600<->1600 End
+
+- a process, from one place to another, such as from born to death
+- energy come and go as well
+
+# (M7E5) [Microeconomics] Short Term Market Supply
+
 0000<->1000
 
 2025/04/01
