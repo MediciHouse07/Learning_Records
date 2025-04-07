@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
 
+2025/04/05
+
+0600<->1000
+
+- outside option
+
+# (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
+
 0000<->0500
 0000<->0500
 
