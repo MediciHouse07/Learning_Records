@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
 
+2025/04/05
+
+0000<->1000
+
+- 150.0 149.7
+- redundant is not elegant
+- inner product space
+
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
 0000<->0500
 
 2025/04/01
