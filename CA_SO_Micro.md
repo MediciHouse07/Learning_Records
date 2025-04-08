@@ -6,6 +6,29 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E7) [Microeconomics] Long-Run Equilibrium in Competitive Markets and Zero Economic Profit
+
+2025/04/06
+
+0000<->0400
+
+- long run, no firm enter or leave the market
+- P=MC=AC
+- zero profit condition
+- machine
+- discounted, and leave probabilities
+- efficiency scale
+
+# (M7E6) [Microeconomics] Perfectly Competitive Equilibrium Price
+
+2025/04/06
+
+0000<->0600 End
+
+- equilibrium price, price level that equates supply and demand
+- at equilibrium price, no agent has incentive to change the behavior
+- excess demand and excess supply
+
 # (M7E5) [Microeconomics] Short Term Market Supply
 
 2025/04/05
