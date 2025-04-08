@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
 
+2025/04/06
+
+0000<->1000
+
+- complete information
+- known value of d
+- set of NE
+- no NE where alpha1 + alpha2 < 1
+- one third, one over three
+- alpha 1 and alpha 2 and outside option d
+
+# (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
+
 2025/04/05
 
 0600<->1000
