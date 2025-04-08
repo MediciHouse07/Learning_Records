@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
 
+2025/04/06
+
+0000<->1000
+
+- definition for vector space
+- argue that there could be another statement, but the another statement is redundant
+- control and feedback
+
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
 2025/04/05
 
 0000<->1000
