@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E7) [Microeconomics] Long-Run Equilibrium in Competitive Markets and Zero Economic Profit
 
+2025/04/07
+
+0000<->1000 End
+
+- zero economic profit
+- economic profit and accounting profit are different thing
+- Implications for Business Decision-Making: Economic profit can influence strategic decisions, as it indicates whether the firm is using its resources efficiently and whether it should continue operations or explore alternative opportunities.
+- whether the firm is using its resources efficiently, it is all about mathematics
+
+# (M7E7) [Microeconomics] Long-Run Equilibrium in Competitive Markets and Zero Economic Profit
+
 2025/04/06
 
 0000<->0400
