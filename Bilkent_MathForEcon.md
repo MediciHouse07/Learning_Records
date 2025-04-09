@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
 
+2025/04/07
+
+1000<->2000
+
+- is called norm if the following condition are satisfied
+- 147.5
+- inner product space induce norm space
+- norm space is actually more general than inner product space
+
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
 2025/04/06
 
 0000<->1000
