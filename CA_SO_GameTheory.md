@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 # (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
 
+2025/04/07
+
+0500<->1500
+
+- think outside option as a threaten
+- bolder
+- BR is a function of opponent's action
+
+# (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
+
 2025/04/06
 
 0000<->1000
