@@ -1,6 +1,26 @@
 https://www.youtube.com/watch?v=jeEeRu8JbH8
 
-Management cybernetics
+# Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
+
+2025/04/07
+
+2000<->3000
+
+- common cost variation
+- special cost variation
+- intervention
+- regression to the mean
+- unit, overtime, return on investment
+- level of quality
+- variation
+- machine, two feedback
+- first feedback loop and second feedback loop
+- small correction and big changes
+- 3 std away from mean
+- two nested feedback loop
+- control chart
+- upper lower control limit
+- statistics and psychology
 
 # Lecture 1
 
