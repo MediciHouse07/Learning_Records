@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
 
+2025/04/08
+
+3000<->4000
+
+- for areas can't be quantitively measured
+- alternative to control chart
+- list features of an organization
+- 0-9
+- south east quardron
+- take mean, get reduced set of the items to focus on
+- IP ratio
+- 3800 mins, something about process improvement
+- quality improvement matrix gives you an agenda on priorities
+- passive vs active
+- cost and return
+
+# Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
+
 2025/04/07
 
 2000<->3000
