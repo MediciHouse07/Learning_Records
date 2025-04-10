@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 2025/04/07
 
+2000<->3000
+
+- traditional force follows rules under vector space
+- parallelgram identity
+- piled up good plan vs CPU at each phase
+- how it would behave in a new norm definition
+
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
+2025/04/07
+
 1000<->2000
 
 - is called norm if the following condition are satisfied
