@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E8) [Microeconomics] Long-Run Supply Curves
+
+2025/04/07
+
+0000<->0600
+0200<->0600
+
+- cost function, in the long run
+- identical firms
+
 # (M7E7) [Microeconomics] Long-Run Equilibrium in Competitive Markets and Zero Economic Profit
 
 2025/04/07
