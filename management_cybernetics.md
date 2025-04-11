@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
 
+2025/04/10
+
+4000<->4500
+
+- mode two knowledge
+
+# Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
+
 2025/04/08
 
 3000<->4000
