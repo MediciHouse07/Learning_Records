@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E8) [Microeconomics] Long-Run Supply Curves
 
+2025/04/10
+
+0500<->1000
+
+- input price
+- crowd out
+- before the entry and after the entry
+
+# (M7E8) [Microeconomics] Long-Run Supply Curves
+
 2025/04/07
 
 0000<->0600
