@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
 
+2025/04/10
+
+2500<->3900 End
+
+- 147.7
+- check if any inner product would induce the norm max absolute value
+- use parallagram identity to recognize
+- not induced by inner product property
+- brink of metric space
+
+# INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
+
 2025/04/07
 
 2000<->3000
