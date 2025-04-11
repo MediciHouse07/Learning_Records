@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&index=3
 
+https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t
+
+# (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
+
+2025/04/10
+
+0000<->0500
+
+- players, order of moves, payoffs, actions/strategy, prob distribution over expected events
+- game tree, subgame
+
 # (AGT1E13) [Game Theory] Solving Nash Demand Game with Outside Option: All Equilibrium
 
 2025/04/08
