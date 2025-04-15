@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
+2025/04/13
+
+0000<->1700
+
+- m is a metric on A
+- 148.0
+- usual norm in R^1, that is how m1 is defined
+
 # INNER PRODUCT SPACES and NORMED SPACES - Lec 04 - Mathematics for Economists I
 
 2025/04/10
