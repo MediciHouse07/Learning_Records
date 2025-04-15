@@ -2,6 +2,29 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
 
+2025/04/13
+
+4500<->5500
+
+- materials are always available
+- change forms are important and ideally it requires a forever and nonstop change
+- that is what it said, cybernetics and information are more important than substantial materials
+- even though materials are enabler, without it, nothing will be produced, but materials are static and easy to retrieve in a world without competition, and in a world with competition, the ability to get material also requires cybernetics
+- in a world without competition of course it doesn't require change, only require labour, but that would reduce the problem to the upper one, and as stated, there is no problem for anyone in a world like that
+- 5500 organizational chart
+- organization chart
+- what it doesn't show
+- sequeezing the delays
+- reason that support email
+- invented in JP
+- large inventory to scrap
+- low cost supplier
+- closest supplier
+- cultural shift
+- 10659, interesting opp allocation
+
+# Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
+
 2025/04/10
 
 4000<->4500
