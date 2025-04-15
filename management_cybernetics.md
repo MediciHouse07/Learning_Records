@@ -1,5 +1,34 @@
 https://www.youtube.com/watch?v=jeEeRu8JbH8
 
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
+2025/04/13
+
+0000<->1900
+
+- human nervous system
+- machinery
+- 5 levels
+
+## Notes
+https://docs.google.com/document/d/1sFPcpwDUpkF4wo9txlwlEsxIrsML-hXAyWJZJFnEfJU/edit?tab=t.lmznl5qm5t1r
+
+- 1,2,3 inner feedback loop, 4 outside feedback loop
+- 5 not too fast, but fast enough
+- viable system model
+- law of requisite variety, variety needs to be controlled controlled
+- variety application
+- applification
+- not overwhelmed, and get information you need
+- transducers
+- minimize beurachy
+- resource bargain, money, time, product
+- periodic audit
+- VSM, diagnostic tool
+- 1972
+- 1600 mins, books that contain books cited
+- requisite variety of a, b, c
+
 # Tutorial on Management Cybernetics (Part 1/4) by Prof. Stuart Umpleby
 
 2025/04/13
