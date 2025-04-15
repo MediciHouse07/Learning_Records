@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E8) [Microeconomics] Long-Run Supply Curves
 
+2025/04/13
+
+0000<->0300
+
+- what happen for the individual firm
+- what happen in the market
+
+# (M7E8) [Microeconomics] Long-Run Supply Curves
+
 2025/04/10
 
 0500<->1000
