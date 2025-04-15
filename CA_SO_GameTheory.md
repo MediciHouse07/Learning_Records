@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
 
+2025/04/13
+
+0200<->0700
+
+- reputation, trust, signaling
+- repetition
+- null history
+
+# (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
+
 2025/04/10
 
 0000<->0500
