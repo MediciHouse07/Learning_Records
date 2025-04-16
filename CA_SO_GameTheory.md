@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
 
+2025/04/14
+
+0500<->1500
+
+## note
+
+https://docs.google.com/document/d/1sFPcpwDUpkF4wo9txlwlEsxIrsML-hXAyWJZJFnEfJU/edit?tab=t.4owqa7sigf7k
+
+- each sequence is decision unfolded
+- terminal history
+- A(h)
+- perfect information game
+
+# (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
+
 2025/04/13
 
 0200<->0700
