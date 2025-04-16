@@ -2,6 +2,23 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/14
+
+1900<->3000
+
+- 70-73
+- enigma
+- group study, group get pushed out system
+- business people and who were elected
+- turn building or traffic into intelligence or something with abstract meaning, a way to get deeper appreciation
+- e.g., elected and business people get away, a path to departure
+- allocate managerial capabilities
+- a very large adversiries
+- press generate false information
+- predict on what can't be controlled
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/13
 
 0000<->1900
