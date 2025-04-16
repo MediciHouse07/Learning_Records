@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E8) [Microeconomics] Long-Run Supply Curves
 
+2025/04/14
+
+0300<->1300
+
+- anti oscillation
+- back and forth
+- a different cost function
+- how LS is derived
+
+# (M7E8) [Microeconomics] Long-Run Supply Curves
+
 2025/04/13
 
 0000<->0300
