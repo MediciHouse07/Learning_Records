@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
+2025/04/14
+
+1700<->2700
+
+## note
+https://docs.google.com/document/d/1sFPcpwDUpkF4wo9txlwlEsxIrsML-hXAyWJZJFnEfJU/edit?tab=t.lmznl5qm5t1r
+
+- primitive tribe, one two three and a lot
+- many things defined metric follows the definition of metric space
+- singleton, set that only has one element
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
 2025/04/13
 
 0000<->1700
