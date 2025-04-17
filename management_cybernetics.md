@@ -2,6 +2,28 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+3000<->4500
+
+2025/04/15
+
+- digital as opposed to dial
+- operation research book writer majored in philosophy and architecture
+- take apart, understand parts, assemble parts to understand the whole
+- more skilled and educated
+- produce agreement on the goals
+- mission and vision
+- expansionism
+- associate group
+- understand 4000 mins xx by reading their language
+- nation economy society
+- associated group analysis
+- Associative group analysis (AGA)
+- US needs example
+- EU needs a theory
+- how and why, low and high, example and theory
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/14
 
 1900<->3000
