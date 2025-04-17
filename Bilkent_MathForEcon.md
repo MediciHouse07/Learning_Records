@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
+2500<->3000 2500<->3000
+
+2025/04/15
+
+- underlying structure is not structured at all
+- minimum range in R
+- one positive number
+- TBRT
+- qualitative approach, primitive tribe
+- 147.1
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
 2025/04/14
 
 1700<->2700
