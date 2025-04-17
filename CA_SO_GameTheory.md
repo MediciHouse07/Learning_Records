@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
 
+0800<->1300
+
+2025/04/15
+
+- sequence and history
+- terminal history
+
+# (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
+
 2025/04/14
 
 0500<->1500
