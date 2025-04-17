@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E8) [Microeconomics] Long-Run Supply Curves
 
+0500<->1500 End
+
+2025/04/15
+
+- when cost is not changed, LS supply curve will be a straight line
+- when cost is not changed
+- increasing cost would can cause increasing slope supply curve
+- bring knowhow
+- downward sloping supply curve is also possible
+
+# (M7E8) [Microeconomics] Long-Run Supply Curves
+
 2025/04/14
 
 0300<->1300
