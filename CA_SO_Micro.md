@@ -6,6 +6,22 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
+
+2025/04/17
+
+0000<->1000
+
+- consumer surplus
+- area between demand and price line
+- producer surplus
+- total surplus
+- how can we make sure of this
+- quantity the seller want to produce
+- but producing bunch of items but can't get sold
+- dead weight loss, DWL
+- AI might lead a country to run as what a country led by gamer, with absolute power on macroing many things, and win and incorporate other states, that is the minimum roof that is under human's imagination even, so, fears are still dinasours kind of things, but the level that how rightful it can be used is determined by its lateracy, and its lateracy is so low at the moment, so, some problem like what it predicts might happen, but it is kind of like self encorced prediction
+
 # (M7E8) [Microeconomics] Long-Run Supply Curves
 
 0500<->1500 End
