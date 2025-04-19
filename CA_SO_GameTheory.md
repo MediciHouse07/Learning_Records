@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
 
+2025/04/17
+
+0700<->1700 End
+
+- null history
+- set of actions available after h
+- example of what in H
+
+# (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
+
 0800<->1300
 
 2025/04/15
