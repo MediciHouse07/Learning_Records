@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
+2025/04/19
+
+2500<->3000 2500<->2700 2630<->
+
+- covenant
+- minimum range in R
+- minimum range in R
+- range at least contain one positive number
+- range, 0 and 1
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
 2500<->3000 2500<->3000
 
 2025/04/15
