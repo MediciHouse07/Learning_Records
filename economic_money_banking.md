@@ -1,3 +1,18 @@
+# Lecture 5 7/10 Module 3 Clearinghouse, Normal Operations
+
+2025/04/18
+
+0000<->0800 End
+
+- all NY are members of NYCA
+- discipline system, established by requesting gold as deposit
+- due from, due to
+- net to B, net to C, net to D
+- net due from A, net due to B
+- JP morgan run clearing house
+- inter bank settlements
+- banished member
+- 147.9
 
 # Lecture 5 7/10 Module 3 Clearinghouse, Normal Operations
 
