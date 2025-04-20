@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/18
+
+4500<->4900
+
+- invention, idea
+- innovation put it into the product
+- means planning, resource planning, etc.,
+- formulating the mess
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 3000<->4500
 
 2025/04/15
