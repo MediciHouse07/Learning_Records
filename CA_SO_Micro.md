@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
 
+2025/04/18
+
+1000<->1600
+
+- any other price is causing inefficiency
+- olive oil
+- domestic price and international price
+- become an importing country
+
+# (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
+
 2025/04/17
 
 0000<->1000
