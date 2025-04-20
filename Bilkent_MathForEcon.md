@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
+2025/04/18
+
+2700<->3300 3000<->3400
+
+- the range of the metric has to contain at least 0
+- cybernetics for one person
+- cybernetics for a group, story, creature based system
+- how story change a position of a bottle from one place to another
+- which generalizes which
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
 2025/04/19
 
 2500<->3000 2500<->2700 2630<->
