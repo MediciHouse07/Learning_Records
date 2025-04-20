@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t
 
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
+2025/04/18
+
+0000<->0200
+
+- TBRT
+- what does c mean Ph=c, Ph=i
+
 # (AGT2E1) [Game Theory] Extensive Form Games: Definitions - Part 1
 
 2025/04/17
