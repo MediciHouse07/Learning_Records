@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/04/19
+
+0000<->0230 0000<->0230
+
+- N stand for nature
+- the setup of game, given to us
+- TBRT
+- how to describe simultaneity in tree based diagram---
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/18
 
 0000<->0200
