@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
 
+2025/04/19
+
+0900<->1900 End
+
+- supply for olive oil
+- demand for olive oil
+- export country would set a higher price
+
+# (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
+
 2025/04/18
 
 1000<->1600
