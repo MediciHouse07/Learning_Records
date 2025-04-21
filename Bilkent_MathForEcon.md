@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
+2025/04/19
+
+3400<->4400
+
+- real space, are there always norm on V that have xx
+- is vector space
+- maybe yes
+- metric on V, induced by property of norm
+- suppose there is a norm in R2, that induce the naitve metric
+- so, there could be metric that can'e be induced by some norm in vector space
+- discrete metric, same 0 otherwise 1
+- when making the proof, it doesn't use any specific definition of norm, it is simply properties of norm has to abide
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
 2025/04/18
 
 2700<->3300 3000<->3400
