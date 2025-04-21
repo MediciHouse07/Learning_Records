@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/19
+
+4900<->5400
+
+- persuastive them to change
+- formulate the mess
+- what is the cliff if continuing doing
+- reference projection
+- future contain the present, and don't change anything
+- and gives them motivation to change
+- reference projection, reference scenario
+- press show them the future, reference scenario
+- angry still there, but they need to cooperate, and start to work on something, and that something is where consultant to be invovled
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/18
 
 4500<->4900
