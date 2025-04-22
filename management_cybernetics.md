@@ -1,5 +1,37 @@
 https://www.youtube.com/watch?v=jeEeRu8JbH8
 
+https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
+2025/04/20
+
+5400<->10400
+
+- high tech innovator, mass production low cost producer
+- high end products
+- resource planning
+- if you want planning, you need office form kind of buildings
+- shorter and shorter product life cycle
+- introduction, rapid growth, slow growth, in the end out of business
+- only the paranoid survive
+- debtor give you money you give them interest
+- stakeholder model of a firm
+- debtor
+- employee
+- investor
+- government
+- supplier
+- consumers
+- boycott
+- include stakeholders in planning
+- minimize employement
+- best people but salary lower than average
+- cutting corners
+- examples of discrepancies
+- discrepancies would hurt the trust
+- you don't need to adapt to environment, you let other corporations adapt you
+
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
 2025/04/19
