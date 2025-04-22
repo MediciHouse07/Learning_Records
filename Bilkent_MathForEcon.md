@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 2025/04/19
 
+3700<->4700 End
+
+- metric can be defined independently
+- metric can be induced by some norms
+- set that contains all of neighbors is called as openness
+- independent will that have requirements met
+- if without independent will than no requirement to be met
+
+# METRIC SPACES - Lec 05 - Mathematics for Economists I
+
+2025/04/19
+
 3400<->4400
 
 - real space, are there always norm on V that have xx
