@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E10) [Microeconomics] Partial Equilibrium Analysis at Play: A Numerical Example 1
+
+2025/04/20
+
+0000<->0500
+
+- AVC, average variable cost
+- average cost, average total cost
+- MC, AVC not the same
+- outsider, insider
+
 # (M7E9) [Microeconomics] Welfare Analysis: Consumer and Producer Surpluses and Deadweight Loss
 
 2025/04/19
