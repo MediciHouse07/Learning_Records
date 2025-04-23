@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E10) [Microeconomics] Partial Equilibrium Analysis at Play: A Numerical Example 1
 
+2025/04/21
+
+0500<->1500 End
+
+- where M is
+- 147.9
+- break even quantity level
+- how to calculate number of firms
+
+# (M7E10) [Microeconomics] Partial Equilibrium Analysis at Play: A Numerical Example 1
+
 2025/04/20
 
 0000<->0500
