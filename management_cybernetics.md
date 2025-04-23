@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/21
+
+10400<->10900
+
+- everyone is a computer, and everyone including actual computers are processing something
+- if you are processing something doesn't need to be processed, of course there is no means to reward you
+- deduction and induction, philosophy of science
+- individualist, collectivelist
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/20
 
 5400<->10400
