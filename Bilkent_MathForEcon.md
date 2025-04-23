@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
+2025/04/21
+
+0000<->1000
+
+- basic property shared by all knives
+- eucledian space is to model the 3d world we are living
+- though it was not exactly as that
+- TBRT
+
 # METRIC SPACES - Lec 05 - Mathematics for Economists I
 
 2025/04/19
