@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/04/21
+
+0100<->0600
+
+- P is a function, so it can only map it into a unique player for each input
+- for simoutanesouly moving players, it will be denoted in another way, it can be, though you need to be careful
+- maybe player, maybe nature
+- c stands for chance or nature
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/20
 
 0000<->0500
