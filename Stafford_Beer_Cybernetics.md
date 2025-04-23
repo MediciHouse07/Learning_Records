@@ -1,3 +1,17 @@
+
+https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
+2025/04/21
+
+0700<->2100
+
+- recursion
+- time table is system two
+- time table deals with problem of clashing
+- system deals with problem of clashing
+
 https://www.youtube.com/watch?v=JJ6orMfmorg
 
 # What is Cybernetics? Conference by Stafford Beer
