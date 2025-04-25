@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/04/23
+
+0200<->0700
+
+- not all simultaneous game can be described by tree and dash based notations
+- player making a move, nature making a move such as learning something, exaugenous
+- chance nature interchangeably
+- ingredients
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/21
 
 0100<->0600
