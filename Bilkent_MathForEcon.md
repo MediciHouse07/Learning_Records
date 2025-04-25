@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2025/04/23
+
+0200<->1200
+
+- analyze the calsality relation, what implies what
+- theretic model
+- distance has origin in reality
+- space is not eucleadian space, relativity says that
+- some metrics are useful in general equlirbrium
+- continuity
+- TBRT start from 0300
+- topology closeness measure
+- further step in that regard
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/04/21
 
 0000<->1000
