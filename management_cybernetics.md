@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/23
+
+10800<->11300
+
+- 11100 the words so far are quiet interesting choice, it is a fact, but it applies to every subjects in the world, just like your live, it is running well, probably, so far
+- product administer
+- trained to be xxx
+- network key elements before getting too old
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/21
 
 10400<->10900
