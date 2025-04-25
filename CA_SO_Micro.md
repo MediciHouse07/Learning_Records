@@ -6,6 +6,19 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E11) [Microeconomics] Partial Equilibrium Analysis: A Numerical Example 2 (Elasticity and Tax)
+
+2025/04/23
+
+0000<->0500 End
+
+- market A tax
+- market B tax
+- relative elasticity
+- for simplification
+- the two wheels vehicle also gaves similar feeling as 4 wheels, maybe smaller scale, but the idea similar
+- TBRT
+
 # (M7E10) [Microeconomics] Partial Equilibrium Analysis at Play: A Numerical Example 1
 
 2025/04/21
