@@ -1,5 +1,14 @@
-
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
+2025/04/23
+
+2100<->2600
+
+- you can incorporate other latin languages in the practices as well, as that is a way to appreciate the language, the target language further
+- privatized railway
+- precedent
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
