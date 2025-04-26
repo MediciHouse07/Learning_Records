@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+2025/04/24
+
+2600<->3100
+
+- 2850 mins introduction on the diagram
+- allegiance
+- amoeba for environment
+- circle for process
+- square for management
+- triangle for antioxidant behavior
+- system two is to deal with oscillatory behavior
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 2025/04/23
 
 2100<->2600
