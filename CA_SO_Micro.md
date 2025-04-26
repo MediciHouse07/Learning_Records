@@ -6,6 +6,25 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
+0000<->0900 0600<->1000
+
+- using linear is for simplification, because it doesn't require integral
+- tax vs subsidy case
+- net tax
+
+# (M7E11) [Microeconomics] Partial Equilibrium Analysis: A Numerical Example 2 (Elasticity and Tax)
+
+0000<->0500 End
+
+2025/04/24
+
+- t stand for tax amount
+- qce, competitive equilibrium
+- price variation vs quantity variation
+- TBRT
+
 # (M7E11) [Microeconomics] Partial Equilibrium Analysis: A Numerical Example 2 (Elasticity and Tax)
 
 2025/04/23
