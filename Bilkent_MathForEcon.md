@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+0400<->1400
+
+2025/04/24
+
+- some of the structure are useful in analyzing economic problems
+- glm or preidiction is about generalization, inference is about estimation
+- prediction and inference
+- if not ub, means can't find a x such that y-epsilon condition can be met, it means there must be another upper bound
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/04/23
 
 0200<->1200
