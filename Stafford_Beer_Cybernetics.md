@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+2025/04/25
+
+2830<->3330
+
+- as planning good, as implementation good, as expectation good, as tradeoff are examined clearly, there is less possibility to have stress
+- articulate compass, decide the direction, row the ship
+- the first one has less to do with the ship movement, but it has the most profound impact to everything on this ship
+- system 3, operational research as tool
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 2025/04/24
 
 2600<->3100
