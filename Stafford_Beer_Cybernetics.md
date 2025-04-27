@@ -4,6 +4,19 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 2025/04/25
 
+3330<->4000
+
+- senior management compare to local management
+- autonomic
+- and take control occasionally
+- analogy to management
+- intervene incorrectly leads to some problems in management
+- relationship are firmly in place
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
+2025/04/25
+
 2830<->3330
 
 - as planning good, as implementation good, as expectation good, as tradeoff are examined clearly, there is less possibility to have stress
