@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/04/25
+
+0400<->0900
+
+- TBRT
+- don is the root cut but success example
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/23
 
 0200<->0700
