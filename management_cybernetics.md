@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/25
+
+11300<->11800
+
+- church, world bank, ide
+- 1984
+- phone call everyone kind of approach instead, not cold call, but to category them and classify and conduct it harder
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/23
 
 10800<->11300
