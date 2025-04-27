@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2025/04/25
+
+1000<->2000
+
+- bio computer, bio information
+- start from the first concept in the lecture
+- u.b. and l.b. are defined, then definition, then compliment condition
+- use the intersection
+- they must lie in this portion
+- 148.6 147.6
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 0400<->1400
 
 2025/04/24
