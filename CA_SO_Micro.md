@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+2025/04/25
+
+0100<->0600
+
+- consumer surplus
+- producer surplus
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 0000<->0900 0600<->1000
 
 - using linear is for simplification, because it doesn't require integral
