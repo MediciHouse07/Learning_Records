@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&index=5
 
+# 10. Welfare Economics
+
+2025/04/26
+
+0100<->0600
+
+- competition maximize welfare
+- simple definition of SW, social welfare = CS + PS
+- government mandate price ceiling
+- p2 applies to supplier, is just like tax to supplier, is just like mandate price ceiling
+- supply get reduced, so the quantity would intercet with the demand curve, but the intersection doesn't mean price
+
 # Lecture 9
 
 1500<->3000
