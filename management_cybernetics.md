@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/26
+
+11800<->12300
+
+- AID
+- international facilitation
+- workshop method 12300
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/25
 
 11300<->11800
