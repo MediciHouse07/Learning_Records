@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+2025/04/26
+
+0600<->1100
+
+- pb-ps tax
+- ps-pb subsidy
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 2025/04/25
 
 0100<->0600
