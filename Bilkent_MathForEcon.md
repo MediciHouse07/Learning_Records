@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2025/04/26
+
+1500<->2500
+
+- y is arbitrarily close to the set
+- some X
+- a general definition for neibhoold
+- epsilon ball about y, with respect to epsilon
+- bio computer has some social attributes than silicon computer
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/04/25
 
 1000<->2000
