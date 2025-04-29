@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+2025/04/27
+
+12300<->12800
+
+- vision obstacles strategy action
+- can lead to a consulting practice
+- innovative community
+- appreciate the word workshop
+- John W
+- interpretation and conceptualization
+- as opposed to quantification and deduction
+- 12700 mins
+- defence acquisition system
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/26
 
 11800<->12300
