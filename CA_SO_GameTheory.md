@@ -4,6 +4,20 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/04/27
+
+0500<->1000
+
+- chance's probability distribution
+- Bc( dot |h) is probability distribution over A(h)
+- partition is subset of a set, non element in the partition can have intersection
+- pieces should be mutually exclusive
+- an information partition curly I
+- information set can only belong to one person
+- what is information set??? TBRT
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/25
 
 0400<->0900
