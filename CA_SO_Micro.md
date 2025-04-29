@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+2025/04/27
+
+0600<->1100
+
+- tax leads to price differs from buyers and sellers
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 2025/04/26
 
 0600<->1100
