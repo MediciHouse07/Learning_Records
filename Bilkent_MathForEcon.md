@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2025/04/27
+
+2000<->3000
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/04/26
 
 1500<->2500
