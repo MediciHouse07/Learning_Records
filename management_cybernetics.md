@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+12800<->13300
+
+2025/04/28
+
+- 12800 mins, war game mentioned
+- defense acquisition system
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 2025/04/27
 
 12300<->12800
