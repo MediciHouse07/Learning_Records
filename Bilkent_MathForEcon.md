@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2500<->3500
+
+2025/04/28
+
+- rule concerning picture in mathematics
+- every x in A, there is epsilon such that epsilon ball is in A, A is open
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/04/27
 
 2000<->3000
