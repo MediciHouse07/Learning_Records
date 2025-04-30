@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+0800<->1300
+
+2025/04/28
+
+- my behavior given my price
+- after tax, price has increased
+- 3 dollar tax burden is distributed between buyer and seller
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 2025/04/27
 
 0600<->1100
