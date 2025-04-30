@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+0500<->1000
+
+2025/04/28
+
+- Hi, i stands for player, Ai, set of actions for player i
+- not exact player i, as i can sometimes stand for chance
+- information partition, set of subsets of a set
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 2025/04/27
 
 0500<->1000
