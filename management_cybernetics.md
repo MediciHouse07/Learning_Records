@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+13300<->13800
+
+2025/05/01
+
+- computer based education, computer based communication
+- price, people don't use it
+- 1970
+- expensive in terms of understand it
+- that's was also the reason that people use NPV
+- interactive planning
+- diversified xxx
+- plan and planning implementation
+- outside people can also implement the solution
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 12800<->13300
 
 2025/04/28
