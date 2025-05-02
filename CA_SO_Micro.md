@@ -8,6 +8,18 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+0900<->1400
+
+2025/05/01
+
+- perfectly competitive market
+- my behavior given my price
+- tax burden for consumer
+- tax burden for producer
+- elasticity determines who bear more of tax burden
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 0800<->1300
 
 2025/04/28
