@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2700<->3700
+
+2025/05/01
+
+- right ruler that can lead the expectation meet reality
+- the only point in xxx will satisfy this
+- Soror homi est
+- in mathematics there are empty set and the entire space
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2500<->3500
 
 2025/04/28
