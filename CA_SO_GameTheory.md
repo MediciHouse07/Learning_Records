@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+0800<->1100 0900<->1100
+
+2025/05/01
+
+- is not a complicated notion
+- dashed tree map, the same info set, they can't observe it, non-dashed tree map, however is not
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 0500<->1000
 
 2025/04/28
