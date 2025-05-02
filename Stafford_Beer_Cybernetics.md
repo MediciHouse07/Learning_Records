@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+5000<->5500
+
+2025/05/01
+
+- inside and now
+- outside and then
+- separate system that keep individual alives
+- VSM never meant to be a hierarchy
+- VSM non est hierarchy LT
+- VSM ar hierarchy inte SW
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 4500<->5000
 
 2025/04/28
