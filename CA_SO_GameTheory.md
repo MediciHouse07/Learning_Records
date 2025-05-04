@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+0800<->1300
+
+2025/05/02
+
+- the same information set
+- choose different actions given two different decision nodes
+- all action at the same information set must be the same, and player must be the same player
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 0800<->1100 0900<->1100
 
 2025/05/01
