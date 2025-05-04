@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+3000<->3500 3000<->3500
+
+2025/05/02
+
+- acknowledge people can learn thing by heart is a skill
+- neighborhood may behave very differently according to the metric of the neighborhood
+- want to check a piece of reasoning where I lost track
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2700<->3700
 
 2025/05/01
