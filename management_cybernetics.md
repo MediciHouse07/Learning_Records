@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
+13700<->14200 End
+
+2025/05/02
+
+- leadership and repeating the vision
+- repeating the vision, repeating what it contributes to a community is what a leader should do
+
+# Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
+
 13300<->13800
 
 2025/05/01
