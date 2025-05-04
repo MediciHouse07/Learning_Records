@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+1100<->1600
+
+2025/05/02
+
+- whoever is more inelastic pays more to tax effect
+- analytical way of understanding who suffers the bigger proportion
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 0900<->1400
 
 2025/05/01
