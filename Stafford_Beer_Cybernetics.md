@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+5500<->6000
+
+2025/05/02
+
+- marketing in 3
+- market research in 4
+- R&D in 4, the major thing
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 5000<->5500
 
 2025/05/01
