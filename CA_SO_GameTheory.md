@@ -4,6 +4,21 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+1000<->1500
+
+2025/05/03
+
+- information set can't be belonged to more than one person
+- available actions under the same information set can't be different
+- player two would infer
+- I thought you refer to another thing
+- information partition
+- information set belongs to information partition
+- perception is not about level of richness, it is also not about self-deceiveness, perception is a process to gain more, and in the meantime approach the best available outcomes given current resources
+- mega construction and civilian, cybernetics in the pre semi cybernetic world
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 0800<->1300
 
 2025/05/02
