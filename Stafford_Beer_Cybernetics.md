@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+10000<->10500
+
+2025/05/03
+
+- skirmish
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 5500<->6000
 
 2025/05/02
