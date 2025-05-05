@@ -8,6 +8,16 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
+1500<->2000 End
+
+2025/05/03
+
+- tax imposed on inelasticity goods
+- consumer suffers more
+- garbaged, trashed, nobody cosumed part
+
+# (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
+
 1100<->1600
 
 2025/05/02
