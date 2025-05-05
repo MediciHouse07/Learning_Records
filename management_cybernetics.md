@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=jeEeRu8JbH8
 
 https://www.youtube.com/watch?v=GqFoQr9H4SE&t=3290s
 
+https://www.youtube.com/watch?v=-wZcQ7Gd9W8
+
+# Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
+
+0000<->0500
+
+2025/05/03
+
+- newsworthy
+- strategic research is driven by atomic bomb
+
 # Tutorial on Management Cybernetics (Part 2/4) by Prof. Stuart Umpleby
 
 13700<->14200 End
