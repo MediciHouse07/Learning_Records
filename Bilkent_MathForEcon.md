@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+3500<->4500
+
+2025/05/03
+
+- resusability is a skill learnt however that was also the reason that those senior people want to understand where you knew a information
+in that sense it was also a obstacle embedded either when they know more or when they know reusability
+- picturicatly
+- prove all neighborhoods are open sets
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 3000<->3500 3000<->3500
 
 2025/05/02
