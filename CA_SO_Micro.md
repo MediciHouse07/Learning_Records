@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
+
+0000<->0500
+
+2025/05/04
+
+- welfare analysis in labor market
+- look at demand curve, xx number of people would like to work, however yy number of demand there is, thus there would only be yy number of people get hired
+
 # (M7E12) [Microeconomics] Welfare Analysis Under Consumption Tax
 
 1500<->2000 End
