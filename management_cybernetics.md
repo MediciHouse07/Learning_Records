@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=-wZcQ7Gd9W8
 
 # Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
 
+0500<->1000
+
+2025/05/04
+
+- petroleum peak
+- next election, profit in the next quarter
+- magnetic core memory
+
+# Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
+
 0000<->0500
 
 2025/05/03
