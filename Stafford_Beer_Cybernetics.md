@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+10500<->11000
+
+2025/05/04
+
+- have some expenses stay in balance sheet instead of PL, those manipulations like, special charges from acquisations, take less depreciations, take higher salvage value
+- have some expenses being netted off, or offset into the asset part
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 10000<->10500
 
 2025/05/03
