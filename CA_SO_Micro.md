@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
 
+0300<->0800
+
+2025/05/05
+
+- set a minimum wage would lead to unemployment
+- consumer surplus and producer surplus in labor market
+
+# (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
+
 0000<->0500
 
 2025/05/04
