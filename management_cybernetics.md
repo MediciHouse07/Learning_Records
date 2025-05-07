@@ -6,6 +6,18 @@ https://www.youtube.com/watch?v=-wZcQ7Gd9W8
 
 # Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
 
+1000<->1500
+
+2025/05/05
+
+- positive feedback loop
+- negative feedback loop
+- industrial dynamics
+- Terence Tao, AI paper writing movement
+- 1428 mins, great book but nobody paid attentions
+
+# Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
+
 0500<->1000
 
 2025/05/04
