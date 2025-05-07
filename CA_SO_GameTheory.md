@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+0200<->0700
+
+2025/05/05
+
+- chance and nature are used interchangeably
+- maybe things would make sense after you watch an example
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 1200<->1700 End
 
 2025/05/04
