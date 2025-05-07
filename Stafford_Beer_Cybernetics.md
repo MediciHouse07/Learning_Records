@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
+10800<->11300 End
+
+2025/05/05
+
+- buggy whips
+- to L lead low, group analytics
+
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
 10500<->11000
 
 2025/05/04
