@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+4500<->5500
+
+2025/05/05
+
+- discrete metric, unit of 1
+- every set under discrete metric is open
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 4000<->5000
 
 2025/05/04
