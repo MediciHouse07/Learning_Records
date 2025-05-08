@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+5000<->5100 5000<->5100 5000<->5800
+
+2025/05/05
+
+- take elements in the compliment, and take the radius equals to the element - a or b
+- compliment of open set is closed set
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 4500<->5500
 
 2025/05/05
