@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=AfQxyVuLeCs
 
 # Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
 
+1700<->2200
+
+2025/05/06
+
+- simplification
+- point mass dis zation
+- TBRT
+- resistance value
+
+# Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
+
 0000<->0500
 
 2025/05/03
