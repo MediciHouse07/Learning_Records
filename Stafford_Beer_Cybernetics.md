@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
 
+# Stafford Beer Collection.- 08 VSM, The Outside & Then
+
+0000<->0800
+
+2025/05/06
+
+- 1994
+- isomophysom identical
+- recursion
+
 # Stafford Beer Collection.- 07 VSM, The Inside & Now
 
 10800<->11300 End
