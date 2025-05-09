@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=-wZcQ7Gd9W8
 
 # Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
 
+1500<->2000
+
+2025/05/07
+
+- computer simulation mentioned
+- drunk and light story
+- shed no light on other problems
+- 1900 mins, book receive no attention mentioned again
+
+# Tutorial on Management Cybernetics (Part 3/4) by Prof. Umpleby
+
 1000<->1500
 
 2025/05/05
