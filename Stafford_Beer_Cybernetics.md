@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
 
+0800<->1600
+
+2025/05/07
+
+- uniform all accounting procedures
+
+# Stafford Beer Collection.- 08 VSM, The Outside & Then
+
 0000<->0800
 
 2025/05/06
