@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
 
+0800<->1300
+
+2025/05/07
+
+- surplus has to be employeed
+- 50 want to work
+- unemployeement, people who want to work but can't, how it can be described in diagram approach
+- TBRT
+
+# (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
+
 0500<->1000
 
 2025/05/06
