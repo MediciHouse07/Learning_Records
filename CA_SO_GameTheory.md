@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+0500<->1000
+
+2025/05/07
+
+- information partition
+- subset of set which includes subset of A
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 0300<->0800
 
 2025/05/06
