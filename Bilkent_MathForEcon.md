@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+2025/05/08
+
+5000<->6000
+
+- given a point you can assign a distance given that point
+- store definition for discrete metric
+- discrete metric, same 0 otherwise 1
+- EECS's prerequisite next
+- something might work to do what?
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 5000<->5100 5000<->5100 5000<->5800
 
 2025/05/05
