@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
 
+2025/05/08
+
+0800<->1300 End
+
+- a graph where government is not in place
+
+# (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
+
 0800<->1300
 
 2025/05/07
