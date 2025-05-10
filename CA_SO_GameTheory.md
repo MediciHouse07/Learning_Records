@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
+2025/05/08
+
+0800<->1300
+
+# (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
+
 0500<->1000
 
 2025/05/07
