@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+# (M7E14) [Microeconomics] Welfare Implications of Subsidy in Perfectly Competitive Market: An Example
+
+2025/05/09
+
+0000<->0500
+
+- to push the price down
+- the subsidy has to be giving money to supplier in that sense moving supply curve
+
 # (M7E13) [Microeconomics] Welfare Analysis in Labor Market: The Case of Minimum Wage
 
 2025/05/08
