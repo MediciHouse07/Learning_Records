@@ -1,3 +1,19 @@
+# https://www.coursera.org/learn/money-banking/lecture/2DJxC/clearinghouse-private-lender-of-last-resort
+
+# Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
+
+https://www.coursera.org/learn/money-banking/lecture/2DJxC/clearinghouse-private-lender-of-last-resort
+
+2025/05/09
+
+0000<->0500
+
+- run out of clearing house certificate
+- borrow from central clearing house
+- clearing house would demand certificate
+- clearing house is still there
+- exist together with central bank Fed
+
 # Lecture 5 7/10 Module 3 Clearinghouse, Normal Operations
 
 2025/04/18
