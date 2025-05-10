@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+# Lecture 1
+
+2025/05/08
+
+5630<->6630
+
+- generalize distance
+- metric
+- open and close
+- open and close pertain to set
+- whether set operations would have the properties pertained
+- https://docs.google.com/document/d/1ECaRRw47mvVSXWJXtaMHfvz-JO-cLQsZmAT_EYzKHZo/edit?tab=t.zpkb6lbnbb1
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 2025/05/08
 
 5000<->6000
