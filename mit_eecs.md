@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=AfQxyVuLeCs
 
 # Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
 
+# Lecture 1
+
+2025/05/08
+
+2200<->2700
+
+- charge build up
+
+# Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
+
 1700<->2200
 
 2025/05/06
