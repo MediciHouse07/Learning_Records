@@ -2,6 +2,22 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t
 
+# (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
+
+2025/05/09
+
+0000<->0500
+
+- denotation of extensive form game
+- if remove utility, payoff
+- it is called extensive form
+- number of I = 1 perfect information game
+- other imperfect information game
+- it is all about imperfect information game
+- incomplete information game
+- after a history h, the nature moves
+- example start at 5 mins
+
 # (AGT2E2) [Game Theory] Extensive Form Games: Definitions - Part 2
 
 2025/05/08
