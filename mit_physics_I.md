@@ -1,5 +1,13 @@
 [https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
+
+2025/05/10
+
+0500<->1000
+
+- measurements in different cases versus the scale of uncertainty
+
 # Lecture 1
 
 ](https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
