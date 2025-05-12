@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
 
+2025/05/10
+
+0500<->1000
+
+- N stands foir players
+- H set of histroies
+- Z terminal histories
+- I2, information set of player 2
+
+# (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
+
 2025/05/09
 
 0000<->0500
