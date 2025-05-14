@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&index=5
 
+# 6. Costs
+
+1400<->1900
+
+2025/05/12
+
+- how do we choose the mix, the phrase is mentioned 1700 mins
+- minimize the produce of hte next quantity
+- as quantity vary how to change the mix
+- economic efficient of combination
+
 # 10. Welfare Economics
 
 2025/04/26
