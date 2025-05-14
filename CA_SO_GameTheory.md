@@ -4,6 +4,16 @@ https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnA
 
 # (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
 
+0900<->1400 End
+
+2025/05/12
+
+- information partition
+- a case where there is no nature
+- define preference on finished game, it can't be defined on unfinished game
+
+# (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
+
 2025/05/10
 
 0500<->1000
