@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
+6400<->7400
+
+2025/05/12
+
+- example of infinite intersection open set lead to closed set
+
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I 
 
 2025/05/10
