@@ -1,3 +1,14 @@
+# Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
+
+2025/05/12
+
+0000<->0500
+
+- clearing house creates money
+- make loans by printing papers
+- clearinghouse certificate, clearing house loan certificate
+
+
 # https://www.coursera.org/learn/money-banking/lecture/2DJxC/clearinghouse-private-lender-of-last-resort
 
 # Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
