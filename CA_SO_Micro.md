@@ -8,6 +8,14 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E14) [Microeconomics] Welfare Implications of Subsidy in Perfectly Competitive Market: An Example
 
+0900<->1400
+
+2025/05/12
+
+- subsidy amount times number of houses being rented
+
+# (M7E14) [Microeconomics] Welfare Implications of Subsidy in Perfectly Competitive Market: An Example
+
 2025/05/10
 
 0500<->1000
