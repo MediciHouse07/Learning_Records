@@ -1,5 +1,19 @@
 # Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
 
+0500<->1000 End
+
+2025/05/14
+
+- holding clearing house certificate
+- external payment can't be settled with clearing house certificate
+- if it is legal is not clear, clearing house loan certificate
+- money law was introduced
+- are they breaking the law
+- 1907 pass a law that say it is legal to do it
+- when there is no law, you don't have the bless from the goverment
+
+# Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
+
 2025/05/12
 
 0000<->0500
