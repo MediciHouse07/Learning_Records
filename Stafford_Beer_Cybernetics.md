@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
 
+# Stafford Beer Collection.- 07 VSM, The Inside & Now
+
+1600<->2100
+
+2025/05/14
+
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
 
 0800<->1600
