@@ -1,3 +1,16 @@
+# 5. Production Theory
+
+1200<->2200
+
+2025/05/15
+
+- tradeoff worker and machines
+- perfect substitutable
+- beanie baby
+- non substitutable, leontieff
+- slope of ISO quantm MRTs
+- MRTs, delta K/ delta L
+
 https://www.youtube.com/watch?v=ftmvsahQ6Wo&list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&index=5
 
 # 6. Costs
