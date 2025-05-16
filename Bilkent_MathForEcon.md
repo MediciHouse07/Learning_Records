@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
 
+6900<->7900 End
+
+2025/05/14
+
+- given epsilon, it contains epsilon over 2
+- TBRT
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
 6400<->7400
 
 2025/05/12
