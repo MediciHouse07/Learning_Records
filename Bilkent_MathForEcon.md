@@ -1,3 +1,22 @@
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
+2025/05/15
+
+0000<->0500
+
+- definition of topology, definition of topology space
+- it utilize open set properties to define topology
+- by induction, bilateral intersection is enough to let to general case
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
+2025/05/15
+
+7400<->7900
+
+- in R, epsilon contains numbers other than 0
+- take open set concept of departing point to define topology
+
 https://www.youtube.com/watch?v=CleUb3FYW0E&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
 # OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
