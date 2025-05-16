@@ -2,6 +2,15 @@
 
 # Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
 
+1000<->1500
+
+2025/05/12
+
+- mammal too big, bone would break mentioned
+- TBRT
+
+# Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
+
 2025/05/10
 
 0500<->1000
