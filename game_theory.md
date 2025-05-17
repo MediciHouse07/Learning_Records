@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
 
+# 6. Nash equilibrium: dating and Cournot
+
+2025/05/15
+
+1800<->2300
+
+- Cournot duoply
+- assumption for Cournot duoply
+- a-b(q1+q2)
+
+https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
+
 # Lecture 6
 
 2024/08/24
