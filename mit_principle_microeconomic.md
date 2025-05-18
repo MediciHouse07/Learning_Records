@@ -1,5 +1,20 @@
 # 5. Production Theory
 
+2025/05/16
+
+2200<->2900
+
+- return to scale
+- ROS vs asset
+- constant return to scale function
+- increase return to scale
+- decrease return to scale
+- why there is increase return to scale
+- why there is decrease return to scale
+- wage, management expense, overhead
+
+# 5. Production Theory
+
 1200<->2200
 
 2025/05/15
