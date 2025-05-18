@@ -1,4 +1,14 @@
 https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
+6. Nash equilibrium: dating and Cournot
+
+2025/05/15
+
+2300<->2800
+
+- cost of production, cq
+- constant marginal cost
+
+https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
 
 # 6. Nash equilibrium: dating and Cournot
 
