@@ -1,5 +1,14 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+0200<->0700 0300<->0800
+
+2025/05/18
+
+- open with responect to tao
+- a set in tao as being open with respect to tao
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 2025/05/15
 
 0000<->0500
