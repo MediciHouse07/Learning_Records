@@ -1,5 +1,17 @@
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
+https://learning.edx.org/course/course-v1:Harvardx+HLS2X+3T2024/block-v1:Harvardx+HLS2X+3T2024+type@sequential+block@63f21f49c9ca46ccb6321df9c3abfe8f/block-v1:Harvardx+HLS2X+3T2024+type@vertical+block@b16cf594ecfd445589fb55d52c6bea58
+
+# Odometer Fraud
+
+2025/05/16
+
+- odometer, 24000, 15000 USD
+- fiddled back
+- bio intel, at what condition they want to do business with org intel, under what condition they want to do business with bio intel
+- fictitious
+- odometer fraud and advertising
+
 # Hoffman v. Red Owl
 
 2024/12/01
