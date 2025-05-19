@@ -2,6 +2,20 @@
 
 2025/05/16
 
+2900<->3400
+
+2025/05/19
+
+- increase scale to return
+- IRS, DRS, CRS
+- 1798 Malthus
+- profit determines that if you would move or if any entity would move
+- mass starvation
+
+# 5. Production Theory
+
+2025/05/16
+
 2200<->2900
 
 - return to scale
