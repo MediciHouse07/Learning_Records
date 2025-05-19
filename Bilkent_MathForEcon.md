@@ -1,5 +1,22 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+0500<->0700 0500<->0700 0500<->0800 0700<->1000
+
+2025/05/19
+
+- in AI out many fans
+- in AI out reputation
+- is a member of tao
+- is a subset of tao
+- tao is on X
+- a set in tao as being open wrt tao
+- metric space, subset of metric space
+- tao m the collection of all open subsets
+- m induced tao example 0900 mins
+- distinction X,m X,tao m
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 0200<->0700 0300<->0800
 
 2025/05/18
