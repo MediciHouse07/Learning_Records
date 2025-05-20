@@ -1,5 +1,14 @@
 # 5. Production Theory
 
+2025/05/18
+
+3400<->3900
+
+- q=Atf(L,K)
+- 1900 Herry Ford introduced mass production
+
+# 5. Production Theory
+
 2025/05/16
 
 2900<->3400
