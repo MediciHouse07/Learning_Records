@@ -1,3 +1,12 @@
+# 6. Nash equilibrium: dating and Cournot
+
+2025/05/18
+
+2800<->3300
+
+- intersection of BRs
+- if get maximum, q1 should be turned as q1 hat
+
 https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=6
 6. Nash equilibrium: dating and Cournot
 
