@@ -1,5 +1,17 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+2025/05/18
+
+0700<->1700
+
+- as what school and certificate offers
+- those are for commercializing people for enterprise
+- instead of for your own reasoning purpose
+- and because those are for commercializing, a bit of indifferent to sensitive choices is also ideal
+- TBRT
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 0500<->0700 0500<->0700 0500<->0800 0700<->1000
 
 2025/05/19
