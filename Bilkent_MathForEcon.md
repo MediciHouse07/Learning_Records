@@ -1,5 +1,17 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+2025/05/19
+
+0900<->1600 1300<->1600
+
+- plan and position
+- record stand high credit
+- introduce the website
+- subset of X, union and intersection also in X
+- discrete metric induce discrete topology
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 2025/05/18
 
 0700<->1700
