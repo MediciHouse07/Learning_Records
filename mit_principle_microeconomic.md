@@ -1,5 +1,18 @@
 # 5. Production Theory
 
+2025/05/19
+
+3900<->4900
+
+- productivity determine standard of living
+- capital is from saving
+- innovative
+- 4100 mins, productivity data
+- 2005 slow productivity
+- garage for storage, and those who are about to be excluded from the system, who live in garage, health condition change
+
+# 5. Production Theory
+
 2025/05/18
 
 3400<->3900
