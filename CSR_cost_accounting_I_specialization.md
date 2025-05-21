@@ -1,5 +1,30 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/KJF1j/introduction
 
+# Three sub-systems of cost accounting
+
+2025/05/19
+
+0000<->0300
+
+- cost type accounting
+- labour cost, material cost, depreciation
+- cost center accounting, where the cost incurred
+- 100 000
+- product and service costing
+- x series
+
+# Cost terms and their meaning: Inventoriable and period costs, opportunity and sunk costs
+
+2025/05/19
+
+0000<->0400
+
+- inventorible cost vs inventoriable costs (SG&A) selling general and administration
+- opportunity cost(alternative over the next best alternative) vs sunk costs
+- levelized product cost
+- how expensive product in the life cycle really is
+- LCOE
+
 # Cost terms and their meaning: Total and unit costs, direct and indirect costs, fixed and variable costs
 
 2025/05/18
