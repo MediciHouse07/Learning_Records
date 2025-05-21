@@ -1,5 +1,11 @@
 # 6. Nash equilibrium: dating and Cournot
 
+2025/05/19
+
+3300<->3600
+
+# 6. Nash equilibrium: dating and Cournot
+
 2025/05/18
 
 2800<->3300
