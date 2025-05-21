@@ -1,3 +1,23 @@
+# Absorption costing vs variable costing
+
+2025/05/20
+
+0000<->0500
+
+- absorption costing, product units are valued   at full costs
+- loweable possible price company could accept
+
+# Cost terms and their meaning: Inventoriable and period costs, opportunity and sunk costs
+
+2025/05/20
+
+0000<->0400
+
+- periodic cost, can't be made inventory
+- selling general and administrative
+- forgo
+- a hosue, use it for rent vs use it for own purpose, if for own purpose then the opportunity cost is the profit generates by renting
+
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/KJF1j/introduction
 
 # Three sub-systems of cost accounting
