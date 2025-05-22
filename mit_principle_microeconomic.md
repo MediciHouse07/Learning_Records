@@ -1,3 +1,15 @@
+# 6. Costs
+
+2025/05/20
+
+0000<->0600
+
+- revenue maximization is equivalent to cost minimization
+- cost varies with how much you produced
+- 0300 mins shows capital can stand for machine
+- per period cost of using worker
+- per period cost of using machine
+
 # 5. Production Theory
 
 2025/05/19
