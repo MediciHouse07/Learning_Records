@@ -1,3 +1,14 @@
+https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
+
+# 6. Nash equilibrium: dating and Cournot
+
+2025/05/20
+
+3600<->4100
+
+- a-c/2b has a name
+- a-c/2b is monopoly quantity
+
 # 6. Nash equilibrium: dating and Cournot
 
 2025/05/19
