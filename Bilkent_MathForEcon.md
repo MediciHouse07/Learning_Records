@@ -1,5 +1,15 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+2025/05/20
+
+0900<->1900 End
+
+- take subset as elements to form tao
+- see what choices bundle can lead to tao
+- metricible
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 2025/05/19
 
 0900<->1600 1300<->1600
