@@ -1,3 +1,11 @@
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
+2025/05/21
+
+0000<->1000
+
+- tao m stand for all set of all open set with reslect to m
+
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
 2025/05/20
