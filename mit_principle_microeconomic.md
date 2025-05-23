@@ -1,5 +1,14 @@
 # 6. Costs
 
+2025/05/21
+
+0600<->1600
+
+- AC=MC it is minimum of average cost
+- MC=P not mentioned in this lecture but it seems they are derived from different root
+
+# 6. Costs
+
 2025/05/20
 
 0000<->0600
