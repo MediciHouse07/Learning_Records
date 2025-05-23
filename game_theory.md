@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 6. Nash equilibrium: dating and Cournot
 
+2025/05/21
+
+4100<->4600
+
+- perfect competition quantity
+
+# 6. Nash equilibrium: dating and Cournot
+
 2025/05/20
 
 3600<->4100
