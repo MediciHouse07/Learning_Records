@@ -1,5 +1,24 @@
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part3
 
+2025/05/21
+
+0700<->1200
+
+- the advertisement, the toothbrush, it wants to do transaction with bio intels
+- experience with tables
+- table is a token that summarize your experiences
+- autonomous creature
+- linguistic sign attach to those experiences
+- silicon intel would have a different attach to those experiences
+- cognition
+- test knowledge, compare reality
+- but reality also depends on your sensors
+- 1200 mins, theories summarized from each individuals perceptions
+- theory you test it
+- peer review and papers
+
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part3
+
 https://www.youtube.com/watch?v=R9SggE9DCM0&list=PLB81F4FC0EDC4DECC&index=16
 
 2025/05/15
