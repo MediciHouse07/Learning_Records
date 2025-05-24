@@ -1,5 +1,20 @@
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
+0000<->1200
+
+2025/05/22
+
+- ~ stand for the same
+- all subsets are open
+- that's why tao m = tao 2
+- as tao 2 is that meaning
+- tao m is as said, discremete metric
+- epsilon ball is foeverly open
+- epsilon ball belongs to tao m
+- then prove that the epsilon ball is neither empty set and the complete set
+
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
 2025/05/21
 
 0000<->1000
