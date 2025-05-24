@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 6. Nash equilibrium: dating and Cournot
 
+4600<->5600
+
+2025/05/22
+
+- given market is not changed
+- Cournot model would lead to 
+- Cournot 100 years ahead of Nash
+- investment game, strategic complement
+- Cournot game, strategic substitutes
+
+# 6. Nash equilibrium: dating and Cournot
+
 2025/05/21
 
 4100<->4600
