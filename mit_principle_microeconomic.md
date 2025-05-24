@@ -1,5 +1,14 @@
 # 6. Costs
 
+2400<->2900
+
+2025/05/23
+
+- what you cares about regarding productivity
+- what market tells you about price of worker and machine
+
+# 6. Costs
+
 1600<->2400
 
 2025/05/22
