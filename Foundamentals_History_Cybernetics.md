@@ -1,3 +1,22 @@
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part4
+
+0000<->0200
+
+2025/05/23
+
+- logic description
+- perception - computation of
+- cognition, computation of computation ...
+
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part3
+
+1200<->1500 End
+
+2025/05/23
+
+- why do you believe what you believed
+- can't get it published if it can't pass peer review
+
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part3
 
 2025/05/21
