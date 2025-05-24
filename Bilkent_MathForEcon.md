@@ -1,3 +1,22 @@
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
+0500<->0900 1000<->1500
+
+2025/05/23
+
+- yield topology or not
+- tao 1 is not inducible by metric
+- tao 2 is inducible by discrete metric
+
+# OPEN and CLOSED SETS in METRIC SPACES - Lec 06 - Mathematics for Economists I
+
+5000<->5600 
+
+2025/05/23
+
+- mxy=1 if different, mxy=0 if the same
+- discrete metric has every subset of X is open, and every subset of X is closed as well
+
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
 0000<->1200
