@@ -1,5 +1,22 @@
 # 6. Costs
 
+1600<->2400
+
+2025/05/22
+
+- long run f and long run cost
+- K is not fixed
+- given quantity , the right L and K
+- vary quantity, how L and K
+- find economic combination of L and K
+- isocost, isoquant
+- -w/r
+- MRTs=rental rate ratio
+- MPL/w=MPK/r
+- next dollar of wage deliver the same next unit of next dollar of machine
+
+# 6. Costs
+
 2025/05/21
 
 0600<->1600
