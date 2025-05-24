@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 6. Nash equilibrium: dating and Cournot
 
+5600<->6100
+
+2025/05/23
+
+- think about total industry's profit
+- split monopoly quantity
+- sign an agreement
+- half of
+- this go to how to divide a pie
+- but it is illegal
+
+# 6. Nash equilibrium: dating and Cournot
+
 4600<->5600
 
 2025/05/22
