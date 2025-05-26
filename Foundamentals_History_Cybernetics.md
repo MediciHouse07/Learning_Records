@@ -1,5 +1,19 @@
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part4
 
+2025/05/24
+
+0200<->0700
+
+- paiting and sculpture
+- how Froid theory works for problems in the childhood
+- and family therapy
+- 0448 mins, AI appears on the slides
+- what you think society is about your position at society
+- position influence perception
+- observe, change fact
+
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part4
+
 0000<->0200
 
 2025/05/23
