@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
+# 6. Nash equilibrium: dating and Cournot 
+
+2025/05/24
+
+6100<->6700
+
+- the point that has max profit, it is not without any force back, otherwise the idea wouldn't be there, but it is illegal, and there is another force, which is as Cournot model denoted, it attracts it from one position to another that has stronger attraction
+- if it is too profitable, another company would join the market and break the balance
+- so there could be another battle that gives people chance, one is firm's profit maximization so they would tend to lower quantity so that price can be increased, another is in doing that, it would give other company chance to enter the market and build their reputation, it explains why there is back and forth, would this apply to the GF case?
+
 # 6. Nash equilibrium: dating and Cournot
 
 5600<->6100
