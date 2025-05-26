@@ -1,5 +1,14 @@
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
+2025/05/24
+
+0900<->1900 End
+
+- natural question
+- tao 1 is a topology, but when X>=2, it would never be indicible by metric
+
+# TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
+
 0500<->0900 1000<->1500
 
 2025/05/23
