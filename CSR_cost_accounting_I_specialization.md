@@ -1,3 +1,16 @@
+# Interest costs
+
+2025/05/24
+
+0000<->0500
+
+- interest cost related to machine costs
+- interest costs, capital required for operations * interest rate
+- undeveloped property, investment in other companies
+- non-interest-bearing-liabilities
+- NIBL
+- interest rate is WACC
+
 # Absorption costing vs variable costing
 
 2025/05/20
