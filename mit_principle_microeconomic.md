@@ -1,5 +1,16 @@
 # 6. Costs
 
+2025/05/24
+
+2900<->3400
+
+- K/L=w/r
+- LR cost function is derived
+- production function, wage rate, rental rate
+- q is also production function
+
+# 6. Costs
+
 2400<->2900
 
 2025/05/23
