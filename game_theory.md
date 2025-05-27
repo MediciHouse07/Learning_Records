@@ -2,6 +2,25 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 6. Nash equilibrium: dating and Cournot 
 
+2025/05/25
+
+6700<->7200 End
+
+- oil, opex, restrict quantity
+- late 60 early 70
+- other country take advantage
+- competitive, fringe
+- british oil, in North sea
+- Russian oil
+- analyze total quantity being produced
+- Cournot
+- analyze monopoly quantity
+- analyze competitive quantity
+- imperfect competition, add more and more constraints to perfect competition game
+- perfect competition
+
+# 6. Nash equilibrium: dating and Cournot 
+
 2025/05/24
 
 6100<->6700
