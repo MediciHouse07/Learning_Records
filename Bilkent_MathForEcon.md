@@ -1,3 +1,16 @@
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I 
+
+2025/05/25
+
+0000<->1000
+
+- topology space has no distance?
+- metric space has as whatever rules defined distance concept
+- can distance always be divided by a number
+- epsilon ball in tao m but not in tao
+- so tao m <> tao
+- so tao m and tao are not equal
+
 # TOPOLOGICAL SPACES - Lec 07 - Mathematics for Economists I
 
 2025/05/24
