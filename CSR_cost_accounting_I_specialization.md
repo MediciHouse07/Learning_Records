@@ -1,3 +1,17 @@
+# Depreciation
+
+2025/05/25
+
+0000<->0500
+
+- wind turbine
+- depreciation and duty?
+- heavy duty transporter
+- time dependent depreciation method
+- residual value at the end
+- terminal value
+- declining balance depreciation
+
 # Interest costs
 
 2025/05/24
