@@ -1,5 +1,17 @@
 # 6. Costs
 
+2025/05/25
+
+3400<->3900
+
+- wage rental ratio
+- substitution effect
+- given level of production, what is the input change
+- slope of the line steeper
+- substitute to machines
+
+# 6. Costs
+
 2025/05/24
 
 2900<->3400
