@@ -1,3 +1,17 @@
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD4 Part4
+
+2025/05/25
+
+0700<->1200
+
+- world, description, observer
+- different cybernetics
+- second order cybernetics
+- syntactices, semantics, pragmatics
+- theory, empirical evidence
+- epistemology
+- language constrain perceptual apparatus
+
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD3 Part4
 
 2025/05/24
