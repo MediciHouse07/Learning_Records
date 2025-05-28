@@ -1,5 +1,14 @@
 # Depreciation
 
+0400<->0900 End
+
+2025/05/27
+
+- units of production depreciation
+- you have driven over the course of the year
+
+# Depreciation
+
 2025/05/25
 
 0000<->0500
