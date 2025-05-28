@@ -1,5 +1,18 @@
 # 6. Costs
 
+3900<->4400
+
+2025/05/27
+
+- 4100 mins
+- LR expansion path
+- produce more, how the cost change
+- scale to return was introduced in 15 mins earlier
+- LR expansion path is a bit different than scale to return
+- the more you produce the less effective the capital become
+
+# 6. Costs
+
 2025/05/25
 
 3400<->3900
