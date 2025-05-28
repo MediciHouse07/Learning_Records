@@ -1,3 +1,12 @@
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
+1000<->2000
+
+2025/05/27
+
+- defined in R, ordered set
+- property of tao and topology tao
+
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I 
 
 2025/05/25
