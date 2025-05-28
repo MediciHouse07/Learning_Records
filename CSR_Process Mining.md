@@ -1,3 +1,18 @@
+https://www.coursera.org/learn/process-mining/lecture/cp5WZ/5-2-mining-decision-points
+
+# 5.2: Mining Decision Points
+
+0000<->0500
+
+2025/05/27
+
+- discovery and conformance checking
+- extend and repair model
+- process model, discovered or made by hand
+- have the notion of or split
+- X or split
+- guards
+
 # Week1
 
 ## 1-2
