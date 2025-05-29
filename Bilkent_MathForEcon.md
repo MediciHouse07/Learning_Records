@@ -1,3 +1,14 @@
+
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
+2000<->3000
+
+2025/05/28
+
+- Least upper bound property
+- not a member in tao
+- two different point gives m>0
+
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
 1000<->2000
