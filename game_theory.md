@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 7. Nash equilibrium: shopping, standing and voting on a line
 
+0500<->2700
+
+2025/05/27
+
+- Bertrand can't use calculus
+- pricing above the other guy
+- choose price p-epsilon but if we want to maximize profit, we can choose monopoly price
+- under cut pepsi by monopoly price
+- only one NE, both set it at c
+- firm 1 is pricing at xx
+- Bertrand model lead to a perfect competition even though only 2 firms
+
+# 7. Nash equilibrium: shopping, standing and voting on a line
+
 0000<->0500
 
 2025/05/27
