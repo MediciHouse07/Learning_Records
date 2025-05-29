@@ -1,5 +1,16 @@
 # 6. Costs
 
+4400<->5000 End
+
+2025/05/28
+
+- long run expansion path -> LR cost curve
+- LRAC AC vs output perday
+- LRAC as an envelope of SRAC
+- personal LRAC
+
+# 6. Costs
+
 3900<->4400
 
 2025/05/27
