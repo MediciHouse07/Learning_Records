@@ -2,6 +2,16 @@ https://www.coursera.org/learn/corporate-finance-essentials/lecture/mey84/1-what
 
 https://www.coursera.org/learn/corporate-finance-essentials/lecture/3ct5y/2-periodic-returns
 
+# Module 2 Fighting Poverty with Data
+
+0000<->0500
+
+2025/05/28
+
+- focal area
+- statistics for interfaces
+- the last cencus
+
 # Week 2 2. Periodic Returns
 
 2024/09/28
