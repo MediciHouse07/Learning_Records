@@ -1,3 +1,16 @@
+# Tasks of cost-center accounting and structure of cost centers
+
+0000<->0500
+
+2025/05/28
+
+- cost type whchich, cost center accounting where, product and service costing, which products
+- cost center has cost center manager
+- ask people so data can be broken down
+- homogeneity of cost drivers
+- categorization of cost centers
+- energy building maintenance material manucacturig administration sales and distribution
+
 # Depreciation
 
 0400<->0900 End
