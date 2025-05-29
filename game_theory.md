@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
 # 7. Nash equilibrium: shopping, standing and voting on a line
 
+2700<->3500
+
+2025/05/28
+
+- relax some assumptions
+- e.g., products are not identical
+- differentiated products
+- naive Bertrand ends in 2700 min
+
+# 7. Nash equilibrium: shopping, standing and voting on a line
+
 0500<->2700
 
 2025/05/27
