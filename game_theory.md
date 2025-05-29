@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=7oASpaBdDMs&list=PL6EF60E1027E1A10B&index=7
 
+# 7. Nash equilibrium: shopping, standing and voting on a line
+
+0000<->0500
+
+2025/05/27
+
+- Betrand competition, another way to model imperfect competition
+- Betrand compete in prices
+- produce identical product
+- constant marginal cost
+
 # 6. Nash equilibrium: dating and Cournot 
 
 2025/05/25
