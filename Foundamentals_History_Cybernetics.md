@@ -1,3 +1,20 @@
+# 22
+
+0000<->0200
+
+2025/05/28
+
+- normaltive vs positive
+
+# 21
+
+1200<->1500 End
+
+2025/05/28
+
+- enchanted
+- contested
+
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD4 Part4
 
 2025/05/25
