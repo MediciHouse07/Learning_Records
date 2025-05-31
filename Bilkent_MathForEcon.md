@@ -1,3 +1,13 @@
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
+2025/05/29
+
+3000<->4000
+
+- not metricible metric
+- usual distance
+- discrete metric
+- two metrics derive[induce] the same topology
 
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
