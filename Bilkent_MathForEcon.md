@@ -1,5 +1,15 @@
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
+2025/05/30
+
+4000<->5000
+
+- observation, business failure and failure around 4 and 5
+- epsilon ball and neighborhood
+- define relationship between set and point
+
+# TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
+
 2025/05/29
 
 3000<->4000
