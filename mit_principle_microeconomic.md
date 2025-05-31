@@ -1,3 +1,12 @@
+# 7. Competition I
+
+2025/05/29
+
+0000<->0500
+
+- sunk cost, long run fix cost, actual
+- decision for the ticket is, how much you accept
+
 # 6. Costs
 
 4400<->5000 End
