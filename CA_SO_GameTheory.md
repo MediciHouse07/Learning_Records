@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t
 
+# (AGT2E4) [Game Theory] Strategies in Extensive Form Games
+
+2025/05/30
+
+0000<->0500
+
+- cartesian product of all the players including nature
+- TBRT
+
 # (AGT2E3) [Game Theory] Extensive Form Games: Definitions - Part 3
 
 0900<->1400 End
