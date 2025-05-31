@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E15) [Microeconomics] Solving for Long-Run Competitive Market Price and Quantity: An Example
 
+2025/05/29
+
+0000<->0500
+
+- individual firm production
+- marginal production
+- why P=MC=ATC
+- in the long run, there is 0 profit condition
+
+# (M7E15) [Microeconomics] Solving for Long-Run Competitive Market Price and Quantity: An Example
+
 0000<->0500
 
 2025/05/14
