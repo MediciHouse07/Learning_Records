@@ -1,5 +1,13 @@
 # 7. Competition I
 
+2025/05/30
+
+0200<->0700
+
+- how much I still want to pay to see vs the amount other would want to pay for it
+
+# 7. Competition I
+
 2025/05/29
 
 0000<->0500
