@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 # (M7E15) [Microeconomics] Solving for Long-Run Competitive Market Price and Quantity: An Example
 
+2025/05/30
+
+0200<->0700 End
+
+# (M7E15) [Microeconomics] Solving for Long-Run Competitive Market Price and Quantity: An Example
+
 2025/05/29
 
 0000<->0500
