@@ -1,3 +1,15 @@
+# 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD4 Part5
+
+# 22
+
+2025/05/29
+
+0200<->1200 End
+
+- exclude the observer
+- let young intelliectual to evolve instead of hiring a senior
+- they let it run it in that way because they believe it is above live or death
+
 # 22
 
 0000<->0200
