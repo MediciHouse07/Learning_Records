@@ -1,5 +1,22 @@
 # Tasks of cost-center accounting and structure of cost centers
 
+2025/05/31
+
+0530<->0630
+
+- indirect cost centers
+- direct cost centers
+- direct or indirect is about whether linkable to product
+- variable and fix is about whether know number and value
+- overhead costs primary cost allocation
+- interdepartment cost allocation
+- allocation of overhead costs
+- three steps of cost center accounting
+- cost object
+- cost center can be defined by various criteria, such as department, function, project
+
+# Tasks of cost-center accounting and structure of cost centers
+
 0000<->0500
 
 2025/05/28
