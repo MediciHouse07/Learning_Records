@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5syk
 
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
 
+2025/05/30
+
+2100<->3100
+
+- R&D and money saving
+
+# Stafford Beer Collection.- 08 VSM, The Outside & Then
+
 2025/05/29
 
 1600<->2100
