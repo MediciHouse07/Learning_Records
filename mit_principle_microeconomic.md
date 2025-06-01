@@ -1,5 +1,13 @@
 # 7. Competition I
 
+2025/05/31
+
+0700<->1200
+
+- low transaction cost, or search cost
+
+# 7. Competition I
+
 2025/05/30
 
 0200<->0700
