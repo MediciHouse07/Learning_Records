@@ -1,3 +1,14 @@
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
+
+2025/05/30
+
+0000<->1000
+
+- counter part for epsilon ball in metric space
+- containing U being contained in
+- interior, closure and boundary of a set
+- foundry, fabless
+
 # TOPOLOGICAL SPACES (cont'd) - Lec 08 - Mathematics for Economists I
 
 2025/05/30
