@@ -1,5 +1,16 @@
 # 7. Competition I
 
+2025/06/02
+
+1200<->1700
+
+- price including shipping cost
+- firm vs market
+- μακετ
+- inelastic market would lead to elastic firm
+
+# 7. Competition I
+
 2025/05/31
 
 0700<->1200
