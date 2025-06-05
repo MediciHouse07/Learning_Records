@@ -2,6 +2,17 @@
 
 2025/06/02
 
+1700<->2200
+
+- market elasiticity eta
+- n supply elasticity
+- firms itself face perfect elastistic demand
+- no firm entry or exist assumption
+
+# 7. Competition I
+
+2025/06/02
+
 1200<->1700
 
 - price including shipping cost
