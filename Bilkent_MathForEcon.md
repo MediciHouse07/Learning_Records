@@ -1,5 +1,15 @@
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
 
+2025/06/03
+
+2000<->3200
+
+- limit point, arbitrarily close to a set
+- neibhood intersect with the set all, non empty
+- cluster or isolate point = limit point
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
+
 2025/05/30
 
 0000<->1000
