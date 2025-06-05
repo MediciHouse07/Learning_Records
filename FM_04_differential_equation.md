@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 6 | MIT 18.03 Differential Equations, Spring 2006
 
+2025/06/03
+
+1300<->2100
+
+- function as a box
+- complex value function of real variable
+- CX VD fn of t, t is always real variable
+
+# Lec 6 | MIT 18.03 Differential Equations, Spring 2006
+
 2025/06/02
 
 0300<->1300
