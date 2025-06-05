@@ -1,3 +1,14 @@
+# Lecture 18
+
+2025/06/03
+
+0000<->0500
+
+- social cybernetics
+- reflexivity
+- bio intel CEOs, they build their bio intel network, those are not free, and those are their value
+- strategic analysis
+
 # 6 Hours Tutorial Professor Umpleby delivered at WMSCI 2006 - DVD4 Part5
 
 # 22
