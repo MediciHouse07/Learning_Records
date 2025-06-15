@@ -1,5 +1,23 @@
 # Lecture 18
 
+2025/06/13
+
+0500<->1500 End
+
+- first ethical system, system ethical system
+- self-esteem, the level that you recognize yourself
+- in accord in the first ethical system you learned
+- but it can shift as well
+- trying to comprise, first
+- pressing, second ethical system
+- reflexive control, people want their interpretation to be the reality
+- stand up to Crushef
+- 1980
+- miscommunication
+- reflexive control, theory about misunderstanding
+
+# Lecture 18
+
 2025/06/03
 
 0000<->0500
