@@ -1,5 +1,14 @@
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
 
+2025/06/13
+
+2500<->3500
+
+- how to describe two sets are intersected with at least one element
+- confine yourself from the family of neighborhood to the family of epsilon ball
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
+
 2025/06/03
 
 2000<->3200
