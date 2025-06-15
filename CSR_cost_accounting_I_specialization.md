@@ -1,3 +1,15 @@
+# Reciprocal method based on equations
+
+2025/06/13
+
+0000<->0500
+
+- allocation service department costs
+- indirect, energy and property
+- energy and property also have inter relation
+- solve a system of equations
+- help you to better understand it
+
 # Tasks of cost-center accounting and structure of cost centers
 
 2025/05/31
