@@ -20,6 +20,17 @@
 - then reasoned, it is either X or Y
 - interior point, metric space, within the set entirely
 
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I 
+
+2025/06/15
+
+2500<->3500
+
+- isolated point, in the A
+- given the condition, and assume it is not X, show it is Y
+- then reasoned, it is either X or Y
+- interior point, metric space, within the set entirely
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
 
 2025/06/13
