@@ -1,3 +1,7 @@
+2025/06/15
+
+2500<->3500
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I 
 
 2025/06/15
