@@ -6,6 +6,17 @@ https://www.youtube.com/watch?v=htsQ3H1NiCc&list=PLcrc6i6xwaQQjl7ePQbzUV2mQxjNM6
 
 https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJkNv-&index=3
 
+https://www.youtube.com/watch?v=oMjhRcXl5NE
+
+# (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
+
+0000<->0500
+
+2025/06/23
+
+- general equilibrium, more than one good
+- initial endowment
+
 # (M7E15) [Microeconomics] Solving for Long-Run Competitive Market Price and Quantity: An Example
 
 2025/05/30
