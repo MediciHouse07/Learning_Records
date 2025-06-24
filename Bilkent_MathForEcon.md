@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=34
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
+
+3000<->4000
+
+2025/06/23
+
+- limit point, arbitrarily close to a set
+- interior point, cluster point, isolated point in the context of metric space
+- limit point, boundary point
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I 
 
 2025/06/15
