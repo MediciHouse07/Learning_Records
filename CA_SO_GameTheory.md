@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=l2OhuphuZo4&list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcN
 
 https://www.youtube.com/watch?v=NQJxMseyZog&list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t
 
+https://www.youtube.com/watch?v=me2bWiDAqRY
+
+# (AGT2E4) [Game Theory] Strategies in Extensive Form Games
+
+0000<->0500
+
+2025/06/23
+
+- include nature
+- as if nature is a player
+
 # (AGT2E4) [Game Theory] Strategies in Extensive Form Games
 
 2025/05/30
