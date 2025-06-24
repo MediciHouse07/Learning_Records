@@ -1,3 +1,18 @@
+https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
+
+# Lecture 19
+
+0000<->1000
+
+2025/06/23
+
+- George Soros and cybernetics
+- Soros's reflexive theory
+- induction and inference
+- deductive knowledge
+- fengshui is mentioned 0730 mins
+- support group
+
 # Lecture 18
 
 2025/06/13
