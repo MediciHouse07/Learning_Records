@@ -1,3 +1,22 @@
+# Lecture 5 9/10 Clearinghouse, Private Lender of Last Resort
+
+0000<->0500 End
+
+2025/06/24
+
+- CHIPS
+- Fedwire
+- CHIPs clear first, Fedwire clears in the second
+- Bernankey, buy MBS
+
+# Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
+
+0800<->1000 End
+
+2025/06/24
+
+- 1970 pass a law saying it is legal to do clearing house loan certificate
+
 # Lecture 5 8/10 Clearinghouse, Private Lender of Last Resort
 
 0500<->1000 End
