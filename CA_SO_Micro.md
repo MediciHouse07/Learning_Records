@@ -10,6 +10,19 @@ https://www.youtube.com/watch?v=oMjhRcXl5NE
 
 # (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
 
+0300<->1100 End
+
+2025/06/24
+
+- pure exchange economy
+- bundle is called allocation
+- feasible allocation
+- 1,2 stand for good
+- A,B stand for agent
+- perfectly competitive market, market demand = market supply
+
+# (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
+
 0000<->0500
 
 2025/06/23
