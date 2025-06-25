@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
 # Lecture 19
 
+0500<->1500 End
+
+2025/06/24
+
+- accept tentatively
+- a testable proposition
+- reflexivity
+- national sciences
+- how different disciplines describe social systems
+- Alchemy of finance
+- George Soros
+
+# Lecture 19
+
 0000<->1000
 
 2025/06/23
