@@ -1,3 +1,18 @@
+# Lecture 5 10/10 Clearinghouse, Private Lender of Last Resort Module 3
+Central Bank Cooperation
+
+0000<->0500 End
+
+2025/06/25
+
+- internal drain vs external drain
+- suspend the payment
+- CBs form a upper layer clearing house, dragi BOE, Bernanke
+- 5 CBs that matter
+- QE at the same time
+- IMF can't do that, because to get all members agree, because US never say yes on that
+- C5 can do it themself
+
 # Lecture 5 9/10 Clearinghouse, Private Lender of Last Resort
 
 0000<->0500 End
