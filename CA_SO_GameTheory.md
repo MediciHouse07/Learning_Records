@@ -6,6 +6,14 @@ https://www.youtube.com/watch?v=me2bWiDAqRY
 
 # (AGT2E4) [Game Theory] Strategies in Extensive Form Games
 
+2025/06/26
+
+0600<->1100 End
+
+- total strategy for each player
+
+# (AGT2E4) [Game Theory] Strategies in Extensive Form Games
+
 0400<->0900
 
 0300<->0800
