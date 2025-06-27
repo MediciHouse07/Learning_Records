@@ -6,6 +6,16 @@ https://www.youtube.com/watch?v=me2bWiDAqRY
 
 # (AGT2E4) [Game Theory] Strategies in Extensive Form Games
 
+0400<->0900
+
+0300<->0800
+
+2025/06/25
+
+- pure strategy
+
+# (AGT2E4) [Game Theory] Strategies in Extensive Form Games
+
 0000<->0500
 
 2025/06/23
