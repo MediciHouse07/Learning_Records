@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
 # Lecture 19
 
+2025/06/26
+
+0700<->1500 End
+
+- Soros claim reflexivity phenomenon doesn't exist in natural science
+- ideas and variables, natural science
+- ideas, groups, events, variables
+- prevailing bias
+- perfect market assumption, information has no value
+
+# Lecture 19
+
 0000<->1000
 
 2025/06/25
