@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
 # Lecture 19
 
+0000<->1000
+
+2025/06/25
+
+- hedge fund manager and how it is constantly overvaluated and undervalued
+- momentum investor
+- random walk and reflexive processes
+- high tech versus consumer good companies
+- dividend expectation for dividend is different
+- PE ratio justifies
+
+# Lecture 19
+
 0500<->1500 End
 
 2025/06/24
