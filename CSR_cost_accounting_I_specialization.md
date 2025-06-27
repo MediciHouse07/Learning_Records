@@ -1,3 +1,13 @@
+# Reciprocal method based on iterations
+
+2025/06/26
+
+0000<->0700 End
+
+- 1000 or 10,000 cost centers
+- 1000 or 10,000 indirect cost centers
+- one interation stand for allocate on indirect cost type into other indirect cost types and direct cost types
+
 # Reciprocal method based on equations
 
 2025/06/13
