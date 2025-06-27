@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
+2025/06/26
+
+0200<->1200
+
+- symbol for boundary point
+- motion of dept, motion of firms
+- planning, long term planning of size of production
+- private ledger, public ledger
+- isolated point == boundary point forever?
+- it is true to Eucleadian space
+- a,b belongs to R, between a and b, there are rational and irrational
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
 0000<->0500
 
 2025/06/25
