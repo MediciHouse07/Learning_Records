@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
+# Lecture 20
+
+2025/06/28
+
+0000<->0500 0300<->0800
+
+- conglomerate
+- equilibrium theory vs reflexivity theory
+- stock gradual drive up and sudden drop
+- currency market is smoother
+- perception of the company influence the others
+- aim to design a system where there must be effective feedback loop
+- 0800 mins reflexivity diagrams
+
 # Lecture 19
 
 2025/06/26
