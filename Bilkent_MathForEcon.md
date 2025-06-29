@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
+2025/06/28
+
+0500<->1500
+
+- interior point has to be in A
+- cluster point doesn't need to be in A
+- being cluster point and being isolated point are mutually exclusive
+- enclosure Q bar
+- what is the definition of closure? interior + cluster?
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
 2025/06/26
 
 0200<->1200
