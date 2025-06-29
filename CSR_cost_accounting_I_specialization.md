@@ -1,3 +1,11 @@
+https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
+
+# Method of credits and debits
+
+2025/06/28
+
+0000<->0300 End
+
 # Reciprocal method based on iterations
 
 2025/06/26
