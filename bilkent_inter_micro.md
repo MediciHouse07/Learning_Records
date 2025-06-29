@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=10
 
+https://www.youtube.com/watch?v=LHGnopoOCDc&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=12
+
+# Microeconomics Theory I - Lecture 12 (ECON - 203)
+
+2025/06/28
+
+2500<->3700
+
+- hod
+- double input doesn't double output
+- homothetic functions
+
 # Lecture 12
 
 2000<->3000
