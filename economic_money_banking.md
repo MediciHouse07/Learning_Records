@@ -1,3 +1,11 @@
+# Lecture 6 1/ FT: European Bank Deleveraging
+
+2025/06/29
+
+0000<->0500
+
+- regulation led to unexpected selling in the market
+
 # Lecture 5 10/10 Clearinghouse, Private Lender of Last Resort Module 3
 Central Bank Cooperation
 
