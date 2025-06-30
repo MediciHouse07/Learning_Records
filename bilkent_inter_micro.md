@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=LHGnopoOCDc&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 # Microeconomics Theory I - Lecture 12 (ECON - 203)
 
+2025/06/29
+
+3700<->4200 End
+
+- homothetic, in the same group,class
+- homogenous, in the same quality
+- homogenous functions are homothetic
+- homothetic function may not be homogenous
+- homotethic function is transfored by sending homogenous function into positive monotune transformation
+
+# Microeconomics Theory I - Lecture 12 (ECON - 203)
+
 2025/06/28
 
 2500<->3700
