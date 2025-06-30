@@ -2,6 +2,20 @@ https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
+2025/06/29
+
+1000<->1500 1200<->1700
+
+- closure
+- So, the closure includes the original set and its limit points
+- the closure of a set ( A ) is the smallest closed set that contains ( A ). It can be thought of as the set of all points in ( A ) along with all the limit points of ( A ).
+- closure set is the original set union its limit points
+- indiscrete topology, empty set and X
+- discrete topology, 2^X
+- 1500 mins
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
 2025/06/28
 
 0500<->1500
