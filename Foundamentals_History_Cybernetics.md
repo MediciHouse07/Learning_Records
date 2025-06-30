@@ -1,5 +1,24 @@
 https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
+# Lecture 21
+
+2025/06/29
+
+0000<->0300
+
+- End of Soros related topics
+
+# Lecture 20
+
+2025/06/29
+
+0800<->1500 End
+
+- good exporting with strong inflation is good
+- have a tendency to
+- gaps between perception and reality
+- gap between perception and reality would lead to collapse
+
 # Lecture 20
 
 2025/06/28
