@@ -1,4 +1,12 @@
-https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=34
+https://www.youtube.com/watch?v=7P5UY30HtS0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=33
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
+2200<->3200
+
+2025/07/01
+
+- 2700 mins, explains why 2X is discrete topology
+- a point can't be simoutaneously be isolated point and cluster point
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
@@ -57,6 +65,7 @@ https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 - what are the conditions for boundry point
 
+https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=34
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
 
 4000<->4600 mins
