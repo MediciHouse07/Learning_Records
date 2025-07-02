@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=gL6Wo5BBusQ&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
+2025/06/30
+
+1400<->2400
+
+- is A a neighborhood of x
+- proper subset
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
 2025/06/29
 
 1000<->1500 1200<->1700
