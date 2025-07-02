@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
+# Step-ladder method
+
+2025/06/30
+
+0000<->0500
+
+- flow to all subsequent cost centers
+
 # Method of credits and debits
 
 2025/06/28
