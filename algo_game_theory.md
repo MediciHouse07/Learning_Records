@@ -1,3 +1,17 @@
+https://www.youtube.com/watch?v=z1QZqYuiGa8
+
+# Algorithmic Game Theory (Lecture 2: Mechanism Design Basics)
+
+0000<->0500 0200<->0700
+
+2025/07/01
+
+- subject to one want to buy it as cheap as possible but also wouldn't buy it when it is more than their maximum valuation
+- setup for the assumtions
+- basic setup for designing the auction
+
+---
+
 # Lecture 1
 ## REX 1 2022/08/04
 
