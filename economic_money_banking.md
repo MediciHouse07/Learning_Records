@@ -1,3 +1,14 @@
+# Lecture 6 2/10 What are Fed Funds?
+
+2025/06/30
+
+0000<->0500 End 0000<->0500 End
+
+- Fed fund are credit and liability of banks
+- what they are borrowing are reverves
+- reserve is money, fed fund is promise to pay money
+- fed fund is not asset and liability of fed
+
 # Lecture 6 1/ FT: European Bank Deleveraging
 
 2025/06/29
