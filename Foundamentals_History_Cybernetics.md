@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
 # Lecture 4
 
+2025/07/02
+
+1000<->1500 End
+
+- first order, observed
+- second order, observing
+
+# Lecture 4
+
 2025/06/30
 
 0000<->0500
