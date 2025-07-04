@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=z1QZqYuiGa8
 
 # Algorithmic Game Theory (Lecture 2: Mechanism Design Basics)
 
+0630<->1630
+
+2025/07/02
+
+- nothing to discourage people from overbidding
+- verify name, verify birthday based on name
+
+# Algorithmic Game Theory (Lecture 2: Mechanism Design Basics)
+
 0000<->0500 0200<->0700
 
 2025/07/01
