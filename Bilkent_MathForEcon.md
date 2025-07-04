@@ -1,4 +1,13 @@
 https://www.youtube.com/watch?v=7P5UY30HtS0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=33
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
+3200<->3800 3300<->3700
+
+2025/07/02
+
+- new characterization for open and close set
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
 2200<->3200
