@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=7P5UY30HtS0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
+3300<->4300
+
+2025/07/03
+
+- established equivalent between x of them
+- if you take y from A, will it be in the Union, yes
+- closed set contains all its limit pts
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
 3200<->3800 3300<->3700
 
 2025/07/02
