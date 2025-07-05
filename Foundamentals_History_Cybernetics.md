@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
+# Lecture 5
+
+0000<->0500
+
+2025/07/03
+
+- social cybernetics vs biology cybernetics
+- 1970s
+- 9.3C
+
 # Lecture 4
 
 2025/07/02
