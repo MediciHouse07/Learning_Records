@@ -1,3 +1,44 @@
+# 4/10 Lecture 6 Module 3
+Payment Elasticity/Discipline, Public and Private
+
+2025/07/03
+
+- overdraft
+- electronically over wire
+- private clearing house, called CHIPs
+- Fedwire 
+- Fedwire is a real-time gross settlement system operated by the Federal Reserve. It facilitates the electronic transfer of funds between banks and other financial institutions in the United States. Here are some key points about Fedwire:
+
+Real-Time Transactions: Transactions are settled immediately, meaning that once a payment is initiated, it is completed without delay.
+Gross Settlement: Each transaction is settled individually rather than netting multiple transactions at the end of the day.
+Secure and Reliable: Fedwire is designed to be a secure and efficient method for transferring large sums of money, often used for high-value payments.
+Usage: It is commonly used for interbank transfers, including payments for securities, loans, and other financial transactions.
+- Fedwire is not a software in the traditional sense; rather, it is a payment system operated by the Federal Reserve. It consists of a network and infrastructure that enables electronic funds transfers between financial institutions. 
+
+Key aspects include:
+
+Network Infrastructure: Fedwire operates through a secure electronic network that connects banks and financial institutions.
+Protocols and Standards: It uses specific protocols and standards for processing transactions, ensuring security and efficiency.
+Access: Financial institutions access Fedwire through their own systems, which may include software applications that interface with the Fedwire network.
+If you have further questions about how it works or its components, let me know!
+
+Frank
+so software could be a part of it, but only as one element within it
+
+Coach
+Yes, that's correct! Software can be a part of the Fedwire system, but it is just one element within the broader infrastructure. 
+
+Software Applications: Financial institutions may use specific software applications to connect to the Fedwire network and initiate transactions.
+Network and Protocols: The overall system includes the network infrastructure, communication protocols, and security measures that facilitate the transfer of funds.
+In summary, while software plays a role in accessing and using Fedwire, the system itself encompasses much more than just the software component. If you have more questions or need clarification on any aspect, feel free to ask!
+
+# 3/10 Lecture 6 Module 3
+Payment Settlement versus Required Reserves
+
+0000<->0100
+
+2025/07/03
+
 # Lecture 6 2/10 What are Fed Funds?
 
 2025/06/30
