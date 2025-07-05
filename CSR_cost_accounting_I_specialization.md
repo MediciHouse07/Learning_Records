@@ -1,5 +1,31 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
+# Module 3
+Step-ladder method
+
+0100<->0600 End
+
+2025/07/03
+
+- In the step-ladder method, the order of indirect cost centers is indeed important, as it determines the flow of costs. The decision on which indirect cost center takes the first place and which takes the second is typically based on the magnitude of services provided or the level of costs incurred. Here are some key points to consider:
+
+Service Provision: The indirect cost center that provides the most significant services to other cost centers is usually placed first. This ensures that its costs are allocated before those of other centers.
+
+Cost Allocation: The order is also influenced by the total costs incurred by each center. A center with higher costs may be prioritized to ensure that its expenses are allocated early in the process.
+
+Direction of Services: The step-ladder method only considers services flowing in one direction (from lower-numbered to higher-numbered cost centers). This means that the first center will allocate its costs to subsequent centers without receiving any backflow of costs.
+
+- You're correct in noting that the order of cost centers in the example does not strictly follow a highest-to-lowest cost allocation. In the step-ladder method, the order can also be influenced by the specific operational structure of the organization or the nature of the services provided. 
+
+Here are some clarifications:
+
+Operational Structure: The sequence may reflect how the organization has structured its cost centers based on their functions rather than just the amount of costs. For example, a center that provides essential services might be prioritized regardless of its cost.
+
+Cost Allocation Strategy: The organization may have a strategy that dictates the order based on historical practices or specific management decisions, which may not always align with the highest costs.
+
+Practical Application: The example you mentioned illustrates how costs are allocated based on the services provided rather than strictly following a numerical order of costs.
+If you have further questions about how to apply this method or need clarification on any specific aspect, feel free to ask!
+
 # Step-ladder method
 
 2025/06/30
