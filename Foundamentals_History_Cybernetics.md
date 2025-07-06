@@ -1,3 +1,15 @@
+# Lecture 5
+
+2025/07/04
+
+0500<->1500 End
+
+- social cybernetics which is about intelliectual mov
+- genotype phenotype
+- gene organism
+- information organization
+- Darwin, piaget, ... Turing creature chip controlled system
+
 https://www.youtube.com/watch?v=3XlRbfhQvgA&list=PLB81F4FC0EDC4DECC&index=19
 
 # Lecture 5
