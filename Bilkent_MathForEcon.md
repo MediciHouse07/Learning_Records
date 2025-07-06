@@ -1,3 +1,13 @@
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
+
+3700<->4200 3700<->4200
+
+2025/07/04
+
+- y belongs to union of G
+- y belongs to Gy and Gy contained in union of G
+- closeness and arbitrarily close are equivalent
+
 https://www.youtube.com/watch?v=7P5UY30HtS0&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=33
 
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
