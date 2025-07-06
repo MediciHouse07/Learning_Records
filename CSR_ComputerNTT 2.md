@@ -1,3 +1,21 @@
+Unit 0.1: Machine Language Overview | Coursera
+.# Module 2
+.Unit 0.1: Machine Language Overview
+2025/07/04
+
+- Turing, theory
+- von Neumann, practice
+- memory including program and data
+- compilation is from machine language to high level language, java or python; assembler assembly language they are not high level language
+- 0100010 0011 0010
+- ADD R3 R2
+- True or False: complier would translate high level language to machine language, assembler would translate assembly language to machine language
+Coach
+True. 
+A compiler translates high-level programming languages (like Java or Python) into machine language.
+An assembler translates assembly language (a low-level language) into machine language.
+This distinction is important in understanding how programs are executed on a computer.
+
 https://www.coursera.org/learn/nand2tetris2/lecture/TlovA/unit-0-1-machine-language-overview
 
 # Week 1 Unit 0.1: Machine Language Overview
