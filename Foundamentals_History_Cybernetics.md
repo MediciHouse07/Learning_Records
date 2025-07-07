@@ -1,3 +1,13 @@
+# Lecture 6
+
+2025/07/05
+
+0000<->0500
+
+- constructivism, another word for second order cybernetics
+- comparative dimension in the study
+- self-organization vs designed systems
+
 # Lecture 5
 
 2025/07/04
