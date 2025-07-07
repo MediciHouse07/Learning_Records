@@ -1,3 +1,13 @@
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I 
+
+2025/07/05
+
+3700<->4700 End
+
+- revisit neighborhood, and limit point of A property
+- neighborhood U
+- super set of neighborhood is also a neighborhood
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I
 
 3700<->4200 3700<->4200
