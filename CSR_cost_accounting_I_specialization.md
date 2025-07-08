@@ -1,5 +1,42 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
+# Module 4
+The relationship between program type, product characteristics, and costi
+
+2025/07/06
+
+0000<->0500 End
+
+- tanker
+
+# Module 4
+Classification of cost objects
+
+2025/07/06
+
+0000<->0200 End
+
+- hydrogen and oxygen
+- tangible or intangible goods
+
+# Module 4
+Tasks of product and service costing
+
+2025/07/06
+
+0000<->0600 End
+
+- product and service costing
+- cost -> price, profitability
+- need to know cost per product to prepare balance sheet to account for inventory
+- A rebate is a partial refund or discount given to a buyer after they have made a purchase. It is often used as a sales incentive to encourage customers to buy a product or service. Here are some key points about rebates:
+
+    Purpose: Rebates are designed to stimulate sales by offering customers a financial incentive.
+    Process: After purchasing, customers may need to submit a rebate form or proof of purchase to receive the rebate.
+    Types: Rebates can be offered in various forms, such as cash back, store credit, or discounts on future purchases.
+
+In the context of product costing, rebates can affect the final sales price and profitability of a product
+
 # Module 3
 Step-ladder method
 
