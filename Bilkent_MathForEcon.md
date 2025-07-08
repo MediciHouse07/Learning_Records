@@ -1,3 +1,13 @@
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
+2025/07/06
+
+0000<->0500 0000<->0500
+
+- openness every point being interior point
+- A interior, A closure, A boundry
+- boundry to determine whether it is open or closed
+
 # THE INTERIOR, CLOSURE and BOUNDARY OF A SET (cont'd) - Lec 10 - Mathematics for Economists I 
 
 2025/07/05
