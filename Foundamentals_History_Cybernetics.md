@@ -1,3 +1,28 @@
+# Lecture 7
+
+2025/07/06
+
+0000<->0800
+
+- start of part B
+- Apere, cybernetics, the science of government
+- Norbert Wiener
+- finance ROI, profit, sales
+- marketing, sales, acceptance
+- production, unit of product produced
+- executive gather them together
+- value is state
+- bevihour is a series of states
+- vector description
+
+# Lecture 6
+
+2025/07/06
+
+0500<->0700 End
+
+- end of part A
+
 # Lecture 6
 
 2025/07/05
