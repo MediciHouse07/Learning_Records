@@ -1,3 +1,13 @@
+# SEQUENCES - Lec 11 - Mathematics for Economists I 
+
+2025/07/08
+
+0900<->1400
+
+- economic theory
+- eucledean space
+- 1230 mins sequence part
+
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
 2025/07/07
