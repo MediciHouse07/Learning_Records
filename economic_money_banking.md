@@ -1,3 +1,15 @@
+# 5/10 Lecture 6 Module 3
+
+2025/07/07
+
+0000<->0900
+
+- they will send examinator to check with you if you know your business
+- fed fund, promise to pay reserve tomorrow
+- automatic roll over
+- overdraft
+- paying you today by promising to pay you tomorrow
+
 # 4/10 Lecture 6 Module 3
 Payment Elasticity/Discipline, Public and Private
 
