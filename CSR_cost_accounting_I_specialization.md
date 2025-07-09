@@ -1,6 +1,17 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
 # Module 4
+The general approach to job costing
+
+2025/07/07
+
+0000<->0500
+
+- job costing
+- direct cost, direct material cost, direct labour cost
+- overhead costs
+
+# Module 4
 The relationship between program type, product characteristics, and costi
 
 2025/07/06
