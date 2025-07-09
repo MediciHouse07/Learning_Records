@@ -1,5 +1,14 @@
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
+2025/07/07
+
+0000<->1100
+
+- closed set include all points that are arbitrarily close with itself
+- A intersect delta A is empty
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
 2025/07/06
 
 0000<->0500 0000<->0500
