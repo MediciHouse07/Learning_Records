@@ -1,6 +1,37 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
 # Module 4
+Machine-hour costing
+
+2025/07/08
+
+0000<->0600
+
+- job shop production
+- job costing
+- welding machine
+- 
+
+# Module 4
+
+Job costing with multiple overhead rates
+
+2025/07/08
+
+0000<->0900 End
+
+- how to apply overhead rate
+
+
+# Module 4
+
+The general approach to job costing
+
+2025/07/08
+
+0300<->0800 End
+
+# Module 4
 The general approach to job costing
 
 2025/07/07
