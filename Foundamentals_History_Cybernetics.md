@@ -1,5 +1,14 @@
 # Lecture 7
 
+2025/07/07
+
+0800<->1300
+
+- add in difference
+- positive feedback, negative feedback
+
+# Lecture 7
+
 2025/07/06
 
 0000<->0800
