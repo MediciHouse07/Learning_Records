@@ -1,3 +1,10 @@
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+2025/07/09
+
+1230<->1730
+
+- sequence is a function with domain on the natural number, range on anything you define
+
 # SEQUENCES - Lec 11 - Mathematics for Economists I 
 
 2025/07/08
