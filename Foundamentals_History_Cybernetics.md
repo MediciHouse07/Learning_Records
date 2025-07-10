@@ -2,6 +2,20 @@
 
 2025/07/08
 
+0300<->0800
+
+- variety of interest 
+- trivial is deterministic system, car and wheel
+- error controlled regulation
+- cause controlled regulation
+- outside temperature drop, you would expect the temperature drop soon, so you would expect heater to be turned up, cause controlled regulation
+- building school to accommodate students
+- baby boom period, building classes for students
+
+# Lecture 8
+
+2025/07/08
+
 0000<->0300
 
 - trivial, obvious or not important or with many details
