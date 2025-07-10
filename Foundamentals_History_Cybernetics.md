@@ -1,3 +1,20 @@
+# Lecture 8
+
+2025/07/08
+
+0000<->0300
+
+- trivial, obvious or not important or with many details
+- trivial system, car and wheel
+
+# Lecture 7
+
+2025/07/08
+
+1300<->1500 End
+
+- two nested feedback loop is mentioned
+
 # Lecture 7
 
 2025/07/07
