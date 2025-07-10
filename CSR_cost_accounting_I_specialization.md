@@ -1,6 +1,55 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
 # Module 4
+Multi-stage process costing
+
+0000<->0200 TTL15MINS FOR THE DAY
+
+2025/07/09
+
+# Module 4
+Single-stage process costing
+
+0000<->0200 End
+
+2025/07/09
+
+# Module 4
+Book keeping for job shop production
+
+2025/07/09
+
+0000<->0200 End
+
+- wage and salaries become WIP
+
+# Module 4
+Actual costing, interim costing, and normal costing
+
+2025/07/09
+
+- post costing, costing for the past
+- normal overhead rate
+
+# Module 4
+Machine-hour costing
+
+2025/07/09
+
+0600<-0900 End
+
+- total cost of the job
+- job shop
+- A job shop is a type of manufacturing facility that produces small batches of a variety of products. Here are some key characteristics:
+
+    Customization: Job shops often focus on custom work, meaning they tailor their products to specific customer requirements.
+    Flexibility: They can handle a wide range of products and adapt to different production needs.
+    Equipment: Job shops typically use general-purpose equipment, allowing them to produce different items without needing specialized machinery.
+    Production Process: The production process is often more complex and involves various steps, which can vary significantly from one job to another.
+
+Job shops are commonly found in industries like metalworking, woodworking, and textiles. If you have more questions about job shops or related topics
+
+# Module 4
 Machine-hour costing
 
 2025/07/08
