@@ -1,3 +1,48 @@
+# Module 2
+Comparing operating income under absorption and variable costing
+
+0000<->0300
+
+2025/07/10
+
+- absorption costing and variable costing?
+
+# Module 2
+Comparison of income statements and financial accounting
+
+0000<->0200 End
+
+2025/07/10
+
+- income statement in cost accounting vs IS in financial accounting
+- 
+
+# Module 1
+Cost-of-sales method
+
+2025/07/10
+
+0000<->0400 End
+
+- manufactuer product cost
+- sold product cost
+- the difference is that you don't need to consider inventory changes
+- CoS method can let you know which product is more successful
+- CoS method is 
+
+# Module 1
+Nature of expense method
+
+2025/07/10
+
+0000<->0700 End
+
+- sell more than produced
+- inventory increased
+- means you have revenue increased
+- otherwise means cost increased
+
+
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/oRyXx/method-of-credits-and-debits
 
 # Module 4
