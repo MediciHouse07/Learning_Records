@@ -1,4 +1,14 @@
 # SEQUENCES - Lec 11 - Mathematics for Economists I
+
+1730<->2230
+
+2025/07/10
+
+- with respect to metric m
+- 147.5
+- use the neighborhood concept to describe array converge
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
 2025/07/09
 
 1230<->1730
