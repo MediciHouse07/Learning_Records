@@ -1,3 +1,27 @@
+# Lecture 9
+
+2025/07/10
+
+0000<->0300
+
+- regulator needs to know the relation
+
+# Lecture 8
+
+0800<->1500
+
+2025/07/10
+
+- disturbance and classes?
+- understand the relation
+- selection is limited by information available
+- regulator and system being regulated
+- estimate the task
+- then buy a computer
+- sell computer to China, IBM
+- 1200 mins
+- if you use variety to compete with competitors you use computer
+
 # Lecture 8
 
 2025/07/08
