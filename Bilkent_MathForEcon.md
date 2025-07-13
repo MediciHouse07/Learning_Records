@@ -1,5 +1,16 @@
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
+2025/07/11
+
+2330<->3430
+
+- convergent vs divergent
+- every sequence converge to everything
+- indiscrete topology, discrete topology
+- discrete topology and analogy with common definition of convergence
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
 1730<->2230
 
 2025/07/10
