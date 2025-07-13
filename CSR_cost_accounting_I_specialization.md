@@ -1,3 +1,21 @@
+
+# Module 2
+Comparing operating income under absorption and variable costing
+
+2025/07/11
+
+0000<->0900
+
+- absorption costing and variable costing
+- variable costing doesn't contain fix costing
+- absorption full costs
+- variable, no fixed
+- diff between absorption full cost and variable costing, change in inventory * fixed manufacturing overhead per unit
+- absorption costing bring higher profit
+- variable costing lead to loss
+- nature of expense method vs CoS method
+- absorption costing vs variable costing
+
 # Module 2
 Comparing operating income under absorption and variable costing
 
