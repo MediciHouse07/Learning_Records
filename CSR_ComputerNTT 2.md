@@ -1,6 +1,30 @@
+# Module 2
+Unit 0.2: Machine Language Elements
+
+2025/07/12
+
+0000<->0700
+
+- cost performance tradeoff
+- arithmetic operations, logical operations, flow control
+- access memory is expensive, need to supply a long address, getting the memory contents into the CPU take time
+- memory hierarchy
+- registers (in CU), cache, main memory, disk
+- disk is also considered as memory
+
+
+# Module 2
+Unit 0.1: Machine Language Overview
+
+2025/07/12
+
+0900<->1200 End
+
 Unit 0.1: Machine Language Overview | Coursera
 .# Module 2
 .Unit 0.1: Machine Language Overview
+
+
 2025/07/04
 
 - Turing, theory
