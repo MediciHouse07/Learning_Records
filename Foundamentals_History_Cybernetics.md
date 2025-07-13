@@ -1,3 +1,21 @@
+
+# Lecture 9
+
+2025/07/11
+
+0300<->1300
+
+- hydraulic
+- amplification
+- piston
+- additional energy going into the pump
+- valve
+- amplification in decision making
+- complete hostility
+- policing things is not the same case
+- price, anti trust
+- amplification of regulatory activities
+
 # Lecture 9
 
 2025/07/10
