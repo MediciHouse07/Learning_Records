@@ -1,3 +1,22 @@
+https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
+
+# Lecture 10
+
+0000<->0300
+
+2025/07/12
+
+- increase variety of regulator
+- reduce the system into less various
+- CS customer satisfaction
+
+# Lecture 9
+
+1300<->1500 End
+
+2025/07/12
+
+- by regulating less, you can influence more
 
 # Lecture 9
 
