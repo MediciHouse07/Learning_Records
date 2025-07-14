@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
+3430<->4430
+
+2025/07/12
+
+- the joint
+- a proof done algebraically
+- uniqueness bring equality??? 4300 mins
+
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
 2025/07/11
