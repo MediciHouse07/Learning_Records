@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-ahead
 
+# Module 1
+Unit 0.2: From Nand to Hack
+
+0000<->0200
+
+2025/07/13
+
+- ROM, CPU, RAM
+- ROM, read only memory
+- chipset
+- 
+
+# Module 1
+Unit 0.1: The Road Ahead
+
+2025/07/13
+
+0500<->1000 End
+
+- exam as a test unit, different way to read it but powerful
+
 # Week 1 Unit 1.5: Hardware Simulation
 
 2024/10/18
