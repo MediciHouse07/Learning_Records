@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
+2025/07/13
+
+0000<->0500
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
+2025/07/13
+
+4100<->4600 End
+
+- closeness set in Euclidean space has another way to be read
+- where the name limit point come from
+
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
 3430<->4430
