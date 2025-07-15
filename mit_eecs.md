@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=AfQxyVuLeCs
 
 # Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
 
+2700<->End
+
+2025/07/13
+
+- it is the logic introduced in the cybernetics course, explains why regulate less, in your own operations may also benefit you
+- IV characteristic of battery
+- abstraction can't produce the entire picture
+- pickle
+- KVL
+
+# Lec 1 | MIT 6.002 Circuits and Electronics, Spring 2007
+
 # Lecture 1
 
 2025/05/08
