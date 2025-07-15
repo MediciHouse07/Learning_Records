@@ -1,4 +1,20 @@
 
+https://www.coursera.org/learn/cost-accounting-profit-and-loss-calculation/lecture/SG7JO/comparing-operating-income-for-multiple-periods
+
+# Module 2
+Comparing operating income for multiple periods
+
+2025/07/13
+
+0000<->0600 End
+
+- costant level of inventory lead to the same proft according to absorption costing and profit according to variable costing
+- increase inventory >
+- decrease inventory <
+- CoS consider product sold
+- there could be another method focusing on product manufactuered
+- according to nature of expense method, variable costing abd absorption costing return the same result
+
 # Module 2
 Comparing operating income under absorption and variable costing
 
