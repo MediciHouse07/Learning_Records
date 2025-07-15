@@ -1,6 +1,18 @@
 # Module 2
 Unit 0.2: Machine Language Elements
 
+2025/07/13
+
+0700<->1000 1000<->1500
+
+- long address doesn't exist
+- data registers
+- address registers
+- flow control
+
+# Module 2
+Unit 0.2: Machine Language Elements
+
 2025/07/12
 
 0000<->0700
