@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 10
 
+0200<->0700
+
+2025/07/13
+
+- CS=P-E
+- performance minus expectation
+- mechanical chess player
+- outperform
+
+# Lecture 10
+
 0000<->0300
 
 2025/07/12
