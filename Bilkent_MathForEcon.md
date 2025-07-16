@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+2025/07/15
+
+0000<->1000
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 2025/07/13
 
 0000<->0500
