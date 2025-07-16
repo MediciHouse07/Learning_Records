@@ -1,3 +1,17 @@
+
+https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
+
+# 6/10 Lecture 6 Module 3
+
+2025/07/15
+
+0000<->1100 End
+
+- tenure
+- HSBC ENG
+- credit or loan is financed by you
+- over the course of the day
+
 # 5/10 Lecture 6 Module 3
 
 2025/07/07
