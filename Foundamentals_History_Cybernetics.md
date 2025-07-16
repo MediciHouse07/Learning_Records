@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 10
 
+2025/07/15
+
+0700<->1200
+
+- long chain molecule, chemistry
+
+# Lecture 10
+
 0200<->0700
 
 2025/07/13
