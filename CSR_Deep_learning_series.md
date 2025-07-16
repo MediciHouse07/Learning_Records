@@ -1,3 +1,17 @@
+
+https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
+
+# Week 2
+Build your First System Quickly, then Iterate
+
+2025/07/15
+
+0000<->0500 End
+
+- build your first system quickly, then iterate it
+- initial system quickly and start to see how it was doing
+- 144.7
+
 2025/01/11
 
 0000<->1000
