@@ -1,6 +1,15 @@
 # Module 2
 Unit 0.2: Machine Language Elements
 
+2025/07/15
+
+1000<->1700
+
+- mouse is connected to a certain register
+
+# Module 2
+Unit 0.2: Machine Language Elements
+
 2025/07/13
 
 0700<->1000 1000<->1500
