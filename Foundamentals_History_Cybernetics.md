@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 10
 
+2025/07/16
+
+1000<->1500 End
+
+# Lecture 10
+
 2025/07/15
 
 0700<->1200
