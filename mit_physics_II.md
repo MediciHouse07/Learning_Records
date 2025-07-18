@@ -1,3 +1,18 @@
+# Lecture 1
+
+Lecture 1
+
+2025/07/16
+
+0000<->1000
+
+- force and therefore muscle retraction requires electricity
+- mp, proton
+- mn, neutron
+- atom
+- conduct conductors
+- induction
+
 # https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=2
 
 # Lecture 1
