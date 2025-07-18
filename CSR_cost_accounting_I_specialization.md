@@ -2,6 +2,17 @@
 https://www.coursera.org/learn/cost-accounting-profit-and-loss-calculation/lecture/SG7JO/comparing-operating-income-for-multiple-periods
 
 # Module 2
+Incentives for undesirable buildup of inventory under absorption costing
+
+2025/07/16
+
+0000<->0500 End
+
+- undescirable incentives
+- don't use absorption costing
+- imputed interest costs on inventories
+
+# Module 2
 Comparing operating income for multiple periods
 
 2025/07/13
