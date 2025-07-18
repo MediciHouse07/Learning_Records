@@ -2,6 +2,23 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+2025/07/16
+
+1000<->1500
+
+- TBR, limit point and intersection part, action taking below
+
+# THE INTERIOR, CLOSURE and BOUNDARY OF A SET - Lec 09 - Mathematics for Economists I
+
+2500<->3000
+
+2025/07/16
+
+- prof of character of limit point
+- derive casual relation by reasoning
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 2025/07/15
 
 0000<->1000
