@@ -2,6 +2,24 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+0000<->0700
+
+2025/07/17
+
+- convergent sequence
+- sequence in cap A
+
+# SEQUENCES - Lec 11 - Mathematics for Economists I
+
+1500<->1800
+
+2025/07/17
+
+- definition of a sequence in a set
+- every x mapping N to A
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 2025/07/16
 
 1000<->1500
