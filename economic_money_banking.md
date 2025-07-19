@@ -1,6 +1,16 @@
 
 https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
 
+# 8/10 Lecture 6 Module 3
+2025/07/17
+
+0000<->0300
+
+# 7/10 Lecture 6 Module 3
+2025/07/17
+
+0000<->End
+
 # 6/10 Lecture 6 Module 3
 
 2025/07/15
