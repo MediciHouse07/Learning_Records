@@ -1,4 +1,17 @@
 # Module 2
+Unit 0.3: The Hack Computer and Machine Language
+
+2025/07/17
+
+0000<->0500
+
+- create, move, chunk of 16 bit
+- ROM, is instruction memory
+- instruction buses, data buses, address buses
+- ROM is an abbreviation of read only memory
+- maybe because it was a place stores instruction
+
+# Module 2
 Unit 0.2: Machine Language Elements
 
 2025/07/15
