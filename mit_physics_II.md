@@ -1,3 +1,17 @@
+
+# Lecture 1
+
+2025/07/17
+
+1000<->1500 0700<->1200
+
+- glass rod
+- polarization
+- pheonomenon of induction
+- induction is also from elec and magneti. field, it says react to elec and maneti.
+- electrons are inside of the bloom
+- charge exchanges
+
 # Lecture 1
 
 Lecture 1
