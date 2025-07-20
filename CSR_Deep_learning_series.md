@@ -1,4 +1,15 @@
 
+https://www.youtube.com/watch?v=Mvy5hjAWeZw&list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j
+
+# Week 1
+Edge Detection Example
+
+0000<->0500
+
+- asterisk
+- TBRT
+- vertical edge detection
+
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/Ob1nR/computer-vision
 
 # Week 1
