@@ -1,3 +1,28 @@
+# Module 3
+Simple contribution margin accounting
+
+0000<->0400
+
+- Definition: Costs that do not change with the level of production or sales. They remain constant regardless of how much a company produces.
+Examples:
+Rent or lease payments for facilities
+Salaries of permanent staff
+Depreciation of equipment
+Variable Costs:
+
+Definition: Costs that vary directly with the level of production or sales. They increase as production increases and decrease as production decreases.
+Examples:
+Raw materials used in production
+Direct labor costs (wages for hourly workers)
+Utilities that fluctuate with production levels
+- a way that would lose revenue
+
+# Module 3
+Multi-leveled contribution margin accounting
+
+2025/07/19
+
+0000<->0200 end
 
 https://www.coursera.org/learn/cost-accounting-profit-and-loss-calculation/lecture/SG7JO/comparing-operating-income-for-multiple-periods
 
