@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+0700<->1700
+
+2025/07/19
+
+- epsilon ball of a
+- epsilon ball about a
+- i.e. has the meaning of that said
+- COR, A is closed iff the limit of every conv. seq in A belongs to A
+- if a set has no cluster point, it has to be closed
+- discrete metric has the characteristic
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 2025/07/18
 
 0130<->0630 0000<->0500
