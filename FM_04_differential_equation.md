@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
+# Lecture 6
+
+2025/07/19
+
+2100<->2600
+
+- r modulus of alpha
+- theta argument of alpha
+
 # Lec 6 | MIT 18.03 Differential Equations, Spring 2006
 
 2025/06/03
