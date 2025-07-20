@@ -1,3 +1,10 @@
+# 8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization
+
+2025/07/18
+
+1500<->2000
+
+- friction
 
 # Lecture 1
 
