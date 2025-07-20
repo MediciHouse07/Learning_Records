@@ -1,4 +1,13 @@
 
+https://www.coursera.org/learn/convolutional-neural-networks/lecture/Ob1nR/computer-vision
+
+# Week 1
+Computer Vision
+
+2025/07/18
+
+0000<->0500 End
+
 https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
 
 # Week 2
