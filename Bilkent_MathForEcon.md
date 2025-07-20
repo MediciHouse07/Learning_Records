@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+2025/07/18
+
+0130<->0630 0000<->0500
+
+- TBR AP
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 0000<->0700
 
 2025/07/17
