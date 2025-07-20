@@ -1,5 +1,21 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 21: Gradient fields and potential functions | MIT 18.02 Multivariable Calculus, Fall 2007
+
+0000<->0200
+
+2025/07/19
+
+- vector field, gradient field
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
+0000<->0400
+
+2025/07/19
+
+- vector field and line integral
+
 # Lecture 21
 
 2024/12/17
