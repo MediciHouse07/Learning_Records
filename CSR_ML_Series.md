@@ -1,3 +1,21 @@
+
+https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampling-with-replacement
+# Week 4
+Sampling with replacement
+
+2025/07/19
+
+0000<->0400 End
+
+# Week 4
+Using multiple decision trees
+
+2025/07/19
+
+0000<->0400 End
+
+- whisker
+
 # Week 2 SoftMax
 
 2024/12/28
