@@ -1,3 +1,17 @@
+
+# Module 2
+Unit 0.4: Hack Language Specification
+
+0000<->0500
+
+2025/07/20
+
+- hack program, written in
+- assembler
+- A instruction 0 value, where value is 15 bit long
+- op code, and not used
+- ALU, arithmetic logic unit
+
 # Module 2
 Unit 0.3: The Hack Computer and Machine Language
 
