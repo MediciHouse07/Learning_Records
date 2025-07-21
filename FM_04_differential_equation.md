@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
+# Lec 6 | MIT 18.03 Differential Equations, Spring 2006
+
+2600<->3100
+
+2025/07/20
+
+- polar form, good for multiplication
+- r stand for moduli
+- add arguments
+- multiply moduli
+- complexfying the problem
+
 # Lecture 6
 
 2025/07/19
