@@ -1,4 +1,19 @@
 
+https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-detection-example
+
+# Week 1
+Edge Detection Example
+
+0000<->0500
+
+2025/07/20
+
+- filter matrix
+- six by six by one, six by six by three
+- kernel, filter
+- convol denoted as *
+- fit a straight line
+
 https://www.youtube.com/watch?v=Mvy5hjAWeZw&list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j
 
 # Week 1
