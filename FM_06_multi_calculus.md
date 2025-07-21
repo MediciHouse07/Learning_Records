@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
+0300<->1300
+
+2025/07/20
+
+- angular velocity
+
 # Lec 21: Gradient fields and potential functions | MIT 18.02 Multivariable Calculus, Fall 2007
 
 0000<->0200
