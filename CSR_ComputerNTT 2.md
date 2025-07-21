@@ -1,6 +1,22 @@
 # Module 2
 Unit 0.3: The Hack Computer and Machine Language
 
+2025/07/19
+
+0500<->1500 End
+
+- D register
+- A register
+- M register
+- A instruction, set A register to RAM 21
+- @100,M=-1
+- C instruction, workhouse
+- dest = comp ; jump
+- The JEQ jump directive is activated, so the next instruction will be the value stored in A. 
+
+# Module 2
+Unit 0.3: The Hack Computer and Machine Language
+
 2025/07/17
 
 0000<->0500
