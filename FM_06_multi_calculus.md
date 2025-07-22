@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
+1300<->1800
+
+2025/07/21
+
+- angular velocity is 1
+- angular velocity = radius * angular
+- TBRT
+- work and line integral
+- displacement vector, change of position of vector
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
