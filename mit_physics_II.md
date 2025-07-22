@@ -1,3 +1,12 @@
+
+# 8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization
+
+2000<->2600
+
+2025/07/21
+
+- comb
+
 # 8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization
 
 2025/07/18
