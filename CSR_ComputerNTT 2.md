@@ -2,6 +2,13 @@
 # Module 2
 Unit 0.4: Hack Language Specification
 
+0500<->1000 End
+
+2025/07/21
+
+# Module 2
+Unit 0.4: Hack Language Specification
+
 0000<->0500
 
 2025/07/20
