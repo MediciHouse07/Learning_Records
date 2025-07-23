@@ -2,6 +2,16 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-detection-example
 
 # Week 1
+More Edge Detection
+
+0000<->0500
+
+2025/07/22
+
+- if you convol it
+- sobel filter
+
+# Week 1
 Edge Detection Example
 
 0500<->1100 End
