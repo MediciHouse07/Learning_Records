@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 11
+
+0000<->0300 0100<->0300
+
+2025/07/22
+
+- evens drive out odds
+- 0 drive out even
+- Shenen's information theory
+- 3 to 1 chance
+
 # Lecture 10
 
 2025/07/16
