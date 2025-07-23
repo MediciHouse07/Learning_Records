@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+1600<->2600
+
+2025/07/22
+
+- bounded sequences
+- bounded sequence has a convergent sub sequence
+- bosano wasaniers
+- Bolsano Westrapb
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 1100<->1600
 
 2025/07/20
