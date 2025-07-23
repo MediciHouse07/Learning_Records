@@ -4,6 +4,17 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-
 # Week 1
 Edge Detection Example
 
+0500<->1100 End
+
+2025/07/21
+
+- tf.nn.conv2d
+- keras
+- deep learning framework, tensorflow, keras
+
+# Week 1
+Edge Detection Example
+
 0000<->0500
 
 2025/07/20
