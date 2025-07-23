@@ -1,5 +1,15 @@
+https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
-https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
+# 8/10 Lecture 6 Module 3
+2025/07/22
+
+0200<->0700 End
+
+2025/07/22
+
+- fed can intervue into market in the way of maintaining the reserve
+- RP loan cerate additional reserve
+- Yes, the Federal Reserve can create reserves "from thin air" through its monetary policy operations. This typically occurs when the Fed conducts open market operations, such as buying government securities
 
 # 8/10 Lecture 6 Module 3
 2025/07/17
