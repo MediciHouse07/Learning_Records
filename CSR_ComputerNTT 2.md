@@ -1,5 +1,14 @@
 
 # Module 2
+Unit 0.5: Handling Input and Output
+
+0000<->0400
+
+2025/07/22
+
+- screen memory map
+
+# Module 2
 Unit 0.4: Hack Language Specification
 
 0500<->1000 End
