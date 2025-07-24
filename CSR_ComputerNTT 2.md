@@ -2,6 +2,15 @@
 # Module 2
 Unit 0.5: Handling Input and Output
 
+0400<->0900
+
+2025/07/23
+
+- screen chip
+
+# Module 2
+Unit 0.5: Handling Input and Output
+
 0000<->0400
 
 2025/07/22
