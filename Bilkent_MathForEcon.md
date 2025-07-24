@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+2600<->3600
+
+2025/07/23
+
+- discrete metric, can be infinite and bounded but has no cluster point
+- reasoning of are there any gurantees of cluster point
+- definition of monotonicity of a sequence
+- preservation of the order structure of N
+- without any informal description
+- using increasing sequence to define subsequence xor
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 1600<->2600
 
 2025/07/22
