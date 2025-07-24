@@ -1,5 +1,13 @@
 # https://www.youtube.com/watch?v=hKYsYRoyKZQ&list=PL5B3KLQNAC5jTa_F6ssgqdnesapLCLkja&index=9
 
+# Comparative Politics I - Lecture 09 (POLS 303)
+
+0000<->0500
+
+2025/07/23
+
+- state finance, tax and expenditure
+
 # Lecture 9
 
 0800<→1300
