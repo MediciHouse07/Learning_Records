@@ -1,4 +1,28 @@
 
+https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/ZQrGU/tasks-of-cost-center-accounting-and-structure-of-cost-centers
+
+# Module 3
+Tasks of cost-center accounting and structure of cost centers
+
+0000<->0500
+
+2025/07/23
+
+- German company 10 around people one cost center
+- US, cost center is larger called cost department
+- not manage it as German company
+- cost center manager is responsible for the cost center
+- A cost center manager can be both a dedicated role or a line manager, depending on the organization's structure and size. Here are the two scenarios:
+
+Dedicated Role: In larger organizations, a cost center manager may be a specific position focused solely on managing costs within a particular cost center, ensuring efficiency and cost control.
+
+Line Manager: In smaller organizations or teams, the line manager (e.g., the sales team leader) may also take on the responsibilities of a cost center manager, overseeing both team performance and cost management.
+This flexibility allows companies to adapt their management structure based on their needs. Would you like to explore more about cost center management?
+- homogeneity of cost drivers
+- assignment of responsibilities
+- cost benefit criterion
+- >100 employees you need a cost center
+
 # Module 3
 
 Simple contribution margin accounting
