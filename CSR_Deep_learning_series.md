@@ -2,6 +2,26 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-detection-example
 
 # Week 1
+Padding
+
+0000<->0200
+
+2025/07/23
+
+- padding
+- TBRT
+
+# Week 1
+More Edge Detection
+
+0500<->0800
+
+2025/07/23
+
+- screen chip
+- edge detector study to determine how the filter matrix should look like
+
+# Week 1
 More Edge Detection
 
 0000<->0500
