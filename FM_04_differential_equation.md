@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+
+2025/07/24
+
+0000<->0500
+
+- rectify
+- separation of variables, first order linear equation
+- which is the analog
+- c=0 is called homogeneous
+
 # Lec 7 | MIT 18.03 Differential Equations, Spring 2006
 
 0600<->1100
