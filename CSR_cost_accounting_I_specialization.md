@@ -2,6 +2,22 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/ZQrGU/tasks-of-cost-center-accounting-and-structure-of-cost-centers
 
 # Module 3
+The three steps of cost-center accounting
+
+2025/07/24
+
+0000<->0400
+
+- 
+
+# Module 3
+Tasks of cost-center accounting and structure of cost centers
+
+2025/07/24
+
+0500<->0630 End
+
+# Module 3
 Tasks of cost-center accounting and structure of cost centers
 
 0000<->0500
