@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 11
 
+0300<->0800
+
+2025/07/24
+
+- Shannon
+- variety observed vs variety possible
+- history of telegraph company
+- western union
+
+# Lecture 11
+
 0000<->0300 0100<->0300
 
 2025/07/22
