@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
+2025/07/24
+
+3600<->4100 3600<->4100
+
+- x(r(n))
+- xrn
+- xor n
+- sequence boundedness and set boundedness
+- composition function
+- we will refer to the sequence is bounded sequence
+
+# SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
+
 2600<->3600
 
 2025/07/23
