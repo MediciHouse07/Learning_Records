@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
+2025/07/24
+
+2500<->3000
+
+- what does a symbol
+- r is a position vector
+- we don't know how to do dr, r is a vector
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2000<->2500
 
 2025/07/23
