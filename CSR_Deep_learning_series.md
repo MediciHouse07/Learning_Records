@@ -1,6 +1,17 @@
 
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-detection-example
 
+# Week 1 Padding
+
+2025/07/24
+
+0000<->0500
+
+- shrinking output
+- throw away info from edge
+- valid convolution, no padding
+- same convolution
+
 # Week 1
 Padding
 
