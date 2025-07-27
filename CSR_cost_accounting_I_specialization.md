@@ -2,6 +2,17 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/ZQrGU/tasks-of-cost-center-accounting-and-structure-of-cost-centers
 
 # Module 3
+Primary cost allocation
+
+2025/07/25
+
+0000<->0500
+
+- primary cost allocation
+- direct costs can be traced to one cost center
+- cost center indirect costs can be traced to more than one cost centers
+
+# Module 3
 The three steps of cost-center accounting
 
 2025/07/24
