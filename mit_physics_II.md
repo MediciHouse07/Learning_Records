@@ -1,4 +1,14 @@
 
+# Lecture 1
+
+2600<->3100
+
+2025/07/25
+
+- organize even the most pre era device, maybe organize them is not even hard, but the test and confirm it works would still require intelligence and time
+- not reproducible immediately
+- kulong's constants
+
 # 8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization
 
 2000<->2600
