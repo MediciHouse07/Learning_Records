@@ -1,5 +1,12 @@
 34 lectures in TTL
 
+
+# Lecture 4
+
+2025/07/25
+
+0500<->1000
+
 # 4. Factorization into A = LU
 
 0000<->0500
