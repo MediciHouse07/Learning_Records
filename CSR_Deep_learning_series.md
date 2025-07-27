@@ -1,4 +1,14 @@
 
+# Week 1
+Padding
+
+2025/07/25
+
+0500<->1000 End
+
+- solve for p
+- f is usually odd, as centric position, and for calculate padding
+
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/4Trod/edge-detection-example
 
 # Week 1 Padding
