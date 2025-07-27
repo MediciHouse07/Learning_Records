@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 12
+
+3800<->4800 End
+
+2025/07/25
+
+- rK in the tightless case it is K
+- Bolzano weienstrab
+- bounded sequence means it has bounded set
+
 # SEQUENCES (cont'd) - Lec 12 - Mathematics for Economists I
 
 2025/07/24
