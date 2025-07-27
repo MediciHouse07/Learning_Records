@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 11
 
+2025/07/25
+
+0800<->1300
+
+- breaking monopoly
+- to make the system more competitive
+
+# Lecture 11
+
 0300<->0800
 
 2025/07/24
