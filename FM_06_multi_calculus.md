@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
+2025/07/27
+
+4000<->4500
+
+- T direction on the curve
+- T is tangent to the trajectory
+- the force on the T and integrate it along the curve
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2025/07/25
 
 3500<->4000
