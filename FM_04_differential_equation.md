@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 
+2025/07/26
+
+1000<->1500
+
+- temperature concentration
+- Newton cooling
+- t time, T temperature
+
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+
 2025/07/25
 
 0500<->1000
