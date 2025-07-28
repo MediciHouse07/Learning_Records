@@ -1,5 +1,13 @@
 34 lectures in TTL
 
+# 4. Factorization into A = LU
+
+2025/07/25
+
+1000<->1500
+
+- L lower triangular
+- u upper triangular
 
 # Lecture 4
 
