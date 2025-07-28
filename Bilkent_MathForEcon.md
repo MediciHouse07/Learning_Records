@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+
+2025/07/26
+
+0000<->0500
+
 # Lecture 12
 
 3800<->4800 End
