@@ -1,4 +1,14 @@
 
+# Module 2
+Unit 0.5: Handling Input and Output
+
+2025/07/25
+
+1900<->2400
+
+- probe the contents of the keyboard chip
+- read only chip
+
 # odule 2
 Unit 0.5: Handling Input and Output
 
