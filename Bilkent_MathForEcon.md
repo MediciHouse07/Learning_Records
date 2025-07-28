@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+2025/07/27
+0500<->1000
+
+- convergent of a vector sequence
+- next course is about copactness, and continuity
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 
 2025/07/26
 
