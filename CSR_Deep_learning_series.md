@@ -1,6 +1,19 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Week 1
+One Layer of a Convolutional Network
+
+0000<->0500
+
+2025/07/28
+
+- In the context of convolutional neural networks (CNNs), a parameter typically refers to the values that the model learns during training. These include:
+
+Weights: Each filter in a convolutional layer has associated weights that are adjusted during training to minimize the error in predictions. The weights determine how much influence each input feature has on the output.
+
+Biases: Each filter also has a bias term, which is added to the output of the convolution operation. This helps the model make better predictions by allowing it to shift the activation function.
+
+# Week 1
 Convolutions Over Volume
 
 2025/07/27
