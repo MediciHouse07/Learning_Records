@@ -1,3 +1,14 @@
+https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
+
+# Module 2
+Unit 0.6: Low-Level Programming, Part I
+
+2025/07/27
+
+0000<->0230
+
+- compute, store, jump
+- week6 ntt1, about assembler
 
 # Module 2
 Unit 0.5: Handling Input and Output
