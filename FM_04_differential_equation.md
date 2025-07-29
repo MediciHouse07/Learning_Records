@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 
+2000<->3000
+
+2025/07/28
+
+- standard linear form
+- compare it with standard form
+- integrating factor
+- integrate both side with respect to x
+
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+
 2025/07/27
 
 1500<->2000
