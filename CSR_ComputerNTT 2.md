@@ -3,6 +3,17 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 # Module 2
 Unit 0.6: Low-Level Programming, Part I
 
+0230<->0730
+
+2025/07/28
+
+- CPU emulator
+- d data register, a address data register
+- M currently selected memory register
+
+# Module 2
+Unit 0.6: Low-Level Programming, Part I
+
 2025/07/27
 
 0000<->0230
