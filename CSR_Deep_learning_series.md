@@ -1,4 +1,12 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
+
+# Week 1
+Convolutions Over Volume
+
+2025/07/27
+
+0500<->1000
+
 Stride convolution
 
 # Week 1
