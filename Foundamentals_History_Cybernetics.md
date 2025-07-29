@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 11
+2025/07/27
+
+1000<->1500
+
+- in the absence of fed intervention
+- competitive exclusion
+- natural tendency
+
+# Lecture 11
 
 2025/07/25
 
