@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
+4500<->5000
+
+2025/07/28
+
+- Mdx Ndy
+- because dr vector is dx dy
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2025/07/27
 
 4000<->4500
