@@ -4,6 +4,11 @@ https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture
 # Module 3
 Primary cost allocation
 
+2025/07/28
+
+# Module 3
+Primary cost allocation
+
 2025/07/25
 
 0000<->0500
