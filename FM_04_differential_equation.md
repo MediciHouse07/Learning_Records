@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 
+3000<->3500
+
+2025/07/29
+
+- multiply both sides by the integrating factor
+
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+
 2000<->3000
 
 2025/07/28
