@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 
+1500<->2000
+
+2025/07/29
+
+- open covering of
+- TBRT
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+
 1000<->1500
 
 2025/07/28
