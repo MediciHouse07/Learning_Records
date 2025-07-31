@@ -3,6 +3,15 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 # Week 1
 One Layer of a Convolutional Network
 
+2025/07/29
+
+0500<->1000
+
+- convolution layer
+
+# Week 1
+One Layer of a Convolutional Network
+
 0000<->0500
 
 2025/07/28
