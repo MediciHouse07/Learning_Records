@@ -1,3 +1,13 @@
+https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
+
+2025/07/30
+
+0000<->0500
+
+math.mit.edu/learningfromdata
+
 ## 1
 
 2500<->End
