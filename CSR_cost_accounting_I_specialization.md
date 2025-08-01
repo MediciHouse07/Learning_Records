@@ -2,6 +2,17 @@
 https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/lecture/ZQrGU/tasks-of-cost-center-accounting-and-structure-of-cost-centers
 
 # Module 3
+
+Primary cost allocation
+
+2025/07/30
+
+0000<->0500
+
+- how to allocate cost from cost type accounting to individual cost center
+- square meter or cubic meter
+
+# Module 3
 Primary cost allocation
 
 2025/07/28
