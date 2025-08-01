@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 
+3500<->4200
+
+2025/07/30
+
+- my most common mistake
+
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+
 3000<->3500
 
 2025/07/29
