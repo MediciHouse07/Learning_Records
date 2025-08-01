@@ -1,6 +1,17 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
 # 8/10 Lecture 6 Module 3
+
+0200<->0700 End
+
+2025/07/30
+
+- the Fed doesn't set the FF rate
+- they don't participate in the FF market, they don't sell and buy
+- FF manupulate reserves, through repo market
+- like create a reserve account to security dealer, security dealer lend it on the FF market
+
+# 8/10 Lecture 6 Module 3
 2025/07/22
 
 0200<->0700 End
