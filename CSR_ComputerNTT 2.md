@@ -1,6 +1,23 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Module 2
+
+Unit 0.6: Low-Level Programming, Part I
+
+1230<->1730
+
+2025/07/30
+
+- indentation
+- comments and white spaces
+- 1630 mins, hacker mentioned
+- nope, null instruction
+- computer is always doing something
+- end computer with infinite loop
+- end every program with inifite loop
+
+
+# Module 2
 Unit 0.6: Low-Level Programming, Part I
 
 0730<->1230
