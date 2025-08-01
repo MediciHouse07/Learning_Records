@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Week 1
+
+One Layer of a Convolutional Network
+
+2025/07/30
+
+1000<->End
+
+# Week 1
 One Layer of a Convolutional Network
 
 2025/07/29
