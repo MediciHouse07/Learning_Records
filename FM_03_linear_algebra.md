@@ -4,6 +4,14 @@
 
 2025/07/25
 
+1500<->2000
+
+- why E inverse products better than E products
+
+# 4. Factorization into A = LU
+
+2025/07/25
+
 1000<->1500
 
 - L lower triangular
