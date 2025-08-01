@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2Pivh
 
 2025/07/30
 
+0500<->1000
+
+- 1) dot product 2) vector approach 3)
+- think of a matrix as a thing
+- think of Ax combination of columns of A
+- all Ax column space of A
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
+
+2025/07/30
+
 0000<->0500
 
 math.mit.edu/learningfromdata
