@@ -2,6 +2,14 @@
 
 # 4. Factorization into A = LU
 
+2025/07/31
+
+2000<->2500
+
+- decouple A into two pieces, that hold its key information still but in another form
+
+# 4. Factorization into A = LU
+
 2025/07/25
 
 1500<->2000
@@ -1776,4 +1784,5 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
