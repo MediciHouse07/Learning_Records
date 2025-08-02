@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# # Module 2
+Unit 0.6: Low-Level Programming, Part I
+
+1730<->2230
+
+2025/07/31
+
+- 16 virtual registers
+- use A register as a data register
+- symbols is to denote the fact to be more explicitly
+
 # Module 2
 
 Unit 0.6: Low-Level Programming, Part I
