@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2Pivh
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
 
+1000<->1500
+
+2025/07/31
+
+- column space of A, line, rank of A = 1, dimension of column space
+- only two columns can enable a matrix of rank 2
+- rank one matrices, building block of data science
+- column times row
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
+
 2025/07/30
 
 0500<->1000
