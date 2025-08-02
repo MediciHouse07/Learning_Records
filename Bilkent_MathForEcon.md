@@ -2,6 +2,19 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 
+1300<->2500
+
+2025/07/31
+
+- extension of finiteness
+- extension of continuity
+- open covering of A
+- first is to test if it is open covering of R2
+- second is to use integers, if g’ an open covering of R2
+- 1) open set test?
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+
 1500<->2000
 
 2025/07/29
