@@ -1,6 +1,13 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Week 1
+Simple Convolutional Network Example
+
+2025/07/31
+
+- logistics vs softmax
+
+# Week 1
 
 One Layer of a Convolutional Network
 
