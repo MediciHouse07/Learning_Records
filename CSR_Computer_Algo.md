@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
 
+# Module 2
+O(n log n) Algorithm for Counting Inversions I
+
+0000<->0500
+
+2025/08/01
+
+- motivation for doing inversion
+
 # Integer Multiplication
 
 0000<->0500
