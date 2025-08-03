@@ -3,6 +3,15 @@
 # 4. Factorization into A = LU
 2025/07/31
 
+3300<->3800
+
+- capture the right leading terms
+- the series has a upper bound, which is n cube
+- integrate n square series, and detect upper bound
+
+# 4. Factorization into A = LU
+2025/07/31
+
 2500<->3300
 
 - how many operations can n by n matrix A
@@ -1795,6 +1804,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
