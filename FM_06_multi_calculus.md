@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 
+2025/08/02
+
+0000<->0800
+
+- T is unit tangent vector
+- s is length
+- parameterize things
+- x=t t is from a to b
+
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2025/07/29
 
 0000<->0400
