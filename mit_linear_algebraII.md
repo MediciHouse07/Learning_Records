@@ -1,6 +1,19 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+1500<-> 1700 1700<->2200
+
+2025/08/01
+
+- basis
+- rank can be deemed as number of independent columns
+- independent and combination has to flll the space, make it to be a basis
+- basis C
+- column rank
+- A C R
+- basis and coordinates, basis transformation
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 
 1000<->1500
 
