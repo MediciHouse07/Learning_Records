@@ -1,5 +1,22 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Module 2
+Unit 0.7
+
+2025/08/01
+
+0000<->0330
+
+- branching, variable, iteration
+- brancing decide to jump or not
+
+# Module 2
+Unit 0.6: Low-Level Programming, Part I
+
+2230<->2400 End 
+
+2025/08/01
+
 # # Module 2
 Unit 0.6: Low-Level Programming, Part I
 
