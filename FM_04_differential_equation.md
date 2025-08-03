@@ -1,6 +1,17 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+4200<->4400
+
+2025/08/02
+
+- initial condition y(0)=1
+- to evaluate the constant
+- linear equation with constant coefficient
+- p is constant
+- unit has to be compatible on both side
+
+# Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 
 3500<->4200
 
@@ -933,3 +944,4 @@ finished, 2655<->End
 - stady state plus another element, the another element will be 0
 - temperature model
 - this lecture need the previous lecture to refresh memory
+
