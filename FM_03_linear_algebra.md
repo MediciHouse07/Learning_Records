@@ -1,6 +1,17 @@
 34 lectures in TTL
 
 # 4. Factorization into A = LU
+2025/07/31
+
+2500<->3300
+
+- how many operations can n by n matrix A
+- linear algebra and computer science
+- is the answer propotional to n?
+- double n, 2 times long, squared times long, cube times long or n factorial long
+- why 100 squared?
+
+# 4. Factorization into A = LU
 
 2025/07/31
 
@@ -1784,5 +1795,6 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
