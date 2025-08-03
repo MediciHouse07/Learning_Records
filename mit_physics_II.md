@@ -1,6 +1,20 @@
 
 # Lecture 1
 
+3100<->3600
+
+2025/08/01
+
+- force is propotional to
+- micro K
+- proton electron
+- epsilon0 is 
+- TBRT
+- q1 and q2 are masses
+- electricity connects to gravity works
+
+# Lecture 1
+
 2600<->3100
 
 2025/07/25
