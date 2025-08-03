@@ -1,6 +1,17 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Week 1
+Convolutions Over Volume
+
+2025/08/01
+
+0000<->0500
+
+- 6,6,3 3 stand for color channel
+- number of channel in the image has to be the same as number of channel in your filter
+- but you can use more than one filter, and stack them all
+
+# Week 1
 Simple Convolutional Network Example
 
 2025/07/31
