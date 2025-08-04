@@ -1,6 +1,19 @@
 34 lectures in TTL
 
 # 4. Factorization into A = LU
+2025/08/03
+
+3800<->4300
+
+- cost of b, n square
+- what is b?
+- row exchanges
+- row exchange when 0 in the pivot position
+- transpose and permutation
+- TBRT
+- permutation of 1 1 1
+
+# 4. Factorization into A = LU
 2025/07/31
 
 3300<->3800
@@ -1804,6 +1817,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
