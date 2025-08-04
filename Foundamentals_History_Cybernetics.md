@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 12
+2025/08/02
+
+0000<->0500
+
+- carbon monoxide
+- adaptive is derived from various sorts of learning
+
 # Lecture 11
 2025/07/27
 
