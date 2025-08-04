@@ -1,6 +1,17 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+2700<->3200
+
+2025/08/03
+
+- row space of A, is column space of transpose of A
+- matrices is not likely to be square
+- row is in R3, and column also happen in R3 in this case
+- why the two rows are basis of the row space
+- basis has to be independent, and their combination produce all the rows
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 
 2200<->2700
 
