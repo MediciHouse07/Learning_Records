@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+
+2200<->2700
+
+2025/08/02
+
+- column rank = row rank
+- so row wise it has to be dependent
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 1500<-> 1700 1700<->2200
 
 2025/08/01
