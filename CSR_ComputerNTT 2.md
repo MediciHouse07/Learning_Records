@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Module 2
+Unit 0.7: Low-Level Programming, Part II
+
+2025/08/02
+
+0330<->0830
+
+- symbolic labeling
+- assembler and translator
+
+# Module 2
 Unit 0.7
 
 2025/08/01
