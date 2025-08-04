@@ -1,3 +1,15 @@
+https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=3
+
+# Lecture 1
+3600<->4100
+
+2025/08/03
+
+- super position principle
+- electry forces is more powerful than gravity forces
+- nucler forces is not 802
+- 400 000 K on planet level
+- TBRT or TBRT previous
 
 # Lecture 1
 
