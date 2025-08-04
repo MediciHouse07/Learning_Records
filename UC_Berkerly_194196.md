@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=QL-FS_Zcmyo
 
+# Lecture 1
+
+2500<->3300
+
+2025/08/02
+
+- intermediate step
 
 # Lecture 1
 
