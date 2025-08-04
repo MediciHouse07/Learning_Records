@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Week 1
+Simple Convolutional Network Example
+
+2025/08/02
+
+0000<->0500
+
+- HW stand for height and weight
+
+# Week 1
 Convolutions Over Volume
 
 2025/08/01
