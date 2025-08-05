@@ -1,5 +1,9 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# Pooling Layers
+
+0000<->0500
+
 # Week 1
 Simple Convolutional Network Example
 
