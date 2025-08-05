@@ -2,6 +2,16 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 
 # Unit 1.0: The Road Ahead
 
+0500<->1000
+
+2025/08/04
+
+- API
+- class
+- you know how to do it, because you have API
+
+# Unit 1.0: The Road Ahead
+
 2025/08/03
 
 0000<->0500
