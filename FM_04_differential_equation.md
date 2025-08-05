@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
+# Lec 4 | MIT 18.03 Differential Equations, Spring 2006
+
+0000<->0500
+
+2025/08/04
+
+- other differential equations can be solved by reduce it to first order linear equation
+- scaling
+- constract or stretch the axis
+- change units
+- make variables dimensionless, without unit
+- reduce number, or simplify constants
+
 # Lec 3 | MIT 18.03 Differential Equations, Spring 2006
 4500<->5000 End
 2025/08/03
@@ -952,5 +965,6 @@ finished, 2655<->End
 - stady state plus another element, the another element will be 0
 - temperature model
 - this lecture need the previous lecture to refresh memory
+
 
 
