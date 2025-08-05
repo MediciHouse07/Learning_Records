@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=3
 
 # Lecture 1
+3000<->3500
+2025/08/04
+
+- r is unit vector
+- Coulomb
+- productivity of free space
+- next step with the introducition of another charge
+
+# Lecture 1
 3600<->4100
 
 2025/08/03
