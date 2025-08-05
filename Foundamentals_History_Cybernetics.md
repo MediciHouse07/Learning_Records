@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 12
+2025/08/04
+
+0500<->1000
+
+- Noman invasion, an event
+- sequence of operations, do this or do that
+- sequence of states, events
+- series of if then propositions, therpist
+
+# Lecture 12
 2025/08/02
 
 0000<->0500
