@@ -3,6 +3,17 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 # Week 1
 Simple Convolutional Network Example
 
+2025/08/03
+
+0300<->0800 End
+
+- filter size can also be considered as hyperparameter
+- conv layer, pooling layer
+- fully connected layer
+
+# Week 1
+Simple Convolutional Network Example
+
 2025/08/02
 
 0000<->0500
