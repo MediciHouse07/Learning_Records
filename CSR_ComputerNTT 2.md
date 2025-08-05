@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 1.0: The Road Ahead
+
+2025/08/03
+
+0000<->0500
+
+- JUMP to this course from yesterday’s progress
+- signify a loop
+
 # Module 2
 Unit 0.7: Low-Level Programming, Part II
 
