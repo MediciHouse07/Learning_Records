@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 12
+2025/08/05
+
+1000<->1500 End
+
+- blackout in NE of US
+- circut breaker fails
+- blackout and large losses from the business
+
+# Lecture 12
 2025/08/04
 
 0500<->1000
