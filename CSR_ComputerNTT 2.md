@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.0: The Road Ahead
+1000<->1500
+
+2025/08/05
+
+- constructor
+- .something is called extension
+
+# Unit 1.0: The Road Ahead
 
 0500<->1000
 
