@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
-# # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/08/05
+
+1800<->2450
+
+- how to decide whether a vector field is gradient or not
+- if plug in x and y as a function of t
+
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/04
 
 1300<->1800
