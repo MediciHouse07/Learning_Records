@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+1300<->1800
+
+2025/08/05
+
+- extension of finiteness extension of smoothness
+- compactness, continuity
+- I is non empty would let G alpha to be non empty
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 
 1300<->2500
 
