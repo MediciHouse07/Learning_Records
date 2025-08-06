@@ -2,6 +2,15 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 
 # Pooling Layers
 
+2025/08/05
+0500<->1000 End
+
+- do the same computation on that slice
+- max pooling computation is done on each repsect
+- average pooling
+
+# Pooling Layers
+
 0000<->0500
 
 # Week 1
