@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+
+3200<->3700
+
+2025/08/06
+
+- column space, range?
+- random sampling of a matrix
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 2700<->3200
 
 2025/08/03
