@@ -1,6 +1,17 @@
 34 lectures in TTL
 
 # 4. Factorization into A = LU
+
+2025/08/06
+
+4300<->4800 End
+
+- number of permutations
+- multiply two matrices, the answer is on the list
+- 4*3*2=24
+- 3*2*1=6
+
+# 4. Factorization into A = LU
 2025/08/03
 
 3800<->4300
@@ -1817,6 +1828,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
