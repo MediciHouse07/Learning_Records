@@ -1,5 +1,17 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# CNN Example
+
+0000<->0500
+
+2025/08/06
+
+- recognize a digit number
+- LeNet-5
+- search people get inolved, or new stars
+- send emails to them
+- one pooling can contain CONV and POOL, because people would consider the layer with weight as a layer
+
 # Pooling Layers
 
 2025/08/05
