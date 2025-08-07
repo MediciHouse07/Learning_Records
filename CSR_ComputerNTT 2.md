@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.0: The Road Ahead
+
+1500<->End
+
+2025/08/06
+
+- OS closes gap between high level programing and barebones
+
+# Unit 1.0: The Road Ahead
 1000<->1500
 
 2025/08/05
