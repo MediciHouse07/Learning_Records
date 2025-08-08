@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 1.1: Program Compilation Preview
+
+2025/08/07
+
+0000<->End
+
+- maintain multiple version of your code
+- the idea is to write once and run anywhere
+- java has two tier compilation
+- imaginary computer
+- equip the target device with JVM implementation
+- take byte code into target platform
+- bytecode
+- introducing a intermediate step
+- VM code, bytecode
+- VM emulator, VM translator
+- universal turing machine can emulate any individual machine
+- thinking about thinking
+- program that can analyze program
+- reason about reasoning
+
 # Unit 1.0: The Road Ahead
 
 1500<->End
