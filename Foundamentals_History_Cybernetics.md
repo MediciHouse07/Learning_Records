@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 13
+
+2025/08/07
+
+0000<->0500
+
+- automazed self
+- expose things you want to design with an environment
+
 # Lecture 12
 2025/08/05
 
