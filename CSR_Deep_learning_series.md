@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # CNN Example
+0500<->1000
+
+2025/08/07
+
+- fully connected unit
+- fully connected layer is like normal neural networks
+
+# CNN Example
 
 0000<->0500
 
