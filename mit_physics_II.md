@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=x1-SibwIPM4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=3
 
 # Lecture 1
+3500<->3700 3500<->3800
+
+2025/08/06
+
+- super position principle
+- 1801 introduced this idea
+- SPP is not obvious to be true, but it is aligned with experiments
+
+# Lecture 1
 3000<->3500
 2025/08/04
 
