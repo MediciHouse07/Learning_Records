@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 13
+2025/08/08
+
+0500<->0800 End
+
+- mattering energy and information
+- use asymetry information to gain energy
+- end of first part
+
+# Lecture 13
 
 2025/08/07
 
