@@ -1,6 +1,18 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.1: Program Compilation Preview
+2025/08/08
+
+0000<->0500
+
+- two conflicting objectives
+- find the right balance
+- stack machine is a good way to handle it
+- can only access plate from the top
+- stack is also with a memory
+- to the stack but nothing happen to the memory
+
+# Unit 1.1: Program Compilation Preview
 
 2025/08/07
 
