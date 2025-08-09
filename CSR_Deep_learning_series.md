@@ -1,6 +1,12 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # CNN Example
+
+0700<->1200 End
+
+2025/08/08
+
+# CNN Example
 0500<->1000
 
 2025/08/07
