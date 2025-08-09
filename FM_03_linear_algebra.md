@@ -1,5 +1,16 @@
 34 lectures in TTL
 
+# 5. Transposes, Permutations, Spaces R^n
+
+2025/08/08
+
+0000<->0500
+
+- invertible, to solve Ax=b
+- if 0 shows up in the pivot position, move it away
+- A=LU has no row exchange
+- pivot close to 0 is numerically bad
+
 # 4. Factorization into A = LU
 
 2025/08/06
@@ -1828,6 +1839,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
