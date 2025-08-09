@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+3700<->4200
+2025/08/08
+
+- random vector, to know what the column space look like
+- putting parenthethis to different places for linear algebra
+- row reduced epsilon form of matrix
+- identity and column that tell you the right combination
+- A=CR, A=CUR’ R’ has independent rows pick from the matrix
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 
 3200<->3700
 
