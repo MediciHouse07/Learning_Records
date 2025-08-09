@@ -1,6 +1,19 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+
+1500<->2500
+
+2025/08/07
+
+- a family g of open sets
+- a family g of open sets is said to be open covering
+- you design family of open sets
+- you can do the same with less points in R2
+- what is tao, tao is generalized concept of open set in topology space
+- tao d is open set with respect to eucledian space
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 1300<->1800
 
 2025/08/05
