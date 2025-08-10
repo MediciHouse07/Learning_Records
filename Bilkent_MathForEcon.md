@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+3200<->3700
+
+2025/08/09
+
+- indiscrete topology
+- union of one set is itself
+- extend finiteness
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 2500<->3200
 
 2025/08/08
