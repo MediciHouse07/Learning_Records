@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 1.2: VM Abstraction: the Stack
+2025/08/08
+
+0500<->1000
+
+- compiler do the job to translate x=17+19 into push 17 and things
+
 # Unit 1.1: Program Compilation Preview
 2025/08/08
 
