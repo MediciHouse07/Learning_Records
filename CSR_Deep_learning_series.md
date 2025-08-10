@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# Why Convolutions?
+
+2025/08/09
+
+0000<->0500
+
+- weight matrix
+- number of parameters
+- TBRT
+- parameters vs weight?
+
 # CNN Example
 
 0700<->1200 End
