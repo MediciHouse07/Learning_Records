@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
 
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
+2025/08/09
+
+3600<->4100
+
+- shc and benefits of it, the decision require information
+
+# Stafford Beer Collection.- 08 VSM, The Outside & Then
 
 2025/06/02
 
