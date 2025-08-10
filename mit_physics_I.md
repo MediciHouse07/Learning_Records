@@ -2,6 +2,20 @@
 
 # Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
 
+1200<->1700
+
+2025/08/09
+
+- size s
+- mass m
+- side bone femmor
+- m go square, d go square of 4th
+- d thickness of femmor
+- 1000 times large
+- all made of bones, that is biologically impossible
+
+# Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
+
 1000<->1500
 
 2025/05/12
