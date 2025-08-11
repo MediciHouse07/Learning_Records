@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.2: VM Abstraction: the Stack
+2025/08/10
+
+1000<->1500 End
+
+- concept one one layer on top of another but all exist
+- push 2, push 9 sub is 2-9
+- in hack vm, true and false is written as true and false
+
+# Unit 1.2: VM Abstraction: the Stack
 2025/08/08
 
 0500<->1000
