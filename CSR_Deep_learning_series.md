@@ -2,6 +2,16 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 
 # Why Convolutions?
 
+2025/08/10
+
+0000<->0300 0030<->0230
+
+- parameter sharing, and sparse xxx
+- 32*32*3 stand for units, cross of different layers, parameters 3072 * 4704
+- convolution reduce number of parameters
+
+# Why Convolutions?
+
 2025/08/09
 
 0000<->0500
