@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+4200<->4700 
+
+2025/08/10
+
+- MIT created Julia
+- column times row, that is the second step
+- combination of column times row
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 3700<->4200
 2025/08/08
 
