@@ -3,6 +3,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/10
 
+2950<->3450
+
+- gradient
+- path independence
+- no matter what curve it is, as long as it is cosed circle, and 0 then
+
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/08/10
+
 2450<->2950
 
 - magnetic field is not gradient
