@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Why Convolutions?
+2025/08/11
+
+0100<->0600
+
+- parameters to train, parameter matrix
+- filters itself are parameters
+- upper left hand, and lower right hand have different distribution
+- other pixel doesn’t impact the pixel
+
+# Why Convolutions?
 
 2025/08/10
 
