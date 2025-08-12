@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.2: VM Abstraction: the Stack
+
+2025/08/11
+
+0000<->0500
+
+- y argument, c local variable, s1,s2 static variable
+- VM abstraction wouldn’t retain variable name
+
+# Unit 1.2: VM Abstraction: the Stack
 2025/08/10
 
 1000<->1500 End
