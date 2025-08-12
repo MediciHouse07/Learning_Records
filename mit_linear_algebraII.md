@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
+# Lecture 2: Multiplying and Factoring Matrices
+
+2025/08/11
+
+0000<->0500
+
+- orthornomal, unit orthagnal; orthagnal is perpendicular
+- QR Gram Schmidt
+- S stand for semitric
+- Q eigen vectors, A is lambda
+- eigen vectros are orthognals
+
 # Lecture 1: The Column Space of A Contains All Vectors Ax
 4700<->End
 
