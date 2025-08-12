@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 1: The Column Space of A Contains All Vectors Ax
+4700<->End
+
+2025/08/10
+
+- traditional inner product multiplication, mnp
+- the other way, n times mp
+- inner product way vs rank 1 matrix way
+
+# Lecture 1: The Column Space of A Contains All Vectors Ax
 4200<->4700 
 
 2025/08/10
