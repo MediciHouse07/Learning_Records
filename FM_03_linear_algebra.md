@@ -1,6 +1,16 @@
 34 lectures in TTL
 
 # 5. Transposes, Permutations, Spaces R^n
+2025/08/11
+
+0500<->1000
+
+- P is identity matrix with reordered rows
+- P are all invertible, as it can be brought back to the normal order
+- P inverse is equal to PT
+- PTP=I
+
+# 5. Transposes, Permutations, Spaces R^n
 
 2025/08/08
 
@@ -1839,6 +1849,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
