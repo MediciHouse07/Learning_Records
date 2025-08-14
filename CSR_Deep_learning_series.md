@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Why Convolutions?
+
+2025/08/12
+
+0300<->End
+
+- guess that the filter itself would be updated throughout the backward propagation, but only one filter
+- each output value only depend on 9 input instead of the entire picture
+
+# Why Convolutions?
 2025/08/11
 
 0100<->0600
