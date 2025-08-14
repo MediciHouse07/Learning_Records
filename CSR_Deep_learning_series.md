@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# Yann LeCun Interview
+
+2025/08/13
+
+0000<->0500
+
+- perceptron
+
 # Why Convolutions?
 
 2025/08/12
