@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+2025/08/12
+
+0500<->1000
+
+- symmetric matrix has all real lambas
+- columns are multiple of this one, rows are multiple of that one
+
+# Lecture 2: Multiplying and Factoring Matrices
 
 2025/08/11
 
