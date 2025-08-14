@@ -1,6 +1,18 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+
+2025/08/13
+
+1000<->1500
+
+- q1q1T is symmetric
+- uSIGMAVT are foundation
+- u, V are both orthorganal
+- orthognal diagnal orthognal
+- singular value decomposition
+
+# Lecture 2: Multiplying and Factoring Matrices
 2025/08/12
 
 0500<->1000
