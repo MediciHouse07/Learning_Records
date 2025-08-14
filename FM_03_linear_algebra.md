@@ -1,6 +1,15 @@
 34 lectures in TTL
 
 # 5. Transposes, Permutations, Spaces R^n
+
+2025/08/12
+
+1000<->1500
+
+- symmetric matrices doesn’t get changed by transpose
+- next topic is how to get symmetric matrix
+
+# 5. Transposes, Permutations, Spaces R^n
 2025/08/11
 
 0500<->1000
@@ -1849,6 +1858,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
