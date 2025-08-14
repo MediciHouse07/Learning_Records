@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
-# Unit 1.2: VM Abstraction: the Stack
+# Unit 1.3: VM Abstraction: Memory Segments
+
+2025/08/12
+
+0500<->1000 End
+
+- concepts layed on step on top of another has multiplied value
+
+# Unit 1.3: VM Abstraction: Memory Segments
 
 2025/08/11
 
