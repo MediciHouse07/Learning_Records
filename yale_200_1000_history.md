@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
+# 01. Course Introduction: Rome's Greatness and First Crises
+
+1800<->2300
+
+2025/08/12
+
+- set up to gurantee property not rights
+
 # # 01. Course Introduction: Rome's Greatness and First Crises
 1300<->1800
 
