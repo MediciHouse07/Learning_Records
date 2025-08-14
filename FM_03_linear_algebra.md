@@ -1,5 +1,15 @@
 34 lectures in TTL
 
+https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
+
+# 5. Transposes, Permutations, Spaces R^n
+
+2025/08/13
+
+1500<->2000
+
+- RTR
+
 # 5. Transposes, Permutations, Spaces R^n
 
 2025/08/12
@@ -1858,6 +1868,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
