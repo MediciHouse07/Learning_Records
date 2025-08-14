@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+# 9/10 Lecture 6
+
+0000<->0500
+
+2025/08/12
+
+- doesn’t pay, take house
+- secured loan
+- unsecured loan
+- RP are secured loan, it has Tbill as collateral
+- Euro dollar is also unsecured
+- Fed funds reserve, the best money
+
 # 8/10 Lecture 6 Module 3
 
 0200<->0700 End
@@ -2484,3 +2497,4 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
