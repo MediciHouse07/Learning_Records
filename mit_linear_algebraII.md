@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+2025/08/14
+
+2000<->2500
+
+# Lecture 2: Multiplying and Factoring Matrices
 
 2025/08/13
 
