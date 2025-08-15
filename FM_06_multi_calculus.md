@@ -3,6 +3,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/10
 
+3450<->3950
+
+- find a loop that can produce work, a loop that can’t produce work
+- to prove a vector field is not a gradient, because it is not conservative
+- it is not path independence
+- conservative, gradient, path independence
+
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/08/10
+
 2950<->3450
 
 - gradient
