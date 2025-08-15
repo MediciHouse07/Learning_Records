@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# Classic Networks
+
+0000<->0200
+
+2025/08/14
+
+- while the paper was published, average
+- nowadays people use max pooling
+- back then people didn’t use pooling
+
 # Yann LeCun Interview
 
 2025/08/13
