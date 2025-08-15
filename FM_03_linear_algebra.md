@@ -2,6 +2,12 @@
 
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
+# 14. Orthogonal Vectors and Subspaces
+
+0000<->0500
+
+- orthogonal
+
 # 5. Transposes, Permutations, Spaces R^n
 
 2025/08/13
@@ -1868,6 +1874,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
