@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.4: VM Implementation: the Stack
+2025/08/15
+
+1000<->1500
+
+- The last two lines show you, the pointer SP hold value 1 greather than previously
+- general implementation
+
+# Unit 1.4: VM Implementation: the Stack
 2025/08/14
 
 0500<->1000
