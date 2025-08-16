@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# COMPACTNESS - Lec 14 - Mathematics for Economists I
+
+2025/08/15
+
+0000<->0300
+
+- TBRT
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+4700<->4900 End
+
+2025/08/15
+
+- compactness is an extension of finitness
+
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 
 3700<->4200
