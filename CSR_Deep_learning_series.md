@@ -2,6 +2,16 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 
 # Classic Networks
 
+0200<->0700
+
+2025/08/15
+
+- 60K parameters
+- sigmoid and tanh was used in history, ReLu is nowadays
+- constraints in the paper, limitation of computer
+
+# Classic Networks
+
 0000<->0200
 
 2025/08/14
