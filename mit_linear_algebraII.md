@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+2025/08/15
+
+2500<->3000
+
+- foundamental theorem of linear algebra
+
+# Lecture 2: Multiplying and Factoring Matrices
 2025/08/14
 
 2000<->2500
