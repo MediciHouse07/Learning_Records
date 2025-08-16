@@ -3,6 +3,11 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+0500<->1000
+
+2025/08/15
+
+# 14. Orthogonal Vectors and Subspaces
 
 0000<->0500
 
@@ -1874,6 +1879,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
