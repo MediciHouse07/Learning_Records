@@ -2,6 +2,16 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strid
 
 # Classic Networks
 
+0700<->1200
+
+2025/08/16
+
+- AlexNet similar to LeNet but much bigger
+- GPU communication
+- this paper convinced CV communities to take serious look at deep learning
+
+# Classic Networks
+
 0200<->0700
 
 2025/08/15
