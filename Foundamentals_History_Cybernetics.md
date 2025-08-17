@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 14
+2025/08/16
+
+0000<->0500
+
+- immediate access to ideas in your mind
+
 # Lecture 13
 2025/08/08
 
