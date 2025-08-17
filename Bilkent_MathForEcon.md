@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # COMPACTNESS - Lec 14 - Mathematics for Economists I
+2025/08/16
+
+0000<->0500
+
+- A is finite then A is compact
+- non empty subset of A
+
+# COMPACTNESS - Lec 14 - Mathematics for Economists I
 
 2025/08/15
 
