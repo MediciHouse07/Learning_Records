@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+2025/08/16
+
+3000<->3500
+
+- null space, all solutions to Ax=0, the space where x is at
+- null space is closed
+- addition and multiplication doesn’t bring vector out
+
+# Lecture 2: Multiplying and Factoring Matrices
 2025/08/15
 
 2500<->3000
