@@ -3,6 +3,16 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+
+2025/08/16
+
+1000<->1500
+
+- proof of pythagarance
+- 0 vector is orthoagnal to every vectors
+- wall and floor analogy
+
+# 14. Orthogonal Vectors and Subspaces
 0500<->1000
 
 2025/08/15
@@ -1879,6 +1889,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
