@@ -1,6 +1,19 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # Classic Networks
+1200<->1800 End
+
+2025/08/17
+
+- You can read this paper Alexnet
+- deep network is used when there are many channels
+- CONV 128 means there are 128 filters
+- 138 M parameters, large even by today standards
+- parameters need to be trained
+- VGG16 does the same as VGG19
+- nh nw go down, and nc go up at a factor of 2
+
+# Classic Networks
 
 0700<->1200
 
