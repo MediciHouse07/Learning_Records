@@ -3,6 +3,13 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+2025/08/17
+
+1500<->2000
+
+- when is line through the origin orthogonal to a plane, in 2D space, never
+
+# 14. Orthogonal Vectors and Subspaces
 
 2025/08/16
 
@@ -1889,6 +1896,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
