@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
+# ResNets
+
+0000<->0700 End
+
+2025/08/18
+
+- vanishing and exploding gradient type of problem
+
 # Classic Networks
 1200<->1800 End
 
