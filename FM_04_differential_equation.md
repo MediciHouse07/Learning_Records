@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 4 | MIT 18.03 Differential Equations, Spring 2006
+
+2000<->2500
+
+2025/08/17
+
+- differentiation is with respect of x not with respect of y
+
+# Lec 4 | MIT 18.03 Differential Equations, Spring 2006
 1500<->2000
 
 2025/08/14
@@ -991,6 +999,7 @@ finished, 2655<->End
 - stady state plus another element, the another element will be 0
 - temperature model
 - this lecture need the previous lecture to refresh memory
+
 
 
 
