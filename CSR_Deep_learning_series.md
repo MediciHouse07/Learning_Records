@@ -1,3 +1,27 @@
+
+# Sequential model
+https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
+
+# Notation
+
+2025/08/19
+
+0000<->0200
+
+- index
+- name recogntition system, currency name e.g.,
+- TBRT
+
+# Why Sequence Models?
+
+2025/08/19
+
+0000<->0300
+
+- sequence
+- supervised learning and sequence problems
+
+# CNN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/wfUhx/strided-convolutions
 
 # ResNets
