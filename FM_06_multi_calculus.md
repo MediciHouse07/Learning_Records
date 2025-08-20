@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/08/19
+
+3950<->4450
+
+- path independence and conservative are equivalent
+- eletrical potential is also named as voltage
+
+# Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/18
 
 3450<->3950
