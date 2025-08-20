@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=YiqIkSHSmyc&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=3
 
 # Lecture 2: Multiplying and Factoring Matrices
+2025/08/19
+
+3700<->4200
+
+- m-r gives you combination of r
+
+# Lecture 2: Multiplying and Factoring Matrices
 
 2025/08/17
 
