@@ -1,6 +1,19 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 14
+2025/08/18
+
+0500<->1400 End
+
+- A, after a series of logical argument, A is not A
+- formulate set containing itself would lead to paradox
+- testify against yourself, testify for yourself
+- expectation to AI to testify itself
+- get rid of bias = eliminate observers
+- this much as this point
+- bips
+
+# Lecture 14
 2025/08/16
 
 0000<->0500
