@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 1
+
+2025/08/19
+
+0000<->0500
+
+- hteoy is answer to question
+
 # Lecture 14
 2025/08/18
 
