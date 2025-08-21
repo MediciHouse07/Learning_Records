@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 1
+2025/08/20
+
+0500<->1000
+
+- circular causality
+- why a description is considered to be important
+
+# Lecture 1
 
 2025/08/19
 
