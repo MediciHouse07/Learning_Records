@@ -4,6 +4,17 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 
 # Notation
 
+2025/08/20
+
+0000<->0500
+
+- search and index names
+- round bracket is training example, angle bracket is which word it is
+- t element in the i training example
+- dictionary
+
+# Notation
+
 2025/08/19
 
 0000<->0200
