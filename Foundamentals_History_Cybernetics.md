@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 1
+2025/08/21
+
+1000<->1500 End
+
+- epistemology
+
+# Lecture 1
 2025/08/20
 
 0500<->1000
