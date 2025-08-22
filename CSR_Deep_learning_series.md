@@ -2,6 +2,11 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Recurrent Neural Network Model
+2025/08/21
+
+0000<->0100
+
 # Notation
 
 2025/08/20
