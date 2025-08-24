@@ -3,6 +3,13 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+2500<->3000
+
+2025/08/22
+
+- orghognal sub spaces has to have dimensions added up to the dimension
+
+# 14. Orthogonal Vectors and Subspaces
 
 2000<->2500
 
@@ -1904,6 +1911,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
