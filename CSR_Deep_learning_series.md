@@ -3,6 +3,16 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Recurrent Neural Network Model
+
+2025/08/22
+
+0000<->0500
+
+- bracket stand for one hot vector
+- doesn’t share features learned across different positions of text
+- is pass onto
+
+# Recurrent Neural Network Model
 2025/08/21
 
 0000<->0100
