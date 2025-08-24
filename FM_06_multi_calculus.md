@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
+2025/08/22
+
+0000<->0500
+
+- vector field
+- at every point you have a vector
+- fluid
+
 # Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/19
 
