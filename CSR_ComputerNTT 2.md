@@ -3,6 +3,16 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 # Unit 1.5: VM Implementation: Memory Segments
 2025/08/21
 
+1500<->2000
+
+- static variable can be seen by all VM programs
+- static variables is out of stack
+- TBRT
+- platform agonostic
+
+# Unit 1.5: VM Implementation: Memory Segments
+2025/08/21
+
 1000<->1500
 
 - constant memory segment
