@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
+2200<->2700
+
+2025/08/22
+
+- dimensional analysis
+- drop apple from certain height, what would happen with time
+- 8, 2 two times long
+
+# Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
 1700<->2200 2200<->2700
 
 2025/08/21
