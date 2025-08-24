@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 2
+2025/08/22
+
+0000<->0500
+
+- bips allow you to construct the dimension of world
+- to substittute for human muscle
+
 # Lecture 1
 2025/08/21
 
