@@ -1,6 +1,17 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 2
+
+2025/08/23
+
+0500<->1000
+
+- post industrial society
+- information processing
+- teleology is an explaination of purpose for behaviours
+- 1000 mins three books form early age of cybernetics
+
+# Lecture 2
 2025/08/22
 
 0000<->0500
