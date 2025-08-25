@@ -3,6 +3,17 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Recurrent Neural Network Model
+2025/08/23
+
+0500<->1000
+
+- bracket stand for one hot of each word
+- wax, waa
+- wya
+- bidirectional RNN, BRNN
+- used to compute some a quantity
+
+# Recurrent Neural Network Model
 
 2025/08/22
 
