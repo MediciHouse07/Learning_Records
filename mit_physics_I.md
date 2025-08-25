@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
+2300<->2800
+
+2025/08/23
+
+- the third term is because g is given
+- uncertainty, error
+- how error would vary
+
+# Lec 01: Units, Dimensions, and Scaling Arguments | 8.01 Classical Mechanics (Walter Lewin)
 2200<->2700
 
 2025/08/22
