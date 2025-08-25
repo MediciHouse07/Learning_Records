@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # COMPACTNESS - Lec 14 - Mathematics for Economists I
+2025/08/23
+
+0200<->0700
+
+- A is a open covering and it is also an index set
+- criteria for compactness at different space
+- example
+
+# COMPACTNESS - Lec 14 - Mathematics for Economists I
 2025/08/21
 
 0000<->0500
