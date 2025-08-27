@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6t
 
 0000<->0500
 
+2025/08/26
+
+- direction determine the signs, but where to put 0 is irrelevant
+
+# Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+
+0000<->0500
+
 2025/08/25
 
 - is this the right subsequent course
