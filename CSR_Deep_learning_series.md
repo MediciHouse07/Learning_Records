@@ -3,6 +3,14 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Recurrent Neural Network Model
+2025/08/25
+
+1000<->1500
+
+- aa input a to produce a,  ax input x to produce a, ya input a to produce y
+- tanh, relu, sigmoid
+
+# Recurrent Neural Network Model
 2025/08/23
 
 0500<->1000
