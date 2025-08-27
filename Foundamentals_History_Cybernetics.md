@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 2
+2025/08/25
+
+1000<->1500 End
+
+- game theory, cybernetics, communication theory
+- let machine try every possibilities
+
+# Lecture 2
 
 2025/08/23
 
