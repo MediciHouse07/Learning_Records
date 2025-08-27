@@ -3,6 +3,13 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 # Unit 1.5: VM Implementation: Memory Segments
 2025/08/23
 
+2000<->2500
+
+- temp, temporary variable
+
+# Unit 1.5: VM Implementation: Memory Segments
+2025/08/23
+
 1500<->2000
 
 - static variable, the order of the index is different than the order of RAM
