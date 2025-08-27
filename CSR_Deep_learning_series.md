@@ -2,6 +2,19 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Backpropagation Through Time
+
+2025/08/26
+
+0000<->0400
+
+- loss for single prediction
+
+# Recurrent Neural Network Model
+2025/08/26
+
+1500<->1600 End
+
 # Recurrent Neural Network Model
 2025/08/25
 
