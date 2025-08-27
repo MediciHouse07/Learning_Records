@@ -1,6 +1,17 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/08/26
+
+1000<->1500
+
+- mathematic abyss or ruin or relic
+- rotate it to 90 degree, counter clock wise
+- unit angular velocity
+- as the velocity is equal to the distantce from the point to the origin
+- angle times radius = arc length on the circle
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/08/23
 
 0500<->1000
