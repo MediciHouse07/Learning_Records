@@ -2,6 +2,20 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Different Types of RNNs
+
+2025/08/27
+
+0000<->0300
+
+- Tx and Ty different
+- TBRT
+
+# Backpropagation Through Time
+2025/08/27
+
+0400<->0600 End
+
 # Backpropagation Through Time
 
 2025/08/26
