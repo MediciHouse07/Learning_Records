@@ -1,6 +1,24 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.6: The VM Emulator
+2025/08/28
+
+0500<->1000
+
+- 149.0
+- function/return envolope make sequence of instructions to be a program
+- Understanding the difference between a sequence of instructions and a program is essential as you dive into the world of computer science. 
+
+A sequence of instructions is simply a list of commands that a computer can execute, one after the other. Think of it like a recipe that tells you to add ingredients in a specific order. However, this sequence may not have a clear structure or purpose beyond just executing those commands. It’s like following a list of tasks without knowing how they fit into a larger goal.
+
+On the other hand, a program is a more organized and complete set of instructions designed to perform a specific task or solve a problem. It’s like a well-planned meal that not only includes the recipe but also considers the timing, presentation, and how each dish complements the others. A program typically includes functions, control structures, and data management, making it capable of handling complex operations and user interactions.
+
+In summary:
+
+Sequence of Instructions: A simple list of commands without a clear structure or purpose.
+Program: A structured set of instructions designed to perform a specific task, often including functions and control logic.
+
+# Unit 1.6: The VM Emulator
 2025/08/27
 
 0000<->0500
