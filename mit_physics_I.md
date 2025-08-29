@@ -1,6 +1,20 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+0500<->2000
+
+2025/08/27
+
+- speed and velocity
+- instantaneous velocity
+- magnitude of velocity
+- intrigue you
+- a measurement is meaningless without understanding with error
+- reletive error
+- .0058 5.8 mili second
+- TBRT shift 3 mins understand how to calculate error
+
+# Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 
 0000<->0500
 
