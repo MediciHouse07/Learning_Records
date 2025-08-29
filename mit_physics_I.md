@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+2000<->2500
+
+2025/08/28
+
+- time for change in direction
+
+# Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 0500<->2000
 
 2025/08/27
