@@ -4,6 +4,12 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 
 # Different Types of RNNs
 
+2025/08/28
+
+0000<->0500
+
+# Different Types of RNNs
+
 2025/08/27
 
 0000<->0300
