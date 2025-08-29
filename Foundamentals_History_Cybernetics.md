@@ -1,6 +1,18 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 3
+2025/08/28
+
+0500<->1000
+
+- reprint
+- self organizing system
+- it also changes to complexity
+- cybernetics gap in cold war period
+- USSR deem cybernetics as a science for command economy
+- USSR and planned economy topic is reached
+
+# Lecture 3
 2025/08/26
 
 0000<->0500
