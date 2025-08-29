@@ -3,6 +3,14 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+
+2300<->2800
+
+2025/08/27
+
+- x is orthognal to all those rows
+
+# 14. Orthogonal Vectors and Subspaces
 2500<->3000
 
 2025/08/22
@@ -1911,6 +1919,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
