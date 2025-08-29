@@ -3,6 +3,16 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 14. Orthogonal Vectors and Subspaces
+2800<->3300
+
+2025/08/28
+
+- one equation, three unknowns
+- free variables things to be understood
+- null space and row space are orthognal complements
+- substitution, book NTT, and linear algebra II and standford open course
+
+# 14. Orthogonal Vectors and Subspaces
 
 2300<->2800
 
@@ -1919,6 +1929,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
