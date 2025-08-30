@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 3
+2025/08/29
+
+1000<->1500 End
+
+- national defense
+- missle gap
+- constituence
+- Heinz
+
+# Lecture 3
 2025/08/28
 
 0500<->1000
