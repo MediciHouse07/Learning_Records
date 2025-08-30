@@ -2,6 +2,16 @@
 
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
+# 2. Elimination with Matrices.
+
+0000<->1200
+
+2025/08/28
+
+- elimination and software package
+- when elimination would work, when it wouldn’t
+- square matrix with 0 on the pivot would lead to 0 determinant, which means 0 volume
+
 # 14. Orthogonal Vectors and Subspaces
 2800<->3300
 
@@ -1929,6 +1939,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
