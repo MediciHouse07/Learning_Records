@@ -2,6 +2,20 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Language Model and Sequence Generation
+
+2025/08/29
+
+0000<->0100
+
+- language model and sequence generation
+- language model and language modeling
+
+# Different Types of RNNs
+2025/08/29
+
+0500<->1000
+
 # Different Types of RNNs
 
 2025/08/28
