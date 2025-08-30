@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
+2025/08/29
+
+2000<->2500
+
+- 149.6
+- motion, velocity times delta t
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2025/08/28
 
 1500<->2000
