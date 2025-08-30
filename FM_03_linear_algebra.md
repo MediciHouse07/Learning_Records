@@ -4,6 +4,17 @@ https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 2. Elimination with Matrices.
 
+1200<->1700
+
+2025/08/29
+
+- not invertible matrix
+- how that would be linked to a system of equations
+- augmented matrix, tag something on
+- forward elimination
+
+# 2. Elimination with Matrices.
+
 0000<->1200
 
 2025/08/28
@@ -1939,6 +1950,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
