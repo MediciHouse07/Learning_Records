@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 4
+2025/08/31
+
+0000<->0500
+
+- information makes a difference, cybernetics
+
 # Lecture 3
 2025/08/29
 
