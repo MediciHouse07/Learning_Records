@@ -3,6 +3,16 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Language Model and Sequence Generation
+2025/08/31
+
+0000<->0500
+
+- P(sentence)=?
+- corpus, large set of English sentences
+- EOS
+- TBRT shift 2 mins
+
+# Language Model and Sequence Generation
 
 2025/08/29
 
