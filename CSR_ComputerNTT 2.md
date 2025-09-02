@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.6: The VM Emulator
+2025/08/31
+
+1500<->2000
+
+- fast forward
+- single step it
+
+# Unit 1.6: The VM Emulator
 2025/08/29
 
 1000<->1500
