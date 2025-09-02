@@ -1,6 +1,18 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+3000<->4000
+
+2025/08/31
+
+- granding hold
+- bet you a nickle
+- read some physics from there
+- gravitaional accerleration
+- is g independent of other factors
+- shift 5 mins, how the equations are derived
+
+# Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 2500<->3000
 
 2025/08/29
