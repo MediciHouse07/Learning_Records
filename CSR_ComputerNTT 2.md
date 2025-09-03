@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.6: The VM Emulator
+2025/09/01
+
+1800<->2300 End
+
+- what is supposed to be doing
+- if they are in agreement
+
+# Unit 1.6: The VM Emulator
 2025/08/31
 
 1500<->2000
