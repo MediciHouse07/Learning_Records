@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+4000<->5000
+
+2025/09/01
+
+- strobe
+- while the picture is developing
+- shutter
+
+# Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 3000<->4000
 
 2025/08/31
