@@ -3,6 +3,14 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Language Model and Sequence Generation
+2025/09/01
+
+0000<->0500
+
+- sample sequence to generate novel sequence of words
+- TBRT
+
+# Language Model and Sequence Generation
 2025/08/31
 
 0000<->0500
