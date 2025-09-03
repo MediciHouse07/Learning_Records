@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+3200<->3700
+
+2025/09/01
+
+- these are open and union of them containing X, so open covering
+- next step is another concept
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 1800<->3200
 
 2025/08/28
