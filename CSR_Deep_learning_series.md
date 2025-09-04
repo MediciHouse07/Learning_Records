@@ -4,6 +4,12 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 
 # Language Model and Sequence Generation
 
+2025/09/03
+
+0500<->1000
+
+# Language Model and Sequence Generation
+
 2025/09/02
 
 0000<->0500
