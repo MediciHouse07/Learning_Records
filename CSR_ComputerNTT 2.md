@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.7: VM Implementation on the Hack Platform
+2025/09/03
+
+0500<->1000 End
+
+- standard VM enable one team to develop and another team to test
+- host computer
+
+# Unit 1.7: VM Implementation on the Hack Platform
 2025/09/02
 
 0000<->0500
