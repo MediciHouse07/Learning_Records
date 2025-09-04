@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
 # 01. Course Introduction: Rome's Greatness and First Crises
+
+3500<->4000 End
+
+2025/09/02
+
+- is the change transformation or catastrophe
+
+# 01. Course Introduction: Rome's Greatness and First Crises
 3300<->3800
 
 2025/08/17
