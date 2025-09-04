@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
+2025/09/02
+
+2500<->3000
+
+- these are all part of data
+- r is not a scalar
+- r is a vector, we don't know how to do dr yet
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+
 2025/08/29
 
 2000<->2500
