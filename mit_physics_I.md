@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+0500<->1000
+
+2025/09/03
+
+- adding two vectors with only the knowledge of magnitude
+- can lead to many results
+- decomposition of vector
+- projection vector onto three axises
+
+# Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 
 0000<->0500
 
