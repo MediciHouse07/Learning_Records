@@ -3,6 +3,14 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Language Model and Sequence Generation
+
+2025/09/02
+
+0000<->0500
+
+- corpus is from NLP
+
+# Language Model and Sequence Generation
 2025/09/01
 
 0000<->0500
