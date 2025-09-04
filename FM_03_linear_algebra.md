@@ -3,6 +3,13 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 2. Elimination with Matrices.
+3200<->4000
+2025/09/03
+
+- P stand for permutation
+- can you multiply on the left and make the column permutation
+
+# 2. Elimination with Matrices.
 2700<->3200
 
 2025/09/01
@@ -1960,6 +1967,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
