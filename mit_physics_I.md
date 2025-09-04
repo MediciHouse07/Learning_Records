@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+
+0000<->0500
+
+2025/09/01
+
+- scalars
+- magnitude of speed and direction
+
 # Lec 02: Introduction to Kinematics | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 4000<->5000
 
