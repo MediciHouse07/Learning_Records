@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/09/03
+
+3000<->3500
+
+- along the curve, x and y are related with each other
+- but dx will left y there
+- to solve that, to express x and y in single variable
+- then substitute the variable
+
+# Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 
 2025/09/02
 
