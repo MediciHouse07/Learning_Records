@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.7: VM Implementation on the Hack Platform
+2025/09/04
+
+0000<->0500
+
+- assembly code get translation from vm code
+- java parser class, code writer class, main class
+
+# Unit 1.7: VM Implementation on the Hack Platform
 2025/09/03
 
 0500<->1000 End
