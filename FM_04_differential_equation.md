@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lec 4 | MIT 18.03 Differential Equations, Spring 2006
+
+2025/09/04
+
+3500<->4500
+
+- introduce a coordinate system
+- want to know the slope of the path
+
+# Lec 4 | MIT 18.03 Differential Equations, Spring 2006
 2900<->3400
 
 2025/09/03
@@ -1031,6 +1040,7 @@ finished, 2655<->End
 - stady state plus another element, the another element will be 0
 - temperature model
 - this lecture need the previous lecture to refresh memory
+
 
 
 
