@@ -3,6 +3,20 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Sampling Novel Sequences
+2025/09/05
+
+0300<->0800 End
+
+- space puctuations
+- character level language model, word level language model
+- pros and cons
+- unkown word token
+- if mau is not in the vocabulary, then mau is unk
+- computation expensive
+- word level language model is more popular
+- trained from A, then more likely to speak like A
+
+# Sampling Novel Sequences
 
 2025/09/04
 
