@@ -2,6 +2,12 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Sampling Novel Sequences
+
+2025/09/04
+
+0000<->0300
+
 # Language Model and Sequence Generation
 
 2025/09/03
