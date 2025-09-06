@@ -3,6 +3,10 @@
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
 # 2. Elimination with Matrices.
+4000<->4500
+2025/09/04
+
+# 2. Elimination with Matrices.
 3200<->4000
 2025/09/03
 
@@ -1967,6 +1971,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
