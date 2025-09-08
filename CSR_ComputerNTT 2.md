@@ -6,6 +6,13 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 0000<->0500
 
 # Unit 1.7: VM Implementation on the Hack Platform
+2025/09/07
+
+0500<->1000 End
+
+- general accepted standard
+
+# Unit 1.7: VM Implementation on the Hack Platform
 2025/09/05
 
 0300<->0800 End
