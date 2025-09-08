@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=_IgKHHAjV8Y
 
 # 1. Introduction
+2025/09/07
+
+1500<->2000
+
+- consolidation of state power
+- huge standing
+- civilian self recognition
+
+# 1. Introduction
 
 2025/09/06
 
