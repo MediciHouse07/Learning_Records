@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
+3700<->4700
+
+2025/09/07
+
+- non empty subcollection of A
+- if y is extension of x, then every x is y
+- take any open covering G, and show that it has finite sub covering for A
+- 0 is also a finite number
+
+# SEQUENCES and COMPACTNESS - Lec 13 - Mathematics for Economists I
 3200<->3700
 
 2025/09/01
