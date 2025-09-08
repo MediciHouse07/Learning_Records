@@ -3,6 +3,18 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Vanishing Gradients with RNNs
+2025/09/07
+
+0200<->0700 End
+
+- KOL and theories behind
+- info flow chain
+- decrease or increase exponentially
+- gradient clipping
+- clip based on some maximum values
+- vanishing gradient is much harder to solve than gradient exploding
+
+# Vanishing Gradients with RNNs
 2025/09/06
 
 0000<->0500
