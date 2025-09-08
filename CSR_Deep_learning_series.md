@@ -2,6 +2,15 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Vanishing Gradients with RNNs
+2025/09/06
+
+0000<->0500
+
+- language and long term dependency
+- RNNs can’t handle very long term dependency
+- TBRT
+
 # Sampling Novel Sequences
 2025/09/05
 
