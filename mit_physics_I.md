@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+
+1500<->2000
+
+2025/09/06
+
+- do an example with you
+- vector product, cross product A X B = C
+
+# Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 1000<->1500
 
 2025/09/05
