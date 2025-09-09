@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 20
+
+2025/09/08
+
+0000<->0400 1630<->1730
+
+- ds is arc length element
+- fundamental therom for not line integral, integrate derivative get function
+
 # Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/09/06
 
