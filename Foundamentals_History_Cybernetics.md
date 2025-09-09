@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 4
+2025/09/08
+
+1000<->1500 End
+
+- up to now
+- we thought
+- socialist and socialist democratic party
+
+# Lecture 4
 2025/09/06
 
 0500<->1000
