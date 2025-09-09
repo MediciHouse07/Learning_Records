@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=_IgKHHAjV8Y
 
+# Lecture 22
+
+2025/09/08
+
+0000<->0500
+
 # 1. Introduction
 2025/09/07
 
