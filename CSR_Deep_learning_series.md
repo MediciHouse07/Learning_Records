@@ -2,6 +2,17 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Gated Recurrent Unit (GRU)
+2025/09/08
+
+0000<->0500
+
+- GRU c
+- LSTM
+- c is memory cell
+- gama u
+- TBRT shift 3 mins
+
 # Vanishing Gradients with RNNs
 2025/09/07
 
