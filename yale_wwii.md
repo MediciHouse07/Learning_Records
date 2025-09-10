@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=_IgKHHAjV8Y
 
 # Lecture 22
 
+0500<->1500
+
+2025/09/09
+
+- semite
+- harden
+- counter productive
+- split hair, a disgusting phrase
+
+# Lecture 22
+
 2025/09/08
 
 0000<->0500
