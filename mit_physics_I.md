@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+3000<->3500
+
+2025/09/09
+
+- r vector = something get noted down in physics
+- 3 dimensional motion cutted into one dimensional motion
+
+# Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 2500<->3000
 
 2025/09/08
