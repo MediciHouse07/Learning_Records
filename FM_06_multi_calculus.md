@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 20
+2025/09/09
+
+1730<->2500
+
+- same statement as in single variable calculus
+- parameterize it by t
+
+# Lecture 20
 
 2025/09/08
 
