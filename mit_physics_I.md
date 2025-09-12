@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
+
+3500<->4900 End
+
+2025/09/10
+
+- position vector
+
 # Lec 03: Vectors | 8.01 Classical Mechanics, Fall 1999 (Walter Lewin)
 3000<->3500
 
