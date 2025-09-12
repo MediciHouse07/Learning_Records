@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 20
+2025/09/10
+
+2500<->3500
+
+- a lot of forces are gradient of potential
+- F gradient field
+- conservation of energy
+
+# Lecture 20
 2025/09/09
 
 1730<->2500
