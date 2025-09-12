@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 20
+2025/09/11
+
+3500<->4000
+
+- perpetual
+- fails to have all these properties
+
+# Lecture 20
 2025/09/10
 
 2500<->3500
