@@ -3,6 +3,31 @@
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Gated Recurrent Unit (GRU)
+2025/09/11
+
+0000<->1700 End
+
+- c memory cell
+- ct at the same for GRU
+- at stand for output cell
+- c tilda is candidate
+- u stand for updated weight
+- gamma either close to 0 or close to 1
+- g for gamma g for gate
+- c decide for output, gate decide whether to update it
+- don’t update it ; don’t forget what this value was
+- gamma r, r stand for relevance
+
+# Gated Recurrent Unit (GRU)
+2025/09/11
+
+1200<->1700 End
+
+- use different bits to
+- LSTM is another version
+- to capture long term dependency
+
+# Gated Recurrent Unit (GRU)
 2025/09/10
 
 0700<->1200
