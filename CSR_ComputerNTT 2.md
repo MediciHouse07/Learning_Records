@@ -1,6 +1,13 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.9: Project 7: Building the VM Translator, Part I
+0730<->1230
+
+2025/09/12
+
+- invoke
+
+# Unit 1.9: Project 7: Building the VM Translator, Part I
 
 0230<->0730
 
