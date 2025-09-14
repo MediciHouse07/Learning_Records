@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 21
+
+2025/09/12
+0000<->1000
+
+- how to check if a field is a gradient field
+
+# Lecture 20
+2025/09/12
+
+4500<->5000 End
+
 # Lecture 20
 2025/09/12
 
