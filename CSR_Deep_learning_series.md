@@ -2,6 +2,16 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Bidirectional RNN
+
+2025/09/12
+
+0000<->0500
+
+- BRNN
+- backward connection
+- both a -> and a<- are forward propogation
+
 # Gated Recurrent Unit (GRU)
 2025/09/11
 
