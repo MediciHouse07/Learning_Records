@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
 
+2025/09/13
+
+1000<->1500
+
+- find the potential
+
+# Lecture 21
+
 2025/09/12
 0000<->1000
 
