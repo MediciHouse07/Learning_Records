@@ -2,6 +2,30 @@
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
+# Convolutional NN
+https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
+
+# ResNets
+
+2025/09/13
+
+0000<->0300
+
+- Res net allow you to train very deep NN
+- short cut, skip connection
+
+# Why ResNets Work?
+
+2025/09/13
+
+0000<->0500 0200<->0900 End
+
+- ResNet guanrantee performance is not hurt instead of helping it
+- 
+
+- ReLU 0 or positive
+- 
+
 # Bidirectional RNN
 
 2025/09/12
