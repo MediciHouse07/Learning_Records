@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 04: The Motion of Projectiles
+1500<->2000
+
+2025/09/14
+
+- TBRT
+
+# Lec 04: The Motion of Projectiles
 
 1000<->1500
 
