@@ -5,6 +5,24 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Why ResNets Work?
+
+0000<->0800 0800<->0900 End
+
+2025/09/14
+
+- learning the identity function
+- assuming same dimension z l+2 and al
+- padding the a to let a and z on the same dimension
+- fc fully connected layer
+
+# ResNets
+2025/09/14
+
+0000<->0700 End
+
+- block turned to residual block
+
 # ResNets
 
 2025/09/13
