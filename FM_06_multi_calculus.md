@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
+2025/09/14
+
+1500<->2000
+
+# Lecture 21
 
 2025/09/13
 
