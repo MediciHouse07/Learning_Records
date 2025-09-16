@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 1.9: Project 7: Building the VM Translator, Part I
+1730<->2300 End
+
+2025/09/14
+
+- 1-8 one vm command is translated to 8 assembly command
+- ROM RAM
+- ROM, is instruction memory
+- ROM is an abbreviation of read only memory
+
+# Unit 1.9: Project 7: Building the VM Translator, Part I
 1230<->1730
 
 2025/09/13
