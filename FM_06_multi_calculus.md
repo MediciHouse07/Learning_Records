@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
+
+2025/09/15
+
+2000<->2500
+
+- x and y as variable, x1 and y1 as constant
+
+# Lecture 21
 2025/09/14
 
 1500<->2000
