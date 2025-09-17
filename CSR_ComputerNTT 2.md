@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 1.10: Perspective
+
+0000<->0500
+
+2025/09/15
+
+- trenches and salt mine
+- mainframe
+
 # Unit 1.9: Project 7: Building the VM Translator, Part I
 1730<->2300 End
 
