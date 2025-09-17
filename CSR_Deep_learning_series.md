@@ -5,6 +5,24 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Inception Network Motivation
+
+2025/09/15
+
+0000<->0700
+
+- reduce it by a factor of 10
+
+# Networks in Networks and 1x1 Convolutions
+
+0000<->0200
+
+0000<->0600
+
+2025/09/15
+
+- 1 1 conv add non linearity
+
 # Why ResNets Work?
 
 0000<->0800 0800<->0900 End
