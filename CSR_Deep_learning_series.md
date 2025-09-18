@@ -7,6 +7,16 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 
 # Inception Network Motivation
 
+2025/09/16
+
+0000<->1000 End
+
+0400<->0900
+
+- bottleneck layer
+
+# Inception Network Motivation
+
 2025/09/15
 
 0000<->0700
