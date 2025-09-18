@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
 
+2025/09/16
+
+2500<->3000
+
+- antiderivatives
+
+# Lecture 21
+
 2025/09/15
 
 2000<->2500
