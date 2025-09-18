@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+Unit 1.10: Perspective
+
+0500<->1000
+
+2025/09/16
+
+- P code generate machine language, on top of it pascal compiler
+
 # Unit 1.10: Perspective
 
 0000<->0500
