@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6t
 
 # Lec 04: The Motion of Projectiles
 
+2000<->2500
+
+2025/09/16
+
+- uncertainty in alpha, uncertainty in v0
+- TBRT with shift
+
+# Lec 04: The Motion of Projectiles
+
 1500<->2000
 
 2025/09/15
