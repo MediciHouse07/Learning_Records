@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
+2025/09/17
+
+3000<->3500
+
+- true constant and false constant
+
+# Lecture 21
 
 2025/09/16
 
