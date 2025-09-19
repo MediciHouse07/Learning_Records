@@ -1,5 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 1.10: Perspective
+
+1000<->1500
+
+2025/09/17
+
+- cellphone, and SUN
+- cellphone come in, unexpect IBM, MS, SUN
+- nothing can stop a good idea, it has life of its own
+
 Unit 1.10: Perspective
 
 0500<->1000
