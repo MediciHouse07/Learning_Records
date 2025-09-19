@@ -5,6 +5,25 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+
+# MobileNet
+
+2025/09/17
+
+0000<->0700
+
+- mobilenet is not computational expensive
+- depthwise seperable conolution
+- number of filter positions
+
+# Inception Network
+2025/09/17
+
+0000<->0800 End
+
+- goo LeNet
+- inception paper, knor your meme, we need to go deeper, motivation for deeper neuron networks
+
 # Inception Network Motivation
 
 2025/09/16
