@@ -5,6 +5,22 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# MobileNet Architecture
+2025/09/18
+
+0000<->0600
+
+- POOL FC SOFTMAX
+- how it works for reduction
+- project down
+
+# MobileNet
+2025/09/18
+
+0700<->1600 End
+
+- poing wise convolution
+- depth wise, point wise
 
 # MobileNet
 
