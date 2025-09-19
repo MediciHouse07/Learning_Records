@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 04: The Motion of Projectiles
+2200<->2700
+
+2025/09/17
+
+- 2% error
+- small angle change at top, vs small change at the bottom, for sin
+
+# Lec 04: The Motion of Projectiles
 
 2000<->2500
 
