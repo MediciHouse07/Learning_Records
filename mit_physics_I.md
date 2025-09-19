@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 04: The Motion of Projectiles
+2700<->3200
+
+2025/09/18
+
+- look at it at conservative side
+
+# Lec 04: The Motion of Projectiles
 2200<->2700
 
 2025/09/17
