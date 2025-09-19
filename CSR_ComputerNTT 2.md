@@ -1,5 +1,21 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 2.1: Program Control
+
+0000<->0300
+
+2025/09/18
+
+- functions
+
+# Unit 1.10: Perspective
+1500<->1700 End
+
+2025/09/18
+
+- sluggish
+- stack architecture is not a mandatory element, e.g., JVM use register machine instead of stack architecture, which was great for mobile
+
 # Unit 1.10: Perspective
 
 1000<->1500
