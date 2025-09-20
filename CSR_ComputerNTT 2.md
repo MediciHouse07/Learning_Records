@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.1: Program Control
+0300<->0800
+
+2025/09/19
+
+- the basic language can be extended at will
+- high level->compilier->VM code->VM emulator?->assembly code->assembler->machine code
+
+# Unit 2.1: Program Control
 
 0000<->0300
 
