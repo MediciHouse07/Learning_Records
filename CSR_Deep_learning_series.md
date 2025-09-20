@@ -5,6 +5,25 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Data Augmentation
+
+2025/09/19
+
+0000<->0200
+
+- flip the image
+- random cropping
+
+# Transfer Learning
+
+2025/09/19
+
+0000<->0800 End
+
+- training would take several weeks and require many GPUs
+- trainable parameter=0, freeze=1
+- more data, freeze less layers
+
 # MobileNet Architecture
 2025/09/18
 
