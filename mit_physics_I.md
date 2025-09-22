@@ -1,6 +1,17 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 04: The Motion of Projectiles
+
+3700<->4200
+
+2025/09/20
+
+- difference, with accerleration vs without accerleration
+- if there had been
+- it lets go
+- independent of the speed of the bullet
+
+# Lec 04: The Motion of Projectiles
 3200<->3700
 
 2025/09/19
