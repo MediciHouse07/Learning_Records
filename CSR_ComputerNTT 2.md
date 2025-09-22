@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.2: Branching
+2025/09/21
+
+0230<->0730
+
+- LOOP matches with JMP
+- high leel program compiler VM code
+- VM translator take VM code in and output assembly language out
+
+# Unit 2.2: Branching
 
 2025/09/20
 
