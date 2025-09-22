@@ -5,6 +5,15 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Object Localization
+
+2025/09/21
+
+0000<->1000
+
+- bounding box
+- conditional loss function
+
 # State of Computer Vision
 
 2025/09/20
