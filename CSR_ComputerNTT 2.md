@@ -1,5 +1,19 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 2.2: Branching
+
+2025/09/20
+
+0000<->0330
+
+- loops is created with netted ifs or branching
+
+# Unit 2.1: Program Control
+
+0800<->0930
+
+2025/09/20
+
 # Unit 2.1: Program Control
 0300<->0800
 
