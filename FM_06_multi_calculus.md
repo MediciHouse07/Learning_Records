@@ -1,6 +1,19 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 21
+
+2025/09/20
+
+4500<->5000 End
+
+- sign of curl tells you whether it is clock wise or counter clock wise
+- coservative field doesn't have rotation everywhere
+- curl measure twice angular velocity of the rotation component
+- torque exerted
+- momentum of inertia
+- two physics formulas
+
+# Lecture 21
 2025/09/19
 
 4000<->4500
