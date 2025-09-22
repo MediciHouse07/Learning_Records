@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lecture 22
+2025/09/21
+
+0000<->0500
+
+- to calculate energy on any vector field
+- line integral for work, double integral on some function of x and y
+- double integral, x and y is not deemed as related
+- but for line integral, x and y is deemed as related
+
 # Lecture 21
 
 2025/09/20
