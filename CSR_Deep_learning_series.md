@@ -5,6 +5,30 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# State of Computer Vision
+
+2025/09/20
+
+0000<->0730
+
+- ensembling, doing well on benchmarks
+
+# Data Augmentation
+
+2025/09/20
+
+0200<->0930 End
+
+- color shiftling
+- yellowish
+- PCA is deemed as advanced
+- PCA color augmentation
+- distortion
+- hard disk, CPU thread
+- loading data and implementing distortion
+- CPU/GPU training
+- augmentation parameters
+
 # Data Augmentation
 
 2025/09/19
