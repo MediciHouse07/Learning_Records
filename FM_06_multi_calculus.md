@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/22
+
+0500<->1000
+
+- counter clock wise and Nx-My match each other, it is just convention
+- green’s theorem is only for closed curve
+
+# Lecture 22
 2025/09/21
 
 0000<->0500
