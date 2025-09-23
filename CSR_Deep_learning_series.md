@@ -5,6 +5,45 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Convolutional Implementation of Sliding Windows
+
+2025/09/22
+
+0000<->0200
+
+- to resolve high computational cost issue
+
+# Object Detection
+
+2025/09/22
+
+0000<->0500 End
+
+- sliding windows detection
+- 
+
+# Landmark Detection
+
+2025/09/22
+
+0000<->0600 End
+
+- AR and landmark detection
+- annotate
+
+# Object Localization
+2025/09/22
+
+1000<->1200 End
+
+Unit 2.3: Functions: Abstraction
+
+2025/09/22
+
+0000<->0330
+
+- operating system that has functions
+
 # Object Localization
 
 2025/09/21
