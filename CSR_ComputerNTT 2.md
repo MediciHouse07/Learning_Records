@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+Unit 2.3: Functions: Abstraction
+
+2025/09/22
+
+0000<->0330
+
+- operating system that has functions
+
+Unit 2.2: Branching
+2025/09/22
+
+0730<->0900 End
+
 # Unit 2.2: Branching
 2025/09/21
 
