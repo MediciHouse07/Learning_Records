@@ -5,6 +5,22 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Bounding Box Predictions
+
+2025/09/23
+
+0000<->0600
+
+- YOLO, you only looks once
+
+# Convolutional Implementation of Sliding Windows
+2025/09/23
+
+0200<->1100 End
+
+- different ways in plaing FCs
+- FC may not mean traditional FC, it can also represent other types FC
+
 # Convolutional Implementation of Sliding Windows
 
 2025/09/22
