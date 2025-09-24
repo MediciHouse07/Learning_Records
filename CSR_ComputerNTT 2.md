@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
-Unit 2.3: Functions: Abstraction
+# Unit 2.3: Functions: Abstraction
+
+2025/09/23
+
+0330<->0830
+
+- function would consume the top x elements on the stack
+- and put the output at the top
+
+# Unit 2.3: Functions: Abstraction
 
 2025/09/22
 
