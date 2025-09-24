@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lec 05: Uniform Circular Motion
+
+0000<->0500
+
+2025/09/23
+
+- uniform circlar motion, speed doesn’t change
+- number of rotation per second, frequency
+- T period
+- angular velocity, how many radius per second
+- centrapetod
+- magnitude
+
 # Lec 04: The Motion of Projectiles
 4700<->5200 End
 
