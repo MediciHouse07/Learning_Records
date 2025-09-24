@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/23
+
+1000<->1500
+
+- disc of radius 1
+
+# Lecture 22
 2025/09/22
 
 0500<->1000
