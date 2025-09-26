@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.3: Functions: Abstraction
+2025/09/25
+
+1330<->1830
+
+- VM handle return, take the top most value in the stack
+- caller callee
+- calling function to the called function
+
+# Unit 2.3: Functions: Abstraction
 2025/09/24
 
 0830<->1330
