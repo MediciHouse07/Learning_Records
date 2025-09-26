@@ -6,6 +6,17 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Bounding Box Predictions
+2025/09/24
+
+0500<->1100 End
+
+0000<->0730
+
+0600<->0730
+
+- TBRT?
+
+# Bounding Box Predictions
 
 2025/09/23
 
