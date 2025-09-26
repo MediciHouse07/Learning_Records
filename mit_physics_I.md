@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 05: Uniform Circular Motion
+0200<->0700
+
+2025/09/24
+
+- radius per second
+- pull or push
+
+# Lec 05: Uniform Circular Motion
 
 0000<->0500
 
