@@ -5,6 +5,31 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Properties of Word Embeddings
+
+2025/09/25
+
+0000<->0600
+
+- difference between words
+- find the word maximize similarity
+
+# Using Word Embeddings
+
+2025/09/25
+
+0000<->0900 End
+
+- featured representation
+- durian
+- bidirectional RNN
+- learn word embedding from large text corpus
+- dense vector
+- sparse vector
+- transfer learning
+- true for many NLP problems
+- encoding, embedding
+
 # Bounding Box Predictions
 2025/09/24
 
