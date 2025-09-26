@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.3: Functions: Abstraction
+2025/09/24
+
+0830<->1330
+
+- not only the call of mult function, but also it would require a push 8,5
+- TBRT
+
+# Unit 2.3: Functions: Abstraction
 
 2025/09/23
 
