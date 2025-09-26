@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/25
+
+2000<->2500
+
+- the curl is not defined
+- can’t apply Green’s thm to the vector field on derivative not defined region
+
+# Lecture 22
 2025/09/24
 
 1500<->2000
