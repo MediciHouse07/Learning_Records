@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 05: Uniform Circular Motion
+0900<->1400
+2025/09/26
+
+- pull is responsible for the centripitle accerleration
+- TBRT shift?
+
+# Lec 05: Uniform Circular Motion
 0400<->0900
 
 2025/09/25
