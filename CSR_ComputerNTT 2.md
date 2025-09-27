@@ -1,6 +1,13 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.3: Functions: Abstraction
+2025/09/26
+
+1700<->2200
+
+- static variable?
+
+# Unit 2.3: Functions: Abstraction
 2025/09/25
 
 1330<->1830
