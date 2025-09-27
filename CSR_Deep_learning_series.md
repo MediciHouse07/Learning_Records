@@ -5,6 +5,27 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Learning Word Embeddings
+
+2025/09/26
+
+0000<->0700
+
+- TBRT, shift
+
+# Embedding Matrix
+
+2025/09/26
+
+0000<->0400 End
+
+# Properties of Word Embeddings
+2025/09/26
+
+0600<->1100 End
+
+- t-SAE
+
 # Properties of Word Embeddings
 
 2025/09/25
