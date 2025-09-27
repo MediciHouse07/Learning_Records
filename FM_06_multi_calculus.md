@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/26
+
+2500<->3000
+
+- curve C, C1 C2
+- region R1 R2
+
+# Lecture 22
 2025/09/25
 
 2000<->2500
