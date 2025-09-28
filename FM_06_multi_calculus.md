@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/27
+
+3000<->3500
+
+- go twice along boundary between R1 and R2 with opposite orientations
+- cut R into vertically simple regions
+- not follwing why the proof is done
+- TBRT shift?
+
+# Lecture 22
 2025/09/26
 
 2500<->3000
