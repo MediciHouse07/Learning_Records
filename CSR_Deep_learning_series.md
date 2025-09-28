@@ -5,6 +5,28 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Word2Vec
+
+2025/09/27
+
+0000<->1200 End
+
+- plus or minus 10 words window
+- context c to target t
+- sum of 10 thousand words
+- hierachical softmax
+
+# Learning Word Embeddings
+2025/09/27
+
+0500<->1000 End
+
+- language model, context
+- last few words before the target word
+- the one previous word
+- nearby 1 word
+- this video is for learning a word embedding
+
 # Learning Word Embeddings
 
 2025/09/26
