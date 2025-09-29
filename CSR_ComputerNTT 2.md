@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.4: Function Call and Return: Implementation Preview
+2025/09/28
+
+0300<->0800
+
+- caller;s stack
+- net effect
+
+# Unit 2.4: Function Call and Return: Implementation Preview
 
 2025/09/27
 
