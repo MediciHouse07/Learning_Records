@@ -5,6 +5,19 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# GloVe Word Vectors
+
+2025/09/28
+
+0000<->0300
+
+# Negative Sampling
+2025/09/28
+
+0000<->1200 End
+
+- turn 10000 softmax problems to binary classification problem
+
 # Word2Vec
 
 2025/09/27
