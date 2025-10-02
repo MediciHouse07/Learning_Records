@@ -5,6 +5,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Sentiment Classification
+
+2025/09/30
+
+0000<->0200
+
+# GloVe Word Vectors
+2025/09/30
+
+0300<->1100 End
+
+- introduce a convention 0log0=0
+- learn the weight attachments for each word
+
 # GloVe Word Vectors
 
 2025/09/28
