@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lecture 22
+2025/09/30
+
+4000<->End
+
+- TBRT shift
+- x K dollars
+
+# Lecture 22
 2025/09/28
 
 3500<->4000
