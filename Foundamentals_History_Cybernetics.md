@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 5
+
+2025/09/31
+
+0000<->0500
+
+- 1970
+- previous theory, knowledge accumulation
+- corresponce principle
+- Niel
+- exclude observer vs include observer
+
 # Lecture 4
 2025/09/08
 
