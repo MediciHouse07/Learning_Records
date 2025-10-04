@@ -5,6 +5,27 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Debiasing Word Embeddings
+
+2025/10/02
+
+0000<->1000
+
+- Debiasing
+- neutralize, gender neutral
+- definitional, has gender meaning carried by it
+- sorority
+- fraternity
+
+# Sentiment Classification
+2025/10/02
+
+0200<->0700 End
+
+- ambience
+- average and many to 1
+- RNN
+
 # Sentiment Classification
 
 2025/09/30
