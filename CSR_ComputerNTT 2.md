@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.4: Function Call and Return: Implementation Preview
+
+2025/10/02
+
+0800<->1300
+
+- frame
+- return address
+- TBRT
+
+# Unit 2.4: Function Call and Return: Implementation Preview
 2025/09/28
 
 0300<->0800
