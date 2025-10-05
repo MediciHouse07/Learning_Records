@@ -5,6 +5,27 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Picking the Most Likely Sentence
+
+2025/10/03
+
+0000<->0800 End
+
+- find the prob of Eng sentences condition on Fre sentences
+- eng sentence y in maximizing the prob
+- beam search
+- gready search
+- less optimal result given the intention in always choosing the best one
+- contemplate
+
+# Basic Models
+2025/10/03
+
+0000<->0600 End
+
+- input sequnce x with length a and output sequence with length b
+- image captioning
+
 # Debiasing Word Embeddings
 
 2025/10/02
