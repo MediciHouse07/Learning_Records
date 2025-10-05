@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 05: Uniform Circular Motion
+3200<->3700
+
+2025/10/02
+
+# Lec 05: Uniform Circular Motion
 2700<->3200
 
 2025/10/02
