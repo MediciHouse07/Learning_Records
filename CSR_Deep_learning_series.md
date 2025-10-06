@@ -5,6 +5,15 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Recurrent Neural Network Model
+2025/10/04
+
+0000<->1500 End
+
+- REVIEWING
+- shaded box
+- we can compress them by xxx
+
 # Picking the Most Likely Sentence
 
 2025/10/03
