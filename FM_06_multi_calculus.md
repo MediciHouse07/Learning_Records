@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/04
+
+0500<->1000
+
+- summing tangetial component of F, summming the normal component of F
+- velocity field
+- passes through the pad over time
+- paraledogon
+
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/03
 
 0000<->0500
