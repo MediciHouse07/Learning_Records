@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 05: Uniform Circular Motion
+3700<->4200
+
+2025/10/04
+
+- TBRT SHIFT
+- 200 times
+- tremendous gravity imposed to the clothe
+
+# Lec 05: Uniform Circular Motion
 3200<->3700
 
 2025/10/02
