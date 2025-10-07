@@ -5,6 +5,15 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Different Types of RNNs
+
+2025/10/05
+
+0000<->0500
+
+- machine translation
+- how does it decide the last Ty
+
 # Recurrent Neural Network Model
 2025/10/04
 
