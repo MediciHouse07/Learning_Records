@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.4: Function Call and Return: Implementation Preview
+2025/10/05
+
+1300<->1800
+
+- memory segments
+- block the currently running function
+
+# Unit 2.4: Function Call and Return: Implementation Preview
 2025/10/04
 
 0800<->1300
