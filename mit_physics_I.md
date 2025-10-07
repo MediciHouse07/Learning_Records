@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 05: Uniform Circular Motion
+4200<->4700
+
+2025/10/05
+
+- fall out
+
+# Lec 05: Uniform Circular Motion
 3700<->4200
 
 2025/10/04
