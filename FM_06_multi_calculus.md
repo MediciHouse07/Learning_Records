@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/05
+
+1000<->1500
+
+- length unit sufficiently small
+- what flows across c left to right is counted positively
+
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/04
 
 0500<->1000
