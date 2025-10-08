@@ -1,6 +1,17 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.4: Function Call and Return: Implementation Preview
+
+2025/10/06
+
+1800<->2300 End
+
+- block of the running function
+- constant pointer temp static
+- they don’t belong to the world of function
+- those more abstracted levels can also be read as feature, and feature is also important even for ML or AI
+
+# Unit 2.4: Function Call and Return: Implementation Preview
 2025/10/05
 
 1300<->1800
