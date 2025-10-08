@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/06
+
+1500<->2000
+
+- he also cal this flux as line integral
+
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/05
 
 1000<->1500
