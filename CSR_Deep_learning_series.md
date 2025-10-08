@@ -5,6 +5,27 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Language Model and Sequence Generation
+
+2025/10/06
+
+0000<->1000
+
+- EOS
+- can be attached to every sentence in the corpus
+- add period or not add period in the vocabulary
+- UNK, analyze the chance of unknown word
+- xt=yt-1
+- when nothing get inputted, what is the most likely word in the first place, this is to learn a model
+
+# Different Types of RNNs
+2025/10/06
+
+0500<->1000 End
+
+- a0
+- because you can have one to many and many to one, then why not many to many
+
 # Different Types of RNNs
 
 2025/10/05
