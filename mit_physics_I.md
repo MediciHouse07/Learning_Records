@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lec 06: Newton's First, Second, and Third Laws
+
+0000<->0500
+
+2025/10/06
+
+- law of inertia
+- 3600
+
 # Lec 05: Uniform Circular Motion
 4200<->4700
 
