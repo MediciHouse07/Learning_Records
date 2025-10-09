@@ -1,6 +1,15 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.5: Function Call and Return: Run-time Simulation
+2025/10/08
+
+0500<->1000
+
+- compile to VM language
+- compile time and run time
+- after factorial
+
+# Unit 2.5: Function Call and Return: Run-time Simulation
 
 2025/10/07
 
