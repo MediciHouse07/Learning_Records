@@ -5,6 +5,23 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Sampling Novel Sequences
+
+2025/10/07
+
+0000<->0800 End
+
+- to get what the RNN learned, Sampling Novel Sequences
+- keep sampling until EOS
+- character level language model
+- no UNK
+- bad in capturing long range dependencies
+
+# Language Model and Sequence Generation
+2025/10/07
+
+1000<->1200 End
+
 # Language Model and Sequence Generation
 
 2025/10/06
