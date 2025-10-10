@@ -6,6 +6,11 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Gated Recurrent Unit (GRU)
+2025/10/09
+
+0400<->1400
+
+# Gated Recurrent Unit (GRU)
 
 2025/10/08
 
