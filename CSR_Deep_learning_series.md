@@ -5,6 +5,26 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Gated Recurrent Unit (GRU)
+
+2025/10/08
+
+0000<->0400
+
+- c memory cell
+- firstly train the model, forward and backward, to get w and b
+- then sampling novel sequences, to get lines based on the trained w and b
+
+# Vanishing Gradients with RNNs
+2025/10/08
+
+0000<->0600 End
+
+- for error to be backpropogated to the beginning position
+- long range dependencies
+- vanishing and exploding
+- gradient clipping
+
 # Sampling Novel Sequences
 
 2025/10/07
