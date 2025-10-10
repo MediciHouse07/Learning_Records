@@ -1,6 +1,14 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.5: Function Call and Return: Run-time Simulation
+2025/10/09
+
+1000<->1630 End
+
+- why the iteration ends, TBRT?
+- stack increased and shrinked
+
+# Unit 2.5: Function Call and Return: Run-time Simulation
 2025/10/08
 
 0500<->1000
