@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 06: Newton's First, Second, and Third Laws
+1000<->1500
+
+2025/10/08
+
+- mass is determined by molecu inside
+- net force is 0
+- F=ma is regardless of what is the velocity
+- the other exert the same force on the opposite direction on the one
+
+# Lec 06: Newton's First, Second, and Third Laws
 0500<->1000
 
 2025/10/07
