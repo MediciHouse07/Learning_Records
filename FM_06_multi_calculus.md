@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/09
+
+3000<->3500
+
+- green’s theorem double integral
+- div F
+- divergence of F
+
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/08
 
 2500<->3000
