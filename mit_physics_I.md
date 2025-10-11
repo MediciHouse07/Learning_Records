@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 06: Newton's First, Second, and Third Laws
+1500<->2000
+
+2025/10/09
+
+- contact force
+- the system is accerlerated
+- single out
+- isolate
+
+# Lec 06: Newton's First, Second, and Third Laws
 1000<->1500
 
 2025/10/08
