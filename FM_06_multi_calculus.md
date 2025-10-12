@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/10
+
+3500<->4000
+
+- Green’s theorem in normal form
+- vs Green in tangential form
+- relate line integral with double integrals
+- renaming it give a new interpretation
+
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/09
 
 3000<->3500
