@@ -5,6 +5,17 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Long Short Term Memory (LSTM)
+
+2025/10/10
+
+0000<->0500
+
+# Gated Recurrent Unit (GRU)
+2025/10/10
+
+1200<->1700 End
+
 # Gated Recurrent Unit (GRU)
 2025/10/09
 
