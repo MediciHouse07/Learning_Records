@@ -6,6 +6,11 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Long Short Term Memory (LSTM)
+2025/10/11
+
+0000<->1000 End
+
+# Long Short Term Memory (LSTM)
 
 2025/10/10
 
