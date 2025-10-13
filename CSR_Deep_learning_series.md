@@ -5,6 +5,16 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Deep RNNs
+
+2025/10/12
+
+0000<->0200
+
+- [l] layer l
+- <t> time t
+- neural network with 3 hidden layers
+
 # Long Short Term Memory (LSTM)
 2025/10/11
 
