@@ -5,6 +5,23 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Word Representation
+
+2025/10/13
+
+0000<->0700
+
+- is a likely word
+- e5391 o5391
+
+# Deep RNNs
+2025/10/13
+
+0200<->0500 End
+
+- RNN wouldn’t always have 100 layers
+- if it is 100 layers, there wouldn’t be honrizontal connections
+
 # Deep RNNs
 
 2025/10/12
