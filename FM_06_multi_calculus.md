@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
+
+2025/10/12
+4500<->5000 End
+
+- go in, negatively contribute it
+- it doesn’t matter where to place the circle to get the highest acc flux
+- measure how much the flow is expanding
+
 # 2025/10/11
 
 4000<->4500
