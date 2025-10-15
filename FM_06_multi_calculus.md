@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007
+
+2025/10/13
+
+0000<->0500
+
+- enclose the origin
+
 # Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007
 
 2025/10/12
