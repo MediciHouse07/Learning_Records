@@ -5,6 +5,24 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Using Word Embeddings
+
+2025/10/14
+
+0000<->0700
+
+- transfer learning
+- face encoding, word embedding
+- 
+
+# Word Representation
+2025/10/14
+
+0700<->1000 End
+
+- t-SNE algorithm
+- visualizing data using t-SNE
+
 # Word Representation
 
 2025/10/13
