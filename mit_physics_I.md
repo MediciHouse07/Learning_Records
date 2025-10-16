@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 06: Newton's First, Second, and Third Laws
+2025/10/14
+
+3700<->4200
+
+- TBRT SHIFT, tension
+
+# Lec 06: Newton's First, Second, and Third Laws
 
 2025/10/13
 
