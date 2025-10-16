@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=TY6bmLjd5lg
 
+# MAN321 20140926 LEC05
+
+2025/10/14
+
+0100<->0600
+
 # Lecture 5
 
 0100<->0600
@@ -100,3 +106,4 @@ market risk premium = rm - rf;<br>
 2048 mins, CAPM example, data point compare with CAPM straight line;<br>
 3030 mins, CAPM assumtion;<br>
 3517 mins paper 1996, Fama French 3 factor method;<br>
+
