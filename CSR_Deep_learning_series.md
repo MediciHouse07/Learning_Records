@@ -5,6 +5,21 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Properties of Word Embeddings
+
+2025/10/15
+
+0000<->0700
+
+- gender lies in the difference
+- t-SNE can’t maintain the linearity
+
+# Using Word Embeddings
+
+2025/10/15
+
+0600<->0900 End
+
 # Using Word Embeddings
 
 2025/10/14
