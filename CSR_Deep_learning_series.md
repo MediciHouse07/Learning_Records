@@ -5,6 +5,23 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Word2Vec
+
+2025/10/17
+
+0000<->0600
+
+- skip gram, word2vec, to learn embedding model
+- +5-5 words window
+- E’s parameters and softmax’s parameters
+
+# Learning Word Embeddings
+2025/10/17
+
+0600<->1000 End
+
+- context is mentioned
+
 # Learning Word Embeddings
 
 2025/10/16
