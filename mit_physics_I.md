@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 06: Newton's First, Second, and Third Laws
+
+2025/10/17
+
+0000<->0500
+
+- seeing is beliving
+
+# Lec 06: Newton's First, Second, and Third Laws
 2025/10/16
 
 4300<->4900 End
