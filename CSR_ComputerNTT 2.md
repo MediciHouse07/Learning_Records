@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 2.7: VM Implementation on the Hack Platform
+
+2025/10/17
+
+0000<->0500
+
 # Unit 2.6: Function Call and Return Implementation
 
 2025/10/15
