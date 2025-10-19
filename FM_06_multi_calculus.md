@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
-Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007
+# Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007 
+
+2025/10/17
+
+1300<->1800
+
+- when green’s theorem can be applied, when it can’t
+- TBR
+- & a gradient field
+
+# Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/16
 
 1000<->1500
