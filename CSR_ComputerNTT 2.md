@@ -2,6 +2,12 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 
 # Unit 2.7: VM Implementation on the Hack Platform
 
+2025/10/18
+
+0500<->1000 End
+
+# Unit 2.7: VM Implementation on the Hack Platform
+
 2025/10/17
 
 0000<->0500
