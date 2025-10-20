@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
+0500<->1000
+
+2025/10/19
+
+- only gravity is acting on you, that is free fall
+- push and hang gives the same value
+- T becomes 0 means cutting the rope
+- with m2>m1, one can still have them the same weight
+
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 
 0000<->0500
 
