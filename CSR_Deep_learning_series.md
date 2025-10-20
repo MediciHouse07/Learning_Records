@@ -5,6 +5,23 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Negative Sampling
+
+2025/10/18
+
+0000<->0400
+
+- TBRT
+
+# Word2Vec
+
+2025/10/18
+
+0600<->1200 End
+
+- computational speed
+- balance the common word and those that are not common
+
 # Word2Vec
 
 2025/10/17
