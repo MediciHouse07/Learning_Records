@@ -1,6 +1,21 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
+
+0000<->0500
+
+2025/10/18
+
 # Lec 06: Newton's First, Second, and Third Laws
+
+2025/10/18
+
+0500<->1000
+
+- reference frame
+- uncertainty of the measurement with all experiments that have been done
+
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 
 2025/10/17
 
