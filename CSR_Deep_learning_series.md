@@ -7,6 +7,15 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 
 # Negative Sampling
 
+2025/10/19
+
+0000<->1000
+
+- distinguish different set of distribution
+- after having chosen
+
+# Negative Sampling
+
 2025/10/18
 
 0000<->0400
