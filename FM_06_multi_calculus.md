@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007 
 
+2025/10/18
+
+1800<->2300
+
+- French version of topology?
+
+# Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007 
+
 2025/10/17
 
 1300<->1800
