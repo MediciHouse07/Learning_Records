@@ -1,6 +1,19 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.8: VM Translator: Proposed Implementation
+2025/10/20
+
+0400<->0900 End
+
+- TBRT
+
+- Lexical: Focuses on word-level meaning and understanding. It involves the vocabulary and definitions of individual words.
+
+Syntax: Concerns the sentence-level structure. It deals with how words are arranged to form grammatically correct sentences.
+
+Semantic: Relates to the sentence-level meaning. It focuses on what the sentences convey in terms of meaning and interpretation.
+
+# Unit 2.8: VM Translator: Proposed Implementation
 
 2025/10/19
 
