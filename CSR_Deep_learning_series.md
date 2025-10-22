@@ -5,6 +5,15 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# GloVe Word Vectors
+
+2025/10/20
+
+0000<->0800
+
+- word2vec, skipgram, glove
+- fx can be chosen in satisfiing purposes
+
 # Negative Sampling
 
 2025/10/19
