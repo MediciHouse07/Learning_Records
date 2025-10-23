@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
+1500<->2000
+
+2025/10/21
+
+- free fall has weight 0, then tension is 0
+
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 1000<->1500
 
 2025/10/20
