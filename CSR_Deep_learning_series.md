@@ -6,6 +6,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # GloVe Word Vectors
+2025/10/21
+
+0400<->1100 End
+
+0800<->1100 End
+
+- learning algorithm may use different axis
+
+# Unit 2.8: VM Translator: Proposed Implementation
+2025/10/21
+
+0400<->0900 End
+
+# GloVe Word Vectors
 
 2025/10/20
 
