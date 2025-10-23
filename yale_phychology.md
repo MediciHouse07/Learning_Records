@@ -1,6 +1,15 @@
 https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 
 # 2. Foundations: This Is Your Brain
+2025/10/21
+
+1500<->2000
+
+- mental falculy
+- axon
+- dent rights
+
+# 2. Foundations: This Is Your Brain
 
 2025/10/20
 
