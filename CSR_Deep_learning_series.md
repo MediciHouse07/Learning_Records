@@ -5,6 +5,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Debiasing Word Embeddings
+
+2025/10/22
+
+0000<->0300
+
+# Sentiment Classification
+2025/10/22
+
+0000<->0700 End
+
+- average vs many to one RNN
+- lacking a good taste
+
 # GloVe Word Vectors
 2025/10/21
 
