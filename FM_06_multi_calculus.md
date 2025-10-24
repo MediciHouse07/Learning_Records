@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/22
+
+3800<->4300
+
+# Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/21
 
 3300<->3800
