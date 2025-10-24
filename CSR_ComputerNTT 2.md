@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 2.9: Project 8: Building the VM Translator, Part II
+
+2025/10/22
+
+0000<->0500
+
 # Unit 2.8: VM Translator: Proposed Implementation
 2025/10/20
 
