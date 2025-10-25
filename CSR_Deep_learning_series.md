@@ -5,6 +5,19 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# sorority
+
+2025/10/23
+
+0000<->0200
+
+# Debiasing Word Embeddings
+2025/10/23
+
+0300<->1100 End
+
+- sorority
+
 # Debiasing Word Embeddings
 
 2025/10/22
