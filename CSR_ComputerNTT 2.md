@@ -2,6 +2,12 @@ https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-pro
 
 # Unit 2.9: Project 8: Building the VM Translator, Part II
 
+2025/10/23
+
+0500<->1000
+
+# Unit 2.9: Project 8: Building the VM Translator, Part II
+
 2025/10/22
 
 0000<->0500
