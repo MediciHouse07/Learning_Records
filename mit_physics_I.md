@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
+2500<->3000
+
+2025/10/23
+
+- nothing is free in physics
+
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 2000<->2500
 
 2025/10/22
