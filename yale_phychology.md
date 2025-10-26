@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 
 # 2. Foundations: This Is Your Brain
+2025/10/24
+
+3000<->3500
+
+# 2. Foundations: This Is Your Brain
 2025/10/23
 
 2500<->3000
