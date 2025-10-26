@@ -1,6 +1,13 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.9: Project 8: Building the VM Translator, Part II
+2025/10/25
+
+1500<->2000
+
+- how the outcome produced to produce the prerequisite
+
+# Unit 2.9: Project 8: Building the VM Translator, Part II
 2025/10/24
 
 1000<->1500
