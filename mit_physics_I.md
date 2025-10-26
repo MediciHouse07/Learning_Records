@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
+3000<->3500
+
+2025/10/24
+
+- a lot of inertia
+- people’s hand accerlerate it up and down impact its weight
+
+# Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 2500<->3000
 
 2025/10/23
