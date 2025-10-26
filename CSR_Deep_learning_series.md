@@ -5,6 +5,14 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Picking the Most Likely Sentence
+
+2025/10/24
+
+0000<->0600
+
+- not greedy search
+
 # sorority
 
 2025/10/23
