@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 
+https://www.coursera.org/learn/introduction-psychology/lecture/HJVFh/neurons
+
+# Neurons
+2025/10/25
+
+0000<->0500
+
+- inhe minus
+
 # 2. Foundations: This Is Your Brain
 2025/10/24
 
