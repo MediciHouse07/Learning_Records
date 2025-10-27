@@ -5,6 +5,17 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Beam Search
+
+2025/10/25
+
+0000<->0200
+
+# Picking the Most Likely Sentence
+2025/10/25
+
+0600<->0900 End
+
 # Picking the Most Likely Sentence
 
 2025/10/24
