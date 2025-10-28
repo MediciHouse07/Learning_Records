@@ -6,6 +6,13 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Beam Search
+2025/10/26
+
+0200<->1200 End
+
+- TBRT
+
+# Beam Search
 
 2025/10/25
 
