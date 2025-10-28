@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 25: Triple integrals in rectangular & cylindrical | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/10/26
+
+1000<->1500
+
+# Lec 25: Triple integrals in rectangular & cylindrical | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/10/24
 
 0500<->1000
