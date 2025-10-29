@@ -6,6 +6,13 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Beam Search
+2025/10/27
+
+0000<->1000 End
+
+- BFS (Breadth-First Search) explores nodes level by level using a queue, while DFS (Depth-First Search) dives deep into one path before backtracking using a stack or recursion.
+
+# Beam Search
 2025/10/26
 
 0200<->1200 End
