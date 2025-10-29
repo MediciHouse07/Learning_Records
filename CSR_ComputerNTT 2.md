@@ -1,5 +1,20 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 3.1: The Jack Language in a nutshell
+
+2025/10/27
+
+0000<->0300
+
+- Understanding an operating system as a translator is a great way to visualize its role! In essence, an operating system (OS) acts as a bridge between high-level programming languages, like Jack, and the machine language that the computer's hardware understands. 
+
+# Unit 2.9: Project 8: Building the VM Translator, Part II
+2025/10/27
+
+2500<->2700 End
+
+- chapter 8
+
 # Unit 2.9: Project 8: Building the VM Translator, Part II
 2025/10/26
 
