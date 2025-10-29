@@ -3,6 +3,11 @@ https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 https://www.coursera.org/learn/introduction-psychology/lecture/HJVFh/neurons
 
 # Neurons
+2025/10/27
+
+0900<->1400 End
+
+# Neurons
 2025/10/26
 
 0500<->1000
