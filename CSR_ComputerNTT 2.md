@@ -1,5 +1,12 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 2.10: Perspective
+2025/10/28
+
+0000<->0500
+
+- historical context
+
 # Unit 3.1: The Jack Language in a nutshell
 
 2025/10/27
