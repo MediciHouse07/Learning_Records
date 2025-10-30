@@ -5,6 +5,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Error Analysis in Beam Search
+
+2025/10/28
+
+0000<->1000 End
+
+- is tempting to
+- attain higher value
+- Train-Validation-Test Split:
+
+Training Set: Used to train the model.
+Validation Set: Used to tune hyperparameters and make decisions about the model.
+Test Set: Used to evaluate the final model's performance
+
 # Beam Search
 2025/10/27
 
