@@ -2,6 +2,18 @@ https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 
 https://www.coursera.org/learn/introduction-psychology/lecture/HJVFh/neurons
 
+# Parts of the brain
+
+2025/10/28
+
+0000<->0500
+
+- medulla
+- cerebellum
+- hypothalamus
+- cerebal cortex
+- map
+
 # Neurons
 2025/10/27
 
