@@ -5,6 +5,15 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Bleu Score (Optional)
+
+2025/10/29
+
+0000<->1000
+
+- unigram
+- bigram
+
 # Error Analysis in Beam Search
 
 2025/10/28
