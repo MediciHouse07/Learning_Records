@@ -1,6 +1,12 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 5
+
+2025/10/29
+
+0000<->0500
+
+# Lecture 5
 2025/10/25
 
 0500<->1000
