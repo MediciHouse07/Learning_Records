@@ -3,6 +3,14 @@ https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F
 https://www.coursera.org/learn/introduction-psychology/lecture/HJVFh/neurons
 
 # Parts of the brain
+2025/10/29
+
+0400<->0900 End
+
+- agnosia
+- aphasia
+
+# Parts of the brain
 
 2025/10/28
 
