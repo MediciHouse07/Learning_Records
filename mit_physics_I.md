@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lecture 8
+
+2025/10/29
+
+0000<->0500
+
+- kninetic
+- perpendicular as y direction
+- miu static, miu kninetic
+
 # Lec 07: Weight, Perceived Gravity, and Weightlessnes | 8.01 Classical Mechanics (Walter Lewin)
 4500<->5000 End
 
