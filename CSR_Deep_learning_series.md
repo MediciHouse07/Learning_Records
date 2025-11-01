@@ -5,6 +5,18 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Attention Model Intuition
+
+0000<->0900 End
+
+2025/10/29
+
+# Bleu Score (Optional)
+
+1000<->1500 End
+
+- brevity penalty
+
 # Bleu Score (Optional)
 
 2025/10/29
