@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
 # Lecture 8
+2025/10/30
+
+0500<->1000
+
+- friction coefficent is independent of mass
+
+# Lecture 8
 
 2025/10/29
 
