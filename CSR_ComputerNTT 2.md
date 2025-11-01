@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
 # Unit 2.10: Perspective
+
+2025/10/30
+
+0500<->1000
+
+- IL intermediate language
+- CLR common language runtime
+- .net framework
+
+# Unit 2.10: Perspective
 2025/10/28
 
 0000<->0500
