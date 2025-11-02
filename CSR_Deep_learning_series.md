@@ -5,6 +5,12 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Bounding Box Predictions
+
+2025/10/31
+
+0000<->1000
+
 # Attention Model Intuition
 
 0000<->0900 End
