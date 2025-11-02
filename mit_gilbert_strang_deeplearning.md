@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=sx00s7nYmRM
 
 # Lecture 26
 
+2025/10/31
+
+0000<->0500
+
+# Lecture 26
+
 2024/11/03
 
 1300<->2300
