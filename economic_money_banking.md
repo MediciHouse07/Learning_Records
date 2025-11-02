@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+# Money Market Interest Rate Patterns
+
+2/10 Lecture 7
+
+0000<->0230
+
+2025/10/31
+
+- repo is secured rate it should be less than FF effective
+- FF target
+
+# FT: The Impact of QE3
+
+# 1/10 Lecture 7
+
+0000<->0240
+
+2025/10/31
+
+- buy time to do something vs buy time only vs can’t buy a time
+
 # 10/10 Lecture 6
 0200<->0700 End
 
@@ -2511,6 +2532,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
