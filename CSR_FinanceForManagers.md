@@ -1,5 +1,26 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# 4.13 13.- Blind Financial Statements (Part 3)
+
+0000<->0200
+
+2025/11/01
+
+- pyable, receivable and inventory
+- receivable - payable + inventory
+- pay to supplier late
+
+# 4.12 12.- Blind Financial Statements (Part2)
+
+0000<->0300
+
+2025/11/01
+
+- pharmaceutical
+- pat
+- goodwill, merge, one company buy another, synergy created
+- R&D goes into opex
+
 # Finance for manager Week4.15
 
 0000<->0700 end
