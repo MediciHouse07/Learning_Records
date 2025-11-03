@@ -5,6 +5,18 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Non-max Suppression
+
+0000<->0100
+
+2025/11/01
+
+# Intersection Over Union
+
+2025/11/01
+
+0000<->0400 End
+
 # Bounding Box Predictions
 
 2025/10/31
