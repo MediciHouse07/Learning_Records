@@ -5,6 +5,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Anchor Boxes
+
+2025/11/02
+
+0000<->0200
+
+# Non-max Suppression
+
+0000<->0800 End
+
+2025/11/02
+
+- supress the close by next one, IOU
+
 # Non-max Suppression
 
 0000<->0100
