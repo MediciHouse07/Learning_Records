@@ -1,9 +1,20 @@
 
+# ML Project
+https://www.coursera.org/learn/machine-learning-projects/lecture/FRvQe/orthogonalization
+
 # Sequential model
 https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models
 
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
+
+# Orthogonalization
+
+2025/11/03
+
+0000<->0500
+
+- knob
 
 # Anchor Boxes
 2025/11/03
