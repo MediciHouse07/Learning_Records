@@ -1,5 +1,36 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+# Repo in Balance Sheets
+
+4/10 Lecture 7
+
+0000<->0100
+
+- security dealer must be at one side
+- US do repo means get loan, London means the reverse
+
+# What is Repo
+
+3/10 Lecture 7
+
+- what is Repo RP
+- simultineous sale and repurchase of securities[borrow money by promising to buy it back tomorrow]
+- collateralized loan
+
+# Money Market Interest Rate Patterns
+2/10 Lecture 7
+
+0230<->0330 End
+
+2025/11/03
+
+# Money Market Interest Rate Patterns
+2/10 Lecture 7
+
+0230<->0330 End
+
+2025/1131
+
 # Money Market Interest Rate Patterns
 
 2/10 Lecture 7
@@ -2532,6 +2563,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
