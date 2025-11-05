@@ -6,6 +6,14 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
 # Anchor Boxes
+2025/11/03
+
+0000<->0900 End
+
+- anchor box
+- ground truth bounding box
+
+# Anchor Boxes
 
 2025/11/02
 
