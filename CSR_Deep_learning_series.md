@@ -8,6 +8,23 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Single Number Evaluation Metric
+
+2025/11/04
+
+0000<->0300
+
+- train dev test
+- iterate at dev set improve and pick
+- evaluate at test set
+- dev set plus metric
+- idea code experiment
+
+# Orthogonalization
+
+2025/11/04
+0500<->0700 End
+
 # Region Proposals (Optional)
 
 2025/11/04
