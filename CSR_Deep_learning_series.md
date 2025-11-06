@@ -8,6 +8,20 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Region Proposals (Optional)
+
+2025/11/04
+
+0000<->0600
+
+- non max suppression
+
+# YOLO Algorithm
+
+2025/11/04
+
+0000<->0630
+
 # Orthogonalization
 
 2025/11/03
