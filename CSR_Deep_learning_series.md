@@ -8,6 +8,18 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# U-Net architecture
+2025/11/05
+
+0000<->0700 End
+
+# U-Net architecture intuition
+2025/11/05
+
+0000<->0300 End
+
+- spacial information was lost in the later phase
+
 # Single Number Evaluation Metric
 
 2025/11/04
