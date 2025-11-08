@@ -8,6 +8,33 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Self-Attention
+
+2025/11/07
+
+0000<->1100 End
+
+- think l’Afrique as what?
+- A<3> is self attention representation for the word l’Afrique
+- q interesting question what’s happening there; k quality ; 
+- how good it is for the other word to the question q
+- soft max times v
+- sum it all
+- then you get the answer for A3 and if it is matrix multiplication, then it is a result for all other words as well
+- dk, the scale of the dot product
+- qk can make the next step times v to let v answer it more
+
+# Transformer Network Intuition
+2025/11/07
+
+0000<->0500 End
+
+- now the major NLP is based on transformer architecture
+- RNN GRU LSTM model become more and more complicated
+- transformer can ingest all the time step at one calculation
+- attention + CNN
+- vector representation
+
 # What is End-to-end Deep Learning?
 
 2025/11/06
