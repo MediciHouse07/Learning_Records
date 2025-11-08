@@ -8,6 +8,37 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# What is End-to-end Deep Learning?
+
+2025/11/06
+
+0000<->1100
+
+- MFCC
+- Phonemes
+- k a t
+- cat
+- multi task vs multi step
+- have lots of data for each of 2 sub tasks
+- データか話せする
+- motion planning
+- depending on what data you can get for
+
+# Multi-task Learning
+
+0000<->1200
+
+- 4 by m matrices
+- The term "train-test-prod" is not commonly used in the same way as "train-test" or "train-dev-test." However, the concept of a "production" dataset can be relevant in certain contexts. Here's a brief overview:
+
+Train-Test Split: This is the standard method where the dataset is divided into training and testing sets.
+
+Train-Dev-Test Split: This includes a development (dev) set in addition to the training and testing sets, allowing for hyperparameter tuning and model selection.
+
+Train-Prod Split: While not a standard term, some practitioners refer to a "production" dataset as the data that the model will encounter in real-world applications after deployment. This is not a split in the traditional sense but rather a consideration for how the model will perform on unseen data.
+In practice, once a model is deployed, it is essential to monitor its performance on production data and potentially retrain it with new data as it becomes available. 
+- shared lower level features
+
 # U-Net architecture
 2025/11/05
 
