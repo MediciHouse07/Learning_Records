@@ -1,5 +1,17 @@
 
 https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampling-with-replacement
+
+https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
+
+# What is Reinforcement Learning?
+
+2025/11/07
+
+0000<->0900
+
+- it is impossible to collect enough data for the helicopter problem, that is the major reason that you can’t use supervise learning for that problem
+- または　でーた　collection 可能性は　low です
+
 # Week 4
 Sampling with replacement
 
