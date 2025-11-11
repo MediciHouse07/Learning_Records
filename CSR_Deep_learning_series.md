@@ -8,6 +8,16 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Classic Networks
+2025/11/10
+
+0700<->1700
+
+- AlexNet, similar to LeNet, but much biggr
+- AlexNet use ReLU
+- LRN doesn’t help a lot
+- Local response normalization
+
 # Self-Attention
 
 # Classic Networks
