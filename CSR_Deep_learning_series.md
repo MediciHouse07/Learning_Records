@@ -10,6 +10,24 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 
 # Self-Attention
 
+# Classic Networks
+
+2025/11/09
+
+0000<->0700
+
+- 60K parameters back then and millions parameters today
+- LeCun 1998
+- section 2 and 3 of the paper are more readable
+
+# Why look at case studies?
+
+2025/11/09
+
+0000<->0300
+
+- LeNet5,AlexNet,VGG Classic
+
 2025/11/07
 
 0000<->1100 End
