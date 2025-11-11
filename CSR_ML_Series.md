@@ -3,6 +3,28 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Review of key concepts
+
+2025/11/10
+
+0000<->0100
+
+# Making decisions: Policies in reinforcement learning
+
+2025/11/10
+
+0000<->0230
+
+- policy
+- state, action, return reward, policy
+
+# The Return in reinforcement learning
+2025/11/10
+
+0330<->1000
+
+- interest rate, time value of money, vs discount factor
+
 # The Return in reinforcement learning
 
 2025/11/09
