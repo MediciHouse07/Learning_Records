@@ -3,6 +3,22 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# The Return in reinforcement learning
+
+2025/11/09
+
+0000<->0330
+
+- give less credit to
+
+# Mars rover example
+
+2025/11/09
+
+0000<->0630 End
+
+- reinforcement learning and reward
+
 # What is Reinforcement Learning?
 
 2025/11/07
