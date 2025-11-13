@@ -5,6 +5,19 @@ https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-
 
 # Review of key concepts
 
+2025/11/11
+
+0000<->0500
+
+- policy, take postion as input, give action as output
+- MDP, Markov decision process
+- future only depends on the current state
+- future only depends where you are now
+- Q(s,a)
+- take option a and behave optimally afterwards
+
+# Review of key concepts
+
 2025/11/10
 
 0000<->0100
