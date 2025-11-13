@@ -2,6 +2,16 @@
 
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
+# 29. Singular Value Decomposition 
+
+2025/11/11
+
+0000<->0500
+
+- orthognal matrix times diagnal matrix times orthognal matrix
+- symmatrix positive definite
+- gram schmisth
+
 # 3. Multiplication and Inverse Matrices
 
 0000<->0300
@@ -1986,6 +1996,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
