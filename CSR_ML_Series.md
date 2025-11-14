@@ -3,6 +3,14 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# State-action value function definition
+
+2025/11/12
+
+0000<->1000 End
+
+- circular definition
+
 # Review of key concepts
 
 2025/11/11
