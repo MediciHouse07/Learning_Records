@@ -1,5 +1,16 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+# Repo in Balance Sheets
+4/10 Lecture 7
+
+0200<->0700 End
+
+2025/11/13
+
+- no need to check the credit of you
+- just to make sure the bond is good
+- they are different thing from the point view of security dealer
+
 
 # Repo in Balance Sheets
 
@@ -2576,6 +2587,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
