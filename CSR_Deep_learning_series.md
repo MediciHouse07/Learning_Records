@@ -8,6 +8,21 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Networks in Networks and 1x1 Convolutions
+
+2025/11/12
+
+0000<->0100
+
+# Why ResNets Work?
+
+2025/11/12
+
+0000<->0900
+
+- regularization
+- adding two additional layer doesn't hurt the performance of the model
+
 # Why ResNets Work?
 
 2025/11/11
