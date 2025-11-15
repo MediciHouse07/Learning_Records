@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007
+2025/11/13
+
+3000<->4000
+
+# Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007
 
 2025/11/12
 
