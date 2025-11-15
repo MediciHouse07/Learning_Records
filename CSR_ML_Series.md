@@ -3,6 +3,12 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Bellman Equation
+
+2025/11/14
+
+0000<->0500
+
 # State-action value function definition
 2025/11/13
 
