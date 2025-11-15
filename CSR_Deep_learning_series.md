@@ -8,6 +8,22 @@ https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-mo
 # Convolutional NN
 https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-resnets-work
 
+# Improve ML model
+https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
+
+# Networks in Networks and 1x1 Convolutions
+2025/11/13
+
+0100<->0600 End
+
+- network in network, 11 convolution
+
+# Regularization
+
+2025/11/13
+
+0000<->0500
+
 # Networks in Networks and 1x1 Convolutions
 
 2025/11/12
