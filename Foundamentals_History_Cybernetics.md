@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 5
+2025/11/14
+
+0500<->1500 End
+
+- everything described before should be described in the new way
+
+# Lecture 5
 
 2025/10/29
 
