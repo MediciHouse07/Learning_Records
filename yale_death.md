@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=-lF-uMIfL6s&list=PLEA18FAF1AD9047B0
 
 # Lecture 22
 
+1500<->2000
+
+2025/11/14
+
+# Lecture 22
+
 1000<->1500
 
 2025/11/02
