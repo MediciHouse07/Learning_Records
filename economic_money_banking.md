@@ -1,5 +1,14 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+
+# Comparison with Fed Funds
+
+2025/11/17
+
+0000<->0500
+
+- biridgeneous, homogeneous
+
 # Repo in Balance Sheets
 4/10 Lecture 7
 
@@ -2587,6 +2596,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
