@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=0pxuwBjwcAI&list=PLun8-Z_lTkC6pHUNY-pp7ccWj-ylCt
 
 # Lecture 3
 
+2025/11/17
+
+1000<->1500
+
+- A3 associtive property
+- additive inverse
+
+# Lecture 3
+
 2025/11/14
 
 0000<->1000
