@@ -1,6 +1,18 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 7
+0300<->1300
+
+2025/11/18
+
+- a set of varaibles selected by an observer
+- system
+- vector description of systems
+- sequence of state
+- casual influence diagram
+- negative feedback loop
+
+# Lecture 7
 
 0000<->0300
 
