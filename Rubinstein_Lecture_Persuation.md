@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=tR5QE_zKyB0
 
+2025/11/18
+
+1000<->2000
+
+- to satisfy the four rules
+- 検索
+
 2025/11/17
 
 0000<->1000
