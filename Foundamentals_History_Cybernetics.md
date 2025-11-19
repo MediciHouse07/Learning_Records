@@ -1,5 +1,23 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 7
+
+0000<->0300
+
+2025/11/17
+
+- information and selection, cybernetics
+- matters relation,physics
+
+# Lecture 6
+
+2025/11/17
+
+0000<->0700 End
+
+- 計画
+- 企み　scheme
+
 # Lecture 5
 2025/11/14
 
