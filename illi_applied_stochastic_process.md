@@ -2,6 +2,22 @@ https://www.bilibili.com/video/BV1KL411t7Eb/?spm_id_from=333.337.search-card.all
 
 # Lecture 2
 
+0000<->1000
+
+2025/11/20
+
+- characteristic function
+- correspondence
+- countable mens counabiliy infinite
+- countable enables a map to natural number
+- sigma algebra, partition
+- skirt e
+- closed under complement and countable unions
+- define and construct a sigma algebra, and comparison of sigma algebra
+- coarser and finer
+
+# Lecture 2
+
 0000<->0500
 
 2024/07/20
