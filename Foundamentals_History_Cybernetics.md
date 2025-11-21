@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 7
+
+0500<->1500 End
+
+2025/11/19
+
+- Ross Ashbey
+
+# Lecture 7
 0300<->1300
 
 2025/11/18
