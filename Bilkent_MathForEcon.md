@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lectuer 6
+
+0000<->1000
+
+2025/11/20
+
+- to cut
+- to piearce
+- casality relations, to understand it, we need theoretical models
+- take distance as starting point
+- to model the state in which we live
+- space is not encledian
+
 # SEQUENCES - Lec 11 - Mathematics for Economists I
 
 0000<->0500
