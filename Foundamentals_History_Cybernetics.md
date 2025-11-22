@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 8
+
+2025/11/20
+
+0000<->0500
+
+- trivial system, do the obvious thing
+- US don't care trivial and non trivial, because of consersational way of studying in comparison to memorization
+- trivial is deterministic
+- come from all variety but ends with doing the same thing, speaking the same thing
+- EU education, turn non trivial to trivial
+
 # Lecture 7
 
 0500<->1500 End
