@@ -2,6 +2,19 @@ https://www.bilibili.com/video/BV1KL411t7Eb/?spm_id_from=333.337.search-card.all
 
 # Lecture 2
 
+1000<->2000
+
+2025/11/21
+
+- coarsest sigma algebra containing f
+- correspondence to partition
+- sigma algebra has correspondence to partition
+- exhaustitive
+- exclusive
+- 公式戦
+
+# Lecture 2
+
 0000<->1000
 
 2025/11/20
