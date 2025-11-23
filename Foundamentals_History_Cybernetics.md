@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 8
 
+2025/11/21
+
+0500<->1500 End
+
+- starting point, axiom
+- information and selection
+- bucket seat, bench seat
+- accepting lack of variety, reduce the level it requires for computers
+
+# Lecture 8
+
 2025/11/20
 
 0000<->0500
