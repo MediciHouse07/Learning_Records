@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=0pxuwBjwcAI&list=PLun8-Z_lTkC6pHUNY-pp7ccWj-ylCtNG8
 
+# Lecture 10
+
+2025/11/21
+
+0000<->1000
+
+- suppremium should always be in the closure set
+- E' limit point of E
+- limit point, for all its neighborhood intersect the set must be non empty
+- relative openess
+- all points become not interior, having neighborhood be included by the set itself
+
 # Lecture 3
 
 2025/11/17
