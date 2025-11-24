@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=Mvy5hjAWeZw&list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j
 
+# Lecture 2: Morphology, Part 1
+
+2025/11/22
+
+4500<->5000
+
+- morpheme
+- prepositions
+- determiners, the, an
+- auxiliaries, will, has
 
 # Lecture 2: Morphology, Part 1
 
