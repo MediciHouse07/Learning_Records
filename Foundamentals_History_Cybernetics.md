@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lecture 9
+
+2025/11/22
+
+0000<->1000
+
+- links cause and effect
+- model
+- hydralic
+
 # Lecture 8
 
 2025/11/21
