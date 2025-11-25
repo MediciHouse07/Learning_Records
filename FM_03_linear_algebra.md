@@ -2,6 +2,15 @@
 
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
+
+# 29. Singular Value Decomposition 
+
+2025/11/23
+
+0500<->1500
+
+- u orthornormal
+
 # 29. Singular Value Decomposition 
 
 2025/11/11
@@ -1996,6 +2005,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
