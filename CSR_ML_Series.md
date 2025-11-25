@@ -5,6 +5,12 @@ https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-
 
 # Bellman Equation
 
+2025/11/23
+
+0000<->0500
+
+# Bellman Equation
+
 2025/11/14
 
 0000<->0500
