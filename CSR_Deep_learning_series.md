@@ -12,6 +12,20 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
 # Networks in Networks and 1x1 Convolutions
+2025/11/23
+
+000<->0400
+
+# Networks in Networks and 1x1 Convolutions
+2025/11/23
+
+000<->0600 End
+
+- different ways in appreciating 1 1 convolution
+- network in network
+- even if keeping 192 the same, it addes nonlinearity to the network
+
+# Networks in Networks and 1x1 Convolutions
 2025/11/13
 
 0100<->0600 End
