@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lecture 9
 
+2025/11/23
+
+1000<->1500 End
+
+# Lecture 9
+
 2025/11/22
 
 0000<->1000
