@@ -11,10 +11,17 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
-# Networks in Networks and 1x1 Convolutions
+# Inception Network Motivation
+2025/11/24
+
+0000<->1000
+
+- inception network, high computational cost, bottleneck method introduced
+
+# Inception Network Motivation
 2025/11/23
 
-000<->0400
+0000<->0400
 
 # Networks in Networks and 1x1 Convolutions
 2025/11/23
