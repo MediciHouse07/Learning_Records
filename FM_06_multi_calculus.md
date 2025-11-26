@@ -1,6 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007
+
+2025/11/24
+
+4000<->5000 End
+
+- gravitational force exerted by delta M
+- scale it down to the length of unit 1
+- イギリスの強いパイプを持つリチャードは
+
+# Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007
 2025/11/13
 
 3000<->4000
