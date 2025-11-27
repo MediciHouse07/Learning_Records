@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
+# Lectuer 2
+
+0000<->0500
+
+2025/11/25
+
+- 235 284
+
 # 01. Course Introduction: Rome's Greatness and First Crises
 
 3500<->4000 End
