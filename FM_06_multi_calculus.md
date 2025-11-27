@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 27
+2025/11/25
+
+0000<->0500
+
+
+
 # Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007
 
 2025/11/24
