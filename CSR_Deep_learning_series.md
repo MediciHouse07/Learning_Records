@@ -11,6 +11,14 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+
+# Inception Network
+
+2025/11/25
+
+0000<->0500
+
+
 # Inception Network Motivation
 2025/11/24
 
