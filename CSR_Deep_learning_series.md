@@ -11,6 +11,25 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Inception Network
+
+2025/11/26
+
+0000<->0200
+
+- low compute environment
+- computationally expensive
+
+# Inception Network
+
+2025/11/26
+
+0100<->0900 End
+
+- 偽
+- inception
+- internet memes
+- 仲間
 
 # Inception Network
 
