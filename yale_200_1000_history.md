@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
 # Lectuer 2
+0500<->1000
+
+2025/11/26
+
+- 大秦，安息，龟兹， 天竺
+
+# Lectuer 2
 
 0000<->0500
 
