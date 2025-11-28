@@ -3,6 +3,18 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Random (stochastic) environment (Optional)
+
+2025/11/26
+
+0000<->0300
+
+# Bellman Equation
+
+2025/11/26
+
+1000<->1200
+
 # Bellman Equation
 
 2025/11/25
