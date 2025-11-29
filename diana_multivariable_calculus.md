@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 23
 
+1500<->2500
+
+2025/11/27
+
+- trig substitution
+- r dr dtheta
+
+# Lectuer 23
+
 1000<->1500
 
 2025/11/26
