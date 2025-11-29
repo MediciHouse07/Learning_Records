@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lectuer 10
+
+2025/11/27
+
+0000<->0500
+
+- law of requisite variety, should have been well known in managment field
+- qualitive relation between information and decision making
+
 # Lecture 9
 
 2025/11/23
