@@ -2,6 +2,18 @@
 
 https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 
+LN
+https://www.youtube.com/watch?v=UZQGn1L2CzQ
+
+# determinant
+
+2025/11/28
+
+0000<->1200 End
+
+- eliminantion, sumation, by cofacctors
+- upper triangular matrix
+
 # 29. Singular Value Decomposition 
 
 2025/11/24
@@ -2014,6 +2026,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
