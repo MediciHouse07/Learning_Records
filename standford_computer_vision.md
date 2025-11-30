@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8
 
 # Lectuer 5
 
+0400<->1200
+
+2025/11/28
+
+- 2012 AlexNet
+- parallel computing power in GPU
+
+# Lectuer 5
+
 0200<->1200
 
 2025/11/27
