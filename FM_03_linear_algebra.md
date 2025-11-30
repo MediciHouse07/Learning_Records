@@ -5,6 +5,15 @@ https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 LN
 https://www.youtube.com/watch?v=UZQGn1L2CzQ
 
+# differential equation
+
+2025/11/28
+
+0000<->1000
+
+- translate third order differential equation to first order differential equation
+- eigen vector in the null space of A-lambda x times I
+
 # determinant
 
 2025/11/28
@@ -2026,6 +2035,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
