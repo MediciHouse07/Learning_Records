@@ -7,6 +7,15 @@ https://www.youtube.com/watch?v=UZQGn1L2CzQ
 
 # differential equation
 
+2025/11/29
+
+0800<->1800 End
+
+- S with eigen vector as column
+- C stand for cofactor
+
+# differential equation
+
 2025/11/28
 
 0000<->1000
@@ -2035,6 +2044,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
