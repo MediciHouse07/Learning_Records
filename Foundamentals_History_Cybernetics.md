@@ -2,6 +2,13 @@ https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
 # Lectuer 10
 
+2025/11/29
+0500<->1500 End
+
+- learn from sources other than just the designer
+
+# Lectuer 10
+
 2025/11/27
 
 0000<->0500
