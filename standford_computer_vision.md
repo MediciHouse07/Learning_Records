@@ -1,13 +1,16 @@
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
-# Lectuer 5
+# Lecture 5
 
-0400<->1200
+1200<->2200
 
-2025/11/28
+2025/12/01
 
-- 2012 AlexNet
-- parallel computing power in GPU
+- K ai ggle
+- image captioning
+- fully connected layer
+- spatially
+- w transpose
 
 # Lectuer 5
 
