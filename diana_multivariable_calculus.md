@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 23
 
+2500<->3500
+
+2025/12/01
+
+# Lectuer 23
+
 1500<->2500
 
 2025/11/27
