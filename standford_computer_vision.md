@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
+
+# Lecture 5
+
+2200<->3200
+
+2025/12/02
+
 # Lecture 5
 
 1200<->2200
