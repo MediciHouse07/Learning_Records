@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfV
 
 # Lectuer 16
 
+1000<->2000
+
+2025/12/02
+
+- TBRT
+
+# Lectuer 16
+
 0000<->1000
 
 2025/12/01
