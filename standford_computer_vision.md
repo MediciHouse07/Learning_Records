@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
+# Lectuer 5
+
+3200<->4200
+
+2025/12/06
+
+- n-f/stride + 1, output size
+- 77 in 77 out
 
 # Lecture 5
 
