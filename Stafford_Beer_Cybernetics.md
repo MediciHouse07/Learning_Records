@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
 
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
+2025/12/06
+
+4600<->5100
+
+# Stafford Beer Collection.- 08 VSM, The Outside & Then
 2025/11/01
 
 4100<->4600
