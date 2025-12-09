@@ -2,6 +2,17 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 23
 
+3500<->4230
+
+2025/12/07
+
+- Jacobin
+- DT, DT was introduced in several courses ago
+- dA= det DT times old ara= new area
+- an angle in understanding why dx dy is rdrdtheta
+
+# Lectuer 23
+
 2500<->3500
 
 2025/12/01
