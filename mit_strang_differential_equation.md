@@ -1,5 +1,22 @@
 https://www.youtube.com/watch?v=ghjOS7Q82s0&list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix
 
+# Lectuer 2
+
+0000<->1000
+
+2025/12/07
+
+- TBRT SHIFT
+- fundamental idea of calculus
+
+# Lectuer 3
+
+0000<->0500
+
+2025/12/07
+
+- exponential response
+
 # Lectuer 19
 
 00000<->1500
