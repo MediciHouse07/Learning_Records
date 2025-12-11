@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRxLGT&index=23
 
+# Lectuer 14
+
+0000<->1000
+
+2025/12/09
+
+- CP of interior, CP of boundary
+- solve for theta
+
 # Lectuer 23
 
 3500<->4230
