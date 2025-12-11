@@ -1,6 +1,20 @@
 https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
 # Lectuer 2
+
+1000<->2000
+
+2025/12/09
+
+- 235 285
+- 30 emperors
+- tributive value in relation to gold
+- middle age invented bond
+- debase the coin
+- representitive of currency
+- 1970
+
+# Lectuer 2
 0500<->1000
 
 2025/11/26
