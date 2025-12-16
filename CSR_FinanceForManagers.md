@@ -1,5 +1,23 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# 3.3 Diagnosis I
+
+0000<->0300
+
+2025/12/14
+
+- grow too much, not enough of growing
+- operational policies, operational ratio
+
+# 4.3 sensitivity analysis
+
+0000<->0700
+
+2025/12/14
+
+- how sensitve the result is if the key variable change
+- operational policies
+
 # 4.13 13.- Blind Financial Statements (Part 3)
 
 0000<->0200
