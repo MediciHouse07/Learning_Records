@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 14
 
+1000<->2000
+
+2025/12/14
+
+- point tangent to the level curve
+- constraint curve (is) tangent to the level curve
+- gradient of f and gradient of g equal with a multiplier of lambda
+
+# Lectuer 14
+
 0000<->1000
 
 2025/12/09
