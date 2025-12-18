@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 1000<->2000
 
+2025/12/16
+
+- lower elevation, higher elevation
+- constraint curve, level curve
+- x 2 + y 2 = 1 => 2 , point outward
+- lagrange relation itself can derive a relation between x and y, and that has some geometric meaning
+- lagrange relation + constraint can derive an exact answer for every parameter, meaning x,y,lambda
+
+# Lectuer 14
+
+1000<->2000
+
 2025/12/14
 
 - point tangent to the level curve
