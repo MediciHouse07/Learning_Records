@@ -3,6 +3,20 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Example of continuous state space applications
+
+2025/12/16
+
+0000<->0200
+
+# Random (stochastic) environment (Optional)
+
+2025/12/16
+
+0000<->0800
+
+- sequence of reward xxxx
+
 # Random (stochastic) environment (Optional)
 
 2025/11/26
