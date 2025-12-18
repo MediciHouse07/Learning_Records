@@ -11,6 +11,22 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Data Augmentation
+
+0000<->0200
+
+2025/12/16
+
+# Transfer learning
+
+2025/12/16
+
+0000<->0800
+
+- imagenet dataset
+- download also the parameter
+- trainable parameter=0, freeze=1
+
 # Inception Network
 
 2025/11/26
