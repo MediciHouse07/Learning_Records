@@ -1,5 +1,22 @@
 KG exploration
 
+2025/12/17
+
+4509
+
+loaded the code, asked the question to copilot
+
+5509
+
+
+
+0510
+
+---
+
+
+KG exploration
+
 2510
 
 review last time achieved, but somehow copilot disapeared from the browser
