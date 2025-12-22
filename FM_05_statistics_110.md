@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+# Lectuer 29
+
+2025/12/20
+
+0000<->1000
+
+- either converge or not is an event
+- i.i.d assumption be careful not to drop it. you can improve the distribution
+
 # Lecture 6
 
 2024/12/17
@@ -2679,3 +2688,4 @@ COV(X+Y,X-Y)
 ### Lecture 34 <br>
 2022/04/15: finished, 0730 mins, probability model->data, inference data->parameter;
 1940 mins, mostly harmless econometric book
+
