@@ -11,6 +11,19 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Attention Model Intuition
+
+2025/12/21
+
+0000<->0300 0120<->0820
+
+- attention, don't memorize the whole sentence
+- bleu score
+- working one part of the sentence at a time
+- set of attention weights
+- c stand for context
+- attention weights time with something drives context c
+
 # Data Augmentation
 
 0000<->0200
