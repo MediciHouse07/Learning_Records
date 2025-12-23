@@ -3,6 +3,23 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# The return in reinforcement learning
+
+2025/12/21
+
+0000<->0400
+
+- give less credit, and even less credit
+- getting the result sooner would receive better
+
+# Mars rover example
+
+2025/12/21
+
+0000<->0600
+
+- state
+
 # Example of continuous state space applications
 
 2025/12/16
