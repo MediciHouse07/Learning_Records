@@ -2,6 +2,16 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 14
 
+2500<->3500
+
+2025/12/21
+
+- use multiplication to bridge the two equations, then you don't need to justify -
+- 3 numbers with sum the same, maximize their product
+- to check if it is a min or max
+
+# Lectuer 14
+
 2000<->3000
 
 2025/12/20
