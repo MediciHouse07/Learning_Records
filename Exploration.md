@@ -1,5 +1,18 @@
 KG exploration
 
+2025/12/22
+
+0930
+
+Blast
+
+1000
+
+identify blending, understand the target again
+
+
+KG exploration
+
 2025/12/17
 
 4509
