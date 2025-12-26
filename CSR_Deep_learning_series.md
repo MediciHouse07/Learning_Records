@@ -11,6 +11,10 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Practice 1051 1123
+
+- glorot_uniform
+
 # Attention Model Intuition
 
 2025/12/21
