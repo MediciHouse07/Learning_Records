@@ -11,6 +11,25 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Practice
+
+2025/12/25
+
+0852
+
+try to understand data augmenter, rifle
+
+
+0952
+
+finished the setup for data augmentation
+
+0912
+
+next assignment
+
+0922
+
 # Practice 1051 1123
 
 - glorot_uniform
