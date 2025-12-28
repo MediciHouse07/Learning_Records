@@ -1,5 +1,17 @@
 KG exploration
 
+2025/12/26
+
+12:45
+do exam
+12:55
+Did another exam
+13:05
+Optional lab to udnerstand state value function
+continuous reinforcement learning
+13:15
+
+
 2025/12/22
 
 0930
