@@ -1,5 +1,33 @@
 KG exploration
 
+
+2025/12/27
+
+09:24
+
+tilted to the left or tilted to the right
+given state, pick action to maximize the return, with discount fator
+
+
+09:34
+
+deep reinforcement learning
+s,a based Q formula, to tell it what action and state combination rewards
+
+09:44
+
+deep Q network
+DQN
+take a long time to converge
+
+
+09:54
+
+picking action randomly, aka, exploration
+greedy action
+exploitation
+epsilon greedy policy
+
 2025/12/26
 
 12:45
