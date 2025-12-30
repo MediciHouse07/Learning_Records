@@ -3,6 +3,10 @@ KG exploration
 
 2025/12/27
 
+Vectorization can let your code run on parrallel compute hardware
+
+2025/12/27
+
 09:24
 
 tilted to the left or tilted to the right
