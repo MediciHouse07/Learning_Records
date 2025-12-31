@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 14
 
+3500<->4500
+
+2025/12/29
+
+- length width heght
+- a rectangular box made of 12 center meter square card box
+
+# Lectuer 14
+
 2500<->3500
 
 2025/12/21
