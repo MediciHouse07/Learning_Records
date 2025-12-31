@@ -1,5 +1,10 @@
-KG exploration
 
+
+20251231
+
+モノクローム this is the music flying in my mind, I didn't know the name of the music, I opened my playlist, randomly clicked one music from my playlist, to my surprise, the one was the one
+
+KG exploration
 
 2025/12/27
 
