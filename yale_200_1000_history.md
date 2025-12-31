@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660
 
 # Lectuer 2
 
+2000<->3000
+
+2025/12/29
+
+- abdicate
+
+# Lectuer 2
+
 1000<->2000
 
 2025/12/09
