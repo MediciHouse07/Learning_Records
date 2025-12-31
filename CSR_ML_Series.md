@@ -3,6 +3,18 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Using per-item features
+
+2025/12/29
+
+0000<->1000
+
+- for different users fitting different linear regression model
+- i,j movie i user j
+- sum only over the movies of i where it is rated
+- cold start problem
+- In tree models, particularly in decision trees, we calculate the entropy (or other impurity measures) for each child branch after splitting the data. The goal is to choose the split that results in the lowest entropy,
+
 # The return in reinforcement learning
 
 2025/12/21
