@@ -2,6 +2,30 @@
 
 12:57
 
+understand the admin procedure of the competition
+
+13:07
+
+understood how the admin procedure would be managed
+
+13:17
+
+embed cafa6 test superset data
+
+13:27
+
+understand more about cafa6 competition, record are all in medici copilot
+
+13:37
+
+try the embedding approach for fun
+
+13:42
+
+25 mins out of time due to computationally heavy, and distraction from environment, searching for a headset
+
+14:07
+
 20251231
 
 モノクローム this is the music flying in my mind, I didn't know the name of the music, I opened my playlist, randomly clicked one music from my playlist, to my surprise, the one was the one
