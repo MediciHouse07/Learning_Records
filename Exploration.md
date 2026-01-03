@@ -2,7 +2,26 @@
 
 08:02
 
+check if the naive embedding technically possible
+realized to also check the stats for null value
 
+08:12
+
+still working on the same thing, got an understanding of a characteristic of the group
+
+08:22
+
+
+
+08:32
+
+understand RAM size
+
+08:42
+
+adjust the parameter to best fit RAM
+
+08:52
 
 
 2025/12/31
