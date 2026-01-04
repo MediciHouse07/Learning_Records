@@ -11,6 +11,12 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Attention model
+
+2025/01/02
+
+0000<->0900
+
 # Practice
 
 2025/12/25
