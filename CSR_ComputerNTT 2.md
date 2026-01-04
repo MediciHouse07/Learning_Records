@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/nand2tetris2/lecture/4XUSB/unit-0-6-low-level-programming-part-i
 
+# Unit 3.1
+
+2025/01/02
+
+0000<->1000
+
+- understand it conceptually is fine enough
+
 # Unit 6.1: Operating System
 
 2025/11/22
