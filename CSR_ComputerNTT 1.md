@@ -1,5 +1,18 @@
 https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-ahead
 
+# Unit 3.1
+
+0000<->1000
+
+2025/01/02
+
+- flip flops
+- how computer defined time
+- use the same hardware to do something
+- remember state
+- deal with speed
+- voltage changes
+
 # Module 1
 Unit 0.2: From Nand to Hack
 
