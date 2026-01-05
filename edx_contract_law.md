@@ -2,6 +2,11 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+3T2024/block-v1:Harvardx+HLS2X+3T2024+type@sequential+block@63f21f49c9ca46ccb6321df9c3abfe8f/block-v1:Harvardx+HLS2X+3T2024+type@vertical+block@b16cf594ecfd445589fb55d52c6bea58
 
+# What is contract
+
+2026/01/03
+
+0000<->0500
 
 # Odometer Fraud
 
