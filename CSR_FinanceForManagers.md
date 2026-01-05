@@ -1,5 +1,11 @@
 https://www.coursera.org/learn/operational-finance/lecture/go0z9/3-operational-ratios-days-of-collection
 
+# Week3.7
+
+0000<->0700
+
+2026/01/03
+
 # 3.3 Diagnosis I
 
 0000<->0300
