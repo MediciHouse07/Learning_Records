@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRxLGT&index=23
 
+# Lectuer 31
+
+2026/01/03
+
+0000<->0400
+
+- many thereoms, Green's therom, Stoke's therom ... are all generalization of foundamental theorom of calculus
+
 # Lectuer 14
 
 3500<->4500
