@@ -2,6 +2,14 @@ https://www.coursera.org/learn/build-a-computer/lecture/gd00Q/unit-0-1-the-road-
 
 # Unit 3.1
 
+0500<->1500 End
+
+2026/01/03
+
+- remember a bit forever
+
+# Unit 3.1
+
 0000<->1000
 
 2025/01/02
