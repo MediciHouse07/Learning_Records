@@ -1,6 +1,16 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
 
+# mid term review module 7
+
+2026/01/03
+
+0000<->0400
+
+- war and financial crisis analogy
+- subordinate
+- roll very large promises to future
+
 # Comparison with Fed Funds
 
 2025/11/17
@@ -2596,6 +2606,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
