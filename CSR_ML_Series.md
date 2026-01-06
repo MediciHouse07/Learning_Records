@@ -3,6 +3,14 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Reducing the number of features (optional)
+
+2025/01/04
+
+0000<->1200
+
+- PCA
+
 # Using per-item features
 
 2025/12/29
