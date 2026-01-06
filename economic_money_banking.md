@@ -1,5 +1,13 @@
 https://www.coursera.org/learn/money-banking/lecture/uTJdG/payments-imbalances-and-the-fed-funds-rate
 
+# Forward parity
+
+2026/01/04
+
+0000<->0700
+
+- expansion of balance sheet, bank don't like it
+
 
 # mid term review module 7
 
@@ -2606,6 +2614,7 @@ Fed can't have deposit, BOE can have deposit, BOE is a bank, bank department is 
 
 ## Lec 2
 2022/03/24: 💫finished
+
 
 
 
