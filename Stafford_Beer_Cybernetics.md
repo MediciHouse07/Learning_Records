@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=j1B8ziJBoVA&list=PL5i1ygt2HS-eiqWsVQxPuKsQIM5sykGIH&index=7
 
+# 01 History
+
+2026/01/04
+
+0700<->1200
+
+- 1943
+- teleological
+
 # Stafford Beer Collection.- 08 VSM, The Outside & Then
 2025/12/07
 
