@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 31
 
+2026/01/05
+
+0000<->1000
+
+- how much each vector contribute at different direction
+
+# Lectuer 31
+
 2026/01/03
 
 0000<->0400
