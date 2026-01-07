@@ -3,6 +3,12 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Anomaly detection algorithm
+
+2026/01/05
+
+0000<->1100
+
 # Reducing the number of features (optional)
 
 2025/01/04
