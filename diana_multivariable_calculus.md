@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 31
 
+2026/01/06
+
+0500<->1500
+
+- infinite decimal on the direction that you go with the curve
+
+# Lectuer 31
+
 2026/01/05
 
 0000<->1000
