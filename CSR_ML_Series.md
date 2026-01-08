@@ -3,6 +3,16 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Developing and evaluating an anomaly detection system
+
+2026/01/06
+
+0000<->1100
+
+- unsupervised learning, tune epsilon
+- only training and cv set, when anomoly data set is too small, no idea on future performance
+- on skewed data, leverage the scores such as precision, recall, F1 scall and so on
+
 # Anomaly detection algorithm
 
 2026/01/05
