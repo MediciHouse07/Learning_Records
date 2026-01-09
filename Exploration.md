@@ -21,6 +21,8 @@ no output, be distracted
 10:02
 
 I don't know it was because of a sip of coffee or what, but I was close to cry while I was reading the 4th tolution writeup, maybe because its sincere and honest
+Music was 'Before the dawn'
+https://www.youtube.com/watch?v=ApG2Svgk7Pc&t=5670s
 
 10:12
 
