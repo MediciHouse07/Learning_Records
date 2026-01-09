@@ -2,7 +2,27 @@
 
 09:12
 
+Checked second solution in last year
 
+09:22
+
+no output, be distracted
+
+09:32
+
+3rd solution, with graph, you can mimic it
+
+09:42
+
+
+
+09:52
+
+10:02
+
+I don't know it was because of a sip of coffee or what, but I was close to cry while I was reading the 4th tolution writeup, maybe because its sincere and honest
+
+10:12
 
 2026/01/01
 
