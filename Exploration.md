@@ -1,3 +1,30 @@
+
+2026/01/09 Total 59 mins exploration
+
+13:39
+
+Downloaded the fourth solution and try to enable it
+
+13:49
+
+no progress
+
+13:59
+
+running ankh embedding now
+
+14:09
+
+anhk embedding is running, length is also identified
+
+14:19
+
+train and infer seems can work with anhk embedding only, though there was also other embedding being used
+preprocess data, not sure where it was from or can it be resuable for this competition
+waiting for the result from the embedding
+
+14:38
+
 2026/01/07
 
 09:12
