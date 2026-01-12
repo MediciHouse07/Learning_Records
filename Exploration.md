@@ -1,5 +1,36 @@
 
+2026/01/10
+
+09:10
+
+Use GPU run the 3850 to 7000
+Attempt to use model trained with last year applying to the new year
+
+09:20
+
+GPU run into error as not call GPU at every step
+
+09:30
+
+Moved to GPU but seems at a wrong place
+
+09:40
+
+Test inference model, with existing setup then try to use the embedding others created
+
+
+09:50
+
+code running successfully
+need to understand the 3 categories,e.g. BPO, where is data is from test-ii ipynb
+
+10:15
+
+
 2026/01/09 Total 59 mins exploration
+
+
+
 
 13:39
 
