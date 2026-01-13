@@ -1,4 +1,14 @@
 
+2026/01/11
+
+10:52
+
+to prepare the matrix and the freq weight
+
+11:02
+
+
+
 2026/01/10
 
 09:10
