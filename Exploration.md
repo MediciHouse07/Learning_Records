@@ -29,6 +29,21 @@ cyber music 59 mins around
 
 09:43
 
+No, if the content of your submission file is the same, then the order of the rows will not affect the predictions or the results in Kaggle competitions.
+Kaggle's evaluation process typically involves comparing the predicted values in your submission file against the true values from the test set (for example, using metrics like accuracy, RMSE, etc.). As long as the predicted values for each test instance are correctly aligned with their respective IDs (or indices), the order of the rows in the file doesn't matter.
+However, there are some important considerations:
+
+
+Correct Format: Ensure that the structure of the file matches the format expected by the competition (e.g., columns in the right order, headers present if required).
+
+
+ID Matching: If the IDs (or indexes) are out of order or mismatched with the corresponding predicted values, it would lead to incorrect predictions, even though the predicted values themselves are correct.
+
+
+File Integrity: Make sure the file is properly formatted (e.g., CSV, TSV), with no extra rows, blank spaces, or corrupted content.
+
+
+In short, it's the content (the correct predictions corresponding to the correct IDs) that matters, not the order of the rows.
 
 2026/01/11
 
