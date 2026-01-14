@@ -1,4 +1,35 @@
 
+2026/01/12
+
+08:43
+
+Test why the number of rows is 80K around only
+
+08:53
+
+it was because of taxnomy was still from cafa6
+checking if it is possible to derive matrix and frequence weight from give file
+
+09:03
+
+running training steps
+
+09:13
+
+study file differences
+
+09:23
+
+to test if use the same IA would bring the same YP label and YP files
+understand and got a proof of data comp of this comp
+
+09:33
+
+cyber music 59 mins around
+
+09:43
+
+
 2026/01/11
 
 10:52
