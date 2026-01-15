@@ -1,4 +1,12 @@
 
+2026/01/13
+
+09:09
+
+Use models trained with last year data, to predict new year result, ablation test?
+
+09:39 mins
+
 2026/01/12
 
 08:43
