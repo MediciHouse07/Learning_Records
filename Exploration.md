@@ -7,6 +7,15 @@ t5, esm2, esm2 3b, pb, ankh, taxa, text emb
 
 10:05
 
+Both are types of Primary Memory (also called Main Memory).
+
+They just serve different roles:
+
+    RAM (Random Access Memory): This is Read/Write memory. It is your "workspace." You can write new data to it and read from it constantly, but it forgets everything when the power goes out (Volatile).
+    ROM (Read-Only Memory): This is Read-Only memory. It is your "reference library." It holds critical instructions that shouldn't change, and it remembers them even without power (Non-Volatile).
+
+1303
+
 2026/01/13
 
 09:09
