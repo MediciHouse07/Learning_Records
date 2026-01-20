@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiA
 
 0000<->1000
 
+2026/01/18
+
+- has its original in reality
+
+# Lectuer 6
+
+0000<->1000
+
 2025/11/20
 
 - to cut
