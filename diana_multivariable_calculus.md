@@ -2,6 +2,12 @@ https://www.youtube.com/watch?v=POxgfiSd9AM&list=PL3e7J-yDTmahubJZoHodT0DLw64gRx
 
 # Lectuer 31
 
+2026/01/19
+
+1000<->2000
+
+# Lectuer 31
+
 2026/01/06
 
 0500<->1500
