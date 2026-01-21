@@ -11,6 +11,30 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Cost function
+
+2026/01/19
+
+0000<->0300
+
+- Normalization is a technique used to adjust the scale of data, making it easier to compare and analyze. In the context of the squared L2 norm, using a factor like ( \frac{1}{2} ) serves a specific purpose.
+
+When we calculate the squared L2 norm, we are essentially measuring the distance between two vectors. The formula for the squared L2 norm is:
+
+[
+|x - y|^2 = (x_1 - y_1)^2 + (x_2 - y_2)^2 + ... + (x_n - y_n)^2
+]
+
+By including a normalization factor of ( \frac{1}{2} ), we simplify the derivative when we perform optimization, such as gradient descent. This is because the derivative of ( \frac{1}{2} |x - y|^2 ) with respect to ( x ) is simply ( x - y ), rather than ( 2(x - y) ) without the normalization. This makes calculations cleaner and easier to manage, especially when adjusting weights in a neural network.
+
+In summary, using ( \frac{1}{2} ) as a normalization factor helps streamline the optimization process while still accurately representing the distance between vectors. If you have any more questions or need clarification on other concepts, feel free to ask!
+
+# Style cost function
+
+2026/01/19
+
+0000<->0400
+
 # Attention model
 
 2025/01/02
