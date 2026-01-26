@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+#  Lectuer 6
+
+1000<->2000
+
+2026/01/24
+
+- upper bound is a marker of arbitrarily closeness
+- 
+
 # Lectuer 6
 
 0000<->1000
