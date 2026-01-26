@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=IwM-BRE93J4
 
+
+0000<->1000
+
+2026/01/24
+
+- agreement to enforce the behaviour
+- contract
+- dispute regarding an agreement
+- externally enforced contract
+
 0000<->1000
 
 2024/10/28
