@@ -2,6 +2,31 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+3T2024/block-v1:Harvardx+HLS2X+3T2024+type@sequential+block@63f21f49c9ca46ccb6321df9c3abfe8f/block-v1:Harvardx+HLS2X+3T2024+type@vertical+block@b16cf594ecfd445589fb55d52c6bea58
 
+# communication
+
+2026/01/24
+
+0000<->0400
+
+- communication
+- agreement
+- understanding
+- the good citizen of siena
+- thunderbolt
+
+# commitment, trust
+
+2026/01/24
+
+
+0000<->0700
+
+- understanding
+- promise and trust
+- moment to moment is understanding
+- trust, promise, commitment
+- 
+
 # What is contract
 
 2026/01/03
