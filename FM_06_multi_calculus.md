@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+
+# Lec 27
+2026/01/25
+
+1000<->2000
+
+- dS-> is n->dS, vector which length depends on the area
+
 # Lec 27
 2025/11/26
 
