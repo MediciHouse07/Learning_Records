@@ -3,6 +3,18 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# Random forest algorithm
+
+2026/01/25
+
+0000<->0600
+
+# sampling with replacement
+
+2026/01/25
+
+0000<->0400
+
 # Developing and evaluating an anomaly detection system
 
 2026/01/06
