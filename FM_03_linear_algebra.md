@@ -5,6 +5,14 @@ https://www.youtube.com/watch?v=JibVXBElKL0&list=PL221E2BBF13BECF6C&index=13
 LN
 https://www.youtube.com/watch?v=UZQGn1L2CzQ
 
+# Lectuer 19
+
+2026/01/26
+
+0000<->1000
+
+- have a column of 0s
+
 # 20. Cramer's Rule, Inverse Matrix, and Volume
 
 2026/01/04
@@ -2052,6 +2060,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
