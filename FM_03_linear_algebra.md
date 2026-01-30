@@ -7,6 +7,14 @@ https://www.youtube.com/watch?v=UZQGn1L2CzQ
 
 # Lectuer 19
 
+2026/01/28
+
+1000<->2000
+
+- one row exchange to get it back to identity
+
+# Lectuer 19
+
 2026/01/26
 
 0000<->1000
@@ -2060,6 +2068,7 @@ https://www.youtube.com/watch?v=dZfdKXxhnTM
 2023/11/15
 
 0000<->1500
+
 
 
 
