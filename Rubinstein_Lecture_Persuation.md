@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=tR5QE_zKyB0
 
+2026/01/28
+
+2500<->3500
+
+- assumption on, change with rules following codex
+
 2025/11/19
 
 2000<->2500
