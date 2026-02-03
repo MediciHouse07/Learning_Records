@@ -2,7 +2,19 @@ https://learning.edx.org/course/course-v1:Harvardx+HLS2X+2T2024/hom
 
 https://learning.edx.org/course/course-v1:Harvardx+HLS2X+3T2024/block-v1:Harvardx+HLS2X+3T2024+type@sequential+block@63f21f49c9ca46ccb6321df9c3abfe8f/block-v1:Harvardx+HLS2X+3T2024+type@vertical+block@b16cf594ecfd445589fb55d52c6bea58
 
-# communication
+# Regulated contract
+
+2026/02/01
+10 mins
+
+- get from private providers
+
+
+Charles Fried's book, Contract as Promise: A Theory of Contractual Obligation, 2nd Edition, is out. You can find it here. 
+
+
+
+#https://www.amazon.com/Contract-Promise-Theory-Contractual-Obligation/dp/0190240164/ref=sr_1_1?s=books&ie=UTF8&qid=1439315135&sr=1-1&keywords=contract+promise+fried communication
 
 2026/01/24
 
