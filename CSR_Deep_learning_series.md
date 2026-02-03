@@ -11,6 +11,14 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Attention model intuition
+
+2026/02/01
+
+0000<->1000
+
+- 1, 2, is about to which word. ,2 ,4 is about based on which time step
+
 # Cost function
 
 2026/01/19
