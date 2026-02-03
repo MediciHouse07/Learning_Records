@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lectuer 6
+
+1500<->2500
+
+2026/02/01
+
+- a definition defining epsilon ball
+
 #  Lectuer 6
 
 1000<->2000
