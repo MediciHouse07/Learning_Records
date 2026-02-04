@@ -3,6 +3,15 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# mean normalization
+
+2026/02/02
+
+0000<->0800 0000<->0200
+
+- normalizing row predict user
+- normalizing column predict new movie, but less important in practice
+
 # Random forest algorithm
 
 2026/01/25
