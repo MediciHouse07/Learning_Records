@@ -11,6 +11,34 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# Attention model
+
+2026/02/02
+
+0000<->1000
+
+- Certainly! Here are the specific mathematical concepts that are beneficial for studying deep learning, particularly in the **Sequence Models** course:
+
+### 1. **Linear Algebra**
+   - **Vectors and Matrices**: Understanding operations like addition, multiplication, and transposition.
+   - **Matrix Decomposition**: Familiarity with concepts like eigenvalues and eigenvectors.
+   - **Dot Product and Norms**: Understanding how to compute and interpret these.
+
+### 2. **Calculus**
+   - **Derivatives**: Knowledge of how to compute derivatives and understand their significance in optimization.
+   - **Partial Derivatives**: Important for functions of multiple variables, especially in gradient descent.
+   - **Chain Rule**: Essential for backpropagation in neural networks.
+
+### 3. **Probability and Statistics**
+   - **Basic Probability**: Understanding concepts like random variables, probability distributions, and Bayes' theorem.
+   - **Expectation and Variance**: Familiarity with these concepts helps in understanding model performance.
+   - **Statistical Distributions**: Knowledge of normal distribution, binomial distribution, etc.
+
+### 4. **Optimization**
+   - **Gradient Descent**: Understanding how optimization algorithms work, including concepts like learning rate and convergence.
+
+These mathematical foundations will help you understand the algorithms and models used in deep learning more effectively. If you have any specific questions about these topics or need resources to study them, feel free to ask!
+
 # Attention model intuition
 
 2026/02/01
