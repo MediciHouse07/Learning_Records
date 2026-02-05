@@ -2,6 +2,14 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 # Lec 27
 
+2026/02/03
+
+4000<->5000
+
+- 
+
+# Lec 27
+
 2026/02/02
 
 3000<->4000
