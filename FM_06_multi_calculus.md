@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
 4000<->5000
 
-- 
+- flux amount of matter through S per unit time
 
 # Lec 27
 
