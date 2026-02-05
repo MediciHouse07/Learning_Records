@@ -1,5 +1,13 @@
 https://www.youtube.com/watch?v=X9c0MRooBzQ&list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr&index=2
 
+# Lectuer 8
+
+2026/02/03
+
+0000<->1000
+
+- start to slide
+
 # Lecture 8
 2025/10/30
 
