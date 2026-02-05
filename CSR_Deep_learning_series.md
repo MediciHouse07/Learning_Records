@@ -13,6 +13,12 @@ https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
 # Attention model
 
+2026/02/03
+
+0200<->1200 End
+
+# Attention model
+
 2026/02/02
 
 0000<->1000
