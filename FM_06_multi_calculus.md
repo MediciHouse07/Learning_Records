@@ -1,5 +1,16 @@
 https://www.youtube.com/watch?v=xrypSZU8cBE&list=PL4C4C8A7D06566F38&index=19
 
+# Lec 33
+
+2026/02/04
+
+0000<->1000
+
+- curl 2 * angular velocity
+- reverse triangle, gradient vector
+- torque exert on moment of inertia
+- conservation of energy
+
 # Lec 27
 
 2026/02/03
