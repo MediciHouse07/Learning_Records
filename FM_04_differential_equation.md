@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=tVzaX9u6YAE&list=PLEC88901EBADDD980&index=3
 
 # Lectuer 24
 
+2026/02/04
+
+0000<->1000
+
+- coil, second order
+- outside minus inside
+
+# Lectuer 24
+
 2026/01/28
 
 0000<->1000
@@ -1067,6 +1076,7 @@ finished, 2655<->End
 - stady state plus another element, the another element will be 0
 - temperature model
 - this lecture need the previous lecture to refresh memory
+
 
 
 
