@@ -3,6 +3,22 @@ https://www.coursera.org/learn/advanced-learning-algorithms/lecture/zZ6pa/sampli
 
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/lecture/RrrOL/what-is-reinforcement-learning
 
+# mars rover example
+
+2026/02/07
+
+0000<->0100
+
+# what is reinforcement learning
+
+2026/02/07
+
+0000<->0900
+
+- not widely applied in today's commercial applications
+- reward function
+- how to move millions of shares, an application of reinforcement learning in finance market
+
 # mean normalization
 
 2026/02/02
