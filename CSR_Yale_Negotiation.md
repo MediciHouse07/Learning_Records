@@ -1,3 +1,22 @@
+
+2026/02/07
+
+0000<->0100
+
+- walkway price
+- reservation value
+- batna, best alternative
+
+2026/02/07
+
+0000<->0300 end
+
+
+2026/02/07
+
+0000<->0600
+
+
 # Week1.2.1
 
 2024/06/14
