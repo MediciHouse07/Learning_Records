@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # Lectuer 6
+2500<->3500
+
+2026/02/14
+
+- complement of an open set is closed set, and the closed set definition could be from the definition of open set
+
+# Lectuer 6
 
 1500<->2500
 
