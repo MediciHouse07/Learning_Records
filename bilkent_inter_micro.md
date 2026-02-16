@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=8Xu2p7VNWyw&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4J
 
 https://www.youtube.com/watch?v=LHGnopoOCDc&list=PL5B3KLQNAC5jcLG1VnaloHqGPXOU4JEoI&index=12
 
+# Lectuer 13
+
+2026/02/14
+
+0000<->1000
+
+- homogenous, homogene vs hometotic
+- TBRT shift 5 mins
+
 # Microeconomics Theory I - Lecture 12 (ECON - 203)
 
 2025/06/29
