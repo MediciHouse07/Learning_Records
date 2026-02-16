@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=qjUqrf85rXk&list=PLB81F4FC0EDC4DECC&index=9
 
+# Lectuer 11
+
+2026/11/14
+
+0000<->1000
+
+- even drive out the odd, zero drive out the even
+- western union
+
 # Lectuer 10
 
 2025/11/29
