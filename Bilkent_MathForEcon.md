@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
 # Lectuer 6
+3500<->4500
+
+2026/02/22
+
+- proof of epsilon ball is open
+
+# Lectuer 6
 2500<->3500
 
 2026/02/14
