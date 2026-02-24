@@ -8,6 +8,15 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 https://www.youtube.com/watch?v=oMjhRcXl5NE
 
+# M8E1
+
+0000<->1000
+
+2026/02/22
+
+- influence back the initial goods
+- initial endowment
+
 # (M8E1) [Microeconomics] General Equilibrium: Introduction to Pure Exchange Economy
 
 0000<->0500
