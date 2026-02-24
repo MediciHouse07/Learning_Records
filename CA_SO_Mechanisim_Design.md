@@ -1,5 +1,22 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# agt11e6
+
+0000<->0500
+
+2026/02/22
+
+- DXR^n would return a n+1 dimensional vector
+
+# agt11e5
+
+0000<->0500 end
+
+2026/02/22
+
+- voting, matching, auction with transfer
+- quasi linear concept is from econ
+
 # (AGT11E20) [Game Theory] Bayesian Mech Design: Ex-post, Interim, & Ex-ante Individual rationality
 
 0000<->End
