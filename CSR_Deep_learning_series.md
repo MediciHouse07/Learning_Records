@@ -11,6 +11,16 @@ https://www.coursera.org/learn/convolutional-neural-networks/lecture/XAKNO/why-r
 # Improve ML model
 https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 
+# practice sequence modeling
+week1 assiment 1 RNN
+
+2026/02/23
+
+0908-0038
+
+- stack 20 columns of x examples
+- nx,m,Tx; where the meaning is 5000,20,10; where it stand for 5000 as onehot for a word, 20 as mini batch says the reason was to be benefited from vectorization, and 10 is time step
+
 # RNN
 
 2026/02/04
