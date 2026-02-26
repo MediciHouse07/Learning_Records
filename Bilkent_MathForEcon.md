@@ -1,5 +1,14 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 23
+
+2026/02/24
+
+0000<->1000
+
+- define vector value function of vector variables
+- punctuated delta ball
+
 # Lectuer 6
 3500<->4500
 
