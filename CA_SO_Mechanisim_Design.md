@@ -1,5 +1,28 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# agt11e7
+
+0000<->1500
+
+2026/02/24
+
+- mechanism often induce a game
+- g is outcome function, then what is representation for social choice function
+- social choice function, decision rule and transfer as ingredients
+- for any = at any
+- social choice function returns decision only?
+- TBRT
+- alice and bob, there is no informational asymmetry between them but there is informational asymmetry between participants and munipality
+
+# agt11e6
+
+0500<->1000
+
+2026/02/24
+
+- be different from the types
+- declared message can be different than true evaluation even in terms of its range and its form
+
 # agt11e6
 
 0000<->0500
