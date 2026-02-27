@@ -14,6 +14,17 @@ https://www.coursera.org/learn/deep-neural-network/lecture/Srsrc/regularization
 # practice sequence modeling
 week1 assiment 1 RNN
 
+
+2026/02/25
+
+0926:
+
+- look at input, output and mapping relation[nature]
+- how functions are organized[relationship]
+- what are the problem LSTM trying to solve, any problems can be solved with it however can't be it with RNN only[rationale of a new investment] [relationship-inheritance or siblings]
+- which is better at addressing vanishing gradients. The LSTM is better able to remember a piece of information and save it for many time steps.
+- forget gate, update gate
+
 2026/02/23
 
 0908-0038
