@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=QL-FS_Zcmyo
 2025/08/02
 
 - intermediate step
+- docker like idea, data ingestion / verification approach like data collector, the first time released across the world, by this account
 
 # Lecture 1
 
