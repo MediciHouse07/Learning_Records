@@ -1,5 +1,23 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 20
+
+2026/02/25
+
+0000<->0500
+
+- structure of maximizer and minimizer
+- limit point of maximizer must be maximizer, as limit point is equivalent to being contained?
+
+# Lecture 22
+
+2026/02/25
+
+0000<->0500
+
+- catchy sequence
+- rou, complete space and convergence
+
 # Lecture 23
 
 2026/02/24
