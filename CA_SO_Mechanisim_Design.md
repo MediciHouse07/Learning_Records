@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+
+# agt11e7
+
+1500<->2500 End
+
+2026/02/26
+
+- g implement it in dominant strategy, or in NE strategy or in bayesian NE strategy
+- indirect mechanism
+
 # agt11e7
 
 0000<->1500
