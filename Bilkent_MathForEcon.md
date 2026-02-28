@@ -1,5 +1,18 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 18
+
+2026/02/26
+
+0000<->1000
+
+- closeness is described in neighborhood
+- rou, X->X
+- X, rou be metric space
+- rou is the metric in that sense, it has length
+- rou is X to X, rou AXA is subset of that
+- what is metric
+
 # Lecture 20
 
 2026/02/25
