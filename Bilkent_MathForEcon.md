@@ -1,5 +1,38 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture
+
+20260304
+
+2:00
+- rho
+- Study Notes: Continuity & Topological Spaces
+
+1. Metric Space Properties
+To define distance, a metric space must follow these rules (6:06):
+
+    Non-negativity: Distance must be greater than or equal to zero.
+    Identity of Indiscernibles: Distance between two points is zero if and only if they are the same point.
+    Symmetry: Distance from point A to B is the same as from B to A (6:30).
+    Triangle Inequality: Direct distance is less than or equal to the distance going through a third point.
+
+2. Induced Topology (Subspace Topology)
+Creating a new topological space from a subset of an existing one (10:07).
+
+    How to create it: Start with a larger space $(X, \tau)$ and a non-empty subset $A$ (10:26).
+    Definition: Take an open set $G$ from the larger space $X$ and intersect it with subset $A$ ($G \cap A$) (10:47).
+    Purpose: Allows defining closeness specifically within the smaller set $A$ (11:47).
+
+3. Point Types in a Set
+
+    Cluster/Limit Points: Points where every neighborhood contains another point of the set (3:11).
+    Isolated Points: Points in the set that are not limit points; they have a neighborhood containing no other points from the set.
+
+4. Key Proposition: Closed Sets
+
+    A set $C$ is closed in the subspace $A$ if and only if $C = A \cap B$, where $B$ is a closed set in the larger space $X$ (14:26).
+
+
 # Lecture 18
 
 2026/02/26
