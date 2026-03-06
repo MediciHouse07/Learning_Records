@@ -1,5 +1,17 @@
 https://www.youtube.com/watch?v=hUr9OUtLVZA&list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&index=3
 
+# agt11e8
+
+2026/03/04
+
+- mechanism is about m,g
+- direct mechanism f
+- theta is not important
+- message space is identical with option
+- DSIC is strategy proof
+- message space is type space itself
+- contra positive
+
 
 # agt11e7
 
