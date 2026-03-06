@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=s7PP0713120&list=PLcrc6i6xwaQSZsr92M-OsbYiviFuJk
 
 https://www.youtube.com/watch?v=oMjhRcXl5NE
 
+# M8E2
+
+2026/03/04
+
+- feasible allocation, vs efficient, however wouldn't be introduced at this course
+
 # M8E1
 
 0000<->1000
