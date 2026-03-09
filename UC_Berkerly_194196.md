@@ -1,5 +1,12 @@
 https://www.youtube.com/watch?v=QL-FS_Zcmyo
 
+# shunyu yao
+
+2500<->3500
+
+- traditional RL, new RL
+- using score as feedback; using more general form of  feedback such as compiler error, the idea is language
+
 # Lecture 1
 
 2500<->3300
