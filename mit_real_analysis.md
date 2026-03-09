@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=Xn8wL2ItzZw&list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&index=10
 
+# Lecture 13
+
+0000<->2000
+
+- function behave near a point, function behave at a point
+
 # Lecture 7
 
 4500<->5500
