@@ -2,6 +2,15 @@ https://www.youtube.com/watch?v=4LS4P9Tfd3A&list=PLg5tKDNI_a86OO6J9HuIngyROBsUqc
 
 # What is Proof?
 
+2026/03/09
+
+0000<->04005
+
+- syntax, language; semantic, meaning
+- mention a word vs using a word
+
+# What is Proof?
+
 2025/07/25
 
 0000<->0500
