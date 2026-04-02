@@ -1,5 +1,28 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 18
+
+2026/03/31
+
+1300<->1700
+
+- This study note summarizes the relationship between metrics, topological subspaces, and the derivation of topologies as discussed in the lecture (16:47 - 22:24).
+
+Key Concepts:
+
+    The Metric (rho sub A): When you take a metric space (X, rho) and a non-empty subset A, you can restrict the metric to A (specifically to A cross A). This restricted metric, rho sub A, acts as the "ruler" that measures distances between points solely within the subset A.
+
+    Generating the Subspace Topology (tau sub rho sub A): The topology on A, denoted as tau sub rho sub A, is the collection of all open sets derived from the larger space X and "trimmed" to fit within A. You form this by taking every open set G from the original topology (tau sub rho) and performing an intersection: G intersection A.
+
+    The Distinction between Metric and Topology:
+        Metric: A function used to measure distance (e.g., to define epsilon-balls).
+        Topology: The resulting collection of open sets. You do not use the metric as a radius directly for the topology; rather, the metric creates the open balls that serve as the building blocks for the topological structure.
+
+    The Rules of Topological Spaces:
+        A topological space must be defined as a pair (A, tau sub A).
+        You cannot pair the original set X with the subspace topology tau sub A, because that would violate the fundamental topological axiom that the entire space must be an open set within the topology (i.e., X must be in the collection). Since tau sub A is restricted to the boundaries of A, it cannot contain X (if A is a proper subset of X), making (X, tau sub A) an invalid space.
+
+
 # Lecture
 
 20260304
