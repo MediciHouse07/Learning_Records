@@ -1,5 +1,33 @@
 https://www.youtube.com/watch?v=D4uvXxSkmMI&list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1&index=32
 
+# Lecture 37
+
+2026/03/31
+
+0000<->0930
+
+- complement, n-1 dimension that seperate covex
+- Based on our discussion regarding Prof. Semih Koray’s lecture (ECON 515: Mathematics for Economists I), here is a summary to use as your study notes on Affine Subspaces and Vector Spaces:
+
+1. Foundational Concept: Subspaces
+To qualify as a standard linear subspace (W) of a vector space (V), the set must satisfy two closure properties (9:28 - 10:39):
+
+    Closure under addition: If you take any two vectors X and Y in W, their sum (X + Y) must also be in W (9:53 - 10:18).
+    Closure under scalar multiplication: If you take any real number r and any vector X in W, the product (rX) must also be in W (10:21 - 10:39).
+    Crucial Implication: These properties ensure that the zero vector is always contained within a subspace (10:42 - 11:27).
+
+2. Understanding Affine Subspaces
+An affine subspace (M) is a generalization of points, lines, and planes that do not necessarily pass through the origin (11:36 - 12:46).
+
+    Definition: It is defined as a linear subspace (W) that has been "shifted" or translated by a fixed vector M: M = M + W (11:36 - 12:46).
+    Key Difference: Unlike a linear subspace, an affine subspace does not have to contain the zero vector, and adding two vectors within the set does not necessarily result in a vector that stays in the set (5:28 - 5:45).
+
+3. Academic Context
+
+    Primary Disciplines: This material is drawn from Linear Algebra and Multivariate Calculus.
+    Economic Application: These concepts are essential for formalizing convexity in preferences and budget sets (1:18 - 3:12). Mastering these is a prerequisite for understanding the separation theorems used in advanced economic optimization (0:55 - 3:12).
+
+
 # Lecture 18
 
 2026/03/31
