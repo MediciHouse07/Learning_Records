@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Taylor Expansion: Expansion Point - Study Record</title>
+  <style>
+    :root {
+      --ink: #182230;
+      --muted: #607286;
+      --paper: #fbfaf7;
+      --panel: #ffffff;
+      --line: #dce4ed;
+      --blue: #2563eb;
+      --teal: #0f766e;
+      --gold: #b7791f;
+      --rose: #be3455;
+      --violet: #6d28d9;
+      --soft-blue: #edf4ff;
+      --soft-teal: #e8f7f3;
+      --soft-gold: #fff6df;
+      --soft-rose: #fff0f3;
+      --shadow: 0 18px 48px rgba(24, 34, 48, 0.10);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+
+    .page {
+      width: min(1140px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 56px;
+    }
+
+    .hero {
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 34px;
+      background:
+        radial-gradient(circle at 16% 12%, rgba(37,99,235,.16), transparent 30%),
+        radial-gradient(circle at 80% 10%, rgba(15,118,110,.16), transparent 28%),
+        linear-gradient(135deg, #ffffff 0%, #f5f8fc 100%);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      margin: 0 0 10px;
+      color: var(--teal);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      font-size: .78rem;
+      font-weight: 800;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.8rem);
+      line-height: 1.05;
+      letter-spacing: -.03em;
+    }
+
+    .subtitle {
+      margin: 16px 0 0;
+      color: var(--muted);
+      max-width: 720px;
+      font-size: 1.05rem;
+    }
+
+    .meta-card {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: rgba(255,255,255,.78);
+      padding: 20px;
+    }
+
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 11px 0;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .94rem;
+    }
+    .meta-row:first-child { border-top: 0; }
+    .meta-row strong { color: var(--ink); text-align: right; }
+
+    section {
+      margin-top: 24px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--panel);
+      padding: 24px;
+      box-shadow: 0 10px 28px rgba(24,34,48,.06);
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: 1.28rem;
+    }
+
+    h3 {
+      margin: 0 0 10px;
+      font-size: 1rem;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: #fcfdff;
+      padding: 18px;
+    }
+
+    .panel.highlight { background: var(--soft-blue); border-color: #bfd4ff; }
+    .panel.good { background: var(--soft-teal); border-color: #b8e8df; }
+    .panel.warn { background: var(--soft-rose); border-color: #f3bcc8; }
+    .panel.gold { background: var(--soft-gold); border-color: #f0d99d; }
+
+    .formula {
+      display: block;
+      overflow-x: auto;
+      padding: 14px;
+      border-radius: 11px;
+      background: #102033;
+      color: #eef6ff;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: .93rem;
+      white-space: nowrap;
+      margin: 12px 0;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-top: 14px;
+    }
+
+    .metric {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: #ffffff;
+      padding: 18px;
+    }
+
+    .metric .num {
+      display: block;
+      color: var(--blue);
+      font-weight: 850;
+      font-size: 2rem;
+      line-height: 1;
+    }
+
+    .metric .label {
+      display: block;
+      color: var(--muted);
+      margin-top: 8px;
+      font-size: .92rem;
+    }
+
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .flow-step {
+      min-height: 90px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 12px;
+      background: #ffffff;
+      font-weight: 760;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .94rem;
+      overflow: hidden;
+      border-radius: 12px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 12px 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f4f7fb;
+      color: #2e3e4f;
+      font-size: .78rem;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+    tr:last-child td { border-bottom: 0; }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: .8rem;
+      font-weight: 800;
+      background: var(--soft-teal);
+      color: var(--teal);
+      white-space: nowrap;
+    }
+    .tag.partial { background: var(--soft-gold); color: var(--gold); }
+    .tag.new { background: var(--soft-blue); color: var(--blue); }
+    .tag.nochange { background: #f0f2f5; color: #566473; }
+
+    .bar {
+      height: 18px;
+      border-radius: 999px;
+      background: #e8edf3;
+      overflow: hidden;
+      border: 1px solid #d5dde7;
+    }
+    .bar span {
+      display: block;
+      height: 100%;
+      width: 7.2%;
+      background: linear-gradient(90deg, var(--teal), var(--blue));
+      border-radius: inherit;
+    }
+
+    ul, ol { margin-bottom: 0; }
+
+    .caption {
+      color: var(--muted);
+      font-size: .9rem;
+      margin: 8px 0 0;
+    }
+
+    footer {
+      color: var(--muted);
+      text-align: center;
+      margin-top: 20px;
+      font-size: .9rem;
+    }
+
+    @media (max-width: 860px) {
+      .hero-grid, .split, .cards, .flow { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">Timestamped study update</p>
+          <h1>Taylor Expansion: What Is the Expansion Point?</h1>
+          <p class="subtitle">This page records the new learning since the last HTML dashboard commit: why the Taylor center is written as <strong>a</strong> in the general formula, but becomes <strong>x</strong> in gradient descent.</p>
+        </div>
+        <aside class="meta-card" aria-label="Study metadata">
+          <div class="meta-row"><span>Study timestamp</span><strong>2026-07-04</strong></div>
+          <div class="meta-row"><span>Book</span><strong>Linear Algebra and Learning from Data</strong></div>
+          <div class="meta-row"><span>Previous HTML commit</span><strong>48d8c22</strong></div>
+          <div class="meta-row"><span>New focus</span><strong>Taylor expansion center</strong></div>
+        </aside>
+      </div>
+    </header>
+
+    <section>
+      <h2>First Half — Newly Learned Since Last Commit</h2>
+      <div class="cards">
+        <div class="metric"><span class="num">+0</span><span class="label">new book pages counted</span></div>
+        <div class="metric"><span class="num">+1</span><span class="label">concept clarified deeply</span></div>
+        <div class="metric"><span class="num">30</span><span class="label">total pages still counted as covered</span></div>
+      </div>
+      <p class="caption">No new page range was added. The study deepened understanding inside the Taylor expansion / gradient descent material already counted under VI.4.</p>
+    </section>
+
+    <section>
+      <h2>1. The General Taylor Formula Has Two Points</h2>
+      <div class="split">
+        <div class="panel highlight">
+          <h3>Known point</h3>
+          <p>The point where we know the function value and derivatives is called <strong>a</strong>.</p>
+          <span class="formula">a = expansion point</span>
+        </div>
+        <div class="panel good">
+          <h3>Target point</h3>
+          <p>The point where we want to estimate the function is called <strong>z</strong>.</p>
+          <span class="formula">z = point to predict</span>
+        </div>
+      </div>
+      <span class="formula">f(z) approx f(a) + f'(a)(z-a) + f''(a)(z-a)^2 / 2! + ...</span>
+      <p>Key idea: <strong>a is not special by itself</strong>. It is just the name for the point where we are expanding.</p>
+    </section>
+
+    <section>
+      <h2>2. Why Gradient Descent Uses x Instead of a</h2>
+      <p>In gradient descent, the current position is normally named <strong>x</strong>. So we choose:</p>
+      <div class="split">
+        <div class="panel">
+          <span class="formula">a = x</span>
+          <p>This means: expand around the current point.</p>
+        </div>
+        <div class="panel">
+          <span class="formula">z = x + epsilon u</span>
+          <p>This means: predict the function after a tiny step in direction u.</p>
+        </div>
+      </div>
+      <p>Substitute these into the general formula:</p>
+      <span class="formula">f(x + epsilon u) approx f(x) + f'(x)((x + epsilon u) - x) + ...</span>
+      <p>Since the difference is:</p>
+      <span class="formula">(x + epsilon u) - x = epsilon u</span>
+      <p>we get:</p>
+      <span class="formula">f(x + epsilon u) approx f(x) + epsilon f'(x)u + ...</span>
+    </section>
+
+    <section>
+      <h2>3. Correction From the Photo</h2>
+      <div class="split">
+        <div class="panel warn">
+          <h3>The mistaken move</h3>
+          <p>The photo tried to rewrite the expression in a way that effectively expanded around <strong>-epsilon u</strong>.</p>
+          <span class="formula">not the right center: -epsilon u</span>
+        </div>
+        <div class="panel good">
+          <h3>The right move</h3>
+          <p>For gradient descent, expand around the current position, because that is where we know the value and derivative.</p>
+          <span class="formula">right center: x</span>
+        </div>
+      </div>
+      <p>The lesson: Taylor expansion is always centered at the point where the local information is known.</p>
+    </section>
+
+    <section>
+      <h2>4. The Core Philosophy</h2>
+      <div class="flow">
+        <div class="flow-step">Stand at current point</div>
+        <div class="flow-step">Measure local information</div>
+        <div class="flow-step">Predict nearby values</div>
+        <div class="flow-step">Choose a useful step</div>
+      </div>
+      <p>Taylor expansion is built on this idea:</p>
+      <span class="formula">local information at current point -> prediction near current point</span>
+      <p>Gradient descent uses the first-order version of this idea. Newton's method uses the second-order version.</p>
+    </section>
+
+    <section>
+      <h2>5. One-Sentence Memory Hook</h2>
+      <div class="panel gold">
+        <p><strong>Taylor expansion predicts the behavior of a function near the current point using only information measured at that current point.</strong></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Second Half — Previous Learning And Coverage Briefly</h2>
+      <div class="split">
+        <div class="panel">
+          <h3>Previously learned</h3>
+          <ul>
+            <li>First-order Taylor expansion is a tangent-line approximation.</li>
+            <li>The derivative predicts local change.</li>
+            <li>Second-order Taylor expansion adds curvature.</li>
+            <li>Gradient descent moves opposite the derivative or gradient.</li>
+            <li>SVD gives special input directions, output directions, and stretch amounts.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>Coverage status</h3>
+          <div class="bar"><span></span></div>
+          <p class="caption">Approximate main chapter progress: 30 of 415 pages, about 7.2%.</p>
+          <table>
+            <tbody>
+              <tr><td>Covered / substantially discussed</td><td><strong>30 pages</strong></td></tr>
+              <tr><td>Main chapter pages left</td><td><strong>385 pages</strong></td></tr>
+              <tr><td>Full physical pages left</td><td><strong>402 pages</strong></td></tr>
+              <tr><td>Change since last commit</td><td><span class="tag nochange">No page-count change</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Coverage Table</h2>
+      <table>
+        <thead>
+          <tr><th>Status</th><th>Section</th><th>Pages</th><th>Estimated pages</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="tag">Covered conceptually</span></td><td>I.8 Singular Values and Singular Vectors in the SVD</td><td>56-70</td><td>15</td></tr>
+          <tr><td><span class="tag partial">Covered partially</span></td><td>VI.4 Gradient Descent Toward the Minimum</td><td>344-358</td><td>15</td></tr>
+          <tr><td><span class="tag new">Mentioned</span></td><td>I.9 Principal Components and the Best Low Rank Matrix</td><td>71-80</td><td>10</td></tr>
+          <tr><td><span class="tag new">Mentioned</span></td><td>VI.5 Stochastic Gradient Descent and ADAM</td><td>359-370</td><td>12</td></tr>
+          <tr><td><span class="tag new">Mentioned</span></td><td>VII.1 The Construction of Deep Neural Networks</td><td>375-386</td><td>12</td></tr>
+          <tr><td><span class="tag new">Mentioned</span></td><td>VII.3 Backpropagation and the Chain Rule</td><td>397-406</td><td>10</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Next Study Thread</h2>
+      <ol>
+        <li>Finish the second-order Taylor expansion example cleanly.</li>
+        <li>Use dot products to prove why the gradient is steepest ascent.</li>
+        <li>Derive why negative gradient is steepest descent.</li>
+        <li>Connect curvature to learning-rate stability.</li>
+        <li>Return to Strang section VI.4 with these ideas in place.</li>
+      </ol>
+    </section>
+
+    <footer>
+      Timestamped study artifact. Previous stable dashboard remains at book-study/linear-algebra-and-learning-from-data.html.
+    </footer>
+  </main>
+</body>
+</html>
