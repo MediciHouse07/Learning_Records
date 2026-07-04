@@ -1,40 +1,267 @@
 # Book Study: Linear Algebra and Learning from Data
 
 Date: 2026-07-04
+Updated: 2026-07-05
 Book: *Linear Algebra and Learning from Data* by Gilbert Strang
-Session focus: SVD intuition, singular vectors, book roadmap, and the start of gradient descent through Taylor expansion.
+Main session focus: Taylor expansion as the bridge from calculus to gradient descent.
+Secondary context: SVD intuition, singular vectors, book roadmap, and where neural-network gradient descent appears in the book.
 
 ## Pages And Sections Mentioned
 
 | Topic | Book section from table of contents | Page noted in session |
 | --- | --- | --- |
-| Singular values and singular vectors | I.8 Singular Values and Singular Vectors in the SVD | Part I, exact page not confirmed in this note |
-| PCA and low-rank approximation | I.9 Principal Components and the Best Low Rank Matrix | Part I, exact page not confirmed in this note |
 | Gradient descent | VI.4 Gradient Descent Toward the Minimum | p. 344 |
 | SGD and ADAM | VI.5 Stochastic Gradient Descent and ADAM | p. 359 |
 | Neural networks | VII.1 The Construction of Deep Neural Networks | p. 375 |
 | Backpropagation | VII.3 Backpropagation and the Chain Rule | p. 397 |
+| Singular values and singular vectors | I.8 Singular Values and Singular Vectors in the SVD | Part I, exact page not confirmed in this note |
+| PCA and low-rank approximation | I.9 Principal Components and the Best Low Rank Matrix | Part I, exact page not confirmed in this note |
 
 ## Concept Map
 
 ```mermaid
 flowchart TD
-    A[Matrix as transformation] --> B[SVD]
-    B --> C[Right singular vectors: input directions]
-    B --> D[Left singular vectors: output directions]
-    C --> E[Singular values: stretch amounts]
-    E --> F[Low-rank approximation and PCA]
-    A --> G[Optimization]
-    G --> H[Gradient descent]
-    H --> I[Taylor expansion]
-    H --> J[Backpropagation later]
+    A[Taylor expansion] --> B[Local approximation]
+    B --> C[First derivative: slope]
+    B --> D[Second derivative: curvature]
+    C --> E[Gradient descent]
+    E --> F[Move opposite the gradient]
+    D --> G[Why linear approximation has error]
+    E --> H[Backpropagation later]
 ```
 
-## 1. What A Singular Vector Means
+## 1. What We Mainly Studied Today
 
-A matrix can be understood as a machine that transforms input vectors into output vectors. Most input directions get mixed: the output may change direction and length in a complicated way.
+The main topic was Taylor expansion.
 
-A singular vector is a special direction that the matrix treats cleanly.
+The reason we studied it was not just to learn a calculus formula. We studied it because Taylor expansion explains why gradient descent can use local information, such as slope or gradient, to decide how to move toward a minimum.
+
+The core idea:
+
+> Taylor expansion approximates a complicated function near a known point using the function value, slope, curvature, and higher derivatives at that point.
+
+This became the missing bridge between calculus and optimization.
+
+## 2. First-Order Taylor Expansion
+
+For a one-variable function, the first-order Taylor approximation around \(a\) is:
+
+\[
+f(x) \approx f(a) + f'(a)(x-a)
+\]
+
+Meaning:
+
+- \(f(a)\) gives the known height of the function at \(a\).
+- \(f'(a)\) gives the slope at \(a\).
+- \((x-a)\) tells how far we moved away from \(a\).
+
+So first-order Taylor expansion is the best local line that matches the function's value and slope at \(a\).
+
+In plain language:
+
+> Near a point, a smooth curve can be approximated by its tangent line.
+
+## 3. Example: Approximating \(x^2\) Near 2
+
+We used:
+
+\[
+f(x)=x^2, \qquad a=2
+\]
+
+First compute the value:
+
+\[
+f(2)=4
+\]
+
+Then compute the derivative:
+
+\[
+f'(x)=2x, \qquad f'(2)=4
+\]
+
+Substitute into the first-order Taylor formula:
+
+\[
+f(x) \approx f(2) + f'(2)(x-2)
+\]
+
+So:
+
+\[
+x^2 \approx 4 + 4(x-2)
+\]
+
+or:
+
+\[
+x^2 \approx 4x - 4
+\]
+
+Testing at \(x=2.1\):
+
+| Quantity | Value |
+| --- | --- |
+| Exact value | \((2.1)^2 = 4.41\) |
+| Taylor approximation | \(4(2.1)-4 = 4.4\) |
+| Error | \(0.01\) |
+
+The approximation was close because \(2.1\) is near \(2\).
+
+## 4. Why The First-Order Approximation Has Error
+
+The first-order approximation only matches:
+
+- the function value,
+- the slope.
+
+It does not match the curvature.
+
+For \(f(x)=x^2\), the graph bends upward. A tangent line cannot fully capture that bending, so the approximation has a small error when we move away from the expansion point.
+
+This led to the next question:
+
+> What mathematical quantity measures curvature?
+
+Answer:
+
+\[
+f''(x)
+\]
+
+The second derivative measures how the slope changes.
+
+## 5. Second-Order Taylor Expansion
+
+To include curvature, we add a second-order term:
+
+\[
+f(x)
+\approx
+f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2
+\]
+
+Interpretation:
+
+| Term | Meaning |
+| --- | --- |
+| \(f(a)\) | Current value |
+| \(f'(a)(x-a)\) | Linear change from slope |
+| \(\frac{f''(a)}{2!}(x-a)^2\) | Curvature correction |
+
+For \(f(x)=x^2\):
+
+\[
+f''(x)=2
+\]
+
+So the second-order Taylor approximation around \(a=2\) becomes:
+
+\[
+x^2
+\approx
+4 + 4(x-2) + \frac{2}{2!}(x-2)^2
+\]
+
+Since \(2! = 2\), this simplifies to:
+
+\[
+x^2
+\approx
+4 + 4(x-2) + (x-2)^2
+\]
+
+For a quadratic function like \(x^2\), the second-order Taylor expansion is exact, because there are no third-order or higher terms.
+
+## 6. Why Taylor Expansion Matters For Gradient Descent
+
+Gradient descent asks:
+
+> If I am at the current point, which nearby direction makes the function decrease?
+
+Taylor expansion gives the local answer.
+
+In one dimension:
+
+\[
+f(x+h) \approx f(x) + f'(x)h
+\]
+
+If we want \(f(x+h)\) to be smaller than \(f(x)\), then we want:
+
+\[
+f'(x)h < 0
+\]
+
+That means \(h\) should point opposite the sign of \(f'(x)\).
+
+So the gradient descent update becomes:
+
+\[
+x_{k+1} = x_k - \eta f'(x_k)
+\]
+
+where \(\eta\) is the learning rate.
+
+This was the key conceptual link:
+
+> Taylor expansion predicts local change; gradient descent chooses the local change that decreases the function.
+
+## 7. Multivariable Version
+
+For a function of several variables, the first-order Taylor approximation becomes:
+
+\[
+f(x+\Delta x)
+\approx
+f(x) + \nabla f(x)^T \Delta x
+\]
+
+If we move a small amount in a unit direction \(u\):
+
+\[
+\Delta x = \varepsilon u
+\]
+
+then:
+
+\[
+f(x+\varepsilon u)
+\approx
+f(x) + \varepsilon \nabla f(x)^T u
+\]
+
+The direction-dependent part is:
+
+\[
+\nabla f(x)^T u
+\]
+
+This dot product explains why the gradient is the direction of steepest ascent, and why the negative gradient is the direction of steepest descent.
+
+## 8. Gradient Descent: What We Derived
+
+For one variable, if we want to minimize \(f(x)\), the derivative \(f'(x)\) tells us which direction is uphill.
+
+Therefore, to go downhill, we move in the opposite direction:
+
+\[
+x_{k+1} = x_k - \eta f'(x_k)
+\]
+
+Important interpretation:
+
+- Sign of derivative: tells direction.
+- Magnitude of derivative: tells steepness.
+- Learning rate: controls step size.
+
+If the learning rate is too large, gradient descent may overshoot the minimum repeatedly and fail to settle.
+
+## 9. SVD Context From The Same Study Session
+
+We also reviewed SVD intuition, though this was secondary to Taylor expansion today.
 
 For SVD, the key relation is:
 
@@ -48,71 +275,21 @@ Meaning:
 - \(u_i\) is a left singular vector: the corresponding output direction.
 - \(\sigma_i\) is the singular value: how much the matrix stretches that input direction.
 
-The word "right" comes from the SVD formula:
-
-\[
-A = U \Sigma V^T
-\]
-
-Columns of \(V\) are right singular vectors. Columns of \(U\) are left singular vectors.
-
-## 2. Why Singular Vectors Are Unit Vectors
-
 Both \(u_i\) and \(v_i\) are unit vectors by convention:
 
 \[
 \|u_i\| = 1, \qquad \|v_i\| = 1
 \]
 
-This matters because otherwise the stretch factor would be ambiguous. If we allowed arbitrary vector lengths, we could rescale \(u\) or \(v\) and change the apparent value of \(\sigma\) without changing the matrix.
-
-With unit vectors, the singular value has a clean physical meaning:
+This makes the singular value meaningful:
 
 \[
 \sigma_i = \|Av_i\|
 \]
 
-So \(\sigma_i\) is literally the output length when the input is a unit right singular vector.
+A unit vector does not have to be a standard basis vector like \((1,0,0)\). It can point in a rotated direction, as long as its norm is 1.
 
-## 3. Unit Vector Does Not Mean Standard Basis Vector
-
-A unit vector does not have to look like:
-
-\[
-(1,0,0), \quad (0,1,0), \quad (0,0,1)
-\]
-
-It only needs length 1. For example:
-
-\[
-\frac{1}{\sqrt{2}}
-\begin{bmatrix}
-1 \\
-1
-\end{bmatrix}
-\]
-
-is also a unit vector.
-
-Singular vectors often point in rotated directions. They are the directions where the matrix naturally stretches most cleanly. SVD is partly about discovering the coordinate system where the matrix becomes simple.
-
-## 4. SVD As Three Physical Operations
-
-The SVD formula:
-
-\[
-A = U\Sigma V^T
-\]
-
-can be interpreted physically as three operations:
-
-1. Rotate or re-express the input space with \(V^T\).
-2. Stretch along clean coordinate directions with \(\Sigma\).
-3. Rotate or place the result into the output space with \(U\).
-
-This makes SVD feel less like a formula to memorize and more like a decomposition of what a matrix does geometrically.
-
-## 5. What Kind Of Book This Is
+## 10. Book Roadmap Notes
 
 We clarified that *Linear Algebra and Learning from Data* is not only a linear algebra book. It uses linear algebra as the foundation for data science and machine learning.
 
@@ -128,22 +305,7 @@ The broad structure includes:
 | VI | Optimization |
 | VII | Learning from Data |
 
-The book connects linear algebra to PCA, low-rank approximation, optimization, neural networks, and backpropagation.
-
-## 6. LSTMs, Transformers, And Differential Equations
-
-We checked the book's scope conceptually:
-
-- It does not appear to focus on LSTMs or Transformers.
-- It focuses more on the mathematical foundations behind machine learning.
-- It includes some differential-equation-related ideas, especially through PDEs, finite differences, graph Laplacians, and adjoint/backpropagation analogies.
-- It is not a full differential equations textbook.
-
-The useful takeaway: this book is a strong prerequisite for modern neural network topics, even if it does not directly teach Transformer architecture.
-
-## 7. Where Gradient Descent And Backpropagation Appear
-
-For neural network gradient descent, the important sections are:
+For neural-network gradient descent, the important sections are:
 
 - VI.4 Gradient Descent Toward the Minimum, p. 344
 - VI.5 Stochastic Gradient Descent and ADAM, p. 359
@@ -152,126 +314,22 @@ For neural network gradient descent, the important sections are:
 
 The most important section for deriving neural-network gradients is VII.3, because it connects backpropagation to the chain rule and reverse-mode differentiation.
 
-## 8. Gradient Descent: What We Derived
-
-We began studying "Gradient Descent Toward the Minimum" Socratically.
-
-For one variable, if we want to minimize \(f(x)\), the derivative \(f'(x)\) tells us which direction is uphill.
-
-Therefore, to go downhill, we move in the opposite direction:
-
-\[
-x_{k+1} = x_k - \eta f'(x_k)
-\]
-
-where:
-
-- \(x_k\) is the current point.
-- \(x_{k+1}\) is the next point.
-- \(\eta\) is the learning rate.
-- \(f'(x_k)\) is the slope at the current point.
-
-Important interpretation:
-
-- Sign of derivative: tells direction.
-- Magnitude of derivative: tells steepness.
-- Learning rate: controls step size.
-
-If the learning rate is too large, gradient descent may overshoot the minimum repeatedly and fail to settle.
-
-## 9. Why The Gradient Is The Steepest Direction
-
-We started moving from one-dimensional derivatives to multivariable gradients.
-
-For a function \(f(x,y)\), the gradient is:
-
-\[
-\nabla f =
-\begin{bmatrix}
-\frac{\partial f}{\partial x} \\
-\frac{\partial f}{\partial y}
-\end{bmatrix}
-\]
-
-The key idea we were building toward:
-
-If we move a small amount in a unit direction \(u\), the first-order change in the function is controlled by:
-
-\[
-\nabla f(x)^T u
-\]
-
-This dot product is largest when \(u\) points in the same direction as \(\nabla f(x)\). Therefore, the gradient is the direction of steepest ascent, and the negative gradient is the direction of steepest descent.
-
-## 10. Taylor Expansion: The Missing Bridge
-
-We paused gradient descent to learn Taylor expansion, because it explains why local slope information is enough to guide optimization.
-
-First-order Taylor approximation:
-
-\[
-f(x) \approx f(a) + f'(a)(x-a)
-\]
-
-This means: near \(a\), approximate the function by the line with the same value and slope at \(a\).
-
-Example studied:
-
-\[
-f(x)=x^2, \qquad a=2
-\]
-
-Then:
-
-\[
-f(2)=4, \qquad f'(2)=4
-\]
-
-So:
-
-\[
-x^2 \approx 4 + 4(x-2) = 4x - 4
-\]
-
-Testing at \(x=2.1\):
-
-- Exact: \((2.1)^2 = 4.41\)
-- Taylor approximation: \(4(2.1)-4 = 4.4\)
-
-The approximation is close because \(2.1\) is near \(2\). The error exists because the linear approximation ignores curvature.
-
-Second-order Taylor approximation adds curvature:
-
-\[
-f(x)
-\approx
-f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2
-\]
-
-For \(f(x)=x^2\), the second derivative is:
-
-\[
-f''(x)=2
-\]
-
-This captures why the curve bends.
-
 ## 11. Main Takeaways
 
-- A matrix is best understood as a transformation, not just a grid of numbers.
-- SVD finds special input directions \(v_i\), output directions \(u_i\), and stretch amounts \(\sigma_i\).
-- Singular vectors are unit vectors, but not necessarily standard basis vectors.
-- SVD decomposes a matrix into rotation, stretching, and rotation.
-- The book connects linear algebra to optimization, statistics, and neural networks.
-- Gradient descent comes from the simple idea: move opposite the derivative or gradient.
-- Taylor expansion explains why local derivative information predicts local change.
+- Taylor expansion was the central topic of today's study.
+- First-order Taylor expansion approximates a function locally by its tangent line.
+- The derivative gives the slope, which predicts local change.
+- Second-order Taylor expansion adds curvature through the second derivative.
+- Gradient descent is motivated by first-order Taylor expansion: choose a step that makes the local approximation decrease.
+- In many dimensions, the dot product \(\nabla f(x)^T u\) explains directional derivatives and steepest descent.
+- SVD remained useful context, but today's main conceptual bridge was calculus to optimization.
 
 ## Next Study Thread
 
-Continue from second-order Taylor expansion, then return to:
+Continue from the multivariable Taylor expansion and directional derivative:
 
-1. Directional derivatives.
-2. Why \(\nabla f\) is steepest ascent.
-3. Why \(-\nabla f\) is steepest descent.
-4. How this becomes gradient descent in many dimensions.
+1. Why \(\nabla f\) is steepest ascent.
+2. Why \(-\nabla f\) is steepest descent.
+3. How the learning rate \(\eta\) interacts with curvature.
+4. Why second-order information leads toward Newton's method.
 5. How backpropagation computes gradients efficiently for neural networks.
