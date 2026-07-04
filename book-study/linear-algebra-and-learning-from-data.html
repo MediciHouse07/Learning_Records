@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linear Algebra and Learning from Data - Study Record</title>
+  <style>
+    :root {
+      --ink: #17202a;
+      --muted: #5f6f7f;
+      --paper: #fbfaf7;
+      --panel: #ffffff;
+      --line: #d9e1e8;
+      --blue: #2563eb;
+      --teal: #0f766e;
+      --gold: #b7791f;
+      --rose: #be3455;
+      --soft-blue: #eaf1ff;
+      --soft-teal: #e7f6f3;
+      --soft-gold: #fff4db;
+      --shadow: 0 18px 45px rgba(23, 32, 42, 0.10);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+
+    .page {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 56px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        radial-gradient(circle at 18% 20%, rgba(37, 99, 235, 0.18), transparent 28%),
+        radial-gradient(circle at 82% 14%, rgba(15, 118, 110, 0.18), transparent 30%),
+        linear-gradient(135deg, #ffffff 0%, #f2f6fb 100%);
+      padding: 34px;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      margin: 0 0 10px;
+      color: var(--teal);
+      font-weight: 750;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 4rem);
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      margin: 18px 0 0;
+      color: var(--muted);
+      max-width: 680px;
+      font-size: 1.05rem;
+    }
+
+    .date-card {
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.76);
+      border-radius: 14px;
+      padding: 20px;
+      backdrop-filter: blur(8px);
+    }
+
+    .date-card h2,
+    section h2 {
+      margin: 0 0 14px;
+      font-size: 1.15rem;
+    }
+
+    .date-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      border-top: 1px solid var(--line);
+      padding: 12px 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .date-row:first-of-type { border-top: 0; }
+    .date-row strong { color: var(--ink); }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-top: 18px;
+    }
+
+    .metric {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: 0 8px 22px rgba(23, 32, 42, 0.06);
+    }
+
+    .metric .number {
+      display: block;
+      font-size: 2.2rem;
+      line-height: 1;
+      font-weight: 800;
+      color: var(--blue);
+    }
+
+    .metric .label {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    section {
+      margin-top: 24px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 10px 28px rgba(23, 32, 42, 0.06);
+    }
+
+    .progress-wrap {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 24px;
+      align-items: center;
+    }
+
+    .bar {
+      height: 18px;
+      border-radius: 999px;
+      background: #e8edf2;
+      overflow: hidden;
+      border: 1px solid #d5dde5;
+    }
+
+    .bar span {
+      display: block;
+      height: 100%;
+      width: 7.2%;
+      background: linear-gradient(90deg, var(--teal), var(--blue));
+      border-radius: inherit;
+    }
+
+    .caption {
+      color: var(--muted);
+      font-size: 0.92rem;
+      margin: 8px 0 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 10px;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 12px 10px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #f4f7fa;
+      color: #2d3b48;
+      font-size: 0.82rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    tr:last-child td { border-bottom: 0; }
+
+    .status {
+      display: inline-flex;
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 0.82rem;
+      font-weight: 750;
+      white-space: nowrap;
+    }
+
+    .covered { background: var(--soft-teal); color: var(--teal); }
+    .partial { background: var(--soft-gold); color: var(--gold); }
+    .future { background: var(--soft-blue); color: var(--blue); }
+
+    .visual-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .mini-panel {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fcfdff;
+      padding: 18px;
+    }
+
+    .formula {
+      display: block;
+      overflow-x: auto;
+      padding: 14px;
+      border-radius: 10px;
+      background: #102033;
+      color: #eef6ff;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.95rem;
+      white-space: nowrap;
+    }
+
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      align-items: center;
+    }
+
+    .flow-step {
+      min-height: 86px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #ffffff;
+      padding: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-weight: 750;
+      color: #233244;
+    }
+
+    .flow-arrow {
+      display: none;
+    }
+
+    svg {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .takeaways {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+
+    .takeaways li {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px;
+      background: #fcfdff;
+    }
+
+    .next-list {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    footer {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-top: 18px;
+      text-align: center;
+    }
+
+    @media (max-width: 860px) {
+      .hero-grid,
+      .progress-wrap,
+      .visual-grid,
+      .cards,
+      .takeaways {
+        grid-template-columns: 1fr;
+      }
+
+      .flow {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">Book study record</p>
+          <h1>Linear Algebra and Learning from Data</h1>
+          <p class="subtitle">A visual learning log for Gilbert Strang's book, centered on Taylor expansion as the bridge from calculus to gradient descent, with SVD and neural-network training kept in view.</p>
+        </div>
+        <aside class="date-card" aria-label="Study dates">
+          <h2>Study Dates</h2>
+          <div class="date-row"><span>First note</span><strong>2026-07-04</strong></div>
+          <div class="date-row"><span>Taylor focus update</span><strong>2026-07-05</strong></div>
+          <div class="date-row"><span>HTML dashboard added</span><strong>2026-07-05</strong></div>
+        </aside>
+      </div>
+    </header>
+
+    <div class="cards" aria-label="Progress summary">
+      <div class="metric"><span class="number">30</span><span class="label">pages covered or substantially discussed</span></div>
+      <div class="metric"><span class="number">385</span><span class="label">main chapter pages left to understand</span></div>
+      <div class="metric"><span class="number">432</span><span class="label">full physical pages in the book</span></div>
+    </div>
+
+    <section>
+      <h2>Coverage Tracker</h2>
+      <div class="progress-wrap">
+        <div>
+          <div class="bar" aria-label="Approximate main chapter progress"><span></span></div>
+          <p class="caption">Approximate progress through the main chapters: 30 of 415 pages, about 7.2%.</p>
+        </div>
+        <div class="mini-panel">
+          <strong>Counting rule</strong>
+          <p class="caption">A section's page count is estimated from its start page up to the page before the next listed section starts. This tracks study progress, not full mastery.</p>
+        </div>
+      </div>
+      <table aria-label="Section coverage table">
+        <thead>
+          <tr><th>Status</th><th>Section</th><th>Pages</th><th>Estimated pages</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="status covered">Covered conceptually</span></td><td>I.8 Singular Values and Singular Vectors in the SVD</td><td>56-70</td><td>15</td></tr>
+          <tr><td><span class="status partial">Covered partially</span></td><td>VI.4 Gradient Descent Toward the Minimum</td><td>344-358</td><td>15</td></tr>
+          <tr><td><span class="status future">Mentioned</span></td><td>I.9 Principal Components and the Best Low Rank Matrix</td><td>71-80</td><td>10</td></tr>
+          <tr><td><span class="status future">Mentioned</span></td><td>VI.5 Stochastic Gradient Descent and ADAM</td><td>359-370</td><td>12</td></tr>
+          <tr><td><span class="status future">Mentioned</span></td><td>VII.1 The Construction of Deep Neural Networks</td><td>375-386</td><td>12</td></tr>
+          <tr><td><span class="status future">Mentioned</span></td><td>VII.3 Backpropagation and the Chain Rule</td><td>397-406</td><td>10</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Main Study Thread: Taylor Expansion</h2>
+      <div class="visual-grid">
+        <div class="mini-panel">
+          <p>Taylor expansion approximates a complicated function near a known point using local information.</p>
+          <span class="formula">f(x) approx f(a) + f'(a)(x-a)</span>
+          <p>First-order Taylor expansion is the tangent-line approximation: same value, same slope.</p>
+        </div>
+        <div class="mini-panel">
+          <svg viewBox="0 0 520 300" role="img" aria-label="Curve with tangent approximation">
+            <rect x="0" y="0" width="520" height="300" rx="16" fill="#f8fbff"/>
+            <line x1="60" y1="240" x2="470" y2="240" stroke="#b8c4d0" stroke-width="2"/>
+            <line x1="80" y1="260" x2="80" y2="40" stroke="#b8c4d0" stroke-width="2"/>
+            <path d="M75 225 C150 215 205 178 250 130 C300 78 360 55 455 48" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round"/>
+            <line x1="165" y1="210" x2="365" y2="68" stroke="#be3455" stroke-width="4" stroke-linecap="round"/>
+            <circle cx="250" cy="130" r="8" fill="#0f766e"/>
+            <text x="260" y="125" font-size="18" fill="#17202a">a</text>
+            <text x="110" y="54" font-size="17" fill="#2563eb">function</text>
+            <text x="340" y="92" font-size="17" fill="#be3455">tangent line</text>
+            <text x="100" y="276" font-size="14" fill="#5f6f7f">Near a, the line is a useful local model.</text>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Example We Studied</h2>
+      <div class="visual-grid">
+        <div>
+          <p>For <strong>f(x) = x^2</strong> around <strong>a = 2</strong>:</p>
+          <span class="formula">f(2)=4, f'(2)=4, so x^2 approx 4 + 4(x-2)</span>
+          <p>At x = 2.1, the exact value is 4.41 and the approximation is 4.4, so the error is only 0.01.</p>
+        </div>
+        <table>
+          <thead><tr><th>Quantity</th><th>Value</th></tr></thead>
+          <tbody>
+            <tr><td>Exact value</td><td>(2.1)^2 = 4.41</td></tr>
+            <tr><td>Taylor approximation</td><td>4(2.1)-4 = 4.4</td></tr>
+            <tr><td>Error</td><td>0.01</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>From Taylor To Gradient Descent</h2>
+      <div class="flow" aria-label="Concept flow from Taylor expansion to backpropagation">
+        <div class="flow-step">Taylor expansion</div>
+        <div class="flow-step">Local change</div>
+        <div class="flow-step">Derivative or gradient</div>
+        <div class="flow-step">Move downhill</div>
+        <div class="flow-step">Backpropagation later</div>
+      </div>
+      <p>In one dimension, local change is predicted by:</p>
+      <span class="formula">f(x+h) approx f(x) + f'(x)h</span>
+      <p>To decrease the function, choose h opposite the sign of f'(x). That gives the gradient descent update:</p>
+      <span class="formula">x_next = x_current - eta * f'(x_current)</span>
+    </section>
+
+    <section>
+      <h2>Second-Order View</h2>
+      <div class="visual-grid">
+        <div class="mini-panel">
+          <p>The first derivative gives slope. The second derivative gives curvature: how the slope changes.</p>
+          <span class="formula">f(x) approx f(a) + f'(a)(x-a) + f''(a)(x-a)^2 / 2!</span>
+        </div>
+        <div class="mini-panel">
+          <p>For f(x)=x^2, the second derivative is 2, so the second-order Taylor expansion is exact. This is why quadratic models become important later in Newton's method.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>SVD Context</h2>
+      <p>SVD was supporting context in the same study session. The key relation was:</p>
+      <span class="formula">A v_i = sigma_i u_i</span>
+      <p>Here v_i is a right singular vector, u_i is a left singular vector, and sigma_i is the stretch amount. Both singular vectors are unit vectors, but they do not need to be standard basis vectors.</p>
+    </section>
+
+    <section>
+      <h2>Main Takeaways</h2>
+      <ul class="takeaways">
+        <li>Taylor expansion was the central topic of this study update.</li>
+        <li>First-order Taylor expansion is a tangent-line approximation.</li>
+        <li>The derivative predicts local change and gives the direction needed for descent.</li>
+        <li>Second-order Taylor expansion adds curvature through the second derivative.</li>
+        <li>Gradient descent is motivated by choosing a local step that lowers the Taylor approximation.</li>
+        <li>There are about 385 main chapter pages left to understand.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Next Study Thread</h2>
+      <ol class="next-list">
+        <li>Why the gradient is steepest ascent.</li>
+        <li>Why the negative gradient is steepest descent.</li>
+        <li>How the learning rate interacts with curvature.</li>
+        <li>Why second-order information leads toward Newton's method.</li>
+        <li>How backpropagation computes gradients efficiently for neural networks.</li>
+      </ol>
+    </section>
+
+    <footer>
+      Study record for <em>Linear Algebra and Learning from Data</em>. Stable filename; dates are tracked inside the page.
+    </footer>
+  </main>
+</body>
+</html>
