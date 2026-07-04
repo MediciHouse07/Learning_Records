@@ -14,8 +14,35 @@ Secondary context: SVD intuition, singular vectors, book roadmap, and where neur
 | SGD and ADAM | VI.5 Stochastic Gradient Descent and ADAM | p. 359 |
 | Neural networks | VII.1 The Construction of Deep Neural Networks | p. 375 |
 | Backpropagation | VII.3 Backpropagation and the Chain Rule | p. 397 |
-| Singular values and singular vectors | I.8 Singular Values and Singular Vectors in the SVD | Part I, exact page not confirmed in this note |
-| PCA and low-rank approximation | I.9 Principal Components and the Best Low Rank Matrix | Part I, exact page not confirmed in this note |
+| Singular values and singular vectors | I.8 Singular Values and Singular Vectors in the SVD | p. 56 |
+| PCA and low-rank approximation | I.9 Principal Components and the Best Low Rank Matrix | p. 71 |
+
+## Coverage Tracker
+
+Counting rule: a section's page count is estimated from its start page up to the page before the next listed section starts. This is a study-progress estimate, not a claim that every exercise or detail has been mastered.
+
+Source for total pages and table-of-contents starts: [Open Library entry for *Linear Algebra and Learning from Data*](https://openlibrary.org/books/OL27305952M/Linear_Algebra_and_Learning_from_Data).
+
+| Status | Section | Page range | Estimated pages | Confidence |
+| --- | --- | --- | ---: | --- |
+| Covered conceptually | I.8 Singular Values and Singular Vectors in the SVD | pp. 56-70 | 15 | Medium-high |
+| Covered partially today | VI.4 Gradient Descent Toward the Minimum | pp. 344-358 | 15 | Medium |
+| Mentioned, not yet covered | I.9 Principal Components and the Best Low Rank Matrix | pp. 71-80 | 10 | Low |
+| Mentioned, not yet covered | VI.5 Stochastic Gradient Descent and ADAM | pp. 359-370 | 12 | Low |
+| Mentioned, not yet covered | VII.1 The Construction of Deep Neural Networks | pp. 375-386 | 12 | Low |
+| Mentioned, not yet covered | VII.3 Backpropagation and the Chain Rule | pp. 397-406 | 10 | Low |
+
+Current progress estimate:
+
+| Measure | Pages |
+| --- | ---: |
+| Directly covered or substantially discussed | 30 |
+| Main chapter pages in the book, approx. pp. 1-415 | 415 |
+| Main chapter pages still left | 385 |
+| Full physical book pages, including indexes/symbol pages | 432 |
+| Full physical pages still left | 402 |
+
+Practical interpretation: I should count about 30 pages as covered so far, but the Taylor expansion/gradient descent part should be revisited once more because we studied the core idea rather than every detail of section VI.4.
 
 ## Concept Map
 
@@ -323,6 +350,7 @@ The most important section for deriving neural-network gradients is VII.3, becau
 - Gradient descent is motivated by first-order Taylor expansion: choose a step that makes the local approximation decrease.
 - In many dimensions, the dot product \(\nabla f(x)^T u\) explains directional derivatives and steepest descent.
 - SVD remained useful context, but today's main conceptual bridge was calculus to optimization.
+- Current estimated coverage is 30 pages, with about 385 main chapter pages left to understand.
 
 ## Next Study Thread
 
